@@ -5,419 +5,430 @@ parent: First Edition
 nav_order: 1
 ---
 
-# Frequently Asked Questions
+<a id="frequently-asked-questions"></a>
+# 常见问题
 ---
 
-## Introduction
-Below are a few answers to some of the most commonly asked questions from folks new to Cairn.  
-Please refer to the [SRD](/cairn-srd/) while reading the following, particularly with regards to [**saves**](/cairn-srd/#saves) and [combat](/cairn-srd/#combat).
+<a id="introduction"></a>
+## 导言
+下面是一些针对 Cairn 新玩家最常提出的问题的回答。\
+阅读以下内容时，请参考 [SRD](/cairn-srd/)，尤其是关于 [**saves**](/cairn-srd/#saves) 和 [**combat**](/cairn-srd/#combat) 的部分。
 
-**Keep the following in mind when reading the example text!**  
-- **Esther** is playing an ex-**Herbalist**.
-- **Barry** plays a former **Hunter**.
-- The PCs are in search of a powerful [**Relic**](/cairn-srd/#relics), rumored to have restorative powers.
-- Recently the party uncovered a parchment that detailed the item's true location, somewhere on the far East side of the **Geunant Forest**, a wood known for having massive, ancient trees that allow little light through their humongous leaves.
+**阅读示例文本时请牢记以下事项！**\
+- **Esther** 扮演一名曾是 **Herbalist** 的角色。
+- **Barry** 扮演一名曾是 **Hunter** 的角色。
+- 这些 PC 正在寻找一件强大的 [**Relic**](/cairn-srd/#relics)，据说它拥有恢复力量。
+- 不久前，队伍发现了一张写有该物品真实位置的羊皮纸，位置在 **Geunant Forest** 最东侧的某处。这片森林以巨大的古树闻名，树叶庞大得几乎不透光。
 
-You can read also the entire **Example of Play** as a single page [here](/resources/example-of-play).
+你也可以在[这里](/resources/example-of-play)阅读完整的 **Example of Play** 单页版本。
 
-<a href='#/' id='expAll' class='exp'>Click Here To Expand/Collapse All Examples</a>{: .btn }
+<a href='#/' id='expAll' class='exp'>点击这里展开/折叠所有示例</a>{: .btn }
 
-## What impact does a PC's background have?
-A character's relevant background, history, and experiences may provide a potential benefit (or disadvantage) to certain situations. Similarly, previous events in the game may influence the impact of their actions, including negating the need for a **save** in some circumstances!
-
-<details markdown="block">
-  <summary>
-Expand For Example
- </summary>
-
- **Warden**: _"You've spent the better part of the morning cutting your way through the **Geunant Forest**, chopping past hanging vines and waist-high brambles. It is very easy to get lost here among the surrounding underbrush. To make matters worse the Sun is completely obscured by the thick overhead branches."_
-
- **Barry**: _"Does my **Hunter** background help at all?"_
-
- **Warden:** _"Yes, though you have to stop every few minutes to survey your surroundings; progress is slow-going as a result. You continue heading East towards your destination."_
-
- **Warden:** _"After a few hours you exit into a small clearing in the wood, perfect for a short break. On the other end of the clearing is a small, visible path heading East. The entrance to the path is blocked by a large flowering plant sitting in a solitary sunbeam; it drips a green ichor from open, blue pods."_
-
- **Esther**: _"As a former **Herbalist**, do I recognize this plant?"_
-
- **Warden**: _"Yes. You also know that it is probably overgrown on account of the sunbeam drenching it in natural light."_
-
-**Esther**: _"What do the colors tell me about the plant? Is it poisonous? What about the green ichor?"_
-
-**Warden**: _"You observe all these things, and reckon that yes it is very likely poisonous, as the petals closely resemble that of Wolfsbane."_
-
- **Barry**: _"All right, here's the plan: I'll climb up one of these trees above the plant and drape my blanket over it, blocking the sunlight. Hopefully that'll make the pods close up!"_
-
-**Warden**: _"You carefully lay your sleeping blanket between to trunks, casting a shadow over the blue pods of the plant below. Immediately they begin to close, just enough to allow a careful person to squeeze around them."_
-
-**Esther**: _"Excellent. I'm going to carefully extract one of the leaves for later use, then move on."_
-
- **What if none of the PCs had any relevant experience or expertise?**
- - Had there been no PC with the **Herbalist** background, the Warden would likely have declared the PCs ignorant of the plant's properties, and (hopefully) the players would try to learn more by asking questions and experimentation.
- - If a PC had a _tangential_ background (like the **Hunter**) the Warden could let the [Fates decide](/cairn-srd/#die-of-fate) and roll 1d6. The higher the roll, the more likely the PC would know something relevant or useful.
-
-</details>
-
-## When should combat break out?
-**Cairn** assumes that the characters live in a dangerous world where even the most minor interaction can become quite deadly. The players should therefore be encouraged to find non-violent ways to solve their problems. There are of course times where this is quite impossible, and it is up to the Warden to determine if a violent situation should be resolved through combat.
+<a id="what-impact-does-a-pcs-background-have"></a>
+## PC 的背景会产生什么影响？
+角色相关的背景、经历和经验，可能会在某些情况下带来潜在优势（或劣势）。同样，游戏中此前发生的事件也可能影响行动的结果，包括在某些情况下免去 **save** 的需要！
 
 <details markdown="block">
   <summary>
-Expand For Example
+展开示例
  </summary>
 
- **Warden**: _"By late afternoon you finally break through the forest boundary. Spilling out of the treeline, you nearly step into a deep chasm splitting the forest in two. Finally, you have arrived at the **God-Slip**, a seemingly endless ravine with no bridge crossing it. Judging by the sheer rock walls on either side, climbing down would be extremely dangerous. Unfortunately, your quarry is likely located just across, where the cliffs meet the edge of the world. There is a small clearing nearby where you could set up camp, shrouded by a humongous Oak tree planted close to the chasm."_
+ **Warden**: _"你们花了大半个上午在 **Geunant Forest** 中开路，砍过垂挂的藤蔓和齐腰高的荆棘。在周围的灌木丛中很容易迷路。更糟的是，头顶浓密的树枝完全遮住了太阳。"_
 
- **Esther**: _"I think we should make camp before moving out. If we have to climb into or around this chasm, I'd rather have the light on our side!"_
+ **Barry**: _"我的 **Hunter** 背景能派上用场吗？"_
 
- **Barry**: _"Definitely. I wonder what the safest way to do it would be? Backs against the ravine?"_
+ **Warden:** _"能，不过你们每隔几分钟就得停下来观察周围环境；因此进展很慢。你们继续向东朝目的地前进。"_
 
- **Warden**: _"Yes, unless of course something comes out of it!" Who's on first watch, by the way?"_
+ **Warden:** _"几小时后，你们走出树林，来到一片小空地，正适合短暂休息。空地另一端有一条清晰可见、向东延伸的小路。路口被一株巨大的开花植物挡住了；它坐落在一束孤独的阳光中，敞开的蓝色荚果上滴落着绿色的脓液。"_
 
- **Esther**: _"I'll take first shift._"
+ **Esther**: _"作为曾经的 **Herbalist**，我认得这种植物吗？"_
 
-  **Warden**: _"You make camp and eat one of your rations. Halfway through the first shift, you hear a snapping of twigs coming from just to the West of the campsite, back towards the **Geunant Forest**. What do you do?"_
+ **Warden**: _"认得。你还知道，它可能是因为被这束阳光充分照射，才长得如此茂盛。"_
 
-  **Esther**: _"I'd like to kick my comrade awake so I'm not alone in this, quietly nodding my head towards the direction of the noise and making the symbol for silence."_
+**Esther**: _"这些颜色能告诉我这种植物什么信息？它有毒吗？绿色的脓液又是怎么回事？"_
 
-  **Warden**: _"You do that, and he sits up just as a pair of horrid red eyes become visible behind the underbrush._"
+**Warden**: _"你观察了这些细节，判断它很可能有毒，因为它的花瓣与 Wolfsbane 的花瓣十分相似。"_
 
-  **Barry**: _"What do we know about the creatures here?"_
+ **Barry**: _"好，计划是这样的：我爬到植物上方的一棵树上，把毯子盖在树上，挡住阳光。希望这样能让荚果闭合！"_
 
-  **Warden**: _"You know that whatever creatures may be stalking this forest at night are very likely dangerous. You will likely not have time to chat with whatever is about to come out of there."_
+**Warden**: _"你小心地把睡毯铺在两根树干之间，为下方植物的蓝色荚果投下阴影。它们立刻开始闭合，刚好足以让一个谨慎的人从旁边挤过去。"_
 
-  **Esther**: _"I'm prepared to fight, then. I stand up and draw my sword, ready for whatever comes."_
+**Esther**: _"太好了。我先小心地取下一片叶子，留作以后使用，然后继续前进。"_
+
+ **如果没有任何 PC 拥有相关经验或专长呢？**
+ - 如果没有 PC 拥有 **Herbalist** 背景，Warden 很可能会判定 PC 不知道这种植物的特性；而玩家（希望如此）会通过提问和尝试来了解更多。
+ - 如果某个 PC 只有 _间接相关_ 的背景（例如 **Hunter**），Warden 可以让 [Fates 决定](/cairn-srd/#die-of-fate)，并掷 1d6。结果越高，该 PC 越可能知道某些相关或有用的信息。
 
 </details>
 
-## How is turn order decided?
-Some games rely on "Initiative" to determine who goes first when combat begins. In **Cairn**, the PCs must each make a **DEX save** in order to act before their opponents. After that round has been concluded, the two "sides" each take turns attacking, their individual members acting in whatever order they wish. In some cases a **DEX save** may _not_ be necessary, especially when the PC or NPC was on guard or ready for an attack.
-
- **A standard combat scenario would work like this:**
-
-### Round 1
-- PCs make a DEX save. Those who successfully pass go before the enemies (collectively one "side"). They go in whatever order they wish; the results however are simultaneous.
-- All enemies go, in whatever order the **Warden** chooses; the results are simultaneous.
-
-### Round 2
-- _All_ PCs (including those that failed the original DEX save) get to go in whatever order they wish. The results however are simultaneous.
-- _All_ enemies get to go in whatever order the Warden chooses; the results however are simultaneous.
-
-### Round 3
-- All PCs get to go, as per round 2.
-- All enemies get to go, as per round 2.
-
-And so on.
+<a id="when-should-combat-break-out"></a>
+## 何时应该开始战斗？
+**Cairn** 假定角色们生活在一个危险的世界里，即使最微小的互动也可能变得极其致命。因此，应鼓励玩家寻找非暴力的方式解决问题。当然，有时这完全做不到；此时由 Warden 判断暴力情势是否应通过战斗解决。
 
 <details markdown="block">
   <summary>
-Expand For Example
+展开示例
  </summary>
 
- **Warden**: _"An Elk-like creature with glowing-red eyes explodes from the darkness of the wood opposite the party's campsite. A sea of mist flows off the creature's body as it runs directly at you, **Barry**. **Esther** was at the ready, so she gets to go first."_
+ **Warden**: _"到了傍晚，你们终于穿过森林边界。刚走出林线，你们差点一脚踏进将森林一分为二的深渊。终于，你们抵达了 **God-Slip**——一条仿佛无穷无尽、没有桥梁横跨的裂谷。从两侧陡峭的岩壁来看，爬下去会极其危险。不幸的是，你们要找的东西很可能就在对面，悬崖与世界尽头相接的地方。附近有一片小空地，可以在那里扎营；空地被一棵长在裂谷边的大橡树遮蔽着。"_
 
- **Barry**: _"What about me?"_
+ **Esther**: _"我觉得我们应该先扎营再出发。如果要爬进裂谷或绕过它，我宁愿让光线站在我们这边！"_
 
- **Warden**: _"You'll need to make a **DEX save** to see if you are able to ready yourself in time to react before the creature."_
+ **Barry**: _"当然。我在想怎样扎营最安全？背靠裂谷？"_
 
- **Barry**: _"I rolled 1d20, and the result is a 17. Ouch."_
+ **Warden**: _"没错，除非有什么东西从里面出来！" 对了，谁来守第一班夜？"_
 
- **Warden**: _"Yes, that's a fail. **Esther** will go first, then the creature. After that you both will go again in any order you wish, then the creature, and so on."_
+ **Esther**: _"我来守第一班。_"
+
+  **Warden**: _"你们扎好营，吃掉一份口粮。第一班夜过了一半时，你听见营地正西边、通往 **Geunant Forest** 的方向传来树枝折断的声音。你要做什么？"_
+
+  **Esther**: _"我想踢醒我的同伴，这样就不用独自面对了；同时安静地朝声音的方向点点头，并做出噤声的手势。"_
+
+  **Warden**: _"你照做了。他刚坐起身，一双可怕的红眼睛就出现在灌木丛后。_"
+
+  **Barry**: _"我们知道这里的生物有什么信息？"_
+
+  **Warden**: _"你们知道，夜间潜伏在这片森林里的生物很可能十分危险。无论即将从那里出来的是什么，你们大概都没时间和它聊天。"_
+
+  **Esther**: _"那我准备战斗。我站起来拔出剑，准备应对任何来者。"_
 
 </details>
 
-## When Should a PC or NPC **save**?
-A PC or NPC should **save** only if one or more of the following conditions are met:
-- When the outcome of an action is uncertain.
-- When something is at risk (a life, a threatening danger, etc.).
-- When making a critical damage save during [**combat**](/cairn-srd/#critical-damage).
+<a id="how-is-turn-order-decided"></a>
+## 如何决定回合顺序？
+有些游戏依靠“Initiative”决定战斗开始时谁先行动。在 **Cairn** 中，每个 PC 都必须进行一次 **DEX save**，才能在对手之前行动。在这一回合结束后，双方轮流攻击，各方成员可以按自己希望的顺序行动。在某些情况下，可能不需要 **DEX save**，尤其是 PC 或 NPC 已经在警戒或准备应对攻击时。
 
-**Saves** can happen both in an out of combat. A **save** is _almost_ never required when a PC or NPC is under attack, as attacks hit automatically. However, there are situations in which the fiction might dictate that an attack is automatically unsuccessful or impossible.
+ **标准的战斗情势可以这样进行：**
+
+<a id="round-1"></a>
+### 第 1 回合
+- PC 进行 DEX save。成功者先于敌人（合称一方）行动。他们可以按任意顺序行动；但结果是同时发生的。
+- 所有敌人按 **Warden** 选择的顺序行动；结果是同时发生的。
+
+<a id="round-2"></a>
+### 第 2 回合
+- _所有_ PC（包括最初 DEX save 失败的 PC）都可以按任意顺序行动。但结果是同时发生的。
+- _所有_ 敌人按 Warden 选择的顺序行动；但结果是同时发生的。
+
+<a id="round-3"></a>
+### 第 3 回合
+- 所有 PC 都可以行动，规则同第 2 回合。
+- 所有敌人都可以行动，规则同第 2 回合。
+
+以此类推。
 
 <details markdown="block">
   <summary>
-Expand For Example
+展开示例
  </summary>
 
- **Esther**: _"Do we know anything about this creature?"_
+ **Warden**: _"一只长着发光红眼、像麋鹿一样的生物从营地对面树林的黑暗中冲出。它径直朝你——**Barry**——奔来，身体上流淌着一片雾气。**Esther** 早已做好准备，因此她先行动。"_
 
- **Warden**: _"Yes - it's a [**Blood Elk**](/resources/monsters/blood-elk/), which is a sort of killer deer born from great greed or envy. They are pretty powerful, from what you've heard."_
+ **Barry**: _"那我呢？"_
 
- **Esther**: _"Spooky! In that case, I want to use my action to help drag my comrade out of the way, maybe towards that Oak tree you mentioned earlier."_
+ **Warden**: _"你需要进行一次 **DEX save**，看看能否及时做好准备，在生物行动前作出反应。"_
 
- **Warden**: _"You were already standing and ready to go, so I'm going to rule that this just happens, too quickly for the creature to change its trajectory. You manage to pull **Barry** just to the East of the now-trampled campsite, close to the Oak tree located just steps away from the **God-Slip**. Now, it's the **Blood Elk's** turn. It plows through the space **Barry** once occupied, wrecking the campfire. It swings wildly around, nearly careening off the cliff-face in the process. It's eyes glow a hateful violet as it turns back towards the both of you. **Barry**, it's your turn. You should note that you have only your hip-knife for combat, as everything else is still back at the camp. Worse, the darkness has impeded your ability to see more than its flaming red eyes. Use 1d4 when rolling damage."_
+ **Barry**: _"我掷了 1d20，结果是 17。糟糕。"_
 
- **Barry**: _"Screaming, I launch my dagger straight at the creature. I roll 1d4 and the result is a 1."_
-
- **Warden**: _"The knife flies expertly from your hand, slicing through the misty air just above the creature, landing a few feet behind it. The beast whinnies in anger, then crouches as it prepares to charge again. It's your side's turn now. Go in any order."_
-
- **Esther**: _"I have an idea: the creature previously charged at **Barry**, right? So it seems reasonable that it would do so again. What if I tossed one end of my rope to **Barry**, and then looped it to a nearby tree? Then if it comes close enough try and trample him again, he could just... leap off the cliff? Holding the rope for support, of course."_
-
- **Barry**: _"Uh... That sounds like a plan, I guess. Yes, let's do it!"_
-
- **Why didn't Barry need to save in order to successfully wrap the rope around the tree?**  
- On a turn, a PC can attempt any action; a **save** is only required if one of the conditions listed above are met. It seemed reasonable that **Barry** would be able to make a mad dash around the tree (which was only a few feet away) with the rope without much danger. Had he tried to run close to the **Blood Elk** or done something equally uncertain or dangerous, he would have been required to **save**.
+ **Warden**: _"没错，失败了。**Esther** 先行动，然后是那只生物。之后你们两人可以按任意顺序再次行动，然后轮到生物，如此循环。"_
 
 </details>
 
-## In a contested action, who should save?
-If two opponents are both attempting to overcome the other, whoever is most at risk should **save**. The Warden should make a _consistent_ ruling in this regard, and make sure it is explained clearly to the players before a risk is taken if possible.
+<a id="when-should-a-pc-or-npc-save"></a>
+## PC 或 NPC 何时应该 **save**？
+PC 或 NPC 仅在满足以下一个或多个条件时才应该 **save**：
+- 行动的结果不确定时。
+- 某些东西处于风险之中时（生命、威胁性危险等）。
+- 在[**combat**](/cairn-srd/#critical-damage)中进行 critical damage save 时。
+
+**Saves** 可以在战斗内外发生。PC 或 NPC 受到攻击时，几乎_从来不_需要 **save**，因为攻击会自动命中。不过，有些情形下，剧情事实可能决定攻击自动失败或根本不可能成功。
+
+<details markdown="block">
+  <summary>
+展开示例
+ </summary>
+
+ **Esther**: _"我们知道这只生物的什么信息？"_
+
+ **Warden**: _"知道——它是 [**Blood Elk**](/resources/monsters/blood-elk/)，一种由极度贪婪或嫉妒诞生的杀人鹿。按你们听说的情况，它相当强大。"_
+
+ **Esther**: _"真吓人！那我想用我的行动把同伴拖离路线，也许拖到你刚才提到的那棵橡树旁。"_
+
+ **Warden**: _"你本来就站着并做好了准备，所以我判定这件事直接发生了，快到那只生物来不及改变路线。你把 **Barry** 拉到被踩踏的营地东边，就在离 **God-Slip** 只有几步之遥的橡树附近。现在轮到 **Blood Elk**。它冲过 **Barry** 原本站立的地方，撞毁了营火。它猛地转身，险些撞上悬崖壁，然后回头看向你们两人，眼睛闪烁着憎恨的紫光。**Barry**，轮到你了。注意，你用于战斗的只有腰间小刀，因为其他东西都还在营地。更糟的是，黑暗让你除了它燃烧般的红眼睛外什么也看不清。投掷伤害时使用 1d4。"_
+
+ **Barry**: _"我大喊着把匕首直直掷向那只生物。我投掷 1d4，结果是 1。"_
+
+ **Warden**: _"小刀精准地飞出你的手，划过生物上方的雾气，落在它身后几英尺处。野兽愤怒地嘶鸣一声，随后伏低身体，准备再次冲锋。现在轮到你们这一方，行动顺序任意。"_
+
+ **Esther**: _"我有个主意：这只生物刚才是冲着 **Barry** 来的，对吧？所以它很可能还会这么做。如果我把绳子的一端扔给 **Barry**，再把绳子绕到附近的树上呢？这样它再次靠近、想踩踏他时，他就可以……跳下悬崖？当然，要抓住绳子作为支撑。"_
+
+ **Barry**: _"呃……我想这算个计划。好，就这么办！"_
+
+ **为什么 Barry 不需要 save 就能成功把绳子绕到树上？**\
+ 在一个回合内，PC 可以尝试任何行动；只有满足上述条件之一时才需要 **save**。让 **Barry** 拿着绳子绕过那棵树（它只有几英尺远）狂奔一圈，看起来是合理的，也没有太大危险。如果他试图靠近 **Blood Elk** 奔跑，或做出同样不确定或危险的事情，就需要 **save**。
+
+</details>
+
+<a id="in-a-contested-action-who-should-save"></a>
+## 在对抗行动中，谁应该进行 save？
+如果两个对手都试图压制对方，风险最大的一方应该 **save**。Warden 应在这方面保持_一致_的判定，并尽可能在风险发生前向玩家清楚地解释。
 
  <details markdown="block">
    <summary>
- Expand For Example
+ 展开示例
   </summary>
 
-  **Warden**: _"**Esther**, you toss one end of your rope to **Barry**, who quickly loops the rope around the Oak tree, then rushes towards the cliff-face on the other side, screaming at the creature to charge at him. **Esther** takes point as a sort of ballast in case he falls. **Barry**, as you are in position to react, I'm going to allow you a sort of out of combat reaction."_
+  **Warden**: _"**Esther**，你把绳子的一端扔给 **Barry**。他迅速把绳子绕过橡树，然后冲向另一边的悬崖壁，大喊着让生物朝他冲来。**Esther** 在前方稳住绳子，以防他坠落。**Barry**，既然你已经处在可以应变的位置，我允许你进行一次战斗外反应。"_
 
-  **Barry**: _"All right, if it comes near me I'd like to stand near the cliff edge, ready to leap out of the way."_
+  **Barry**: _"好，如果它靠近我，我想站在悬崖边，准备跳开。"_
 
-  **Warden**: _"Understood. It is now the **Blood Elk's** turn, and obviously it's still very angry at you, **Barry**. Raising its devilish hooves, the beast charges towards you once again. You leap off the cliff at the last second, holding onto the rope with all your might. The **Blood Elk** attempts to halt its attack the moment it sees its target falling. It makes a **DEX save** to see if it can successfully stop. Ack, it rolled a 20, and goes tumbling off the cliff and into the vast dark below."_
+  **Warden**: _"明白了。现在轮到 **Blood Elk**，显然它还在为你生气，**Barry**。野兽抬起恶魔般的蹄子，再次朝你冲来。你在最后一刻跳下悬崖，拼尽全力抓住绳子。**Blood Elk** 一看到目标坠落，就试图停下攻击。它进行一次 **DEX save**，看看能否成功停住。糟，它掷出了 20，翻滚着冲下悬崖，坠入下方广阔的黑暗之中。"_
 
-  **Why didn't the Blood Elk make an attack roll, as the combat rules imply?**
-  The attack was considered possible, but very dangerous as well. Had the creature used a ranged attack or was a trained melee attacker it would have been far less risky to attack **Barry**. Unfortunately it was a beast, and only capable of running people down with its sharp hooves.
+  **为什么 Blood Elk 没有像战斗规则所暗示的那样进行攻击检定？**
+  这次攻击被认为是可能的，但也非常危险。如果这只生物使用远程攻击，或是一名受过训练的近战攻击者，那么攻击 **Barry** 的风险会低得多。不幸的是，它是一头野兽，只能用锋利的蹄子把人撞倒。
 
-  **Why did the Blood Elk make the save instead of Barry, who was also at risk?**  
-  In this example, the **Blood Elk** was far more at risk than its human opponent, because:   
-  - As an enthralled beast, it was likely not capable of creative thinking or advanced problem solving.
-  - One of its primary features is its relative bulk and speed, and it is likely that these properties would make a sudden stop quite difficult.
-  - Accordingly, there were no situational or mechanical benefits that could provide any advantage to the **Blood Elk** in this scenario.
+  **为什么是 Blood Elk 进行 save，而不是同样处于风险中的 Barry？**\
+  在这个例子中，**Blood Elk** 比它的人类对手面临的风险大得多，原因如下：\
+  - 作为一头受蛊惑的野兽，它可能没有创造性思维或高级解决问题的能力。
+  - 它最主要的特征之一是相对庞大的体格和速度，而这些特性很可能让它难以突然停下。
+  - 因此，在这个情境中，没有任何情势或机制上的优势能为 **Blood Elk** 提供帮助。
 
-  Conversely, **Barry** was the least at risk of the two:
-  - As a former hunter, he had already firmly established his ability to do things of this nature.
-  - **Esther** had tied the rope around a tree, using herself as a ballast. This provided a clear *situational* advantage.
+  相比之下，**Barry** 是两者中风险较低的一方：
+  - 作为曾经的 hunter，他已经明确展现过自己能够完成这类事情。
+  - **Esther** 把绳子系在树上，并以自己作为配重。这提供了明显的_情势_优势。
 
-  If **Barry** had been injured or had less time to prepare, it would be conceivable to ask for a **STR save** to see if he could hold on to the rope.
+  如果 **Barry** 受了伤，或准备时间更少，也可以要求他进行一次 **STR save**，看看他能否抓住绳子。
 
 </details>
-
-## How is damage awarded outside of combat?
-Occasionally a dangerous action, trap, surprise attack, or cataclysmic event will cause grave injury or even death. Typically the Warden declares the type of damage (e.g. **STR/DEX/WIL**) followed by the amount lost (either in terms of specific amounts, or a variable dice roll). It can be difficult to determine exactly what kind of damage to dole out, and how much.  
+<a id="how-is-damage-awarded-outside-of-combat"></a>
+## 战斗外如何判定伤害？
+有时，危险行动、陷阱、突袭或灾难性事件会造成重伤，甚至死亡。通常，Warden 会先宣布伤害类型（例如 **STR/DEX/WIL**），再宣布损失的数值（可以是具体数值，也可以是可变的骰子结果）。究竟应该造成哪种伤害、造成多少，可能很难判断。\
 
 <details markdown="block">
   <summary>
-Expand For Example
+展开示例
  </summary>
 
- **Warden**: "_After your encounter with the **Blood Elk**, you return to camp and try to catch as much sleep as they can. By daybreak both of you are awake and ready to continue on your journey."_
+ **Warden**: "_与 **Blood Elk** 遭遇后，你们回到营地，尽可能地睡了一会儿。天亮时，你们两人都已醒来，准备继续旅程。"_
 
- **Esther**: _"Right. The question is, how do we cross the **God-Slip**? Are there any bridges at our level?"_
+ **Esther**: _"好。问题是，我们要怎么越过 **God-Slip**？我们所在的高度有桥吗？"_
 
- **Warden**: _"Not that you can see. In the far North a copse of trees hugs the ravine and partially blocks your way; you'd need to explore a bit to see past them.  A few hundred meters South however you can see a small shelf jutting out from inside the ravine, probably fifty feet down. It makes a sort of "L" shape, getting pretty close to the other side. It might require a little work to shimmy onto, but it seems doable."_
+ **Warden**: _"你们看不到桥。最北边有一片贴着裂谷生长的树林，挡住了部分视线；你们得探索一番，才能看清树林后面。不过向南几百米处，你们能看见裂谷内伸出一块小平台，大概在下方五十英尺处。它呈现出某种“L”形，几乎接近另一侧。可能需要费点力气才能挪到上面，但看起来做得到。"_
 
- **Barry**: _"I say, let's go for the shelf. Still got that rope and pitons?"_
+ **Barry**: _"我说，我们去那块平台。绳子和岩钉还在吗？"_
 
- **Esther**: _"Yeah, I don't see a better way across. Let's go."_
+ **Esther**: _"在。我看不到更好的过法。走吧。"_
 
- **Warden**: _"After a half hour's walk along the ravine, you finally arrive at a spot just above the shelf. Deep within the chasm you can see a blanket of early morning fog, and just beneath it the glitter of rushing water."_
+ **Warden**: _"沿着裂谷走了半小时后，你们终于来到平台正上方的位置。在裂谷深处，你们看见一层清晨的薄雾，雾气下方是湍急水流的闪光。"_
 
- **Barry**: _"Are there any large stones near the edge? I'd like to hammer a piton into it, then loop our rope through. I can lower myself safely into the ravine and onto the shelf."_
+ **Barry**: _"边缘附近有大石头吗？我想把岩钉锤进去，再把绳子穿过去。这样我就能安全地降入裂谷，落到平台上。"_
 
- **Warden**: _"You find a large stone along the edge and hammer the piton into it."_
+ **Warden**: _"你在边缘找到一块大石头，把岩钉锤了进去。"_
 
- **Barry**: _"Great, I lower myself down, then light up my lantern. **Esther** will follow, I assume."_
+ **Barry**: _"太好了，我先降下去，再点亮提灯。我想 **Esther** 会跟上来。"_
 
- **Warden**: _"Carefully planting your feet on the shelf, you test the rope and call up to **Esther**, who climbs down. After she has arrived safely on the shelf, you survey your surroundings. The shelf appears to zigzag down the inside of the ravine, nearly to the bottom. The sound of rushing water below fills the ravine. Do you leave the rope behind for the return journey?"_
+ **Warden**: _"你小心地把脚踩在平台上，试了试绳子，然后向上喊 **Esther**。她爬了下来。她安全抵达平台后，你们观察四周。平台似乎沿着裂谷内侧曲折向下，几乎一直通到谷底。下方湍急的水声充满了裂谷。你们要把绳子留在这里，方便回程吗？"_
 
- **Esther**: _"Unfortunately, yes. I'm also going to mark our location on my map. Who knows if it'll make a difference, but just in case... OK, let's get out of here."_
+ **Esther**: _"遗憾的是，要。我还要在地图上标记我们的位置。谁知道这会不会有用，但以防万一……好了，我们离开这里。"_
 
- **Warden**: _"You move carefully along the shelf, digging your fingers into the cliff-face for safety. After an arduous fifteen minutes, you finally arrive at a small waterfall blocking the path forward. Icy water flows down the slippery rock surface and into a small basin below. The rock wall is slick with moss here, and you will likely slip if you try to step through. What do you do?"_
+ **Warden**: _"你们沿着平台小心前进，手指抠进悬崖壁以保持安全。艰难地走了十五分钟后，你们终于来到一座挡住前路的小瀑布前。冰冷的水流过光滑的岩面，落入下方的小水池。这里的岩壁长满湿滑的苔藓，如果你试图穿过去，很可能会滑倒。你要做什么？"_
 
- **Barry**: _"Is there another way forward?"_
+ **Barry**: _"还有别的路吗？"_
 
- **Warden**: _"Not from what you can tell. You could try and climb down, but it is quite dark and likely even more dangerous."_
+ **Warden**: _"从目前的情况看没有。你可以试着爬下去，但那里很暗，可能更加危险。"_
 
- **Barry**: _"OK, I think I'll try my luck with the waterfall, thank you. **Esther**, can you hold on to my bag as I step through?"_
+ **Barry**: _"好，那我就试试走瀑布这条路，多谢。**Esther**，我穿过去时你能帮我拿着包吗？"_
 
- **Esther**: _"And have you take me with you? No thanks!"_
+ **Esther**: _"然后让你把我也一起带走？不用了，谢谢！"_
 
- **Warden**: _"You'll have to make a **DEX save** to see if you can cross over the slick surface without slipping."_
+ **Warden**: _"你得进行一次 **DEX save**，看看能否不滑倒地穿过湿滑的表面。"_
 
- **Barry**: _"OK, I hand **Esther** my lantern so I can use both hands.... and I rolled a 14, a fail. Damn."_
+ **Barry**: _"好，我把提灯交给 **Esther**，这样我就能用两只手……我掷出了 14，失败。该死。"_
 
- **Warden**: _"You slip and tumble down the waterfall and into the water-filled basin below, smacking your hand hard into the side of the pool at the same time. You lose 1d4 DEX damage, and you are unable to properly squeeze items in your dominant hand. It's almost completely dark, but you can still make out the light of your comrade's torch above."_
+ **Warden**: _"你滑倒了，沿着瀑布翻滚而下，落入下方装满水的水池，同时手重重撞在池壁上。你失去 1d4 DEX 伤害，而且无法用惯用手正常握紧物品。这里几乎一片漆黑，但你仍能看见上方同伴火把的光。"_
 
-**Which Ability should non-combat damage impact?**
-- If the injury affects their physical strength or health, subtract from **STR**. _This does not trigger a **critical damage save**_. **STR** is a reflection of a PC's health, and should reflect that in subtle but interesting ways: perhaps requiring a **save** where none would have been necessary before.
-- If the injury impacts their ability to move, react quickly, or their fine motor skills, subtract from **DEX**. This frequently is paired with an in-fiction impact as well; broken fingers would impact a PC's ability to pick locks, for example.
-- If the spirit, willpower, or determination of a PC has been impacted, subtract from **WIL**. Especially helpful to consider during magical or superficial injuries. A PC whose soul was burnt by arcane energy may need to make a **WIL** save to read Spellbooks, for example.
+**非战斗伤害应该影响哪项 Ability？**
+- 如果伤势影响身体力量或健康，就从 **STR** 中扣除。_这不会触发 **critical damage save**_。**STR** 反映 PC 的健康状况，也应该以细微但有趣的方式体现出来：例如，原本不需要 **save** 的事情，现在可能需要了。
+- 如果伤势影响移动、快速反应或精细运动能力，就从 **DEX** 中扣除。这通常也会带来剧情中的影响；例如，手指骨折会影响 PC 撬锁。
+- 如果 PC 的精神、意志或决心受到影响，就从 **WIL** 中扣除。这在魔法伤害或表面伤害中尤其有用。例如，灵魂被奥术能量灼伤的 PC，可能需要进行 **WIL** save 才能阅读 Spellbooks。
 
-A few considerations:
-- An injury could take on multiple facets: [**Deprivation**](/cairn-srd/#deprivation--fatigue) may accompany STR loss from poison, for instance. Provide a potential solution to overcoming the illness, as well.
-- Damage should happen as a consequence of failing a **save**. Do not make players **save** after-the-fact.
-- Fictional injuries are just as powerful as direct mechanical damage. **DEX** loss will have an impact on a character's reflexes and speed, but a broken leg may prevent a character from being able to move at all!
+一些注意事项：
+- 一种伤势可能包含多个方面：例如，中毒造成 **STR** 损失时，可能还会伴随 [**Deprivation**](/cairn-srd/#deprivation--fatigue)。同时也要提供一个解决疾病的方法。
+- 伤害应当是未能通过 **save** 的后果。不要在事后再让玩家 **save**。
+- 剧情中的伤势和直接的机制伤害一样有力。**DEX** 损失会影响角色的反应和速度，但断腿可能会让角色完全无法移动！
 
 </details>
 
-## When does what's happening in the fiction overrule game mechanics?
-The realities of the game's fiction should always take precedence over mechanics. Occasionally the details of a particular scene (such as a PC or NPC's knowledge or abilities) will render a mechanic or rule obsolete. If a short-legged thief attempts to leap across an impossible gap, there is no save. They simply fall into the abyss. Likewise if that same thief were to try to knock unconscious an oblivious & defenseless guard, it just happens. There is no need for a roll.
+<a id="when-does-whats-happening-in-the-fiction-overrule-game-mechanics"></a>
+## 剧情事实何时凌驾于游戏机制？
+游戏剧情的现实应始终优先于机制。有时，特定场景的细节（例如 PC 或 NPC 的知识或能力）会让某项机制或规则变得多余。如果一个短腿小偷试图跳过不可能跨越的缺口，就不需要 save；他只会直接掉进深渊。同样，如果这个小偷试图打晕一个毫无戒心且毫无防备的守卫，也会直接成功。不需要掷骰。
 
 <details markdown="block">
   <summary>
-Expand For Example
+展开示例
  </summary>
 
- **Barry**: _"Well, that was a bad idea! How exactly am I going to get back up? Unless... hey, how much can I see into the darkness below?"_
+ **Barry**: _"好吧，那真是个馊主意！我到底要怎么爬回去？等等……我能看清下方的黑暗到什么程度？"_
 
- **Warden**: _"There isn't much light here, but something glints in the darkness beneath you. If you had more light, you could perhaps make out what it is."_
+ **Warden**: _"这里没有多少光，但你下方的黑暗中有什么东西闪了一下。如果光线更充足，也许你能看清那是什么。"_
 
- **Esther**: _"Why don't I toss him down my lantern. Does that require a roll?"_
+ **Esther**: _"我把提灯扔给他怎么样？这需要掷骰吗？"_
 
- **Warden**: _"Normally, no. But remember his hand is still somewhat injured from the fall. I'm going to say that he has to roll, since he's also the most at risk."_
+ **Warden**: _"通常不需要。但别忘了，他的手还因坠落而有些受伤。我会判定他必须掷骰，因为他同时也是风险最大的一方。"_
 
-**Barry**: _"I rolled a 3. Finally!"_
+**Barry**: _"我掷出了 3。终于！"_
 
- **Warden**: _"**Barry**, you catch it without issue. Now you get a decent view of the chasm beneath. You see a series of small waterfalls, basins and protruding shelves going all the way down to a rushing river on the bottom. There is even a narrowing of the ravine itself about 50 feet South where you could conceivably leap over to the other side!"_
+ **Warden**: _"**Barry**，你毫无困难地接住了提灯。现在你能较清楚地看见下方的裂谷。你看到一连串小瀑布、水池和突出的平台，一直向下延伸到谷底的湍急河流。向南约 50 英尺处，裂谷本身甚至有一段变窄了，也许你可以跳到对面！"_
 
- **Barry**: _"Ha! I knew this was a good idea. But how do we get down there?"_
+ **Barry**: _"哈！我就知道这是个好主意。但我们怎么下去？"_
 
- **Warden**: _"You can actually slide down the waterfall pouring out from the small pool you're already standing in... it's a short drop, so you aren't in any great danger, even with that hand of yours."_
+ **Warden**: _"其实你可以顺着从脚下小水池流出的瀑布滑下去……落差很短，所以即使考虑到你的那只手，也没有太大危险。"_
 
- **Esther**: _"And how exactly do I get down there, though? Wait, I've got an idea. I can see him, right? What if I were to jump..."_
+ **Esther**: _"那我到底要怎么下去？等等，我有主意了。我能看见他，对吧？如果我跳下去……"_
 
- **Barry**: _"...Am I supposed to catch you? With which hand, exactly?"_
+ **Barry**: _"……你是要我接住你吗？具体用哪只手？"_
 
- **Esther**: _"Don't be ridiculous. You'll be my landing pad."_
+ **Esther**: _"别傻了。你会成为我的着陆垫。"_
 
- **Warden**: _"You should know that you aren't in any terrible danger here since you're actually aiming for the pool, but that doesn't mean it's risk-free. You'll need to hold on to the wall with both hands, and it should be a bumpy ride. Something could pop loose."_
+ **Warden**: _"你应该知道，这里并没有什么可怕的危险，因为你的目标其实是水池，但这不代表完全没有风险。你需要双手抓住墙壁，这一路会很颠簸。可能会有东西脱落。"_
 
- **Esther**: _"OK, my DEX isn't great, but here goes anyways... and I rolled an 13, a fail. See **Barry**? You're not the only one with bad luck around here."_
+ **Esther**: _"好吧，我的 DEX 不太高，但不管怎样，开始吧……我掷出了 13，失败。看见了吗，**Barry**？这里运气差的不只有你。"_
 
- **Warden**: _"You make it, but the journey down wasn't fun. One item from your pack is knocked loose, so I'm going to roll a Fate die... hey, a lucky 5! OK, you get to choose what falls out."_
+ **Warden**: _"你成功了，但下来的过程并不愉快。背包里有一件物品被撞松了，所以我要掷一枚 Fate die……嘿，幸运的 5！好，你可以选择掉出什么。"_
 
- **Esther**: _"If I get to choose what I lose though... how about my remaining torch? Everything else is just too important, and we still have a lantern and oil."_
+ **Esther**: _"既然可以选择丢掉什么……那就选我剩下的火把吧？其他东西都太重要了，而且我们还有提灯和油。"_
 
- **Warden**: _"You hear the small metal shard bounce against the ravine wall, ending in a splash as it lands in the flowing water beneath."_
+ **Warden**: _"你听见那块小金属片在裂谷壁上弹跳，最后落入下方流动的水中，溅起水花。"_
 
 </details>
 
-## How do PCs advance without things like levels or XP?
-In **Cairn**, character _growth_ is preferable over _advancement_. This means that although a PC _will_ change, they may not necessarily get _better_ with time. Growth occurs through both mechanical means (such as [**Scars**](/cairn-srd/#scars)), as well as through events happening solely in the fiction.
+<a id="how-do-pcs-advance-without-things-like-levels-or-xp"></a>
+## 没有等级或 XP 之类的东西，PC 如何成长？
+在 **Cairn** 中，角色的_成长_优于_提升_。这意味着，虽然 PC _会_发生变化，但他们不一定会随着时间变得_更好_。成长既可以通过机制手段（例如 [**Scars**](/cairn-srd/#scars)）实现，也可以通过完全发生在剧情中的事件实现。
 
-**The Warden should consider the following when awarding non-mechanical growth to PCs:**
-- Growth should be tied to a _specific_ experience occurring in the fiction.
-- It is more important for a PC to grow more _interesting_ than more skilled or capable.
-- PCs experience growth not necessarily because they've gotten more skill and experience, but because they are _changed_ in a significant way.
-- There should be opportunities for growth & change everywhere, _especially_ when a PC puts themselves at risk.
-- Growth occurs _while things are happening_, not just after the PC has rested.
-- Training & Specialization should be tied to quests and character growth as much as possible.
+**Warden 在给予 PC 非机制成长时，应考虑以下事项：**
+- 成长应当与剧情中发生的_具体_经历相关。
+- 让 PC 变得更_有趣_，比让他们变得更熟练或更有能力更重要。
+- PC 经历成长，不一定是因为他们获得了更多技能和经验，而是因为他们以某种重要的方式发生了_改变_。
+- 到处都应该存在成长与变化的机会，_尤其是_当 PC 让自己置于风险之中时。
+- 成长发生在_事情进行的过程中_，而不只是在 PC 休息之后。
+- 训练与专精应尽可能和任务及角色成长联系起来。
 
-**A Few Examples of Training & Specialization:**
-- Two days of study under a former royal archer has taught you how to fire arrows more effectively. Attacks with a longbow are enhanced.
-- After two weeks' of daily practice with the _Blade of Gwoed_, you feel confident enough to use the deadly weapon in combat. Critical Damage: target loses a limb or is disemboweled (your choice).
-- Three days' worth of study under the tutelage of a skilled warrior has taught you how to never be surprised. You no longer need to make a DEX save before combat (unless the Warden says otherwise).
-- Five nights of intense study with the _Book of Curses_ has given you an edge in battle. If you insult an opponent before combat, all of their attacks against you and your friends are impaired.
-- After training with the _Mourning Monks of Es'ta_, you can now speak with the dead. You are deprived afterwards.
+**训练与专精的一些例子：**
+- 在一名曾任王室弓箭手的人手下学习两天，教会了你更有效地射箭。长弓攻击得到增强。
+- 连续两周每天练习 _Blade of Gwoed_ 后，你有信心在战斗中使用这件致命武器。Critical Damage：目标失去一条肢体或被开膛破肚（由你选择）。
+- 在一名熟练战士的指导下学习三天，教会了你永不受惊。战斗前不再需要进行 DEX save（除非 Warden 另有说明）。
+- 用 _Book of Curses_ 刻苦学习五晚后，你在战斗中获得优势。如果你在战斗前侮辱一名对手，那么他们对你和你朋友的所有攻击都会 impaired。
+- 接受 _Mourning Monks of Es'ta_ 的训练后，你现在能够与死者交谈。之后你会陷入 deprived 状态。
 
 
 <details markdown="block">
   <summary>
-Expand For Example
+展开示例
  </summary>
 
-  **Warden**: _"Slowly you descend into the near-absolute darkness of the ravine. Your lantern is bright enough to allow safe travel, but also acts as a shining beacon to anyone or anything that might be down here. Fortunately it seems that you are largely alone, at least for now. Eventually the roar of the river below begins to drown out your voices."_
+  **Warden**: _"你们慢慢下降，进入裂谷近乎绝对的黑暗之中。提灯足够明亮，能让你们安全行走，但也像一座耀眼的灯塔，向下方可能存在的任何人或东西暴露你们的位置。幸运的是，至少目前看来你们基本上是孤身一人。最终，下方河流的轰鸣声开始盖过你们的声音。"_
 
-  **Esther**: _"Ugh, I have a bad feeling about this. How far down do we have to go?"_
+  **Esther**: _"呃，我对此有种不好的预感。我们还要往下走多远？"_
 
-  **Warden**: _"You're just above the riverbed, actually. Carefully placing your feet onto the slick surface, you hold your lantern high and watch as the water glitters, almost in response. You are only a few dozen feet from the shelf you saw earlier as well."_
+  **Warden**: _"其实，你们就在河床上方。你们小心地把脚放在湿滑的表面上，高举提灯，看着水面闪烁，仿佛在回应。你们距离之前看到的平台也只有几十英尺。"_
 
-  **Esther**: _"How dangerous do we think it would be to cross that way?"_
+  **Esther**: _"我们觉得从那边过去有多危险？"_
 
-  **Warden**: _"You'll have to jump. The water rushes right beneath, so you'd have a soft landing. The current looks strong as well._
+  **Warden**: _"你们得跳过去。水流就在下方，因此会有柔软的落点。不过水流看起来也很急。_
 
-  **Esther**: _"What did you mean before when you said that the river glittered as if in response? I am not prepared to deal with intelligent rivers."_
+  **Esther**: _"你之前说河流像是在回应一样闪烁，是什么意思？我可没准备好应付有智慧的河流。"_
 
-  **Warden**: _"You're not totally sure, but it looked like there might be something alive in there. As a former herbalist, you already know about bioluminescent plants."_
+  **Warden**: _"你们不能完全确定，但看起来里面可能有活物。作为曾经的 herbalist，你已经知道生物发光植物的存在。"_
 
-  **Barry**: _"Plants? We can handle plants. Why don't we just wade through the river here?"_
+  **Barry**: _"植物？植物我们应付得来。我们为什么不直接从这里涉水过河？"_
 
-  **Esther**: _"Hmm that's might be a good idea. Wait, what about hidden rocks and such?"_
+  **Esther**: _"嗯，这或许是个好主意。等等，那隐藏的岩石之类怎么办？"_
 
-  **Warden**: _"You could try, certainly. There don't appear to be a lot of rocks poking out of here that you can see, either."_
+  **Warden**: _"当然可以试试。从这里看，似乎也没有多少岩石露出水面。"_
 
-  **Esther**: _"I'll go first this time. You hold the lantern up with your good hand, **Barry**."_
+  **Esther**: _"这次我先走。**Barry**，你用那只没受伤的手举着提灯。"_
 
-  **Barry**: _"Good call. I'll yell out if something leaps out of the river and tries to eat you, too."_
+  **Barry**: _"好主意。如果有什么东西从河里跳出来想吃掉你，我也会大喊提醒你。"_
 
-  **Warden**: _"You step into the rushing river. It pulls on your legs, but otherwise you feel strong enough to cross without aide. Slowly you begin your journey; with each step you can see the colorful plants - algae, perhaps - glowing and moving in response to your footsteps. It might also just be the light."_
+  **Warden**: _"你踏入湍急的河流。水流拉扯着你的双腿，但除此之外，你觉得自己足够强壮，可以不借助帮助过河。你慢慢开始前进；每走一步，你都能看见五颜六色的植物——也许是藻类——发光并随你的脚步移动。也可能只是光线造成的效果。"_
 
-  **Esther**: _"Uh... Can I feel them?"_
+  **Esther**: _"呃……我能摸到它们吗？"_
 
-  **Warden**: _"Only the wetness of the river. Perhaps a distant tickling but that could be the reeds. They seem to react to your every movement."_
+  **Warden**: _"你只能感受到河水的湿意。或许还有一丝遥远的瘙痒，但那可能是芦苇造成的。它们似乎会对你的一举一动作出反应。"_
 
-  **Esther**: _"Interesting. If I'm not in any danger though I think I'll press. Does our light allow us to see across the whole river yet?"_
+  **Esther**: _"有意思。不过既然我没有危险，我想继续前进。我们的光线现在能照亮整条河吗？"_
 
-  **Warden**: _"Nearly. You are about halfway across when **Barry** sees something moving in the waters ahead. It is jet-black and sleek, like an eel. It is also around 5 feet long."_
+  **Warden**: _"差不多了。你们走到一半时，**Barry** 看见前方水中有什么东西在移动。它漆黑而光滑，像一条鳗鱼。它大约 5 英尺长。"_
 
-  **Barry**: _"I warn her to pull back."_
+  **Barry**: _"我警告她退回来。"_
 
-  **Esther**: _"Can I outrun this thing?"_
+  **Esther**: _"我能跑过这东西吗？"_
 
-  **Warden**: _"Hmm... You'd have to make a DEX save."_
+  **Warden**: _"嗯……你得进行一次 DEX save。"_
 
-  **Esther**: _"Sorry **Barry**, I want to see if I can outrun it. We'll figure out how to get you across once I'm on dry land again. OK, here goes... Yes, a 2! I charge across."_
+  **Esther**: _"抱歉，**Barry**，我想试试看能不能跑过它。等我回到干燥的陆地上，再想办法让你过来。好，开始……是 2！我冲了过去。"_
 
-  **Warden**: _"You increase your pace dramatically, sprinting across the water in big splashes. With each leap, your foot disrupts the colorful creatures within. The water begins to roil violently around your ankles. Ahead, the eel-like creature darts away as if in response. You finally arrive at the other bank, the river's water bubbling behind you. As you leap out of the water, some of the bioluminescent substance sticks to your right ankle. Standing up on the dry ground, you seem unable to kick it off. It doesn't hurt you or anything, but feels like its been painted to your ankle."_
+  **Warden**: _"你大幅加快速度，在水面上迈着大步冲刺，溅起大片水花。每一次跳跃，你的脚都会扰动水中的彩色生物。水在你的脚踝周围开始剧烈翻滚。前方那只像鳗鱼的生物仿佛有所回应，飞快地游开了。你终于抵达另一侧河岸，身后的河水翻腾着。当你跳出水面时，一些生物发光物质黏在了你的右脚踝上。站在干燥的地面上，你似乎无法把它甩掉。它不疼，也没造成其他伤害，但感觉就像被涂在了你的脚踝上。"_
 
-  **Esther**: _"Damn! What does it feel like? Also, what do I see on this side of the river?"_
+  **Esther**: _"该死！它摸起来是什么感觉？还有，我在河的这一侧看到了什么？"_
 
-  **Warden**: _"It feels a bit wet, but otherwise like a tattoo on your skin. Like it's a part of you. You are standing on a near-identical bank as the opposite side; you'll have to explore a bit to learn more."_
+  **Warden**: _"它有点湿，但除此之外，就像皮肤上的纹身。仿佛它是你身体的一部分。你站在与对岸几乎相同的河岸上；你得探索一番才能了解更多。"_
 
-  **Esther**: _"I suppose I can ignore this for now, if it isn't hurting me or anything. **Barry**, how are you going to cross these swirling eel-infested waters? Maybe off that ledge further down?"_
+  **Esther**: _"如果它没有伤害我，我想暂时可以忽略它。**Barry**，你打算怎么穿过这些有鳗鱼盘旋的水域？也许从更下方的那块岩台过去？"_
 
-  **Barry**: _"That works. How many torches do you have left? I don't leave you in the dark when I head down there. You could also follow me down a bit, though the light might not be perfect."_
+  **Barry**: _"可以。你还剩多少支火把？我下去时不想把你留在黑暗里。你也可以跟着我下去一点，不过光线可能不太理想。"_
 
-  **Esther**: _"I'm all out, unfortunately. But maybe if I follow you I can do something on this end to help you jump that ledge?"_
+  **Esther**: _"遗憾的是，我一支也没有了。但也许我跟着你走，可以在这边做点什么，帮你跳过那块岩台？"_
 
-  **Warden**: _"You march in parallel on either sides of the fast-moving river the light from **Barry's** lamp just barely illuminating your way. **Esther**, you are having an especially difficult time as you have to hug the riverbank or avoid stepping into shadows unknown."_
+  **Warden**: _"你们沿着湍急河流的两侧并行前进，**Barry** 的提灯光线勉强照亮了你们的路。**Esther**，你尤其艰难，因为你必须贴着河岸走，或避开未知的阴影。"_
 
-  **Esther**: _"If I'm close to the river, I'd like to study it some more. Do I still see the swirling bioluminescent plant things?"_
+  **Esther**: _"如果我靠近河流，我想再研究一下它。还能看到那些盘旋的生物发光植物吗？"_
 
-  **Warden**: _"Yes, and they seem to be following you. Interestingly, the light from their movement is almost enough to see into the river."_
+  **Warden**: _"能，而且它们似乎在跟着你。有趣的是，它们移动时发出的光几乎足以让你看清河水。"_
 
-  **Barry**: _"That's good. Maybe now you can keep an eye out for any more eels? What about me? What do I see as I trod down this godforsaken ravine?"_
+  **Barry**: _"那很好。也许现在你可以留意一下还有没有鳗鱼？我呢？我沿着这该死的裂谷往下走时能看到什么？"_
 
-  **Warden**: _"The walls on your side of the river narrow a bit as you get closer to the raised shelf you spied earlier; in fact you begin to feel quite squeezed-in. Fortunately you are scrawny enough to just make it to the shelf, which completely blocks your way forward."_
+  **Warden**: _"当你靠近之前发现的高起平台时，你这一侧的河岸逐渐变窄；事实上，你开始觉得相当拥挤。幸运的是，你身材足够瘦，勉强来到了平台上，但它完全挡住了你的前路。"_
 
-  **Esther**: _"What can I see from my side of the river? Am I still forced to hug the riverbank?"_
+  **Esther**: _"从我这边的河岸能看到什么？我还得贴着河岸走吗？"_
 
-  **Warden**: _"The ravine isn't nearly as narrow from your end, meaning it would be easy to continue on forward from where you are, were you to move away from the light of course. But more importantly, you can see that the shelf used to extend across the river, as there is a mirrored shelf sticking out from the other side as well. There is a massive gap between, though. Perhaps it collapsed at some point in the past? Anyway, **Barry** can try and climb the shelf or enter the river and move around it. At least this time there isn't a slimy waterfall to get around!_
+  **Warden**: _"从你这边看，裂谷没有那么窄，也就是说，只要你愿意离开光线照到的范围，就能轻松继续前进。但更重要的是，你能看出这块平台曾经横跨河流，因为对岸也伸出了一块镜像平台。只是两者之间有一道巨大的缺口。也许它曾在过去某个时候坍塌了？不管怎样，**Barry** 可以试着爬上平台，也可以进入河流绕过去。至少这次不用绕过黏滑的瀑布了！_
 
-  **Barry**: _"Assuming I can easily scale this thing, I'd say: let's go for it."_
+  **Barry**: _"假设我能轻松爬上去，我会说：就这么做。"_
 
-  **Warden**: _"You mount it with ease after placing your lamp on top and then pulling yourself up. Now you just have to get across."_
+  **Warden**: _"你把提灯放到平台上，然后拉着自己爬上去，轻松登上了平台。现在你只需要过去。"_
 
-  **Barry**: _"Quick question, what is the water like in the exact center of the river where the gap is?"_
+  **Barry**: _"问个问题，缺口所在的河流正中央，水是什么情况？"_
 
-  **Warden**: _"It's a bit difficult to tell from here, but if you move closer you might get a better look. **Esther** however has been watching the river all the while, and can see that the waters within are moving quite rapidly, in a circular formation."_
+  **Warden**: _"从这里有点难判断，但你靠近些也许能看得更清楚。不过 **Esther** 一直在观察河流，她看见其中的水流以圆形轨迹快速运动。"_
 
-  **Esther**: _"These are eels right? I bet they're eels. What are my bio-friends doing right now?"_
+  **Esther**: _"这些是鳗鱼，对吧？我敢说就是鳗鱼。我的生物朋友们现在在做什么？"_
 
-  **Warden**: _"Looking down into the waters near the shore you see that all of the bioluminescent creatures have fled, almost as if in fear of this part of the river."_
+  **Warden**: _"你低头看向岸边的水，发现所有生物发光的生物都逃走了，仿佛害怕河流的这一段。"_
 
-  **Esther**: _"Hmm... alright, I've got a theory. **Barry**, you should hold the lantern between the gap in the "bridge" and see what happens."_
+  **Esther**: _"嗯……好吧，我有个理论。**Barry**，你应该把提灯举到这座“桥”的缺口之间，看看会发生什么。"_
 
-  **Barry**: _"Uh, OK. I carefully walk to the middle of the river on the "bridge", then lay down, hanging my lantern over the edge - but only just. I want to be as safe as possible here."_
+  **Barry**: _"呃，好。我小心地沿着“桥”走到河流中央，然后躺下，把提灯悬在边缘上——但只伸出去一点。我想尽可能保证安全。"_
 
-  **Warden**: _"The moment you lower it, a slick black eel leaps into the air and snaps at the lantern with needle-like teeth. You're quick enough to save it, though. The eel splashes back into the water."_
+  **Warden**: _"你刚把提灯放低，一条光滑的黑色鳗鱼就跃出水面，用针一样的牙齿咬向提灯。不过你反应够快，保住了提灯。鳗鱼溅回水中。"_
 
-  **Barry**: _"Wow! That was scary. I'm guessing I'll need to save in order to jump across, right?"_
+  **Barry**: _"哇！真吓人。我猜我需要进行一次 save 才能跳过去，对吧？"_
 
-  **Warden**: _"Unless you've got a better idea, yes."_
+  **Warden**: _"除非你有更好的主意，否则是的。"_
 
-  **Esther**: _"I have one. Hey **Barry**, why don't you extinguish that light?"_
+  **Esther**: _"我有一个。嘿，**Barry**，你为什么不把那盏灯熄灭？"_
 
-  **Barry**: _"Done. Now what?"_
+  **Barry**: _"熄了。现在呢？"_
 
-  **Warden**: _"You switch off the lantern. Blinking in the darkness, your eyes slowly being to adjust. Suddenly you see a light beginning to glimmer on the far-off shore where **Esther** is standing. It's her ankle; it is lit up like a candle!"_
+  **Warden**: _"你关掉提灯。在黑暗中眨着眼睛，你的双眼慢慢开始适应。突然，你看见远处 **Esther** 站立的河岸上有光开始闪烁。那是她的脚踝；它像蜡烛一样亮了起来！"_
 
-  **Esther**: _"Wait, can I make light now? Am I a human torch?"_
+  **Esther**: _"等等，我现在能发光了吗？我是人形火把？"_
 
-  **Warden**: _"In complete darkness, yes. Let's hope you don't to go sneaking around in the dark anytime soon."_
+  **Warden**: _"在完全黑暗中，是的。希望你近期不会想在黑暗中偷偷摸摸地行动。"_
 
-  **Barry**: _"Well, this is cool. So the eels like the light, right? This gives me an idea..."_
+  **Barry**: _"好酷。所以鳗鱼喜欢光，对吧？这让我有了个主意……"_
 
 </details>
-
 
 <script src="/js/expand-all.js"></script>

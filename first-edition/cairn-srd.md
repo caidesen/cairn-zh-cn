@@ -6,192 +6,191 @@ redirect_from: /cairn-srd/
 nav_order: 1
 ---
 
-# Cairn System Reference Document (v.1.0)
+# Cairn 系统参考文档（v.1.0）
 {: .no_toc }
 
 <p></p>
 
-**Cairn** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
-Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in other [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc.).
+**Cairn** 依据 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 许可。\
+请浏览[仓库](https://github.com/yochaigal/cairn)，或以其他[格式](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm)下载游戏（包括 Word、Affinity、Google Docs 等格式）。
 
-**Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
-Players act as hardened adventurers exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.
+**Cairn** 是一款由一名主持人（即**守望者**）和至少一名其他玩家共同进行的冒险游戏。
+玩家将扮演久经磨炼的冒险者，探索一座黑暗而神秘的森林；那里充满奇异的居民、隐藏的宝藏，以及无法言说的怪物。
 
 <details close markdown="block">
   <summary id="index">
-    Table of contents
+    目录
   </summary>
   {: .text-delta }
 - TOC
 {:toc}
 </details>
 
-## Overview
+## 概览
 
-**Cairn** was written with the following design philosophies in mind:
+**Cairn** 的设计遵循以下理念：
 
-### Neutrality
-The Warden's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
+### 中立
+守望者的职责是清晰地呈现规则、情境、NPC 和叙事，同时作为中立的裁决者。
 
-### Classless
-A character's role or skills are not limited by a single class. Instead, the equipment they carry and their experiences define their specialty.
+### 无职业
+角色的定位或技能不受单一职业限制。相反，他们携带的装备和自身经历共同定义了他们的专长。
 
-### Death
-Characters may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner, but it is never random or without warning.
+### 死亡
+角色可能强大，但也容易受到各种形式的伤害。死亡总在不远处，但它从来不是随机发生的，也不会毫无预兆。
 
-### Fiction First
-Dice do not always reflect an obstacle's difficulty or its outcome. Instead, success and failure are arbitrated by the Warden in dialogue with the players, based on in-world elements.
+### 虚构优先
+骰子并不总是反映障碍的难度或结果。相反，守望者会根据世界内的元素，与玩家通过对话裁定成功与失败。
 
-### Growth
-Characters are changed through in-world advancement, gaining new skills and abilities by surviving dangerous events and overcoming obstacles.
+### 成长
+角色会通过世界内的成长发生改变：在危险事件中幸存下来、克服障碍，从而获得新的技能和能力。
 
-### Player Choice
-Players should always understand the reasons behind the choices they've made, and information about potential risks should be provided freely and frequently.
+### 玩家选择
+玩家应当始终理解自己做出选择的理由；有关潜在风险的信息也应当自由且频繁地提供。
 
-### Principles
-The Warden and the players each have guidelines that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.
+### 原则
+守望者和玩家各自都有一些指导方针，帮助营造由批判性思考、探索和涌现式叙事定义的特定游戏体验。
 
-### Shared Objectives
-Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore, the party is typically working together towards a common goal, as a team.
+### 共同目标
+玩家相互信任，共同投入共享的设定、角色目标和队伍挑战。因此，队伍通常会像一个整体一样，为共同目标而合作。
 
-[back to index](#index)
+[返回目录](#index)
 <p></p>
 
-## Principles for Wardens
-### Information
-- Provide useful information about the game world as the characters explore it.
-- Players do not need to roll dice to learn about their circumstances.
-- Be helpful and direct with your answers to their questions.
-- Respond honestly, describe consistently, and always let them know they can keep asking questions.
+## 守望者原则
+### 信息
+- 随着角色探索游戏世界，提供有用的信息。
+- 玩家不需要掷骰来了解自身所处的情境。
+- 回答问题时应当有帮助且直接。
+- 诚实回应，保持描述一致，并始终让他们知道自己可以继续提问。
 
-### Difficulty
-- Default to context and realism rather than numbers and mechanics.
-- If something the players want to do is sincerely impossible, no roll will allow them to do it.
-- Is what the player describes and how they leverage the situation sensible? Let it happen.
-- Saves cover a great deal of uncertain situations and are often all that is necessary for risky actions.
+### 难度
+- 优先考虑情境和现实性，而不是数字与机制。
+- 如果玩家想做的事确实不可能，那么任何掷骰都不能让他们做到。
+- 玩家描述的行动，以及他们利用情境的方式是否合理？如果合理，就让它发生。
+- 豁免可以覆盖大量不确定的情境，进行危险行动时通常只需要豁免。
 
-### Preparation
-- The game world is organic, malleable and random. It intuits and makes sharp turns.
-- Use random tables and generators to develop situations, not stories or plots.
-- NPCs remember what the PCs say and do, and how they affect the world.
-- NPCs don't want to die. Infuse their own self-interest and will to live into every personality.
+### 准备
+- 游戏世界是有机、可塑且随机的。它会自行理解并急转弯。
+- 使用随机表和生成器发展情境，而不是故事或情节。
+- NPC 会记住 PC 说过和做过的事，以及他们如何影响世界。
+- NPC 不想死。让每个角色的性格都体现出其自身利益和求生意志。
 
-### Narrative Focus
-- Emergent experience of play is what matters, not math or character abilities. Give the players weapon trainers and personal quests to facilitate improvement and specialization.
-- Pay attention to the needs and wants of the players, then put realistic opportunities in their path.
-- A dagger to your throat will kill you, regardless of your expensive armor and impressive training.
+### 叙事重点
+- 游戏过程中涌现出的体验才是重要的，而不是数学或角色能力。为玩家提供武器训练师和个人任务，帮助他们提升并形成专长。
+- 关注玩家的需求和愿望，然后把现实的机会放到他们面前。
+- 无论你的护甲多么昂贵、训练多么精良，匕首抵住喉咙都足以杀死你。
 
-### Danger
-- The game world produces real risk of pain and death for the player characters.
-- Telegraph serious danger to players when it is present. The more dangerous, the more obvious.
-- Put traps in plain sight and let the players take time to figure out a solution.
-- Give players opportunities to solve problems and interact with the world.
+### 危险
+- 游戏世界会为玩家角色带来真实的疼痛和死亡风险。
+- 危险存在时，要向玩家预告严重危险。越危险，就越应当明显。
+- 把陷阱放在显眼处，让玩家有时间想办法解决。
+- 给玩家解决问题、与世界互动的机会。
 
-### Treasure
-- A Treasure is specific to the environment from where it is recovered. It tells a story.
-- Treasure is highly valuable, almost always bulky, and rarely useful beyond its worth and prestige.
-- Relics are not Treasure, though they are useful and interesting.
-- Use Treasure as a lure to exotic locations under the protection of intimidating foes.
+### 宝藏
+- 宝藏应当与发现它的环境息息相关，并且讲述一个故事。
+- 宝藏价值极高，几乎总是笨重的；除了价值和声望之外，很少有其他用途。
+- 遗物不是宝藏，尽管它们有用且有趣。
+- 用宝藏作为诱饵，把玩家引向由令人生畏的敌人保护的奇异地点。
 
-### Choice
-- Give players a solid choice to force outcomes when the situation lulls.
-- Use binary "so, A or B?" responses when their intentions are vague.
-- Work together using this conversational method to keep the game moving.
-- Ensure that the player character's actions leave their mark on the game world.
+### 选择
+- 情势陷入停滞时，给玩家一个明确的选择，迫使局势继续发展。
+- 当玩家的意图含糊不清时，使用二选一的“那么，A 还是 B？”式回应。
+- 用这种对话方式共同推进游戏。
+- 确保玩家角色的行动会在游戏世界中留下痕迹。
 
-### Die of Fate
-- Occasionally you will want an element of randomness (e.g. the weather, unique character knowledge, etc.).
-- In these situations, roll 1d6. A roll of 4 or more generally favors the players.
-- A roll of 3 or under tends to mean bad luck for the PCs or their allies.
+### 命运骰 {#die-of-fate}
+- 有时你会需要一个随机因素（例如天气、角色独有的知识等）。
+- 在这种情况下，掷 1d6。结果为 4 或更高通常有利于玩家。
+- 结果为 3 或更低通常意味着 PC 或其盟友运气不佳。
 
-[back to index](#index)
+[返回目录](#index)
 <p></p>
 
-## Principles for Players
-### Agency
-- Attributes and related saves do not define your character. They are tools.
-- Don't ask only what your character would do, ask what you would do, too.
-- Be creative with your intuition, items, and connections.
+## 玩家原则
+### 自主性
+- 属性及相关豁免并不定义你的角色，它们只是工具。
+- 不要只问你的角色会做什么，也要问问你自己会做什么。
+- 运用你的直觉、物品和人际关系发挥创造力。
 
-### Teamwork
-- Seek consensus from the other players before barreling forward.
-- Stay on the same page about goals and limits, respecting each other and accomplishing more as a group than alone.
+### 团队合作
+- 在贸然前进之前，先征求其他玩家的共识。
+- 对目标和界限保持一致，互相尊重；作为群体行动，比单独行动能完成更多事情。
 
-### Exploration
-- Asking questions and listening to detail is more useful than any stats, items, or skills you have.
-- Take the Warden's description without suspicion, but don't shy away from seeking more information.
-- There is no single correct way forward.
+### 探索
+- 提问并留意细节，比你拥有的任何属性、物品或技能都更有用。
+- 不要怀疑守望者的描述，但也不要回避寻求更多信息。
+- 前进的道路不止一条。
 
-### Talking
-- Treat NPCs as if they were real people, and rely on your curiosity to safely gain information and solve problems.
-- You'll find that most people are interesting and will want to talk things through before getting violent.
+### 交谈
+- 把 NPC 当作真实的人对待，依靠好奇心安全地获取信息并解决问题。
+- 你会发现大多数人都很有趣，而且在诉诸暴力之前，他们通常愿意先把事情谈清楚。
 
-### Caution
-- Fighting is a choice and rarely a wise one; consider whether violence is the best way to achieve your goals.
-- Try to stack the odds in your favor and retreat when things seem unfavorable.
+### 谨慎
+- 战斗是一种选择，而且很少是明智的选择；想想暴力是否真的是实现目标的最佳方式。
+- 尽量让胜算向自己倾斜，形势不利时就撤退。
 
-### Planning
-- Think of ways to avoid your obstacles through reconnaissance, subtlety, and fact-finding.
-- Do some research and ask around about your objectives.
+### 计划
+- 通过侦察、隐秘行动和查明事实，想办法避开障碍。
+- 对目标做一些调查，并四处打听消息。
 
-### Ambition
-- Set goals and use your meager means to take steps forward.
-- Expect nothing. Earn your reputation.
-- Keep things moving forward and play to see what happens.
+### 野心
+- 设定目标，利用微薄的手段逐步前进。
+- 不要期待任何东西，用行动赢得声望。
+- 让事情持续向前发展，进行游戏并看看会发生什么。
 
-[back to index](#index)
+[返回目录](#index)
 <p></p>
 
-## Character Creation
+## 角色创建 {#character-creation}
 
-#### Name, Background & Traits
-First, choose or roll your PC’s **name** and **background** from their respective [tables](#name--background-d20). A PC’s background informs their potential knowledge and skills.
+#### 姓名、背景与特征
+首先，从各自的[表格](#name--background-d20)中选择或掷骰决定 PC 的**姓名**和**背景**。PC 的背景会影响其潜在的知识和技能。
 
-Next, roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](#character-traits-d10) tables.
+接下来，在[**角色特征**](#character-traits-d10)表格上掷骰，决定角色其他的**特征**（外貌、说话方式、举止、信念、声誉等）。
 
-Finally, roll for their **age** (2d20+10).
+最后，掷骰决定角色的**年龄**（2d20+10）。
 
-#### Ability Scores
-Player Characters (PCs) have just three attributes:  
-**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**. When creating a PC, the player should roll 3d6 for each of their character's ability scores, in order. They may then swap any two of the results.
+#### 属性值
+玩家角色（PC）只有三项属性：**力量（STR）**、**敏捷（DEX）**和**意志（WIL）**。创建 PC 时，玩家应当依次为角色的每项属性值掷 3d6。之后，他们可以交换其中任意两个结果。
 
 <details markdown="block">
   <summary>
-Expand For Example
+展开示例
  </summary>
- Ines rolls for her character's **STR**, resulting in a **2**, a **4**, and a **6**, totaling **12**. The next two ability rolls result in a **9** for **DEX** and a **13** for **WIL**. She decides to swap the **12** and the **9**, for a character with **9 STR**, **12 DEX** and **13** **WIL**.
+ 伊内丝为角色的 **STR** 掷骰，结果为 **2**、**4** 和 **6**，总计 **12**。接下来两次属性掷骰的结果分别为 **DEX 9** 和 **WIL 13**。她决定交换 **12** 和 **9**，于是角色拥有 **STR 9**、**DEX 12** 和 **WIL 13**。
 </details>
 
-### Hit Protection
-Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](/cairn-srd#scars-1) table.
+### 命中防护
+掷 1d6 决定 PC 初始的**命中防护**（HP），它代表角色在战斗中避免受到伤害的能力。HP 不代表角色的健康或坚韧；而且它不会长时间损失（见**治疗**）。如果一次攻击使 PC 的 HP 恰好降至 0，玩家必须在[**创伤**](/cairn-srd#scars-1)表上掷骰。
 
-#### Inventory
-Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
+#### 物品栏
+角色共有 10 个物品栏格：背包有六格，双手各占一格，上身（例如腰带、胸口或头部）占两格。背包也可以作为应急睡袋，但只有清空其中的物品后才能如此使用。
 
-Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Warden's discretion.
+大多数物品占用一格，小型物品可以捆在一起。物品栏格是抽象概念，守望者可以酌情重新安排。
 
-**Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP.
+**笨重**物品占用两格，通常需要双手携带，或携带起来很不方便。任何填满全部 10 格物品栏的人，HP 都会降至 0。
 
-A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory. **Hirelings** can also be paid to carry equipment.
+PC 不能携带超过物品栏容量的物品。推车（必须用双手拉动）、马或骡子可以增加物品栏容量。也可以付钱雇佣**雇工**来携带装备。
 
-#### Starting Gear
-All PCs begin with:
+#### 初始装备
+所有 PC 都拥有：
 
-- Three days' rations (one slot)
-- A torch (one slot)
-- 3d6 gold pieces
+- 三天的口粮（一格）
+- 一支火把（一格）
+- 3d6 枚金币
 
-Roll once on each of the **Starting Gear** tables to determine your PC's armor, weapons, tools, and equipment. If indicated, roll on the [**Spellbooks**](#spellbooks-d100) table with a d100 (or roll 2d10, using one die as the ones place, and the other as the tens place). Pick only one item for each result.
+在每张**初始装备**表上各掷一次，决定 PC 的护甲、武器、工具和装备。如果表格指示如此，则在[**法术书**](#spellbooks-d100)表上用 d100 掷骰（也可以掷 2d10，用一个骰子作为个位数，另一个作为十位数）。每个结果只能选择一件物品。
 
-See the **Equipment List** for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
+相关的护甲、伤害和物品栏格数值见**装备列表**。较小的物品有时可以捆在一起，占用一格。
 
-If you would like something closer to traditional classes, refer to the list of [**Optional Gear Packages**](#optional-gear-packages).
+如果你想要更接近传统职业的内容，请参考[**可选装备包**](#optional-gear-packages)列表。
 
 <p></p>
 
-## Name & Background (d20)
+## 姓名与背景（d20） {#name--background-d20}
 
-#### Female Names
+#### 女性姓名
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
@@ -201,7 +200,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |4     | Bronwyn   |9          |Griya      |14        |Moralil  |19    |Ygwal     |
 |5     | Cannora   |10         |Henaine    |15        |Morgwen  |20    |Yslen     |
 
-#### Male Names
+#### 男性姓名
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
@@ -211,791 +210,791 @@ If you would like something closer to traditional classes, refer to the list of 
 |4           |Borrid    |9          |Ethex      |14        |Gwestin  |19    |Wenlan    |
 |5           |Breagle   |10         |Gringle    |15        |Mannog   |20    |Yirmeor   |
 
-#### Surnames
+#### 姓氏
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
 |1           |Abernathy |6          |Crumwaller |11        |Harper   |16    |Swinney   |
 |2           |Addercap  |7          |Dunswallow |12        |Loomer   |17    |Thatcher  |
-|3           |Burl      |8          |Getri      |13        |Malksmilk|18    |Tolmen    |
-|4           |Candlewick|9          |Glass      |14        |Smythe   |19    |Weaver    |
-|5           |Cormick   |10         |Harkness   |15        |Sunderman|20    |Wolder    |
+|3           |Burl      |8          |Getri      |13        |Malksmilk|18        |Tolmen    |
+|4           |Candlewick|9          |Glass      |14        |Smythe   |19        |Weaver    |
+|5           |Cormick   |10         |Harkness   |15        |Sunderman|20        |Wolder    |
 
-#### Background
+#### 背景
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
-|1           |Alchemist |6          |Cleric     |11        |Magician |16    |Performer |
-|2           |Blacksmith|7          |Gambler    |12        |Mercenary|17    |Pickpocket|
-|3           |Burglar   |8          |Gravedigger|13        |Merchant |18    |Smuggler  |
-|4           |Butcher   |9          |Herbalist  |14        |Miner    |19    |Servant   |
-|5           |Carpenter |10         |Hunter     |15        |Outlaw   |20    |Ranger    |
+|1           |炼金术士 |6          |牧师       |11        |魔法师   |16    |表演者    |
+|2           |铁匠     |7          |赌徒       |12        |佣兵     |17    |扒手      |
+|3           |窃贼     |8          |掘墓人     |13        |商人     |18    |走私者    |
+|4           |屠夫     |9          |草药师     |14        |矿工     |19    |仆人      |
+|5           |木匠     |10         |猎人       |15        |逃犯     |20    |游侠      |
 
 <p></p>
 
-## Character Traits (d10)
+## 角色特征（d10） {#character-traits-d10}
 
-#### Physique
+#### 体格
 
 |  |          |      |            |
 | -------- | -------- | ---- | ---------- |
-| 1        | Athletic | 6    | Scrawny    |
-| 2        | Brawny   | 7    | Short      |
-| 3        | Flabby   | 8    | Statuesque |
-| 4        | Lanky    | 9    | Stout      |
-| 5        | Rugged   | 10   | Towering   |
+| 1        | 健壮     | 6    | 瘦弱       |
+| 2        | 强壮     | 7    | 矮小       |
+| 3        | 肥胖     | 8    | 雕像般     |
+| 4        | 细长     | 9    | 结实       |
+| 5        | 粗犷     | 10   | 高大       |
 
-#### Skin
+#### 皮肤
 
 |  |            |      |           |
 | ---- | ---------- | ---- | --------- |
-| 1    | Birthmark  | 6    | Round     |
-| 2    | Dark       | 7    | Soft      |
-| 3    | Elongated  | 8    | Tanned    |
-| 4    | Pockmarked | 9    | Tattooed  |
-| 5    | Rosy       | 10   | Weathered |
+| 1    | 胎记       | 6    | 圆润       |
+| 2    | 黝黑       | 7    | 柔软       |
+| 3    | 修长       | 8    | 晒黑       |
+| 4    | 麻子       | 9    | 有纹身     |
+| 5    | 红润       | 10   | 饱经风霜   |
 
-#### Hair
+#### 头发
 
 |  |         |      |           |
 | ---- | ------- | ---- | --------- |
-| 1    | Bald    | 6    | Long      |
-| 2    | Braided | 7    | Luxurious |
-| 3    | Curly   | 8    | Oily      |
-| 4    | Filthy  | 9    | Wavy      |
-| 5    | Frizzy  | 10   | Wispy     |
+| 1    | 秃头    | 6    | 长发      |
+| 2    | 编发    | 7    | 华美      |
+| 3    | 卷发    | 8    | 油腻      |
+| 4    | 肮脏    | 9    | 波浪      |
+| 5    | 毛躁    | 10   | 稀疏      |
 
-#### Face
+#### 面容
 
 |  |           |      |          |
 | ---- | --------- | ---- | -------- |
-| 1    | Bony      | 6    | Perfect  |
-| 2    | Broken    | 7    | Rat-like |
-| 3    | Chiseled  | 8    | Sharp    |
-| 4    | Elongated | 9    | Square   |
-| 5    | Pale      | 10   | Sunken   |
+| 1    | 瘦骨嶙峋  | 6    | 完美     |
+| 2    | 破损      | 7    | 鼠相     |
+| 3    | 雕刻般    | 8    | 锐利     |
+| 4    | 修长      | 9    | 方正     |
+| 5    | 苍白      | 10   | 凹陷     |
 
-#### Speech
+#### 说话方式
 
 |  |         |      |            |
 | ------ | ------- | ---- | ---------- |
-| 1      | Blunt   | 6    | Gravelly   |
-| 2      | Booming | 7    | Precise    |
-| 3      | Cryptic | 8    | Squeaky    |
-| 4      | Droning | 9    | Stuttering |
-| 5      | Formal  | 10   | Whispery   |
+| 1      | 直率    | 6    | 沙哑       |
+| 2      | 洪亮    | 7    | 精确       |
+| 3      | 隐晦    | 8    | 尖细       |
+| 4      | 单调    | 9    | 口吃       |
+| 5      | 正式    | 10   | 低语       |
 
-#### Clothing
+#### 服装
 
 |  |         |      |        |
 | -------- | ------- | ---- | ------ |
-| 1        | Antique | 6    | Frayed |
-| 2        | Bloody  | 7    | Frumpy |
-| 3        | Elegant | 8    | Livery |
-| 4        | Filthy  | 9    | Rancid |
-| 5        | Foreign | 10   | Soiled |
+| 1        | 古旧    | 6    | 磨损   |
+| 2        | 血污    | 7    | 邋遢   |
+| 3        | 优雅    | 8    | 制服   |
+| 4        | 肮脏    | 9    | 腐臭   |
+| 5        | 异域    | 10   | 污秽   |
 
-#### Virtue
+#### 美德
 
 |  |             |      |           |
 | ------ | ----------- | ---- | --------- |
-| 1      | Ambitious   | 6    | Honorable |
-| 2      | Cautious    | 7    | Humble    |
-| 3      | Courageous  | 8    | Merciful  |
-| 4      | Disciplined | 9    | Serene    |
-| 5      | Gregarious  | 10   | Tolerant  |
+| 1      | 有野心      | 6    | 荣誉       |
+| 2      | 谨慎        | 7    | 谦逊       |
+| 3      | 勇敢        | 8    | 仁慈       |
+| 4      | 自律        | 9    | 平静       |
+| 5      | 合群        | 10   | 宽容       |
 
-#### Vice
+#### 恶习
 
 |  |            |      |          |
 | ---- | ---------- | ---- | -------- |
-| 1    | Aggressive | 6    | Lazy     |
-| 2    | Bitter     | 7    | Nervous  |
-| 3    | Craven     | 8    | Rude     |
-| 4    | Deceitful  | 9    | Vain     |
-| 5    | Greedy     | 10   | Vengeful |
+| 1    | 好斗       | 6    | 懒惰     |
+| 2    | 苦涩       | 7    | 紧张     |
+| 3    | 懦弱       | 8    | 粗鲁     |
+| 4    | 欺骗       | 9    | 虚荣     |
+| 5    | 贪婪       | 10   | 复仇心重 |
 
-#### Reputation
+#### 声誉
 
 |  |             |      |           |
 | ---------- | ----------- | ---- | --------- |
-| 1          | Ambitious   | 6    | Loafer    |
-| 2          | Boor        | 7    | Oddball   |
-| 3          | Dangerous   | 8    | Repulsive |
-| 4          | Entertainer | 9    | Respected |
-| 5          | Honest      | 10   | Wise      |
+| 1          | 有野心      | 6    | 懒散者     |
+| 2          | 粗人        | 7    | 怪人       |
+| 3          | 危险        | 8    | 令人反感   |
+| 4          | 表演者      | 9    | 受尊敬     |
+| 5          | 诚实        | 10   | 睿智       |
 
-#### Misfortunes
+#### 不幸
 
 |  |             |      |             |
 | ----------- | ----------- | ---- | ----------- |
-| 1           | Abandoned   | 6    | Defrauded   |
-| 2           | Addicted    | 7    | Demoted     |
-| 3           | Blackmailed | 8    | Discredited |
-| 4           | Condemned   | 9    | Disowned    |
-| 5           | Cursed      | 10   | Exiled      |
+| 1           | 被遗弃      | 6    | 被欺诈      |
+| 2           | 上瘾        | 7    | 被降职      |
+| 3           | 被勒索      | 8    | 名誉扫地    |
+| 4           | 被谴责      | 9    | 被断绝关系  |
+| 5           | 受诅咒      | 10   | 被放逐      |
 
 <p></p>
 
-## Starting Gear (d20)
+## 初始装备（d20）
 
-#### Armor
+#### 护甲
 
 |  |            |           |       |
 | :---: | :--------: | :-------: | :---: |
 |  1-3  |    4-14    |   15-19   |  20   |
-| None  | Brigandine | Chainmail | Plate |
+| 无    | 扎甲       | 锁子甲     | 板甲  |
 
-#### Helmets & Shields
+#### 头盔与盾牌
 
 |  |        |        |                 |
 | :---------------: | :----: | :----: | :-------------: |
 |       1-13        | 14-16  | 17-19  |       20        |
-|       None        | Helmet | Shield | Helmet & Shield |
+|       无          | 头盔   | 盾牌   | 头盔与盾牌      |
 
-#### Weapons
+#### 武器
 
 |                |                  |                          |                                |
 | :-------------------: | :--------------: | :------------------: | :------------------------------: |
 |          1-5          |       6-14       |          15-19       |               20               |
-| Dagger, Cudgel, Staff | Sword, Mace, Axe | Bow, Crossbow, Sling | Halberd, War Hammer, Battleaxe |
+| 匕首、棍棒、法杖       | 剑、钉头锤、斧       | 弓、弩、投石索       | 长柄斧、战锤、战斧                |
 
-#### Expeditionary Gear
+#### 远征装备
 
 |      |                        |      |                |      |             |      |             |
 | ---- | ---------------------- | ---- | -------------- | ---- | ----------- | ---- | ----------- |
-| 1    | Air Bladder            | 6    | Fire Oil       | 11   | Manacles    | 16   | Rope (25ft) |
-| 2    | Antitoxin              | 7    | Grappling Hook | 12   | Pick        | 17   | Spirit Ward |
-| 3    | Cart (+4 slots, bulky) | 8    | Large Sack     | 13   | Pole (10ft) | 18   | Spyglass    |
-| 4    | Chain (10ft)           | 9    | Large Trap     | 14   | Pulley      | 19   | Tinderbox   |
-| 5    | Dowsing Rod            | 10   | Lockpicks      | 15   | Repellent   | 20   | Wolfsbane   |
+| 1    | 充气囊                 | 6    | 火油           | 11   | 镣铐        | 16   | 绳子（25ft） |
+| 2    | 解毒剂                 | 7    | 抓钩           | 12   | 鹤嘴锄      | 17   | 灵魂护符     |
+| 3    | 推车（+4 格，笨重）     | 8    | 大袋子         | 13   | 长杆（10ft） | 18   | 望远镜       |
+| 4    | 链条（10ft）            | 9    | 大型陷阱       | 14   | 滑轮        | 19   | 火绒盒       |
+| 5    | 探矿杖                 | 10   | 开锁工具       | 15   | 驱避剂      | 20   | 乌头         |
 
-#### Tools
+#### 工具
 
 |      |          |      |                |      |            |      |         |
 | ---- | -------- | ---- | -------------- | ---- | ---------- | ---- | ------- |
-| 1    | Bellows  | 6    | Cook Pots      | 11   | Grease     | 16   | Net     |
-| 2    | Bucket   | 7    | Crowbar        | 12   | Hammer     | 17   | Saw     |
-| 3    | Caltrops | 8    | Drill (Manual) | 13   | Hour Glass | 18   | Sealant |
-| 4    | Chalk    | 9    | Fishing Rod    | 14   | Metal File | 19   | Shovel  |
-| 5    | Chisel   | 10   | Glue           | 15   | Nails      | 20   | Tongs   |
+| 1    | 风箱     | 6    | 烹饪锅         | 11   | 油脂       | 16   | 网      |
+| 2    | 水桶     | 7    | 撬棍           | 12   | 锤子       | 17   | 锯      |
+| 3    | 菱铁蒺藜 | 8    | 手动钻         | 13   | 沙漏       | 18   | 密封剂  |
+| 4    | 粉笔     | 9    | 钓鱼竿         | 14   | 锉刀       | 19   | 铲子    |
+| 5    | 凿子     | 10   | 胶水           | 15   | 钉子       | 20   | 夹钳    |
 
-#### Trinkets
+#### 小饰品
 
 |      |             |      |            |      |             |      |         |
 | ---- | ----------- | ---- | ---------- | ---- | ----------- | ---- | ------- |
-| 1    | Bottle      | 6    | Horn       | 11   | Mirror      | 16   | Soap    |
-| 2    | Card Deck   | 7    | Incense    | 12   | Perfume     | 17   | Sponge  |
-| 3    | Dice Set    | 8    | Instrument | 13   | Quill & Ink | 18   | Tar Pot |
-| 4    | Face Paint  | 9    | Lens       | 14   | Salt Pack   | 19   | Twine   |
-| 5    | Fake Jewels | 10   | Marbles    | 15   | Small Bell  | 20   | Whistle |
+| 1    | 瓶子        | 6    | 号角       | 11   | 镜子        | 16   | 肥皂    |
+| 2    | 纸牌        | 7    | 熏香       | 12   | 香水        | 17   | 海绵    |
+| 3    | 骰子        | 8    | 乐器       | 13   | 羽毛笔与墨水 | 18   | 焦油罐  |
+| 4    | 脸彩        | 9    | 镜片       | 14   | 盐包        | 19   | 细绳    |
+| 5    | 假珠宝      | 10   | 弹珠       | 15   | 小铃铛      | 20   | 哨子    |
 
-#### 																		Bonus Item (roll on table indicated)
+#### 额外物品（在指定表格上掷骰）
 
 |                 |                    |                 |           |
 | :-------------: | :----------------: | :-------------: | :-------: |
 |       1-5       |        6-13        |      14-17      |   18-20   |
-| Tool or Trinket | Expeditionary Gear | Armor or Weapon | Spellbook |
+| 工具或小饰品    | 远征装备           | 护甲或武器      | 法术书    |
 
 <p></p>
 
-#### 																						Spellbooks (d100)
+#### 法术书（d100） {#spellbooks-d100}
 
 |||||||||
 |---|-----------------|---|----------------|---|---------------|---|---------------|
-|1  |Adhere           |26 |Earthquake      |51 |Masquerade     |76 |Smoke Form     |
-|2  |Anchor           |27 |Elasticity      |52 |Miniaturize    |77 |Sniff          |
-|3  |Animate Object   |28 |Elemental Wall  |53 |Mirror Image   |78 |Snuff          |
-|4  |Anthropomorphize |29 |Filch           |54 |Mirrorwalk     |79 |Sort           |
-|5  |Arcane Eye       |30 |Flare           |55 |Multiarm       |80 |Spectacle      |
-|6  |Astral Prison    |31 |Fog Cloud       |56 |Night Sphere   |81 |Spellsaw       |
-|7  |Attract          |32 |Frenzy          |57 |Objectify      |82 |Spider Climb   |
-|8  |Auditory Illusion|33 |Gate            |58 |Ooze Form      |83 |Summon Cube    |
-|9  |Babble           |34 |Gravity Shift   |59 |Pacify         |84 |Swarm          |
-|10 |Bait Flower      |35 |Greed           |60 |Phobia         |85 |Telekinesis    |
-|11 |Beast Form       |36 |Haste           |61 |Pit            |86 |Telepathy      |
-|12 |Befuddle         |37 |Hatred          |62 |Primal Surge   |87 |Teleport       |
-|13 |Body Swap        |38 |Hear Whispers   |63 |Push/Pull      |88 |Target Lure    |
-|14 |Charm            |39 |Hover           |64 |Raise Dead     |89 |Thicket        |
-|15 |Command          |40 |Hypnotize       |65 |Raise Spirit   |90 |Summon Idol    |
-|16 |Comprehend       |41 |Icy Touch       |66 |Read Mind      |91 |Time Control   |
-|17 |Cone of Foam     |42 |Identify Owner  |67 |Repel          |92 |True Sight     |
-|18 |Control Plants   |43 |Illuminate      |68 |Scry           |93 |Upwell         |
-|19 |Control Weather  |44 |Invisible Tether|69 |Sculpt Elements|94 |Vision         |
-|20 |Cure Wounds      |45 |Knock           |70 |Sense          |95 |Visual Illusion|
-|21 |Deafen           |46 |Leap            |71 |Shield         |96 |Ward           |
-|22 |Detect Magic     |47 |Liquid Air      |72 |Shroud         |97 |Web            |
-|23 |Disassemble      |48 |Magic Dampener  |73 |Shuffle        |98 |Widget         |
-|24 |Disguise         |49 |Manse           |74 |Sleep          |99 |Wizard Mark    |
-|25 |Displace         |50 |Marble Craze    |75 |Slick          |100|X-Ray Vision   |
+|1  |黏附             |26 |地震            |51 |假面            |76 |烟雾形态        |
+|2  |锚定             |27 |弹性            |52 |缩小            |77 |嗅探            |
+|3  |物体活化         |28 |元素之墙        |53 |镜像            |78 |熄灭            |
+|4  |拟人化           |29 |偷窃            |54 |镜行            |79 |分类            |
+|5  |奥术之眼         |30 |闪光            |55 |多臂            |80 |奇观            |
+|6  |星界牢笼         |31 |雾云术          |56 |黑夜球          |81 |法术锯          |
+|7  |吸引             |32 |狂乱            |57 |物体化          |82 |蜘蛛攀爬        |
+|8  |听觉幻象         |33 |界门            |58 |凝胶形态        |83 |召唤方块        |
+|9  |胡言             |34 |重力转移        |59 |安抚            |84 |群聚            |
+|10 |诱饵花           |35 |贪婪            |60 |恐惧症          |85 |心灵遥控        |
+|11 |野兽形态         |36 |加速            |61 |深坑            |86 |心灵感应        |
+|12 |困惑             |37 |憎恨            |62 |原始突变        |87 |传送            |
+|13 |身体互换         |38 |听见低语        |63 |推/拉           |88 |目标诱饵        |
+|14 |魅惑             |39 |悬浮            |64 |起死回生        |89 |荆棘林          |
+|15 |命令             |40 |催眠            |65 |召回灵魂        |90 |召唤偶像        |
+|16 |理解语言         |41 |冰冷之触        |66 |读心            |91 |时间控制        |
+|17 |泡沫之锥         |42 |辨认主人        |67 |排斥            |92 |真视            |
+|18 |控制植物         |43 |照明            |68 |占卜            |93 |涌泉            |
+|19 |控制天气         |44 |隐形系链        |69 |塑造元素        |94 |视界            |
+|20 |治疗伤口         |45 |敲击            |70 |感知            |95 |视觉幻象        |
+|21 |失聪             |46 |跳跃            |71 |盾牌            |96 |结界            |
+|22 |探测魔法         |47 |液态空气        |72 |遮蔽            |97 |蛛网            |
+|23 |拆解             |48 |魔法阻尼        |73 |置换            |98 |小工具          |
+|24 |伪装             |49 |庄园            |74 |睡眠            |99 |巫师印记        |
+|25 |错位             |50 |弹珠狂热        |75 |光滑            |100|X 射线视觉      |
 
 <p></p>
 
-## Equipment List (Prices in Gold Pieces)
+## 装备列表（价格以金币计）
 
-#### Armor
+#### 护甲
 
 ||     |
 |--------------------------------------------------------------|-----|
-|Shield (+1 Armor)            |10   |
-|Helmet (+1 Armor)            |10   |
-|Gambeson (+1 Armor)          |15   |
-|Brigandine (1 Armor, bulky)  |20   |
-|Chainmail (2 Armor, bulky)   |40   |
-|Plate (3 Armor, bulky)       |60   |
+|盾牌（+1 护甲）                         |10   |
+|头盔（+1 护甲）                         |10   |
+|软甲（+1 护甲）                         |15   |
+|扎甲（1 护甲，笨重）                    |20   |
+|锁子甲（2 护甲，笨重）                  |40   |
+|板甲（3 护甲，笨重）                    |60   |
 
-#### Weapons
+#### 武器
 
 | |     |
 |-----------------------------------------------------------|-----|
-|Dagger, Cudgel, Sickle, Staff, etc. (d6 damage)            |5    |
-|Spear, Sword, Mace, Axe, Flail, etc. (d8 damage)           |10   |
-|Halberd, War Hammer, Long Sword, etc. (d10 damage, bulky)  |20   |
-|Sling (d4 damage)                                          |5    |
-|Bow (d6 damage, bulky)                                     |20   |
-|Crossbow (d8 damage, bulky)                                |30   |
+|匕首、棍棒、镰刀、法杖等（d6 伤害）                       |5    |
+|长矛、剑、钉头锤、斧、链枷等（d8 伤害）                    |10   |
+|长柄斧、战锤、长剑等（d10 伤害，笨重）                     |20   |
+|投石索（d4 伤害）                                          |5    |
+|弓（d6 伤害，笨重）                                       |20   |
+|弩（d8 伤害，笨重）                                       |30   |
 
-#### Gear & Tools
+#### 装备与工具
 
 | |                |                   |          |
 |---------------------------------------------|----------------|-------------------|----------|
-|Air Bladder                                  |5               |Large Trap         |20        |
-|Bellows                                      |10              |Large Sponge       |5         |
-|Bedroll                                      |5               |Lens               |10        |
-|Book                                         |50              |Lockpicks          |25        |
-|Bucket                                       |5               |Manacles           |10        |
-|Caltrops                                     |10              |Metal File         |5         |
-|Cart (+4 slots, bulky)                       |30              |Mirror             |5         |
-|Chain (10ft)                                 |10              |Mule (+6 slots, slow)|30      |
-|Chalk                                        |1               |Net                |10        |
-|Chisel                                       |5               |Oilskin Bag        |5         |
-|Cook Pots                                    |10              |Pick               |10        |
-|Crowbar                                      |10              |Pulley             |10        |
-|Drill (Manual)                               |10              |Pole (10ft)        |5         |
-|Face Paint                                   |10              |Quill & Ink        |10        |
-|Fire Oil                                     |10              |Rations (three day's worth)|10        |
-|Fishing Rod                                  |10              |Rope (25ft)        |5         |
-|Glass Marbles                                |5               |Saw                |5         |
-|Glue                                         |5               |Sack               |5         |
-|Grease                                       |10              |Shovel             |5         |
-|Grappling Hook                               |25              |Soap               |1         |
-|Hammer                                       |5               |Spike              |1         |
-|Holy Water                                   |25              |Spiked Boots       |5         |
-|Horn                                         |10              |Spyglass           |40        |
-|Horse (+4 slots)                             |75              |Tar                |10        |
-|Hourglass                                    |50              |Tent (fits 2 people, bulky)|20        |
-|Incense                                      |10              |Torch              |1         |
-|Ladder (bulky, 10ft)                         |10              |Wagon (+8 slots, slow)|200    |
-|Lantern & Oil                                |10              |Wolfsbane          |10        |
+|充气囊                                        |5               |大型陷阱             |20        |
+|风箱                                          |10              |大海绵               |5         |
+|睡袋                                          |5               |镜片                 |10        |
+|书                                            |50              |开锁工具             |25        |
+|水桶                                          |5               |镣铐                 |10        |
+|菱铁蒺藜                                      |10              |金属锉刀             |5         |
+|推车（+4 格，笨重）                           |30              |镜子                 |5         |
+|链条（10ft）                                  |10              |骡子（+6 格，缓慢）  |30        |
+|粉笔                                          |1               |网                   |10        |
+|凿子                                          |5               |油布袋               |5         |
+|烹饪锅                                        |10              |鹤嘴锄               |10        |
+|撬棍                                          |10              |滑轮                 |10        |
+|手动钻                                        |10              |长杆（10ft）          |5         |
+|脸彩                                          |10              |羽毛笔与墨水          |10        |
+|火油                                          |10              |口粮（三天份）        |10        |
+|钓鱼竿                                        |10              |绳子（25ft）          |5         |
+|玻璃弹珠                                      |5               |锯                   |5         |
+|胶水                                          |5               |袋子                 |5         |
+|油脂                                          |10              |铲子                 |5         |
+|抓钩                                          |25              |肥皂                 |1         |
+|锤子                                          |5               |尖桩                 |1         |
+|圣水                                          |25              |钉靴                 |5         |
+|号角                                          |10              |望远镜               |40        |
+|马（+4 格）                                   |75              |焦油                 |10        |
+|沙漏                                          |50              |帐篷（可容纳 2 人，笨重）|20      |
+|熏香                                          |10              |火把                 |1         |
+|梯子（笨重，10ft）                            |10              |马车（+8 格，缓慢）   |200       |
+|提灯与油                                      |10              |乌头                 |10        |
 
 <p></p>
 
-## Optional Gear Packages
+## 可选装备包 {#optional-gear-packages}
 
-#### Cleric
+#### 牧师
 
 |                                   |
 | --------------------------------- |
-| War Hammer (d10, bulky)           |
-| Chainmail (2 Armor, bulky)        |
-| Gauntlets (+1 Armor)              |
-| Cleansing Blade (d6)              |
-| Holy Symbol (_Ward_ once per day) |
-| Cloak of the Order                |
+| 战锤（d10，笨重）                 |
+| 锁子甲（2 护甲，笨重）            |
+| 臂铠（+1 护甲）                   |
+| 净化之刃（d6）                    |
+| 圣徽（**结界**，每天一次）       |
+| 教团斗篷                          |
 
-#### Dowser
+#### 探矿者
 
 |                                           |
 |-------------------------------------------|
-|Sickle (d6)                                |
-|Patchwork Doublet (+1 Armor)               |
-|Dowsing Rod                                |
-|Eyestone (_Sense_ if placed in fresh water)|
-|Worn Map                                   |
-|Spyglass                                   |
+|镰刀（d6）                                 |
+|拼布双排扣外套（+1 护甲）                  |
+|探矿杖                                     |
+|眼石（放入淡水时施放**感知**）             |
+|旧地图                                     |
+|望远镜                                     |
 
-#### Dwarf
-
-||
-|-----------------------------------------|
-|Prickly Root (d6)                        |
-|Pinecone Lattice (1 Armor)               |
-|Trowel                                   |
-|Jar of Forest Ants                       |
-|Poisonous mushroom                       |
-|Hand Drill                               |
-
-#### Elf
+#### 矮人
 
 ||
 |-----------------------------------------|
-|Elegant Sword (d8)                       |
-|Recurve Bow (d8)                         |
-|Gilt Clothing (1 Armor)                  |
-|Spellbook (_Charm_ or _Detect Magic_)    |
-|Golden Flute                             |
-|Air Bladder                              |
+|多刺根（d6）                             |
+|松果格栅（1 护甲）                       |
+|园艺铲                                   |
+|森林蚂蚁罐                               |
+|有毒蘑菇                                 |
+|手钻                                     |
 
-#### Fighter
+#### 精灵
+
+||
+|-----------------------------------------|
+|优雅之剑（d8）                           |
+|反曲弓（d8）                             |
+|镀金衣物（1 护甲）                      |
+|法术书（**魅惑**或**探测魔法**）        |
+|金笛                                     |
+|充气囊                                   |
+
+#### 战士
 
 ||
 |---------------------------------------|
-|Glaive (d10, bulky)                    |
-|Scimitar (d8)                          |
-|Shortsword (d6)                        |
-|Shortsword (d6)                        |
-|Tobacco Pouch & Pipe                   |
-|Dice Set                               |
+|长柄刀（d10，笨重）                    |
+|弯刀（d8）                             |
+|短剑（d6）                             |
+|短剑（d6）                             |
+|烟草袋与烟斗                           |
+|骰子                                   |
 
-#### Friar
+#### 修士
 
 ||
 |-------------------------------|
-|Scepter (d6)                   |
-|Deceptive Robes (+1 Armor)     |
-|Censer & Holy Water            |
-|Jug of Honey Wine              |
-|Folk Songbook                  |
-|Cart (+4 slots, bulky)         |
+|权杖（d6）                     |
+|欺诈长袍（+1 护甲）           |
+|香炉与圣水                    |
+|蜂蜜酒壶                      |
+|民谣集                        |
+|推车（+4 格，笨重）           |
 
-#### Knight
+#### 骑士
 
 |                            |
 | -------------------------- |
-| Longsword (d10, bulky)     |
-| Chainmail (2 Armor, bulky) |
-| Helmet (+1 Armor)          |
-| Heraldic Cape              |
-| Manacles                   |
-| Fine Rope                  |
+| 长剑（d10，笨重）          |
+| 锁子甲（2 护甲，笨重）     |
+| 头盔（+1 护甲）             |
+| 徽记斗篷                   |
+| 镣铐                       |
+| 精制绳索                   |
 
-#### Magic User
-
-||
-|-----------------------------------------|
-|Fizzled Staff (d8, bulky)                |
-|Dagger (d6)                              |
-|Spellbook (random spell)                 |
-|Spellbook (random spell)                 |
-|Ragged Clothing (hidden pockets)         |
-|Leycap (x2, see **Relics**)              |
-
-#### Thief
+#### 施法者
 
 ||
 |-----------------------------------------|
-|Two daggers (d6+d6)                      |
-|Hooded Jerkin (1 Armor)                  |
-|Lockpicks                                |
-|Caltrops                                 |
-|Grappling Hook                           |
-|Metal File                               |
+|哑火法杖（d8，笨重）                    |
+|匕首（d6）                               |
+|法术书（随机法术）                      |
+|法术书（随机法术）                      |
+|破旧衣物（隐藏口袋）                    |
+|界帽（x2，见**遗物**）                  |
 
-#### Ranger
+#### 盗贼
+
+||
+|-----------------------------------------|
+|两把匕首（d6+d6）                       |
+|兜帽短褂（1 护甲）                      |
+|开锁工具                                 |
+|菱铁蒺藜                                 |
+|抓钩                                     |
+|金属锉刀                                 |
+
+#### 游侠
 
 ||
 |------------------------------------------|
-|Longbow (d8, bulky)                       |
-|Hatchet (d6)                              |
-|Padded Leathers (1 Armor)                 |
-|Large Trap                                |
-|Bloodhound &#124; 2 HP, 12 DEX, bite (d6) |
-|Thundering Horn                           |
+|长弓（d8，笨重）                         |
+|手斧（d6）                               |
+|软皮甲（1 护甲）                         |
+|大型陷阱                                 |
+|猎犬 &#124; 2 HP、12 DEX、撕咬（d6）    |
+|雷鸣号角                                 |
 
-[back to index](#index)
+[返回目录](#index)
 <p></p>
 
-## Rules
-### Abilities
-Each of the three **abilities** are used in different circumstances (see **saves**, below).
+## 规则 {#rules}
+### 属性
+三项**属性**分别用于不同的情况（见下文的**豁免**）。
 
-**Strength (STR)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
+**力量（STR）**：用于需要身体力量的豁免，例如抬起闸门、掰弯铁栅栏、抵抗毒素等。
 
-**Dexterity (DEX)**: Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
+**敏捷（DEX）**：用于需要身手、速度和反应的豁免，例如闪避、攀爬、潜行、保持平衡等。
 
-**Willpower (WIL)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.
+**意志（WIL）**：用于说服、欺骗、审问、恐吓、魅惑、挑衅、操纵法术等豁免。
 
-### Saves
-A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll equal to or under that ability score, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
+### 豁免 {#saves}
+豁免是为了避免危险选择和情境带来的负面结果而进行的掷骰。PC 为相应的属性掷 d20。如果结果等于或低于该属性，则成功；否则失败。掷出 1 总是成功，掷出 20 总是失败。
 
 <details markdown="block">
   <summary>
-Expand For Example
+展开示例
  </summary>
- _Bea encounters a group of heavily-armed Goblins standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 DEX makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!_
+ 贝娅遇到一群全副武装的地精，它们正在一处隧道入口前站岗。她的玩家谨慎地规划路线，意识到贝娅的 **DEX 13**，潜行绕过守卫是最佳选择。她掷出 d20，结果为 10——成功！
 </details>
 
-### Healing
-Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. Ability loss (see **Critical Damage**) can usually be restored with a week's rest facilitated by a healer or other appropriate source of expertise. Some of these services are free, while magical or more expedient means of recovery may come at a cost.
+### 治疗 {#healing}
+休息片刻并喝点水可以恢复损失的 HP，但也会让队伍暴露在危险之中。属性损失（见**重伤**）通常可以通过一周的休养恢复，期间需要治疗者或其他合适的专业人士协助。有些治疗服务是免费的；魔法手段或更快速的恢复方式则可能需要付出代价。
 
-### Deprivation & Fatigue
-A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot). PCs can also gain Fatigue by **casting spells** or through events in the fiction.
+### 匮乏与疲劳 {#deprivation--fatigue}
+缺少关键需求（例如食物或休息）的 PC 无法恢复 HP 或属性值。处于匮乏超过一天的人，其物品栏每天增加一点**疲劳**。每点疲劳占用一格，直到他们得以恢复（例如在安全地点睡一整晚）才会消失。PC 也可能因**施放法术**或游戏世界中的事件获得疲劳。
 
-### Armor
-Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn.  
-No one can have more than 3 Armor.  
-Shields, gauntlets, and helms may provide additional benefits according to their use.
+### 护甲 {#armor}
+在计算 HP 所受伤害前，从伤害掷骰结果中减去目标的**护甲**值。盾牌和类似护甲会提供额外防御（例如 +1 护甲），但只有在手持或穿戴该物品时才有效。\
+任何人的护甲都不能超过 3。\
+盾牌、臂铠和头盔可以根据使用方式提供额外益处。
 
-### Reactions
-When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
+### 反应 {#reactions}
+当 PC 遇到对方态度不明显的 NPC 时，守望者可以掷 2d6，并查阅下表：
 
 | | | | | |
 | :-----: | :--: | :-----: | :--: | :--: |
 |    2    | 3-5  |   6-8   | 9-11 | 12      |
-| Hostile | Wary | Curious | Kind | Helpful |
+| 敌对    | 警惕 | 好奇    | 友善  | 乐于助人 |
 
-### Morale
-Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. Morale does not affect PCs.
+### 士气 {#morale}
+敌人在第一次出现伤亡，以及损失一半成员时，必须进行一次 WIL 豁免，以避免逃跑。某些群体可以使用首领的 WIL 代替自己的 WIL。孤立的敌人在 HP 降至 0 时必须进行豁免。士气不影响 PC。
 
-### Hirelings
-PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.
+### 雇工 {#hirelings}
+PC 可以雇佣**雇工**协助远征。要创建一名雇工，请为每项属性掷 3d6，然后给予他们 1d6 HP 和一件简单武器（d6），接着在[**角色创建**](#character-creation)表格上掷骰，进一步完善他们的形象。雇工每天的费用为 1-3gp，或者获得队伍找到的宝藏中的一份。
 
-### Wealth & Treasure
-The most common coin is the gold piece (gp), which is equal to 10 silver pieces (sp) and 100 copper pieces (cp).
+### 财富与宝藏 {#wealth--treasure}
+最常见的货币是金币（gp），一枚金币等于 10 枚银币（sp）和 100 枚铜币（cp）。
 
-Treasure is highly valuable, usually bulky, and rarely useful beyond its value. It can be a lure, taking PCs to exotic and even dangerous locations, and is often under the protection of intimidating foes.
+宝藏价值极高，通常很笨重，除了其价值之外很少有其他用途。它可以成为诱饵，把 PC 带向奇异甚至危险的地点，而且往往受到令人生畏的敌人保护。
 
-Villages, strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.
+村庄、要塞和停泊港会根据某件物品或商品在当地的稀缺程度和价值进行以物易物和交易。
 
-## Magic
-**Spellbooks** contain a single spell and take up one slot. They cannot be transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.
+## 魔法 {#magic}
+**法术书**包含一个法术，占用一格。它们无法抄录或制作；相反，它们通常是在坟墓、地城和庄园等地方找到的。
 
-Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence, or being legible only when held in moonlight.
+法术书有时会表现出奇异的性质或限制，例如打开时散发恶臭或非人间的气味、拥有与生俱来的智慧，或只有在月光下才能阅读。
 
-Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
+法术书会吸引那些觊觎其中奥术力量之人的注意；公开展示法术书通常被视为危险之举。
 
-**Scrolls** are similar to Spellbooks, however:
-- They do not take up an inventory slot.
-- They do not cause fatigue.
-- They disappear after one use.
+**卷轴**与法术书相似，但：
+- 不占用物品栏格。
+- 不会造成疲劳。
+- 使用一次后就会消失。
 
-### Casting Spells
-Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.
+### 施放法术 {#casting-spells}
+任何人都可以双手拿着法术书，大声读出其中内容来施放法术。之后，他们必须在物品栏中增加一点疲劳，占用一格。若有时间且处于安全之中，PC 可以强化法术的效果（例如影响多个目标、提升威力等），且无需额外代价。如果 PC 处于匮乏状态或身处危险，守望者可以要求 PC 进行一次 WIL 豁免，以避免施法产生不良影响。失败的后果应与法术原本的效果相当，可能包括增加疲劳、摧毁法术书、受伤，甚至死亡。
 
-### Relics
-**Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have a limited use, as well as a recharge condition. A few examples:
+### 遗物 {#relics}
+**遗物**是注入了魔法或法术力量的物品。它们不会造成疲劳。遗物通常有有限的使用次数，以及特定的充能条件。以下是一些例子：
 
-**Honeyclasp** , 3 charges. A rusted ring that shrinks the bearer to 6" tall. Recharge: place in a thimble-sized cup of royal jelly.
+**蜜糖扣**，3 次充能。一枚生锈的戒指，会将佩戴者缩小到 6" 高。充能：将它放入一个拇指大小的蜂王浆杯中。
 
-**Falconer's Friend** , 1 charge. A bolt-shaped wand carrying the _Haste_ spell. Recharge: fire from a crossbow and recover.
+**猎鹰人的朋友**，1 次充能。一根箭矢形状的魔杖，携带**加速**法术。充能：用弩射出它，然后回收。
 
-**Staff of Silence** , 1 charge. This blackened rod temporarily disables all magic within 50ft. Recharge: bathe in the light of a full moon.
+**寂静法杖**，1 次充能。这根烧黑的杖会暂时禁用 50ft 内的所有魔法。充能：沐浴在满月的月光下。
 
-**Leycap** , 1 use. Anyone ingesting this green-flecked mushroom loses a Fatigue, but is then required to make a WIL save to avoid its addictive properties. A fail leaves the PC deprived and unable to focus until they can eat another leycap, providing only a brief reprieve from the addiction.
+**界帽**，1 次使用。任何食用这种带有绿色斑点的蘑菇的人都会失去一点疲劳，但随后必须进行一次 WIL 豁免，以避免它的成瘾性。失败会使 PC 陷入匮乏，无法集中注意力，直到他们再次食用界帽；后者只能短暂缓解成瘾。
 
-## Combat
+## 战斗 {#combat}
 
-### Rounds
-The game typically plays without strict time accounting. In a fight or circumstance where timing is helpful, use rounds to keep track of when something occurs. A **round** is roughly ten seconds of in-game time and is comprised of turns.
+### 回合 {#rounds}
+游戏通常不会严格计算时间。在战斗或需要记录时机的情境中，使用回合记录事件发生的时间。一个**回合**大约代表游戏世界中的十秒，并由轮次组成。
 
-### Actions
-On their turn, a character may move up to 40ft and take up to one action. This may be casting a spell, attacking, making a second move, or some other reasonable action.
+### 行动 {#actions}
+角色在自己的轮次中可以移动最多 40ft，并进行至多一个行动。行动可以是施放法术、攻击、再次移动，或其他合理的行为。
 
-Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs.
+每回合，PC 都要在掷骰前声明自己要做什么。如果角色尝试危险的事情，守望者会要求合适的玩家或 NPC 进行豁免。
 
-### Turns
-The Warden will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a DEX save to act before their opponents.
-
-<details markdown="block">
-  <summary>
-Expand For Example
- </summary>
- _Bea has accidentally stumbled onto the stomping grounds of a massive Wood Troll. In order to make a move before the Troll, she makes a DEX save. She fails, and the Troll gets to attack first._
-</details>
-
-### Attacking & Damage
-The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Unarmed attacks always do 1d4 damage.
+### 轮次 {#turns}
+守望者会预告 NPC 或怪物最可能采取的行动。战斗开始时，每名 PC 都必须进行一次 DEX 豁免，才能先于对手行动。
 
 <details markdown="block">
   <summary>
-Expand For Example
+展开示例
  </summary>
- _The Wood Troll roars, swinging its club at Bea, who has 5 HP. The club does 1d10 damage and the Warden rolls a 4. They subtract 1 to account for Bea's  leather armor, leaving Bea with 2 HP remaining._
+ 贝娅意外闯入一只巨大森林巨魔的地盘。为了先于巨魔行动，她进行一次 DEX 豁免。她失败了，于是巨魔先发动攻击。
 </details>
 
-### Multiple Attackers
-If multiple attackers target the same foe, roll all damage dice and keep the single highest result.
+### 攻击与伤害 {#attacking--damage}
+攻击者掷出武器骰，减去目标的护甲，然后将剩余数值从对手的 HP 中扣除。徒手攻击总是造成 1d4 伤害。
 
-### Attack Modifiers
-If fighting from a position of weakness (such as through cover or with bound hands), the attack is **impaired** and the attacker must roll 1d4 damage regardless of the attacks damage die.
+<details markdown="block">
+  <summary>
+展开示例
+ </summary>
+ 森林巨魔咆哮着挥棒攻击拥有 5 HP 的贝娅。木棒造成 1d10 伤害，守望者掷出 4。减去贝娅皮甲提供的 1 点护甲后，她还剩 2 HP。
+</details>
 
-If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is **enhanced**, allowing the attacker to roll 1d12 damage instead of their normal die.
+### 多名攻击者 {#multiple-attackers}
+如果多名攻击者以同一敌人为目标，掷出所有伤害骰，只保留最高结果。
 
-### Dual Weapons
-If attacking with two weapons at the same time, roll both damage dice and keep the single highest result.
+### 攻击修正 {#attack-modifiers}
+如果战斗者处于不利位置（例如隔着掩体，或双手被捆住），攻击会被**削弱**，无论武器的伤害骰是什么，攻击者都必须掷 1d4 伤害。
 
-### Blast
-Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite. If unsure how many targets can be affected, roll the related damage die for a result.
+如果战斗者处于有利位置（例如面对无助的敌人，或通过大胆的机动取得优势），攻击会被**强化**，攻击者可以掷 1d12 伤害，而不是武器的通常伤害骰。
 
-### Critical Damage
-Damage that reduces a target's HP below zero decreases a target's STR by the amount remaining. They must then make a STR save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
+### 双持武器 {#dual-weapons}
+如果同时使用两把武器攻击，掷出两把武器的伤害骰，只保留最高结果。
 
-Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
+### 爆发 {#blast}
+具有**爆发**特性的攻击会影响指定区域内的所有目标，并分别为每个受影响的角色掷骰。爆发可以指爆炸、巨大的横扫攻击、陨石撞击等任何情况。如果不确定能影响多少目标，就掷相应的伤害骰，用结果确定数量。
 
-### Ability Score Loss
-If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious.
-Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
+### 重伤 {#critical-damage}
+使目标 HP 降至零以下的伤害，会按剩余数值降低目标的 STR。随后目标必须进行一次 STR 豁免，以避免受到**重伤**。此外，某些敌人会拥有特殊能力或效果，在目标重伤豁免失败时触发。
 
-### Scars
-When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](/cairn-srd#scars-1) table for more.
+遭受重伤的 PC 除了虚弱地爬行、挣扎求生之外什么也做不了。如果得到救助并休息，他们会稳定下来。如果无人治疗，他们会在一小时内死亡。
 
-### Unconsciousness & Death
-When a character dies, the player is free to create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
+### 属性损失 {#ability-score-loss}
+如果 PC 的 STR 降至 0，他们会死亡。如果 DEX 降至 0，他们会瘫痪。如果 WIL 降至 0，他们会陷入谵妄。
+DEX 和 WIL 完全损失会使角色无法行动，直到通过长期休养或非常手段恢复。
 
-### Detachments
-Large groups of similar combatants fighting together are treated as a single **detachment**. When a detachment takes critical damage, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
+### 创伤 {#scars}
+当伤害使 PC 的 HP 恰好降至 0 时，他们有时会发生不可逆的改变。详情见[**创伤**](/cairn-srd#scars-1)表。
 
-Attacks against detachments by individuals are **impaired** (excluding blast damage).  
-Attacks against individuals by detachments are **enhanced** and deal blast damage.
+### 失去意识与死亡 {#unconsciousness--death}
+角色死亡后，玩家可以自由创建一个新角色，或接管一名雇工。新角色会立即加入队伍，以减少休整时间。
 
-### Retreat
-Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
+### 分队 {#detachments}
+一起战斗的大群同类战士会被视为一个**分队**。分队受到重伤时，会被击溃或大幅削弱。STR 降至 0 时，分队被摧毁。
 
-### Scars
-When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the _total_ damage taken:
+个人对分队的攻击会被**削弱**（爆发伤害除外）。\
+分队对个人的攻击会被**强化**，并造成爆发伤害。
+
+### 撤退 {#retreat}
+从危急情境中逃跑总是需要一次成功的 DEX 豁免，以及一个可以安全逃往的目的地。
+
+### 创伤 {#scars-1}
+当一次攻击使 PC 的 HP 恰好降至 0 时，他们会受到独特的影响。根据承受的_总伤害_，查阅下表中的结果：
 
 |      |                                                              |
 |------ |---|
-| 1    | Lasting Scar: Roll 1d6 &#124; 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max HP, take the new result. |
-| 2    | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max HP, take the new result. |
-| 3    | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max HP. |
-| 4    | Broken Limb: Roll 1d6 &#124; 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended, roll 2d6. If the total is higher than your max HP, take the new result. |
-| 5    | Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max HP, take the new result. |
-| 6    | Reorienting Head Wound: Roll 1d6 &#124; 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current ability score, take the new result. |
-| 7    | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max DEX, take the new result. |
-| 8    | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a WIL save. If you pass, increase your max WIL by 1d4. |
-| 9    | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max WIL, take the new result. |
-| 10   | Sundered: An appendage is torn off, crippled or useless. The Warden will tell you which. Then, make a WIL save. If you pass, increase your max WIL by 1d6. |
-| 11   | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP. |
-| 12   | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
+| 1    | 持久创伤：掷 1d6 &#124; 1：颈部，2：双手，3：眼睛，4：胸口，5：双腿，6：耳朵。掷 1d6。如果总数高于你的最大 HP，采用新的结果。 |
+| 2    | 震荡打击：你头晕目眩、惊魂未定。描述你如何重新集中精神。掷 1d6。如果总数高于你的最大 HP，采用新的结果。 |
+| 3    | 重击：你被打飞，脸朝下摔落，气喘吁吁。你会一直处于匮乏，直到休息几小时。然后掷 1d6，将结果加到你的最大 HP。 |
+| 4    | 肢体骨折：掷 1d6 &#124; 1-2：腿，3-4：手臂，5：肋骨，6：头骨。愈合后掷 2d6。如果总数高于你的最大 HP，采用新的结果。 |
+| 5    | 染病：你受到一种恶心而令人不适的感染。康复后掷 2d6。如果总数高于你的最大 HP，采用新的结果。 |
+| 6    | 重新定位的头部创伤：掷 1d6 &#124; 1-2：STR，3-4：DEX，5-6：WIL。掷 3d6。如果总数高于你当前的属性值，采用新的结果。 |
+| 7    | 腿筋受伤：在获得严肃的帮助并休息之前，你几乎无法移动。恢复后掷 3d6。如果总数高于你的最大 DEX，采用新的结果。 |
+| 8    | 失聪：在找到非凡的救助前，你什么都听不见。无论如何，进行一次 WIL 豁免。如果成功，将你的最大 WIL 提高 1d4。 |
+| 9    | 头脑重创：你心灵中某个隐藏的部分被撞松了。掷 3d6。如果总数高于你的最大 WIL，采用新的结果。 |
+| 10   | 肢体断裂：一条肢体被撕下、残废或变得无用。守望者会告诉你是哪一条。然后进行一次 WIL 豁免。如果成功，将你的最大 WIL 提高 1d6。 |
+| 11   | 致命伤：你处于匮乏且无法行动。如果不接受治疗，你会在一小时内死亡。恢复后掷 2d6，将新结果作为你的最大 HP。 |
+| 12   | 注定之死：死亡似乎近在咫尺，但不知怎么你活了下来。如果你下一次针对重伤的豁免失败，你会悲惨地死去。如果成功，掷 3d6。如果总数高于你的最大 HP，采用新的结果。 |
 
-[back to index](#index)
+[返回目录](#index)
 <p></p>
 
-## Bestiary
+## 生物图鉴 {#bestiary}
 
-**Root Goblin**  
-4 HP, 8 STR, 14 DEX, 8 WIL, spear (d6)
-- Avoid combat unless they have the advantage (such as greater numbers).
-- Guard their stolen goods to the death.
-- Prize Spellbooks; willing to trade.
+**根地精**\
+4 HP、8 STR、14 DEX、8 WIL、长矛（d6）
+- 除非占据优势（例如人数更多），否则会避免战斗。
+- 至死守护偷来的财物。
+- 珍视法术书，愿意进行交易。
 
-**Hooded Men**  
-12 HP, 9 STR, 12 DEX, 14 WIL, leystaff (d8), a Spellbook (Choose one: _Charm_, _Hypnotize_, _Push/Pull_, Shield_)
-- The Watchers of the Wood; a cult that derive their power from leylines, rune stones, and the like.
-- Critical damage: leech a part of the victim's soul (1d4 WIL damage).
+**兜帽人**\
+12 HP、9 STR、12 DEX、14 WIL、界杖（d8）、一本法术书（任选其一：_魅惑_、_催眠_、_推/拉_、_盾牌_）
+- “森林守望者”；从地脉、符文石等事物中汲取力量的邪教。
+- 重伤：吸取受害者的一部分灵魂（1d4 WIL 伤害）。
 
-**Cobblehounds**  
-12 HP, 2 Armor, 14 STR, 1 DEX, 8 WIL, bite (d10)
-- Immobile constructs typically used as guardians to great tombs or artifacts.
-- Unaffected by mundane persuasion techniques - but do love a good bone.
+**石犬**\
+12 HP、2 护甲、14 STR、1 DEX、8 WIL、撕咬（d10）
+- 通常作为伟大坟墓或遗物的守卫，是无法移动的构装体。
+- 不受世俗的说服手段影响——但确实喜欢好骨头。
 
-**Wood Troll**   
-12 HP, 15 STR, 12 DEX, 7 WIL, claws and bite (d8+d8 blast)
-- As an action, can recover lost HP.
-- Critical damage: moss and twigs begin growing out of target's wounds.
+**森林巨魔**\
+12 HP、15 STR、12 DEX、7 WIL、利爪与撕咬（d8+d8，爆发）
+- 可以将一个行动用于恢复损失的 HP。
+- 重伤：苔藓和树枝开始从目标的伤口中生长出来。
 
-**Frost Elf**  
-14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), a Spellbook (Choose one: _Sleep_, _Teleport_, _Detect Magic_)
-- Beautiful, amoral, and long-lived.
-- Resistant to most forms of magic.
+**霜精灵**\
+14 HP、1 护甲、8 STR、13 DEX、14 WIL、冰柱匕首（d6）、一本法术书（任选其一：_睡眠_、_传送_、_探测魔法_）
+- 美丽、没有道德感且长寿。
+- 抵抗大多数形式的魔法。
 
-**Boggart**  
-3 HP, 4 STR, 17 DEX, 13 WIL
-- A wild, hairy trickster that takes pleasure in being a minor nuisance.
-- Prizes relics and shiny trinkets above all else but unwilling to trade for coin.
-- Boggarts have names that describe their true nature. Knowing their true name allows one to control a Boggart.
+**博格特**\
+3 HP、4 STR、17 DEX、13 WIL
+- 一种野性、毛茸茸的恶作剧者，以制造小麻烦为乐。
+- 最珍视遗物和闪亮的小饰品，却不愿意用它们交换钱币。
+- 博格特的名字会描述它们的真实本质。知道博格特的真名，就能控制它。
 
-### Creating Monsters
-Use the following template to model any more sophisticated Monster or NPC:
+### 创建怪物 {#creating-monsters}
+使用以下模板塑造更复杂的怪物或 NPC：
 
-**Name**  
-X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
-- Engaging descriptor of appearance or demeanor
-- Quirk, tactic, or peculiarity making this NPC unique
-- Special effect or critical damage consequence
+**姓名**\
+X HP、X 护甲、X STR、X DEX、X WIL、武器（dX、特殊物品、特性）
+- 能让外貌或举止变得鲜明的描述
+- 让这个 NPC 独一无二的怪癖、战术或特异之处
+- 特殊效果或重伤后果
 
-**General Principles**  
-Ability Scores: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary. Adjust as necessary.
-- Give average creatures 3 HP, give hardy ones 6 HP, and serious threats get 10+ HP.
-- Use flavor and style to help them stand out. Players will remember a pig-faced humanoid looking for his missing sheep more easily than a generic goblin archer.
-- Use critical damage to lean into the threat or strangeness of any aggressive NPC.
-- Remember that HP is **Hit Protection** , not Hit Points. It's a measure of resilience, luck, and gumption - not health.
+**一般原则**\
+属性值：3 代表不足，6 代表较弱，10 代表平均，14 代表突出，18 代表传奇。根据需要调整。
+- 普通生物给予 3 HP，强韧生物给予 6 HP，真正的威胁则给予 10+ HP。
+- 用风格和特色帮助它们脱颖而出。玩家更容易记住一个寻找失踪绵羊的猪脸类人生物，而不是一个普通的地精弓手。
+- 使用重伤来强化任何具有攻击性的 NPC 所带来的威胁或怪异感。
+- 记住，HP 是**命中防护**，而不是生命点数。它衡量的是韧性、运气和胆识，而不是健康。
 
-**Converting from OSR Games**
-- Give 1 HP per HD for most creatures.
-- Most humanoids have at least 4HP.
-- **Morale** can also be used as a baseline.
+**从 OSR 游戏转换**
+- 对大多数生物，每个 HD 给予 1 HP。
+- 大多数类人生物至少有 4 HP。
+- **士气**也可以作为基础参考。
 
-Some pointers:
-- Is it good at avoiding a hit? Give it HP.
-- Does it soak up damage? Give it Armor.
-- Is it strong? Give it a high **STR**.
-- Is it nimble? Give it high **DEX**.
-- Is it charismatic? Give it high **WIL**.
+一些提示：
+- 它擅长避开攻击吗？给它 HP。
+- 它能吸收伤害吗？给它护甲。
+- 它强壮吗？给它较高的 **STR**。
+- 它敏捷吗？给它较高的 **DEX**。
+- 它有魅力吗？给它较高的 **WIL**。
 
-Damage die are roughly the same, though armed attacks do at least 1d6 damage.
+伤害骰大致相同，不过武器攻击至少造成 1d6 伤害。
 
-[back to index](#index)
+[返回目录](#index)
 <p></p>
 
-## 100 Spells
+## 100 个法术
 
 |      |                                         |                                                              |
 | ---- | --------------------------------------- | ------------------------------------------------------------ |
-| 1    | [Adhere](#adhere)                       | An object is covered in extremely sticky slime.              |
-| 2    | [Anchor](#anchor)                       | A strong wire sprouts from your arms, affixing itself to two points within 50ft on each side. |
-| 3    | [Animate Object](#animate-object)       | An object obeys your commands as best it can.                |
-| 4    | [Anthropomorphize](#anthropomorphize)   | An animal either gains human intelligence or human appearance for one day. |
-| 5    | [Arcane Eye](#arcane-eye)               | You can see through a magical floating eyeball that flies around at your command. |
-| 6    | [Astral Prison](#astral-prison)         | An object is frozen in time and space within an invulnerable crystal shell. |
-| 7    | [Attract](#attract)                     | Two objects are strongly magnetically attracted to each other if they come within 10 feet. |
-| 8    | [Auditory Illusion](#auditory-illusion) | You create illusory sounds that seem to come from a direction of your choice. |
-| 9    | [Babble](#babble)                       | A creature must loudly and clearly repeat everything you think. It is otherwise mute. |
-| 10   | [Bait Flower](#bait-flower)             | A plant sprouts from the ground that emanates the smell of decaying flesh. |
-| 11   | [Beast Form](#beast-form)               | You and your possessions transform into a mundane animal.    |
-| 12   | [Befuddle](#befuddle)                   | A creature of your choice is unable to form new short-term memories for the duration of the spell. |
-| 13   | [Body Swap](#body-swap)                 | You switch bodies with a creature you touch. If one body dies, the other dies as well. |
-| 14   | [Charm](#charm)                         | A creature you can see treats you as a friend.               |
-| 15   | [Command](#command)                     | A target obeys a single three-word command that does not cause it harm. |
-| 16   | [Comprehend](#comprehend)               | You become fluent in all languages for a short while.        |
-| 17   | [Cone of Foam](#cone-of-foam)           | Dense foam sprays from your hand, coating the target.        |
-| 18   | [Control Plants](#control-plants)       | Nearby plants and trees obey you and gain the ability to move at a slow pace. |
-| 19   | [Control Weather](#control-weather)     | You may alter the type of weather at will, but you do not otherwise control it. |
-| 20   | [Cure Wounds](#cure-wounds)             | Restore 1d4 STR per day to a creature you can touch.         |
-| 21   | [Deafen](#deafen)                       | All nearby creatures are deafened.                           |
-| 22   | [Detect Magic](#detect-magic)           | You can see or hear nearby magical auras.                    |
-| 23   | [Disassemble](#disassemble)             | Any of your body parts may be detached and reattached at will, without causing pain or damage. You can still control them. |
-| 24   | [Disguise](#disguise)                   | You may alter the appearance of one character at will as long as they remain humanoid. Attempts to duplicate other characters will seem uncanny. |
-| 25   | [Displace](#displace)                   | An object appears to be up to 15ft from its actual position. |
-| 26   | [Earthquake](#earthquake)               | The ground begins shaking violently. Structures may be damaged or collapse. |
-| 27   | [Elasticity](#elasticity)               | Your body can stretch up to 10ft.                            |
-| 28   | [Elemental Wall](#elemental-wall)       | A straight wall of ice or fire 50ft long and 10ft high rises from the ground. |
-| 29   | [Filch](#filch)                         | A visible item teleports to your hands.                      |
-| 30   | [Flare](#flare)                         | A bright ball of energy fires a trail of light into the sky, revealing your location to friend or foe. |
-| 31   | [Fog Cloud](#fog-cloud)                 | A dense fog spreads out from you.                            |
-| 32   | [Frenzy](#frenzy)                       | A nearby creature erupts in a frenzy of violence.            |
-| 33   | [Gate](#gate)                           | A portal to a random plane opens.                            |
-| 34   | [Gravity Shift](#gravity-shift)         | You can change the direction of gravity, but only for yourself. |
-| 35   | [Greed](#greed)                         | A creature develops the overwhelming urge to possess a visible item of your choice. |
-| 36   | [Haste](#haste)                         | Your movement speed is tripled.                              |
-| 37   | [Hatred](#hatred)                       | A creature develops a deep hatred of another creature or group and wishes to destroy them. |
-| 38   | [Hear Whispers](#hear-whispers)         | You can hear faint sounds clearly.                           |
-| 39   | [Hover](#hover)                         | An object hovers, frictionless, 2ft above the ground. It can hold up to one humanoid. |
-| 40   | [Hypnotize](#hypnotize)                 | A creature enters a trance and will truthfully answer one yes or no question you ask it. |
-| 41   | [Icy Touch](#icy-touch)                 | A thick ice layer spreads across a touched surface, up to 10ft in radius. |
-| 42   | [Identify Owner](#identify-owner)       | Letters appear over the object you touch, spelling out the name of the object's owners, if there are any. |
-| 43   | [Illuminate](#illuminate)               | A floating light moves as you command.                       |
-| 44   | [Invisible Tether](#invisible-tether)   | Two objects within 10ft of each other cannot be moved more than 10ft apart. |
-| 45   | [Knock](#knock)                         | A nearby mundane or magical lock unlocks loudly.             |
-| 46   | [Leap](#leap)                           | You jump up to 10ft high, once.                              |
-| 47   | [Liquid Air](#liquid-air)               | The air around you becomes swimmable .                       |
-| 48   | [Magic Dampener](#magic-dampener)       | All nearby magical effects have their effectiveness halved.  |
-| 49   | [Manse](#manse)                         | A sturdy, furnished cottage appears for 12 hours. You can permit and forbid entry to it at will. |
-| 50   | [Marble Craze](#marble-craze)           | Your pockets are full of marbles, and will refill every 30 seconds. |
-| 51   | [Masquerade](#masquerade)               | A character's appearance and voice becomes identical to those of a character you touch. |
-| 52   | [Miniaturize](#miniaturize)             | A creature you touch is shrunk down to the size of a mouse.  |
-| 53   | [Mirror Image](#mirror-image)           | An illusory duplicate of yourself appears and is under your control. |
-| 54   | [Mirrorwalk](#mirrorwalk)               | A mirror becomes a gateway to another mirror that you looked into today. |
-| 55   | [Multiarm](#multiarm)                   | You temporarily gain an extra arm.                           |
-| 56   | [Night Sphere](#night-sphere)           | A 50ft wide sphere of darkness displaying the night sky appears before you. |
-| 57   | [Objectify](#objectify)                 | You become any inanimate object between the size of a grand piano and an apple. |
-| 58   | [Ooze Form](#ooze-form)                 | You become a living jelly.                                   |
-| 59   | [Pacify](#pacify)                       | A creature near you has an aversion to violence.             |
-| 60   | [Phobia](#phobia)                       | A nearby creature becomes terrified of an object of your choice. |
-| 61   | [Pit](#pit)                             | A pit 10ft wide and 10ft deep opens in the ground.           |
-| 62   | [Primal Surge](#primal-surge)           | A creature rapidly evolves into a future version of its species. |
-| 63   | [Push/Pull](#push/pull)                 | An object of any size is pulled directly towards you or pushed directly away from you with the strength of one man. |
-| 64   | [Raise Dead](#raise-dead)               | A skeleton rises from the ground to serve you. They are incredibly stupid and can only obey simple orders. |
-| 65   | [Raise Spirit](#raise-spirit)           | The spirit of a nearby corpse manifests and will answer 1 question. |
-| 66   | [Read Mind](#read-mind)                 | You can hear the surface thoughts of nearby creatures.       |
-| 67   | [Repel](#repel)                         | Two objects are strongly magnetically repelled from each other within 10 feet. |
-| 68   | [Scry](#scry)                           | You can see through the eyes of a creature you touched earlier today. |
-| 69   | [Sculpt Elements](#sculpt-elements)     | Inanimate material behaves like clay in your hands.          |
-| 70   | [Sense](#sense)                         | Choose one kind of object (key, gold, arrow, jug, etc). You can sense the nearest example. |
-| 71   | [Shield](#shield)                       | A creature you touch is protected from mundane attacks for one minute. |
-| 72   | [Shroud](#shroud)                       | A creature you touch is invisible until they move.           |
-| 73   | [Shuffle](#shuffle)                     | Two creatures you can see instantly switch places.           |
-| 74   | [Sleep](#sleep)                         | A creature you can see falls into a light sleep.             |
-| 75   | [Slick](#slick)                         | Every surface in a 30ft radius becomes extremely slippery.   |
-| 76   | [Smoke Form](#smoke-form)               | Your body becomes a living smoke that you can control.       |
-| 77   | [Sniff](#sniff)                         | You can smell even the faintest traces of scents.            |
-| 78   | [Snuff](#snuff)                         | The source of any mundane light you can see is instantly snuffed out. |
-| 79   | [Sort](#sort)                           | Inanimate items sort themselves according to categories you set. |
-| 80   | [Spectacle](#spectacle)                 | A clearly false but impressive illusion of your choice appears, under your control. It may be up to the size of a palace and has full motion and sound. |
-| 81   | [Spellsaw](#spellsaw)                   | A whirling blade flies from your chest, clearing any plant material in its way. It is otherwise harmless. |
-| 82   | [Spider Climb](#spider-climb)           | You can climb surfaces like a spider.                        |
-| 83   | [Summon Cube](#summon-cube)             | Once per second you may summon or banish a 3-foot-wide cube of earth. New cubes must be affixed to the earth or to other cubes. |
-| 84   | [Swarm](#swarm)                         | You become a swarm of crows, rats, or piranhas. You can only be harmed by blast attacks. |
-| 85   | [Telekinesis](#telekinesis)             | You may mentally 1 move item under 60lbs.                    |
-| 86   | [Telepathy](#telepathy)                 | Two creatures can hear each other's thoughts, no matter how far apart. |
-| 87   | [Teleport](#teleport)                   | An object or person you can see is transported from one place to another in a 50ft radius. |
-| 88   | [Target Lure](#target-lure)             | An object you touch becomes the target of any nearby spell.  |
-| 89   | [Thicket](#thicket)                     | A thicket of trees and dense brush up to 50ft wide suddenly sprouts up. |
-| 90   | [Summon Idol](#summon-idol)             | A carved stone statue the size of a mule rises from the ground. |
-| 91   | [Time Control](#time-control)           | Time in a 50ft bubble slows down or increases by 10% for 30 seconds. |
-| 92   | [True Sight](#true-sight)               | You see through all nearby illusions.                        |
-| 93   | [Upwell](#upwell)                       | A spring of seawater appears.                                |
-| 94   | [Vision](#vision)                       | You completely control what a creature sees.                 |
-| 95   | [Visual Illusion](#visual-illusion)     | A silent, immobile, room-sized illusion of your choice appears. |
-| 96   | [Ward](#ward)                           | A silver circle 50ft across appears on the ground. Choose one species that cannot cross it. |
-| 97   | [Web](#web)                             | Your wrists shoot thick webbing.                             |
-| 98   | [Widget](#widget)                       | A primitive version of a drawn tool or item appears before you and disappears after a short time. |
-| 99   | [Wizard Mark](#wizard-mark)             | Your finger can shoot a stream of ulfire-colored paint. This paint is only visible to you and can be seen at any distance, even through solid objects. |
-| 100  | [X-Ray Vision](#x-ray-vision)           | You can see through walls, dirt, clothing, etc.              | 
+| 1    | [黏附](#adhere)                         | 一件物品被极其黏稠的黏液覆盖。                              |
+| 2    | [锚定](#anchor)                         | 一根坚固的金属线从你的手臂上长出，分别固定在两侧 50ft 内的两个点上。 |
+| 3    | [物体活化](#animate-object)             | 一件物品会尽力服从你的命令。                                |
+| 4    | [拟人化](#anthropomorphize)             | 一只动物在一天内获得人类的智力或外貌。                       |
+| 5    | [奥术之眼](#arcane-eye)                 | 你可以透过一只按照你的命令四处飞行的魔法浮空眼球看见事物。    |
+| 6    | [星界牢笼](#astral-prison)              | 一件物品在坚不可摧的水晶外壳中被冻结于时空之中。             |
+| 7    | [吸引](#attract)                         | 两件物品进入 10 英尺范围内时，会受到强大磁力的相互吸引。       |
+| 8    | [听觉幻象](#auditory-illusion)           | 你制造出听起来仿佛来自任意方向的幻觉声音。                   |
+| 9    | [胡言](#babble)                          | 一名生物必须大声而清晰地重复你所想的一切。除此之外，它无法说话。 |
+| 10   | [诱饵花](#bait-flower)                   | 一株植物从地面长出，散发腐肉的气味。                         |
+| 11   | [野兽形态](#beast-form)                  | 你和你的物品变成一只普通动物。                              |
+| 12   | [困惑](#befuddle)                        | 在法术持续期间，你选择的一名生物无法形成新的短期记忆。     |
+| 13   | [身体互换](#body-swap)                   | 你与触碰到的一名生物交换身体。如果其中一具身体死亡，另一具也会死亡。 |
+| 14   | [魅惑](#charm)                           | 一名你能看见的生物会把你当作朋友。                           |
+| 15   | [命令](#command)                         | 目标会服从一条不会伤害自己的三个词的命令。                   |
+| 16   | [理解语言](#comprehend)                  | 你会在短时间内流利掌握所有语言。                             |
+| 17   | [泡沫之锥](#cone-of-foam)                | 浓密泡沫从你的手中喷出，覆盖目标。                           |
+| 18   | [控制植物](#control-plants)              | 附近的植物和树木会服从你，并获得缓慢移动的能力。             |
+| 19   | [控制天气](#control-weather)             | 你可以随意改变天气类型，但无法进一步控制天气。               |
+| 20   | [治疗伤口](#cure-wounds)                 | 每天为你能触碰到的一名生物恢复 1d4 STR。                     |
+| 21   | [失聪](#deafen)                          | 附近的所有生物都会失聪。                                     |
+| 22   | [探测魔法](#detect-magic)                | 你能看见或听见附近的魔法灵光。                               |
+| 23   | [拆解](#disassemble)                     | 你身体的任何部位都可以随意拆下和装回，不会造成疼痛或伤害。你仍然可以控制它们。 |
+| 24   | [伪装](#disguise)                        | 只要保持类人生物的形态，你就可以随意改变一个角色的外貌。试图复制其他角色时会显得诡异。 |
+| 25   | [错位](#displace)                        | 一件物品看起来最多偏离实际位置 15ft。                        |
+| 26   | [地震](#earthquake)                      | 地面开始剧烈震动。建筑物可能受损或倒塌。                     |
+| 27   | [弹性](#elasticity)                      | 你的身体可以拉伸至 10ft。                                   |
+| 28   | [元素之墙](#elemental-wall)              | 一面 50ft 长、10ft 高的笔直冰墙或火墙从地面升起。            |
+| 29   | [偷窃](#filch)                           | 一件可见的物品传送到你的手中。                               |
+| 30   | [闪光](#flare)                           | 一颗明亮的能量球向天空射出一道光迹，向朋友或敌人暴露你的位置。 |
+| 31   | [雾云术](#fog-cloud)                     | 浓雾从你身边扩散开来。                                       |
+| 32   | [狂乱](#frenzy)                          | 附近的一名生物爆发出暴力狂乱。                               |
+| 33   | [界门](#gate)                            | 一扇通往随机位面的传送门开启。                               |
+| 34   | [重力转移](#gravity-shift)               | 你可以改变重力方向，但只能影响自己。                         |
+| 35   | [贪婪](#greed)                           | 一名生物产生占有你选择的可见物品的强烈冲动。                 |
+| 36   | [加速](#haste)                           | 你的移动速度变为三倍。                                       |
+| 37   | [憎恨](#hatred)                          | 一名生物对另一名生物或团体产生深切的憎恨，并渴望摧毁他们。   |
+| 38   | [听见低语](#hear-whispers)               | 你可以清楚地听见微弱的声音。                                 |
+| 39   | [悬浮](#hover)                           | 一件物品在离地 2ft 的位置无摩擦地悬浮。它最多可以承载一名类人生物。 |
+| 40   | [催眠](#hypnotize)                       | 一名生物进入恍惚状态，并会如实回答你提出的一个是非问题。     |
+| 41   | [冰冷之触](#icy-touch)                   | 厚厚的冰层覆盖被触碰的表面，半径最多 10ft。                  |
+| 42   | [辨认主人](#identify-owner)              | 你触碰的物品上方会出现字母，拼出该物品所有者的姓名（如果有所有者）。 |
+| 43   | [照明](#illuminate)                      | 一盏浮空的灯会按照你的命令移动。                             |
+| 44   | [隐形系链](#invisible-tether)            | 彼此相距 10ft 内的两件物品无法被移动到相距超过 10ft 的地方。 |
+| 45   | [敲击](#knock)                           | 附近的一把世俗或魔法锁会发出巨响并解锁。                     |
+| 46   | [跳跃](#leap)                            | 你可以跳到 10ft 高处，一次。                                |
+| 47   | [液态空气](#liquid-air)                  | 你周围的空气变得可以游泳。                                   |
+| 48   | [魔法阻尼](#magic-dampener)              | 附近所有魔法效果的效力减半。                                 |
+| 49   | [庄园](#manse)                           | 一座坚固而配备家具的小屋会出现 12 小时。你可以随意允许或禁止进入。 |
+| 50   | [弹珠狂热](#marble-craze)                | 你的口袋装满弹珠，并会每 30 秒重新装满。                     |
+| 51   | [假面](#masquerade)                      | 一个角色的外貌和声音变得与被你触碰的角色完全相同。           |
+| 52   | [缩小](#miniaturize)                     | 你触碰的一名生物缩小到老鼠大小。                             |
+| 53   | [镜像](#mirror-image)                    | 一个你的幻象复制体出现，并受你控制。                         |
+| 54   | [镜行](#mirrorwalk)                      | 一面镜子变成通往另一面镜子的门，而你今天曾照过那面镜子。     |
+| 55   | [多臂](#multiarm)                        | 你暂时获得一条额外的手臂。                                   |
+| 56   | [黑夜球](#night-sphere)                  | 一个宽 50ft、展现夜空的黑暗球体出现在你面前。                |
+| 57   | [物体化](#objectify)                     | 你变成一件尺寸介于三角钢琴和苹果之间的无生命物品。           |
+| 58   | [凝胶形态](#ooze-form)                   | 你变成一团有生命的凝胶。                                     |
+| 59   | [安抚](#pacify)                          | 你附近的一名生物会厌恶暴力。                                 |
+| 60   | [恐惧症](#phobia)                        | 你附近的一名生物会恐惧你选择的一件物品。                     |
+| 61   | [深坑](#pit)                             | 地面上出现一个宽 10ft、深 10ft 的坑。                        |
+| 62   | [原始突变](#primal-surge)                | 一名生物迅速进化为其物种未来的形态。                         |
+| 63   | [推/拉](#push/pull)                       | 无论大小，一件物品都会以一个人的力量直接向你拉来，或直接推离你。 |
+| 64   | [起死回生](#raise-dead)                  | 一具骷髅从地面升起为你服务。它们极其愚蠢，只能服从简单的命令。 |
+| 65   | [召回灵魂](#raise-spirit)                | 附近尸体的灵魂显现，并会回答 1 个问题。                     |
+| 66   | [读心](#read-mind)                       | 你可以听见附近生物的表层思想。                               |
+| 67   | [排斥](#repel)                           | 两件物品在 10 英尺内会受到强大磁力的相互排斥。                  |
+| 68   | [占卜](#scry)                            | 你可以透过今天早些时候触碰过的一名生物的眼睛看见事物。       |
+| 69   | [塑造元素](#sculpt-elements)             | 无生命的材料在你的手中如黏土般任你塑形。                     |
+| 70   | [感知](#sense)                           | 选择一种物品（钥匙、金币、箭、壶等）。你可以感知最近的同类物品。 |
+| 71   | [盾牌](#shield)                          | 你触碰的一名生物在一分钟内受到保护，不会受到世俗攻击。       |
+| 72   | [遮蔽](#shroud)                          | 你触碰的一名生物会隐形，直到它移动为止。                     |
+| 73   | [置换](#shuffle)                         | 两名你能看见的生物立即交换位置。                             |
+| 74   | [睡眠](#sleep)                           | 一名你能看见的生物陷入浅睡。                                 |
+| 75   | [光滑](#slick)                           | 半径 30ft 内的每个表面都会变得极其光滑。                     |
+| 76   | [烟雾形态](#smoke-form)                  | 你的身体变成可以控制的有生命烟雾。                           |
+| 77   | [嗅探](#sniff)                           | 你可以闻到哪怕最微弱的气味痕迹。                             |
+| 78   | [熄灭](#snuff)                           | 你能看见的任何世俗光源都会立即熄灭。                         |
+| 79   | [分类](#sort)                            | 无生命物品会按照你设定的类别自行分类。                       |
+| 80   | [奇观](#spectacle)                       | 一个明显虚假但令人印象深刻的幻象按你的选择出现，并受你控制。它最多可以达到宫殿大小，拥有完整的动作和声音。 |
+| 81   | [法术锯](#spellsaw)                      | 一把旋转的刀刃从你胸口飞出，清除沿途的一切植物材料。除此之外，它没有危险。 |
+| 82   | [蜘蛛攀爬](#spider-climb)                | 你可以像蜘蛛一样攀爬表面。                                   |
+| 83   | [召唤方块](#summon-cube)                 | 你每秒可以召唤或驱散一个宽 3-foot 的土方块。新方块必须固定在大地或其他方块上。 |
+| 84   | [群聚](#swarm)                           | 你变成一群乌鸦、老鼠或食人鱼。你只能受到爆发攻击的伤害。     |
+| 85   | [心灵遥控](#telekinesis)                 | 你可以用意念移动 1 件不超过 60lbs 的物品。                   |
+| 86   | [心灵感应](#telepathy)                   | 无论相距多远，两名生物都能听见彼此的思想。                   |
+| 87   | [传送](#teleport)                        | 你能看见的一件物品或一名生物，会在 50ft 半径内从一处传送到另一处。 |
+| 88   | [目标诱饵](#target-lure)                 | 你触碰的一件物品会成为附近任何法术的目标。                   |
+| 89   | [荆棘林](#thicket)                       | 一片宽达 50ft、由树木和茂密灌木组成的灌木丛突然生长出来。    |
+| 90   | [召唤偶像](#summon-idol)                 | 一尊骡子大小的雕刻石像从地面升起。                           |
+| 91   | [时间控制](#time-control)                | 50ft 气泡范围内的时间在 30 秒内变慢或加快 10%。               |
+| 92   | [真视](#true-sight)                      | 你能看穿附近所有的幻象。                                     |
+| 93   | [涌泉](#upwell)                          | 一股海水泉涌现。                                             |
+| 94   | [视界](#vision)                          | 你完全控制一名生物所看见的内容。                             |
+| 95   | [视觉幻象](#visual-illusion)              | 一个无声、静止、房间大小的幻象按你的选择出现。               |
+| 96   | [结界](#ward)                            | 地面上出现一个直径 50ft 的银色圆圈。选择一个无法穿过它的物种。 |
+| 97   | [蛛网](#web)                             | 厚厚的蛛网从你的手腕射出。                                   |
+| 98   | [小工具](#widget)                        | 一件绘制出的工具或物品的原始版本出现在你面前，并在短时间后消失。 |
+| 99   | [巫师印记](#wizard-mark)                 | 你的手指可以射出一道乌火色涂料。只有你能看见这种涂料；即使隔着固体物品、相距任何距离，也能看见它。 |
+| 100  | [X 射线视觉](#x-ray-vision)              | 你可以看穿墙壁、泥土、衣物等。                               |
 
-[back to index](#index)
+[返回目录](#index)
 <p></p>
 
-# Rules Summary
+# 规则摘要
 
-**ACTIONS**  
-On their turn, a character may move up to 40ft and take up to one action. Actions may include casting a spell, attacking, making a second move, or other reasonable activities. Actions, attacks, and movements take place simultaneously. Whenever turn order is uncertain, the PCs should make a DEX save to see if they go before their enemies.
+**行动**\
+角色在自己的轮次中可以移动最多 40ft，并进行至多一个行动。行动可以是施放法术、攻击、再次移动，或其他合理的行为。行动、攻击和移动会同时发生。当轮次顺序不确定时，PC 应当进行 DEX 豁免，看看自己是否能先于敌人行动。
 
-**Retreating** from a dangerous situation always requires a successful DEX save, as well as a safe destination to run to.
+从危险情境中**撤退**总是需要一次成功的 DEX 豁免，以及一个可以安全逃往的目的地。
 
-**ABILITIES**  
-**STR:** Brawn, prowess & resistance.   
-**DEX:** Dodging, sneaking & reflexes.   
-**WIL:** Persuasion, intimidation & magic.
+**属性**\
+**STR：**力量、技艺与抵抗力。\
+**DEX：**闪避、潜行与反应。\
+**WIL：**说服、恐吓与魔法。
 
-**SAVES**
-- Roll a d20 equal to or under an ability.
-- 1 is always a success, 20 is always a failure.
+**豁免**
+- 掷 d20，结果等于或低于某项属性。
+- 1 总是成功，20 总是失败。
 
-**HIT PROTECTION**  
-**HP** indicates a PC's ability to avoid getting hurt. It is lost during combat & recovered after a few moment's rest.
+**命中防护**\
+**HP** 表示 PC 避免受伤的能力。它会在战斗中损失，并在休息片刻后恢复。
 
-**INVENTORY**  
-PCs have 10 inventory slots: four on their body and six in their backpack (which acts as a sleeping bag if emptied). Most items take up a one slot, but smaller items can be bundled. **Bulky** items take up two slots and are awkward or difficult to carry.
+**物品栏**\
+PC 有 10 个物品栏格：身体上四格，背包中六格（清空后可作为睡袋）。大多数物品占用一格，但较小的物品可以捆在一起。**笨重**物品占用两格，携带起来笨拙或困难。
 
-Filling all ten item slots reduces a PC to 0 HP. PCs cannot carry more than their inventory allows, though carts & horses may provide an increase in slots.
+填满全部十格物品栏会使 PC 的 HP 降至 0。PC 不能携带超过物品栏容量的物品，但推车和马匹可以增加格数。
 
-**DEPRIVATION**  
-**Deprived** PCs cannot recover HP. If deprived for more than a day,they add a **Fatigue** to inventory. Fatigue occupies one slot and lasts until they can recover in safety. This effect is cumulative.
+**匮乏**\
+处于**匮乏**的 PC 无法恢复 HP。处于匮乏超过一天后，每天都会在物品栏中增加一点**疲劳**。疲劳占用一格，直到角色能在安全处恢复为止。这种效果会累积。
 
-**HEALING**  
-A moment's rest and a swig of water will restore lost HP, but may leave the party vulnerable. **Ability** loss requires a week's rest and the aid of a skilled healer.
+**治疗**\
+休息片刻并喝一口水可以恢复损失的 HP，但也可能让队伍暴露在危险之中。**属性**损失需要一周的休养，以及熟练治疗者的帮助。
 
-**SPELLBOOKS**  
-Spellbooks contain a single spell and take up one item slot. Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. Casting a spell adds **Fatigue** to the PC's inventory.
+**法术书**\
+法术书包含一个法术，占用一格。任何人都可以双手拿着法术书，大声读出其中内容来施放法术。施放法术会在 PC 的物品栏中增加一点**疲劳**。
 
-Given time and safety, PCs can enhance a spell without any additional cost. If they are deprived or in danger, a WIL save may be required to avoid terrible consequences.
+若有时间且处于安全之中，PC 可以强化法术，且无需额外代价。如果他们处于匮乏或身处危险，可能需要进行 WIL 豁免，以避免可怕的后果。
 
-**COMBAT**  
-The attacker rolls their weapon die and subtracts the target's Armor, then deals the remaining total to their opponent's HP.
+**战斗**\
+攻击者掷出武器骰，减去目标的护甲，然后将剩余数值从对手的 HP 中扣除。
 
-Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provides a bonus defense (e.g. +1 Armor), but only while the item is held or worn.
+在计算 HP 所受伤害前，从伤害掷骰结果中减去目标的**护甲**值。盾牌和类似护甲会提供额外防御（例如 +1 护甲），但只有在手持或穿戴该物品时才有效。
 
-No one can have more than 3 Armor.
+任何人的护甲都不能超过 3。
 
-**Unarmed** attacks always do 1d4 damage. If **multiple attackers** target the same foe, roll all damage dice and keep the single highest result. If attacking with **two weapons** at the same time, roll both damage dice and keep the highest.
+**徒手**攻击总是造成 1d4 伤害。如果**多名攻击者**以同一敌人为目标，掷出所有伤害骰，只保留最高结果。如果同时使用**两把武器**攻击，掷出两把武器的伤害骰，只保留最高结果。
 
-If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack is **enhanced**, the attacker rolls 1d12. Attacks with the **blast** quality affect all area targets, rolling separately for each.
+如果攻击被**削弱**，无论武器是什么，伤害骰都会降为 1d4。如果攻击被**强化**，攻击者掷 1d12。具有**爆发**特性的攻击会影响区域内所有目标，并分别为每个目标掷骰。
 
-**DAMAGE**  
-If an attack reduces a PC’s HP exactly to 0, refer to the [**Scars**](/cairn-srd#scars-1) table.
+**伤害**\
+如果一次攻击使 PC 的 HP 恰好降至 0，请查阅[**创伤**](/cairn-srd#scars-1)表。
  
-Damage that reduces a target's HP **below** 0 decreases their STR by the remainder. They must then make a STR save to avoid **critical damage.** Failure takes them out of combat, dying if left untreated.
+使目标 HP **低于** 0 的伤害，会按剩余数值降低其 STR。随后目标必须进行一次 STR 豁免，以避免受到**重伤**。失败会使其失去战斗能力；如果无人治疗，他们会死亡。
 
-Having STR 0 means **death;** having DEX 0 is paralysis; having WIL 0 is delirium.
+STR 为 0 意味着**死亡**；DEX 为 0 意味着瘫痪；WIL 为 0 意味着谵妄。

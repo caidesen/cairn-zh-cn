@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Tools
+title: 工具
 parent: First Edition
 has_children: true
 redirect_from: /tools/
 ---
 
-# Tools
+# 工具
