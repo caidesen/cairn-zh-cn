@@ -2,421 +2,420 @@
 layout: default
 parent: Conversions
 grand_parent: Adventures
-title: The Incandescent Grottoes
+title: 辉耀洞窟
 ---
 
-# The Incandescent Grottoes
+# 辉耀洞窟 {#the-incandescent-grottoes}
 
-- Based on the [original work](https://www.google.com/url?q=https://necroticgnome.com/products/the-incandescent-grottoes) by Gavin Norman.
-- Conversion by csdip.
+- 根据 [Gavin Norman 创作的原作](https://www.google.com/url?q=https://necroticgnome.com/products/the-incandescent-grottoes)改编。
+- 转换：csdip。
 
-## General Notes
+## 总体说明 {#general-notes}
 
-- Any monsters with the same name as monsters in the list on the [Cairn website](https://www.google.com/url?q=https://cairnrpg.com/resources/monsters/&sa=D&source=editors&ust=1691702716820594&usg=AOvVaw231iSeVQTAB0mwEPAaypb5) are included with only cosmetic alterations.
+- 凡与 [Cairn 网站](https://www.google.com/url?q=https://cairnrpg.com/resources/monsters/&sa=D&source=editors&ust=1691702716820594&usg=AOvVaw231iSeVQTAB0mwEPAaypb5)怪物列表同名的怪物，仅作外观层面的改动。
 
-## Monsters or NPCs
+## 怪物与 NPC {#monsters-or-npcs}
 
-### Carcass Crawler
+### 食尸爬虫 {#carcass-crawler}
 
-#### Monster 1
+#### 怪物 1 {#monster-1}
 
-- 5 HP, 1 Armor, 14 STR, 11 DEX, Tentacles (Paralysis, blast)
-- 9’ Long, 3’ high, many-legged, segmented worms with a ring of 2’ long tentacles around their mouths.
-- A hit by a tentacle causes paralysis for 2d4 turns (WIL save); paralysed victims will be devoured, if the crawler is left in peace.
-- Can walk on walls and ceilings
+- 5 HP, 1 Armor, 14 STR, 11 DEX, 触手（麻痹，_爆发_）
+- 长 9'，高 3'，多足分节蠕虫，口周环绕一圈 2' 长的触手。
+- 触手命中会使目标麻痹 2d4 轮次（WIL 豁免）；若爬虫不受打扰，会吞食被麻痹的受害者。
+- 能在墙壁和天花板上行走。
 
-### Carcass Crawler Larva
+### 食尸爬虫幼体 {#carcass-crawler-larva}
 
-#### Monster 2
+#### 怪物 2 {#monster-2}
 
-- 2 HP, 10 STR, 8 DEX, Tentacle (Paralysis)
-- 2’ long pale, jittery, green maggots.
-- Live inside corpses while they mature.
-- Attack if their meal is disturbed; a hit causes paralysis for 1d4 turns.
+- 2 HP, 10 STR, 8 DEX, 触手（麻痹）
+- 2' 长、苍白、抽搐的绿色蛆虫。
+- 成熟前寄居在尸体内部。
+- 若其食物被打扰就会攻击；命中会使目标麻痹 1d4 轮次。
 
-### Cave Turtle
+### 洞穴龟 {#cave-turtle}
 
-#### Monster 3
+#### 怪物 3 {#monster-3}
 
-- 6 HP, 13 STR, 9 DEX, bite (d6)
-- Large, ghostly white turtle with pupilless, purple eyes.
-- Hides and attempts to drag its victims into water.
-- Critical: victim is dragged into the water.
+- 6 HP, 13 STR, 9 DEX, 撕咬（d6）
+- 巨大的幽灵般白色乌龟，紫色眼睛没有瞳孔。
+- 潜伏并试图把受害者拖进水里。
+- 重伤：受害者被拖入水中。
 
-### Centipede, Giant
+### 巨型蜈蚣 {#centipede-giant}
 
-#### Monster 4
+#### 怪物 4 {#monster-4}
 
-- 0 HP, 10 STR, 10 DEX, 3 WIL, bite (poison)
-- 1’ long centipedes that dwell in dark, damp locations.
-- Their poison causes victims to become horribly sick for d6 days (STR save): no physical activity possible except half speed movement.
-- Avoid light sources and bite only if cornered or attacked.
+- 0 HP, 10 STR, 10 DEX, 3 WIL, 撕咬（毒素）
+- 1' 长的蜈蚣，栖息在阴暗潮湿之处。
+- 其毒素使受害者严重病倒 d6 天（STR 豁免）：除半速移动外无法进行任何体力活动。
+- 躲避光源，只有被逼入绝境或遭到攻击时才会撕咬。
 
-### Coffer Corpse
+### 棺尸 {#coffer-corpse}
 
-#### Monster 5
+#### 怪物 5 {#monster-5}
 
-- 4 HP, 10 STR, 10 DEX, 12 WIL, grasp (d6)
-- Mummified, emaciated, bandage-wrapped corpse with malevolent, glowing, green eyes.
-- Silent until attacking and immune to mundane weapons and damage that would only affect living things (poison, disease, etc.), though the corpse will pretend to take damage if attacked in this way, rising again to terrify its attackers.
-- Critical (throttle): the corpse’s hands lock around the victim’s throat, inflicting d6 automatic damage each subsequent round.
+- 4 HP, 10 STR, 10 DEX, 12 WIL, 抓握（d6）
+- 干瘪、缠满绷带的木乃伊化尸体，眼中闪着恶毒的绿光。
+- 攻击前保持沉默；免疫凡俗武器，以及只对活物生效的伤害（毒素、疾病等）。不过若以此类方式攻击，尸体会假装受伤，再站起来恐吓攻击者。
+- 重伤（扼喉）：尸体的双手锁住受害者喉咙，此后每回合自动造成 d6 伤害。
 
-### Demon, Ooze
+### 软泥恶魔 {#demon-ooze}
 
-#### Monster 6
+#### 怪物 6 {#monster-6}
 
-- 7 HP, 2 Armor, 13 STR, 14 WIL, tendrils (2×d6, keep highest), thermokinesis (1d4 damage per round for 3 rounds), mind control (WIL save)
-- Conical ooze mound, putrid green with brown blobs, covered in slurping orifices of uncertain function.
-- Barbed tendrils lash relentlessly.
-- Mind control gives the ooze demon control of the victim for 1d6 rounds; if commanded to do acts against their nature or that are self-destructive, another save is made
+- 7 HP, 2 Armor, 13 STR, 14 WIL, 触须（2×d6，取较高），热动能（每回合 1d4 伤害，持续 3 回合），心灵控制（WIL 豁免）
+- 锥形软泥丘，腐臭的绿色夹杂棕色团块，表面布满功能不明、发出吮吸声的孔洞。
+- 带倒钩的触须不停抽打。
+- 心灵控制使软泥恶魔掌控受害者 1d6 回合；若命令其做出违背本性或自我毁灭的行为，则再进行一次豁免。
 
-### Dissolved One
+### 溶解者 {#dissolved-one}
 
-#### Monster 7
+#### 怪物 7 {#monster-7}
 
-- 4 HP,  9 STR, 9 DEX, disintegrating touch (d4)
-- Green humanoid jelly surrounding a human skull with glowing yellow eyes.
-- Slumps against walls until intruders arrive.
-- If touch attack reduces STR to 0, only the victim’s skull and equipment survive the disintegration, the skull reanimating as a Dissolved One in d6 days unless destroyed.
+- 4 HP, 9 STR, 9 DEX, 分解之触（d4）
+- 绿色类人胶状体包裹着一颗人类头骨，眼中闪着黄光。
+- 入侵者到来前软塌塌地靠在墙上。
+- 若触碰攻击将 STR 降至 0，分解后仅留下受害者的头骨与装备；除非被摧毁，否则头骨会在 d6 天后复活为一具溶解者。
 
-### Doppelganger
+### 拟形怪 {#doppelganger}
 
-#### Monster 8
+#### 怪物 8 {#monster-8}
 
-- 6 HP, 2 Armor, 12 STR, 12 DEX, bite (d8)
-- Intelligent, human-sized shape-shifters of wicked character and highly magical nature.
-- Will attempt to kill a PC, take on their role, then attack the party by surprise (e.g. during a battle).
-- Unaffected by sleep and charm.
+- 6 HP, 2 Armor, 12 STR, 12 DEX, 撕咬（d8）
+- 智慧、人类体型的变形者，性情邪恶，具有高度魔法本质。
+- 会试图杀死一名 PC，取而代之，再出其不意地攻击队伍（例如在战斗中）。
+- 不受睡眠和魅惑影响。
 
-### Dream Dragon
+### 梦境龙 {#dream-dragon}
 
-#### Monster 9
+#### 怪物 9 {#monster-9}
 
-- 8 HP, 1 Armor, 12 STR, breath (sleep, blast; 3 per day), bite (d8×2 keep highest), claw (d4×2 keep highest)
-- 15’ long wyrm, pearlescent scales, studded with glowing pink and green crystals.
-- Speaks rudimentary common, hissing and fuming.
-- If asleep, attacks against the dragon are Enhanced.
+- 8 HP, 1 Armor, 12 STR, 吐息（睡眠，_爆发_；每日 3 次），撕咬（d8×2 取较高），利爪（d4×2 取较高）
+- 15' 长的巨龙，鳞片珠光色，嵌满发光的粉绿水晶。
+- 会说粗浅的通用语，嘶嘶作响、喷着烟气。
+- 若处于睡眠中，对其发动的攻击得到_强化_。
 
-### Dwarf
+### 矮人 {#dwarf}
 
-#### Monster 10
+#### 怪物 10 {#monster-10}
 
-- 4 HP, 2 Armor, 14 STR, hammer (d8)
-- Short and bulky, bearded humanoids who dwell in mountains and underground.
-- Can see perfectly in low-light and partially in darkness.
-- Highly resistant to poison and disease.
+- 4 HP, 2 Armor, 14 STR, 战锤（d8）
+- 矮小结实、蓄须的类人，栖息在山地与地下。
+- 在低光下能完美视物，在黑暗中也能部分视物。
+- 对毒素和疾病有极强抗性。
 
-### Floating Bubbles
+### 漂浮泡泡 {#floating-bubbles}
 
-#### Monster 11
+#### 怪物 11 {#monster-11}
 
-- 5 HP, 2 Armor, 10 STR, 12 DEX, bubble stream (d3, WIL save or a random magic item carried explodes dealing d6 damage)
-- Mass of floating, bright pink, opaque, slowly rotating bubbles with a potent ammonia smell.
-- Can seep through small spaces.
-- Mindlessly seeks to destroy life.
+- 5 HP, 2 Armor, 10 STR, 12 DEX, 泡流（d3，WIL 豁免失败则随身一件随机魔法物品爆炸，造成 d6 伤害）
+- 一团漂浮、亮粉色、不透明、缓慢旋转的泡泡，散发强烈的氨水气味。
+- 能渗过狭小缝隙。
+- 毫无心智地寻求毁灭生命。
 
-### Frog, Giant Mutant
+### 巨型变异蛙 {#frog-giant-mutant}
 
-#### Monster 12
+#### 怪物 12 {#monster-12}
 
-- 3 HP, 1 Armor, 11 STR, 13 DEX, 8 WIL, talons (2d2), bite (d4+1)
-- Bulbous, slimy, and riddled with tumors.
-- Engage in ritual battles with one another to assert dominance.
-- Critical: knock victim to the ground.
+- 3 HP, 1 Armor, 11 STR, 13 DEX, 8 WIL, 利爪（2d2），撕咬（d4+1）
+- 臃肿、黏滑，遍布肿瘤。
+- 彼此进行仪式性搏斗以确立支配地位。
+- 重伤：将受害者击倒在地。
 
-### Gelatinous Squirm
+### 凝胶蠕体 {#gelatinous-squirm}
 
-#### Monster 13
+#### 怪物 13 {#monster-13}
 
-- 4 HP, 10 STR, 12 DEX, bite (d3)
-- 4’ translucent, slug-like, slimy thing.
-- Lurks on ceilings.
-- Mindlessly hungers for living flesh, dropping on anything that walks by.
+- 4 HP, 10 STR, 12 DEX, 撕咬（d3）
+- 4' 长、半透明、蛞蝓般的黏滑生物。
+- 潜伏在天花板上。
+- 毫无心智地渴求活肉，会砸向任何路过者。
 
-### Gibbering Mouther
+### 呓语之口 {#gibbering-mouther}
 
-#### Monster 14
+#### 怪物 14 {#monster-14}
 
-- 6 HP, 3 armor, 10 STR, 12 DEX, bite (d6, blast), gibbering (WIL save or victims are maddened - roll d8 (1=move randomly, 2-5 no action, 6-7 attack nearest creature, 8 flee))
-- Mound of rubbery jelly covered in hundreds of deranged eyes and mouths, appearing to be an earthen mound while motionless.
-- Waits for victims to approach before gibbering.
-- Critical: victim makes a DEX save or slips on the mouther’s ooze.
+- 6 HP, 3 Armor, 10 STR, 12 DEX, 撕咬（d6，_爆发_），呓语（WIL 豁免失败则受害者陷入疯狂——掷 d8（1=随机移动，2-5 无行动，6-7 攻击最近的生物，8 逃跑））
+- 一堆覆满数百只狂乱眼与口的橡胶状凝胶，静止时看起来像土丘。
+- 等受害者靠近后才开始呓语。
+- 重伤：受害者进行 DEX 豁免，失败则在呓语之口的黏液上滑倒。
 
-### Guard
+### 守卫 {#guard}
 
-#### Monster 15
+#### 怪物 15 {#monster-15}
 
-- 3 HP, 1 Armor, 13 STR, 12 DEX, 9 WIL, shield, spear (d8)
-- Humanoid Hireling.
-- Works for the coin.
-- Critical: before the Guard’s next turn, the victim’s next save is impaired or the next attack on them is enhanced
+- 3 HP, 1 Armor, 13 STR, 12 DEX, 9 WIL, 盾牌、长矛（d8）
+- 类人雇工。
+- 为金币效力。
+- 重伤：在守卫的下一回合之前，受害者的下一次豁免受到_削弱_，或下一次对其发动的攻击得到_强化_。
 
-### Imperial Prismist
+### 帝国棱晶师 {#imperial-prismist}
 
-#### Monster 16
+#### 怪物 16 {#monster-16}
 
-- 7 HP, 8 STR, 11 DEX, 14 WIL, dirk (d4+1), Spellbook (Colour spray, hypnotism, invisibility, mirror image, spectral force)
-- Purple robes embroidered with fine, swirling patterns in gold thread.
-- Staff topped with a glowing, orange prism.
-- .Engrossed in research, fears intruders will alert local authorities.
+- 7 HP, 8 STR, 11 DEX, 14 WIL, 短剑（d4+1），法术书（_色彩喷射（Colour Spray）、催眠、隐形、镜像、幽影幻力（Spectral Force）_）
+- 紫色长袍，绣着精致的金色漩涡纹。
+- 杖顶镶着发光的橙色棱晶。
+- 埋头研究，担心入侵者会惊动当地当局。
 
-### Kobold
+### 狗头人 {#kobold}
 
-#### Monster 17
+#### 怪物 17 {#monster-17}
 
-- 4 HP, 8 STR, 13 DEX, dagger (d6)
-- Small canine humanoids with hairless, scaly, red-brown skin. Dwell deep underground.
-- Can see perfectly in the dark, but are harmed by sunlight.
-- Ambush their victims in dark caves and tunnels.
+- 4 HP, 8 STR, 13 DEX, 匕首（d6）
+- 小型犬类类人，无毛、覆鳞、红棕色皮肤。深居地下。
+- 能在黑暗中完美视物，但会受到阳光伤害。
+- 在黑暗的洞穴与隧道中伏击受害者。
 
-### Lizard Man
+### 蜥蜴人 {#lizard-man}
 
-#### Monster 18
+#### 怪物 18 {#monster-18}
 
-- 4 HP, 1 Armor, 14 STR, 12 DEX, bone spear (d8)
-- Aquatic humanoids with reptilian heads and tails. Dwell in jungles nearby bodies of water.
-- Craft their Armors and weapons from the bones of their prey.
-- Carnivorous, hunt other humanoids, whose flesh they regard as a delicacy.
+- 4 HP, 1 Armor, 14 STR, 12 DEX, 骨矛（d8）
+- 水栖类人，长着爬行类的头与尾。栖息在靠近水体的丛林中。
+- 用猎物的骨头打造护甲与武器。
+- 肉食性，猎杀其他类人，视其血肉为珍馐。
 
-### Monkey, Red-Cap
+### 红帽猴 {#monkey-red-cap}
 
-#### Monster 19
+#### 怪物 19 {#monster-19}
 
-- 0 HP, 8 STR, 15 DEX, 8 WIL, claws (1)
-- Cute, playful, swimming monkeys.
-- Main priority: lounging.
-- If the monkey has eaten bubble moss, it can breathe underwater for the next hour.
+- 0 HP, 8 STR, 15 DEX, 8 WIL, 利爪（1）
+- 可爱、爱玩、会游泳的猴子。
+- 首要事务：懒洋洋地待着。
+- 若猴子吃过气泡苔，接下来一小时内能在水下呼吸。
 
-### Necromancer
+### 死灵法师 {#necromancer}
 
-#### Monster 20
+#### 怪物 20 {#monster-20}
 
-- 4 HP, 9 STR, 12 DEX, 15 WIL, dagger (d6), spellbook (raise dead), spell scrolls (charm, raise spirit, detect magic, body swap)
-- Death wizard in black robes.
-- Creepy vibes.
-- Does not fight to the death; prefers to gain knowledge and will barter
+- 4 HP, 9 STR, 12 DEX, 15 WIL, 匕首（d6），法术书（_起死回生_），法术卷轴（_魅惑、召回灵魂、探测魔法、身体互换_）
+- 身着黑袍的死亡巫师。
+- 气氛阴森。
+- 不会战斗至死；更希望获取知识，并愿意交易。
 
-### Ooze Wight (Acolyte)
+### 软泥尸妖（侍僧） {#ooze-wight-acolyte}
 
-#### Monster 21
+#### 怪物 21 {#monster-21}
 
-- 4 HP, 12 STR, sword (d8, bulky)
-- Bloated corpse with corrupted flesh, purple slime oozing from eye sockets.
-- Carries a ritual sword with a long, black blade.
-- Unharmed by mundane attacks and effects that would only damage the living; immune to magical effects that read minds.
-- If killed, bursts in a fountain of purple ooze (d6, blast).
+- 4 HP, 12 STR, 剑（d8，_笨重_）
+- 肿胀的尸体，血肉腐坏，眼窝渗出紫色黏液。
+- 携带一把仪式剑，刃长而黑。
+- 不受凡俗攻击及仅对活物生效的效果伤害；免疫读心类魔法效果。
+- 被杀死时爆出一注紫色软泥（d6，_爆发_）。
 
-### Ooze Wight (High Priestess)
+### 软泥尸妖（高阶女祭司） {#ooze-wight-high-priestess}
 
-#### Monster 22
+#### 怪物 22 {#monster-22}
 
-- 5 HP, 8 STR, 11 WIL, touch (d6 necrosis + paralysis, 1 round)
-- A bloated, pallid corpse covered in pustules leaking fluorescent green slime; she has three eyes, two milky and blind, a third large and central red one.
-- Wears gold jewelry of obvious value and purple robes of silk, embroidered with golden runes.
-- Unharmed by mundane attacks and effects that would only damage the living; immune to magical effects that read minds.
-- Critical: WIL save or necrosis damage to HP is permanent and can be repaired only by sufficient magical intervention.
+- 5 HP, 8 STR, 11 WIL, 触碰（d6 坏死 + 麻痹，1 回合）
+- 一具肿胀苍白的尸体，脓疱渗出荧光绿黏液；她有三只眼睛，两只乳白失明，第三只又大又红，长在正中。
+- 佩戴明显值钱的黄金珠宝，身着绣有金色符文的紫色丝绸长袍。
+- 不受凡俗攻击及仅对活物生效的效果伤害；免疫读心类魔法效果。
+- 重伤：WIL 豁免失败，则对 HP 造成的坏死伤害变为永久，只有足够的魔法干预才能修复。
 
-### Prismatic Shade
+### 棱晶幽影 {#prismatic-shade}
 
-#### Monster 23
+#### 怪物 23 {#monster-23}
 
-- 3 HP, 8 STR, 11 WIL, touch (paralysis, 1 round)
-- Incorporeal humanoid formed of shifting, rainbow-coloured lights (bright then dim).
-- Two-dimensional (always facing viewer), lurking in corners; can squeeze through tight spaces.
-- Unharmed by mundane attacks.
+- 3 HP, 8 STR, 11 WIL, 触碰（麻痹，1 回合）
+- 由变幻彩虹色光芒构成的无形类人（忽明忽暗）。
+- 二维（始终面向观察者），潜伏在角落；能挤过狭窄空间。
+- 不受凡俗攻击伤害。
 
-### Sentient Dream
+### 知觉之梦 {#sentient-dream}
 
-#### Monster 24
+#### 怪物 24 {#monster-24}
 
-- 4 HP, 8 STR, 14 WIL, touch (d4+wisdom drain)
-- Humanoid shadow, bent over and mumbling.
-- Unharmed by mundane attacks.
-- Touch attack: WIL save or take 1 WIL damage, bypassing HP.
+- 4 HP, 8 STR, 14 WIL, 触碰（d4+意志吸取）
+- 类人阴影，弯腰低语。
+- 不受凡俗攻击伤害。
+- 触碰攻击：WIL 豁免失败则承受 1 WIL 伤害，忽略 HP。
 
-### Skeleton, Jellied
+### 凝胶骷髅 {#skeleton-jellied}
 
-#### Monster 26
+#### 怪物 26 {#monster-26}
 
-- 4 HP, 9 STR, 8 WIL, touch (d4 acid damage)
-- Blackened humanoid bones coated in translucent jelly, usually found motionless due to prolonged boredom.
-- Minds and memories addled with centuries of neglect, speaking antiquated Common.
-- Critical Damage: reduces victim’s armor by 1.
+- 4 HP, 9 STR, 8 WIL, 触碰（d4 酸液伤害）
+- 发黑的类人骨骼覆着半透明凝胶，因长期无聊而通常一动不动。
+- 心智与记忆因数百年的荒废而混乱，说着古旧的通用语。
+- 重伤：使受害者的 Armor 降低 1。
 
-### Slime, Ebony
+### 乌黑黏液 {#slime-ebony}
 
-#### Monster 27
+#### 怪物 27 {#monster-27}
 
-- 5 HP, 12 STR, engulf (d6)
-- Jet black slime that lurks on walls and ceilings.
-- Immune to damage except by cold or fire.
-- Critical Damage: the victim is engulfed, takes d6 damage per round, and cannot move or attack (DEX or STR save to escape).
+- 5 HP, 12 STR, 吞噬（d6）
+- 潜伏在墙壁和天花板上的漆黑黏液。
+- 除寒冷或火焰外免疫伤害。
+- 重伤：受害者被吞噬，每回合受到 d6 伤害，且无法移动或攻击（DEX 或 STR 豁免以逃脱）。
 
-### Slugbaby
+### 蛞蝓婴 {#slugbaby}
 
-#### Monster 28
+#### 怪物 28 {#monster-28}
 
-- 2HP, 8 STR, bite (d4)
-- 1’ slug with human-like baby face and retractable eye stalk-tentacles.
-- Hungry for fresh meat.
-- If killed, explodes in a burst of acidic goo (d2, blast).
+- 2 HP, 8 STR, 撕咬（d4）
+- 1' 长的蛞蝓，长着人形婴儿面孔和可伸缩的眼柄触须。
+- 渴求鲜肉。
+- 被杀死时爆出一团酸性黏液（d2，_爆发_）。
 
-### Troglodyte
+### 穴居人 {#troglodyte}
 
-#### Monster 29
+#### 怪物 29 {#monster-29}
 
-- 4 HP, 12 DEX, claws (2×d6 keep highest)
-- Intelligent, reptilian humanoids with agile hands, long legs, short tails, and spiky combs on their heads and arms.
-- Can change color to match their surroundings. Lurk by rock walls and await victims.
-- Emits an oil with a nauseating stench from its pores.
+- 4 HP, 12 DEX, 利爪（2×d6 取较高）
+- 有智慧的爬行类类人，双手灵巧，腿长，尾短，头与臂上有尖刺状肉冠。
+- 能改变体色以融入周围环境。潜伏在岩壁旁等待猎物。
+- 毛孔会分泌带有令人作呕恶臭的油脂。
 
-### Werephasm
+### 化影者（Werephasm） {#werephasm}
 
-#### Monster 25
+#### 怪物 25 {#monster-25}
 
-- 4 HP, 8 STR, 14 WIL, touch (d6, ignores armor)
-- Incorporeal monsters that look like living shadows.
-- Unharmed by mundane attacks, sleep, or mind control.
-- Critical Damage: The victim loses another d4 STR, if reduced to 0 STR, they become a shadow.
+- 4 HP, 8 STR, 14 WIL, 触碰（d6，忽略 Armor）
+- 无形怪物，看起来像活着的影子。
+- 不受凡俗攻击、睡眠或心灵控制影响。
+- 重伤：受害者再失去 d4 STR；若 STR 降至 0，则变成暗影。
 
-### Zombie Janitor
+### 僵尸杂役 {#zombie-janitor}
 
-#### Monster 30
+#### 怪物 30 {#monster-30}
 
-- 2 HP, 14 STR, 6 DEX, 3 WIL, broom (d6)
-- Slow, mindless humanoid corpses dressed like waiters, reanimated as servants; always act last in combat.
-- Animate when anyone enters, grabbing their brooms and awaiting instructions; only attack if PCs disturb things.
-- Immune to mind altering effects and sleep.
+- 2 HP, 14 STR, 6 DEX, 3 WIL, 扫帚（d6）
+- 缓慢、无心智的类人尸体，打扮得像侍者，被唤起作为仆役；战斗中总是最后行动。
+- 有人进入时会活动起来，抓起扫帚等待指令；只有在 PC 扰动事物时才会攻击。
+- 免疫改变心智的效果和睡眠。
 
-## Locations
+## 地点 {#locations}
 
-### Location 2
+### 地点 2 {#location-2}
 
-#### Pulsating Crystals
+#### 搏动水晶 {#pulsating-crystals}
 
-- Gazing into the crystals, PCs whose highest attribute is WIL feel mentally cleansed, healing 1 STR or 1 HP. Others feel paranoid: their attacks hit for -1 damage and take a +1 penalty to saves for 3 rounds.
+- 凝视水晶时，最高属性为 WIL 的 PC 会感到心灵净化，恢复 1 STR 或 1 HP。其他人则感到偏执：攻击伤害 -1，豁免承受 +1 罚值，持续 3 回合。
 
-### Location 3
+### 地点 3 {#location-3}
 
-#### Scarlet Pimperelles
+#### 猩红海绿 {#scarlet-pimperelles}
 
-- Eating: Roll 1d6: 1: Faint for 1d6 turns (unaffected by eating more); 2-3: heal 1 HP; 4-5: STR save or violently vomit; 6: no effect.
+- 食用：掷 1d6：1：昏厥 1d6 轮次（再吃也无额外效果）；2-3：恢复 1 HP；4-5：STR 豁免失败则剧烈呕吐；6：无效果。
 
-### Location 8
+### 地点 8 {#location-8}
 
-#### Opening the door
+#### 开门 {#opening-the-door}
 
-- Characters in front of the door make a DEX save or suffer 1d8 acid damage. Characters to the west make a DEX save with a -2 bonus or suffer 1d4 acid damage.
+- 门前的角色进行 DEX 豁免，失败则受到 1d8 酸液伤害。位于西侧的角色进行 DEX 豁免时骰值 -2，失败则受到 1d4 酸液伤害。
 
-### Location 10
+### 地点 10 {#location-10}
 
-#### Spellbook: Gelatinous Transformation
+#### 法术书：凝胶变形 {#spellbook-gelatinous-transformation}
 
-- Equivalent to Ooze Form.
+- 等同于凝胶形态（Ooze Form）。
 
-### Location 12
+### 地点 12 {#location-12}
 
-#### Pulling the lever
+#### 拉杠杆 {#pulling-the-lever}
 
-- All characters who can see the light must make a WIL save or be driven berserk for 1d6 rounds, attacking the nearest PC, NPC, or monster.
+- 所有能看见那道光的角色必须进行 WIL 豁免，失败则陷入狂暴 1d6 回合，攻击最近的 PC、NPC 或怪物。
 
-### Location 16
+### 地点 16 {#location-16}
 
-#### Pulling the lever
+#### 拉杠杆 {#pulling-the-lever-1}
 
-- Roll 1d6: 1-3: activates (or deactivates, if active) a shimmering blue force field across the bars; 4-5: electric shock (d4 damage); 6: electric explosion (2d4 damage, blast (DEX save for half damage)).
+- 掷 1d6：1-3：启动（若已启动则关闭）一道横跨栏杆的闪烁蓝色力场；4-5：电击（d4 伤害）；6：电爆（2d4 伤害，_爆发_（DEX 豁免则伤害减半））。
 
-### Location 17
+### 地点 17 {#location-17}
 
-#### Orange Gel Tank (Centre)
+#### 橙色凝胶罐（中央） {#orange-gel-tank-centre}
 
-- Touching: 2-in-6 chance the tank collapses. All present must make a DEX save or suffer 1d6 damage and be coated in gel.
+- 触碰：2-in-6 的概率使罐子崩裂。所有在场者必须进行 DEX 豁免，失败则受到 1d6 伤害并被凝胶覆盖。
 
-### Location 21
+### 地点 21 {#location-21}
 
-#### Touching the statue
+#### 触碰雕像 {#touching-the-statue}
 
-- STR save or be disintegrated, except the skull.
+- STR 豁免失败则被分解，仅留下头骨。
 
-### Location 24
+### 地点 24 {#location-24}
 
-#### Floating Puffballs
+#### 漂浮绒球 {#floating-puffballs}
 
-- Breathing spores: DEX save or suffer 1 damage (choking) and become lighter than air for 2d6 rounds (1/2 movement, -2 to Armor, -1 penalty to attack damage).
+- 吸入孢子：DEX 豁免失败则受到 1 伤害（窒息），并在 2d6 回合内变得比空气还轻（移动速度减半，Armor -2，攻击伤害 -1 罚值）。
 
-### Location 27
+### 地点 27 {#location-27}
 
-#### Silver Necklace with a Pearl
+#### 镶珍珠的银项链 {#silver-necklace-with-a-pearl}
 
-- 3 charges. -2 bonus to WIL saves against magical effects. Recharge: Sink a fishing vessel.
+- 3 次充能。对抗魔法效果的 WIL 豁免骰值 -2。充能：弄沉一艘渔船。
 
-### Location 28
+### 地点 28 {#location-28}
 
-#### Looting the chalices
+#### 搜刮圣杯 {#looting-the-chalices}
 
-- 1 is magical: once daily, a character drinking blood from it heals 1d6+1 STR and/or HP.
+- 其中 1 只具有魔力：每日一次，角色从中饮血，恢复 1d6+1 STR 和/或 HP。
 
-### Location 31
+### 地点 31 {#location-31}
 
-#### Vile stench
+#### 恶臭 {#vile-stench}
 
-- STR save or suffer -1 attack damage while in this area.
+- STR 豁免失败则在此区域内攻击伤害 -1。
 
-### Location 34
+### 地点 34 {#location-34}
 
-#### Jagged-bladed short sword
+#### 锯齿刃短剑 {#jagged-bladed-short-sword}
 
-- 3 charges. +2 attack damage in combat when the wielder succeeded on their initial DEX save and +2 Armor if they failed. Recharge: lose more than you own at gambling.
+- 3 次充能。持用者在战斗中若初始 DEX 豁免成功，则攻击伤害 +2；若失败，则 Armor +2。充能：在赌博中输得比自己拥有的还多。
 
-### Location 39
+### 地点 39 {#location-39}
 
-#### Poison Gas Trap
+#### 毒气陷阱 {#poison-gas-trap}
 
-- The gas: PCs inside must make a STR save or be reduced to 0 HP, 0 STR.
+- 毒气：其中的 PC 必须进行 STR 豁免，失败则 HP 与 STR 均降至 0。
 
-### Location 41
+### 地点 41 {#location-41}
 
-#### Entering
+#### 进入 {#entering}
 
-- 2-in-6 chance the ceiling collapses dealing 1d6 damage to all within (DEX save to take half damage).
+- 2-in-6 的概率天花板坍塌，对范围内所有人造成 1d6 伤害（DEX 豁免则伤害减半）。
 
-### Location 46
+### 地点 46 {#location-46}
 
-#### Night Horns
+#### 夜角 {#night-horns}
 
-- Eating: Roll 1d6. 1-3: gain infravision for 6 rounds; 4-5: blurred vision for 6 rounds (-1 to attack damage); 6 blindness for 6 rounds.
+- 食用：掷 1d6。1-3：获得红外视觉，持续 6 回合；4-5：视线模糊，持续 6 回合（攻击伤害 -1）；6：失明，持续 6 回合。
 
-### Location 47
+### 地点 47 {#location-47}
 
-#### Setting foot on the island
+#### 踏上岛屿 {#setting-foot-on-the-island}
 
-- Awakens the ooze wights, which emerge from their coffers.
+- 唤醒软泥尸妖，它们从棺匣中涌出。
 
-### Location 49
+### 地点 49 {#location-49}
 
-#### Stepping onto the sand
+#### 踏上沙子 {#stepping-onto-the-sand}
 
-- Witnesses must make a WIL save or be unable to perceive the passageway leading to Area 50 for 24 hours.
+- 目击者必须进行 WIL 豁免，否则在 24 小时内无法察觉通往区域 50 的通道。
 
-### Location 51
+### 地点 51 {#location-51}
 
-#### 12 Tomes
+#### 12 部典籍 {#12-tomes}
 
-- Treatises on illusion magic and spell books for Auditory Illusion, Illuminate, Mirror Image, Shroud, and Visual Illusion. Other spellbooks may be substituted at the Warden’s discretion.
+- 关于幻术的论著，以及听觉幻象、照明、镜像、遮蔽和视觉幻象的法术书。守望者可自行替换为其他法术书。
 
-### Location 52
+### 地点 52 {#location-52}
 
-#### Entering
+#### 进入 {#entering-1}
 
-- WIL save or blinded for 1d6 rounds.
+- WIL 豁免失败则失明 1d6 回合。
 
-### Location 53
+### 地点 53 {#location-53}
 
-#### Drinking the water
+#### 饮水 {#drinking-the-water}
 
-- STR save or fall unconscious for 1d12 hours, dreaming of a great treasure hoard.
+- STR 豁免失败则昏迷 1d12 小时，梦见一座巨大的宝藏堆。
 
-#### Entering the pool
+#### 进入水池 {#entering-the-pool}
 
-- If naked, recover 1 STR or 1 HP per round spent bathing (max combined recovery of 6).
-
+- 若赤身进入，每在池中沐浴一回合恢复 1 STR 或 1 HP（合计最多恢复 6 点）。

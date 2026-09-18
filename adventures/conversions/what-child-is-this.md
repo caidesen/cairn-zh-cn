@@ -2,184 +2,184 @@
 layout: default
 parent: Conversions
 grand_parent: Adventures
-title: What Child Is This?
+title: 这是何婴？
 nav_exclude: true
 search_exclude: true
 ---
 
-# What Child Is This?
+# 这是何婴？ {#what-child-is-this}
 
-- Based on the [original work](https://natetreme.itch.io/whatchild) by [Nate Treme](https://natetreme.itch.io).
-- Conversion by [Dibson T Hoffweiler](https://www.dibson.net/) with contributions by Manny.
+- 根据 [Nate Treme](https://natetreme.itch.io) 创作的[原作](https://natetreme.itch.io/whatchild)改编。
+- 转换：[Dibson T Hoffweiler](https://www.dibson.net/)，Manny 亦有贡献。
 
-## General Notes
-This document includes the prep I did to run **What Child Is This?**.  Most of it is probably statblock conversions.  But I'm also including what I'm calling a *remix*: some changes to the module and additional notes and mechanics.  You can ignore the remix section if you want, but maybe it would be fun or useful.
+## 总体说明 {#general-notes}
+这份文件收录了我为运行**这是何婴？**所做的准备。其中大部分大概是属性块转换。但我也加入了所谓的*重混*：对模组的一些改动，以及额外的说明与机制。不想用的话可以忽略重混部分，不过它或许会有趣或有用。
 
-For conversion to Cairn, I have:
-- **statblocks** for the module
-- **watch distances** between locations (rather than hex distances)
+为转换成 Cairn，我准备了：
+- 模组的**属性块**
+- 地点之间的**时段距离**（而非六角格距离）
 
-The "remix" includes:
-- **Tomb of the Owl Lord Remix** - new locations, descriptions, and other changes to the module's dungeon
-- **The Baby Die Pool** - a mechanic to track baby's mood
-- **Scenario hook questions** - to start the module
+“重混”包括：
+- **枭领之墓重混**——为模组地城新增地点、描述和其他改动
+- **婴孩骰池**——追踪婴孩情绪的机制
+- **场景钩子问题**——用来开场
 
-## Conversions
-### Monsters and NPCs
-My friend Manny came up with a bunch of these statblocks.  Included also are some notes about Manny's ideas for running certain monsters.
-#### Incarnated God Baby
+## 转换内容 {#conversions}
+### 怪物与 NPC {#monsters-and-npcs}
+这些属性块有不少是我的朋友 Manny 想出来的。其中也收录了 Manny 关于如何运行某些怪物的想法。
+#### 化身神婴 {#incarnated-god-baby}
 1 HP, 3 STR, 3 DEX, 16 WIL
-- An immortal god chosen to incarnate as human.
-- Sleeps 16hrs/day in 2-4 hour spurts.
-- *Ethereal Crown*: Has an ethereal crown floating above its head.  Requires magic to see it.
-- *Chilling Wail*: Those who hear it crying must make a WIL save or be impaired.
-- *Giggle & Coo*: Anyone who hears this must make a WIL save or refrain from any hostile actions for 1 round.
-- *Bless*: Give 1 temporary HP to a visible target.
-- *Baby's Aura*: When cared for, the bay bestows these benefits upon the hosting party:
-	- Recover 1 STR, DEX or WIL each sunrise
-	- Animals will not be hostile to baby or party
-	- The child reveals illusions
+- 一位被选中化为人形的不朽之神。
+- 每天睡 16 小时，每次睡 2–4 小时。
+- *以太王冠*：头顶悬浮一顶以太王冠。需要魔法才能看见。
+- *寒心哀号*：听见它哭声的人必须进行 WIL 豁免，否则处于_削弱_。
+- *咯咯与咕咕*：听见此声者必须进行 WIL 豁免，否则 1 回合内不得采取任何敌对行动。
+- *祝福*：给一名可见目标 1 点临时 HP。
+- *婴孩灵光*：得到照料时，婴孩会为收留它的队伍带来这些益处：
+	- 每个日出恢复 1 点 STR、DEX 或 WIL
+	- 动物不会敌视婴孩或队伍
+	- 这孩子能揭示幻象
 
-#### Archangel
-14 HP, 2 Armor, 18 STR, 14 DEX, 16 WIL, greatsword (d10, bulky)
-- The archangel is checking on the child's health, will be upset if it's hurt, pleased otherwise.
-- *Stunning Presence*: Upon seeing the archangel, everyone makes a WIL save.  On failure, must kneel in the angel's presence.
-- *Insect Plague*: A massive swarm of crickets. d6 damage when in swarm.  When damaged, make a panic check.
-- *Healing Touch*: Restore d6 stat
-- *Raise Dead*: Can restore a dead creature to life, impaired with 1HP and 3 fatigue.
+#### 大天使 {#archangel}
+14 HP, 2 Armor, 18 STR, 14 DEX, 16 WIL, 巨剑（d10，_笨重_）
+- 大天使前来查看孩子的健康状况；若孩子受伤会不悦，否则会满意。
+- *慑人威仪*：看见大天使时，所有人进行 WIL 豁免。失败则必须在天使面前跪下。
+- *虫灾*：一大群蟋蟀。处于虫群中时造成 d6 伤害。受到伤害时进行恐慌检定。
+- *治疗之触*：恢复 d6 点属性
+- *死者复生*：可将死去的生物复活，使其处于_削弱_，拥有 1 HP 与 3 点疲劳。
 
-#### Bandits (from Cairn 2e Warden's Manual)
-4HP, 1 Armor, 11 STR, 12 DEX, 10 WIL, shortsword (d6) or shortbow (d6)
-- *Detachment*: 4 or more make a detachment (all attacks by PCs impaired, all detachment attacks enhanced and blast).  There is a leader with 2 Armor and Longsword (d10) or Crossbow (d8, bulky) and WIL 13.
-- *Loyal*: When testing morale, use leader's WIL (13).  If leader dies, all flee.
+#### 强盗（出自 Cairn 2e 守望者指南） {#bandits-from-cairn-2e-wardens-manual}
+4 HP, 1 Armor, 11 STR, 12 DEX, 10 WIL, 短剑（d6）或短弓（d6）
+- *分队*：4 人或以上组成一个分队（PC 的所有攻击受到_削弱_，分队的所有攻击得到_强化_并具有_爆发_）。有一名首领，2 Armor，长剑（d10）或弩（d8，_笨重_），WIL 13。
+- *忠诚*：进行士气检定时，使用首领的 WIL（13）。若首领死亡，全员溃逃。
 
-#### Barlgura
-12HP, 1 Armor, 18 STR, 14 DEX, 15 WIL, bite (d10), fists (d8+d8)
-- *Running Leap*: Jump really far
-- *Phantasmal Force Spell*: Force an illusion upon someone; they can pass a WIL check to shake it off.  The illusion can do damage (d4+d4)
-- *Entangle*: Grasping plants sprout from the ground.  STR (or DEX?) save to not be entangled, then STR save to escape the grasp.
-- *Spells*: Disguise self, invisibility (self)
+#### 巴尔格魔 {#barlgura}
+12 HP, 1 Armor, 18 STR, 14 DEX, 15 WIL, 撕咬（d10），拳击（d8+d8）
+- *奔跑跳跃*：跳得很远
+- *幻影之力法术*：将幻象强加于某人；对方可通过 WIL 豁免摆脱。幻象可造成伤害（d4+d4）
+- *纠缠*：抓握植物从地面冒出。进行 STR（或 DEX？）豁免以免被缠住，然后进行 STR 豁免以挣脱抓握。
+- *法术*：伪装自身、隐形（自身）
 
-#### Cultists
-4 HP, 11 STR, 10 DEX, 13 WIL, dagger (d6)
+#### 邪教徒 {#cultists}
+4 HP, 11 STR, 10 DEX, 13 WIL, 匕首（d6）
 
-#### Demon Hunter
-10HP, Armor 1, 14 STR, 10 DEX, 14 WIL, mace (d8), radiant flame (d8, blast)
-- *Spells*: Light, Thaumaturgy, Healing word (heal 1d4 or a condition)
-- *Spirit Guardian Spell*: Spirit guardians fly around you, damage d12 to enemies.  Enemies make a WIL save upon entering to avoid impairment.  Spell ends when hit.
+#### 恶魔猎人 {#demon-hunter}
+10 HP, Armor 1, 14 STR, 10 DEX, 14 WIL, 钉头锤（d8），光耀火焰（d8，_爆发_）
+- *法术*：照明、奇术、治愈真言（治疗 1d4 或一种状态）
+- *灵体守卫法术*：灵体守卫在你周围飞旋，对敌人造成 d12 伤害。敌人进入时进行 WIL 豁免以免陷入_削弱_。被击中时法术结束。
 
-#### Dune Stalker
-12 HP, 1 Armor, 16 STR, 14 DEX, 12 WIL, gore (d10)
-- A demon lord, accompanied by 1d6 **Imps**
-- *Stench*: nearby targets must make a WIL save or be impaired for D4 rounds until they can make another WIL save
-- *Crit Damage*: Consume part of the target
+#### 沙丘追猎者 {#dune-stalker}
+12 HP, 1 Armor, 16 STR, 14 DEX, 12 WIL, 抵撞（d10）
+- 一名恶魔领主，伴随 1d6 只**小魔鬼**
+- *恶臭*：附近目标必须进行 WIL 豁免，否则陷入_削弱_，持续 D4 回合，直到能再次通过 WIL 豁免
+- *重伤*：吞噬目标的一部分
 
-#### Ghost
-8HP, 6 STR, 12 DEX, 15 WIL, phasing (d6),  withering touch (d8)
-- *Incorporeal*: Only vulnerable to magic and anointed rites
-- *Horrifying Visage*: Make a WIL save or panic at the sight
-- *Critical Damage*: WIL save or get possessed by the ghost.
+#### 鬼魂 {#ghost}
+8 HP, 6 STR, 12 DEX, 15 WIL, 相位（d6），凋零之触（d8）
+- *无形*：只有魔法和祝圣仪式才能伤害它
+- *恐怖面容*：进行 WIL 豁免，否则因所见而恐慌
+- *重伤*：进行 WIL 豁免，否则被鬼魂附身。
 
-#### Giant Cricket
-2 HP, 6 STR, 12 DEX, 3 WIL, bite (d6)
-- *Spring*: can leap high into the air
-- *Blend into Forest*: Natural coloration allows them to blend
-- *Screech*: When threatened, sound of a gigantic violin.  WIL save or impaired for the round.
+#### 巨型蟋蟀 {#giant-cricket}
+2 HP, 6 STR, 12 DEX, 3 WIL, 撕咬（d6）
+- *弹跳*：可以高高跳向空中
+- *融入森林*：天然体色使它们能够隐蔽
+- *尖啸*：受威胁时发出巨型小提琴般的声响。WIL 豁免，否则本回合处于_削弱_。
 
-#### Giant Roaches
-3HP, 1 Armor, 6 STR, 14 DEX, 3 WIL, bite (d6)
-- *Crit Damage*: Target is impaired due to poison
+#### 巨型蟑螂 {#giant-roaches}
+3 HP, 1 Armor, 6 STR, 14 DEX, 3 WIL, 撕咬（d6）
+- *重伤*：目标因毒素而处于_削弱_
 
-#### Gorpa the Evil Priest
-8 HP, 1 Armor, 10 STR, 14 DEX, 12 WIL, mace (d8)
-- Travels with Cultists.
-- *Rot spell*: d4 STR loss
-- *Raise Dead spell*: Turns corpse into skeleton
-- **Manny's Suggestion**: Use Cultist statblock but play them as Villagers that are under Gorpa's control because he can control skeletons.  They're screaming for help while attacking.
+#### 邪恶祭司戈尔帕 {#gorpa-the-evil-priest}
+8 HP, 1 Armor, 10 STR, 14 DEX, 12 WIL, 钉头锤（d8）
+- 与邪教徒同行。
+- *腐烂术*：失去 d4 STR
+- *死者复生术*：将尸体变成骷髅
+- **Manny 的建议**：使用邪教徒属性块，但把他们当成受戈尔帕控制的村民来扮演，因为他能控制骷髅。他们一边攻击，一边尖叫求救。
 
-#### Imp
-4 HP, 8 STR, 14 Dex, 8 WIL,  trident (d6)
-- *Spells*: Shapechanging, invisibility
-- *Devil's Sight*: Darkvision
+#### 小魔鬼 {#imp}
+4 HP, 8 STR, 14 DEX, 8 WIL, 三叉戟（d6）
+- *法术*：变形、隐形
+- *魔鬼视界*：黑暗视觉
 
-#### Snakes
-5 HP, 10 STR, 14 DEX, 6 WIL, bite (d6)
-- Giant, poisonous.  Tracks victims with heat and smell.  Antitoxin can be made from their poison sacs.
-- *Crit Damage*: Poisoned. Die within d12 hours unless cured. (The baby can cure this, esp if the poisoned PC was kind to the baby.)
+#### 蛇 {#snakes}
+5 HP, 10 STR, 14 DEX, 6 WIL, 撕咬（d6）
+- 巨型、有毒。以热感与嗅觉追踪猎物。可用它们的毒囊制作抗毒剂。
+- *重伤*：中毒。除非得到治愈，否则在 d12 小时内死亡。（婴孩可以治愈此毒，尤其是中毒的 PC 曾善待婴孩时。）
 
-#### Soldiers
-**Manny's Suggestion**: The "Five Soldiers..." encounter refers to an undead king.  So use undead soldiers!
+#### 士兵 {#soldiers}
+**Manny 的建议**：“五名士兵……”遭遇提到一位不死君王。所以使用不死士兵！
 
-##### Wight
-7HP, 2 Armor, 16 STR, 8 DEX, 12 WIL, longsword (d10)
-- Indicate low dex: stiff, jerky, off balance
-- *Crit Damage*: STR loss is permanent (baby can heal this)
+##### 尸妖 {#wight}
+7 HP, 2 Armor, 16 STR, 8 DEX, 12 WIL, 长剑（d10）
+- 表现出低 DEX：僵硬、抽搐、失去平衡
+- *重伤*：STR 损失是永久的（婴孩可以治愈）
 
-##### Zombie
-2HP, 12 STR, 6 DEX, 3 WIL, slam (d6), nails (d6)
-- *Mindless*: Immune to all mind-influencing effects.
-- *Undead Fortitude*: Will rise again if not utterly destroyed.
-- *Critical Damage*: Target infected and deprived.  They become a zombie in d4 days without a healer.  (baby can heal this)
+##### 僵尸 {#zombie}
+2 HP, 12 STR, 6 DEX, 3 WIL, 猛击（d6），钉抓（d6）
+- *无心智*：免疫所有影响心智的效果。
+- *不死坚韧*：若未被彻底摧毁，还会再起。
+- *重伤*：目标感染并陷入_匮乏_。若无治疗者，会在 d4 天内变成僵尸。（婴孩可以治愈）
 
-#### Spined Devil
-8HP, 1 Armor, 10 STR, 15 DEX, 11 WIL, bite & fork (d6+d6), tail Spine (d6, ignores armor)
+#### 刺魔 {#spined-devil}
+8 HP, 1 Armor, 10 STR, 15 DEX, 11 WIL, 撕咬与钢叉（d6+d6），尾刺（d6，无视护甲）
 
-#### Valzifak the Wizard
-8 HP, 9 STR, 11 DEX, 16 WIL, dagger (d6)
+#### 法师瓦尔齐法克 {#valzifak-the-wizard}
+8 HP, 9 STR, 11 DEX, 16 WIL, 匕首（d6）
 
-**Manny's suggestions for spells**:
-- Spells for a more puzzly encounter
-	- *Fog cloud*: obscure an area, confuse targets
-	- *Objectify*: turn into a common object, can be brought along with party
-	- *Wizard mark*: with diamond dust and pigment, marks something
+**Manny 对法术的建议**：
+- 更偏谜题遭遇的法术
+	- *雾云术*：遮蔽一处区域，迷惑目标
+	- *物体化*：变成一件普通物品，可随队伍带走
+	- *巫师印记*：用钻石粉与颜料标记某物
 
-- Spells for wacky combat
-	- *Magnetic spells*: Tether, repel, attract, push, pull
-	- Make things fly with magnetism and kinetic force.  The rug can swoop around and maybe snatch the baby while this spells are taking effect.
+- 古怪战斗用的法术
+	- *磁性法术*：系缚、排斥、吸引、推、拉
+	- 用磁力与动能让东西飞起来。地毯可以猛扑过来，或许在这些法术生效时抢走婴孩。
 
-#### Valzifak's Rug
-4 HP, 8 STR, 10 DEX, 10 WIL, smother (d6)
-- Magically animated.  Appears to be a normal rug, until it moves.
-- *Wrap*: Incapacitates a target.  A wrapped target loses d4 STR at start of round.  When rug hit while wrapping a target, damage is split 50/50 between rug and wrapped target.
+#### 瓦尔齐法克的地毯 {#valzifaks-rug}
+4 HP, 8 STR, 10 DEX, 10 WIL, 闷捂（d6）
+- 被魔法活化。看上去是普通地毯，直到它移动。
+- *裹缠*：使目标失去行动能力。被裹住的目标在回合开始时失去 d4 STR。地毯在裹住目标时被击中，伤害由地毯与被裹目标对半分担。
 
-### Map Distances
-The module suggests one encounter (essentially, one watch) per hex for travel.  Manny did that, and it worked great.  We played the whole module as a one-shot using that approach.
+### 地图距离 {#map-distances}
+模组建议旅行时每个六角格一次遭遇（本质上即一个时段）。Manny 就是这么做的，效果很好。我们用这种方式把整场模组当成单场游戏跑完。
 
-To practice working with Cairn wilderness procedures, I did a conversion to a point crawl.  **The travel times are the same on the road (1 watch per hex) but are longer when off-trail.**  It makes for a longer game because you will have more encounters.
-- Holluck to Sultan's Oasis - 3 Watches
-- Holluck to Cricket Forest - 3 Watches
-- Holluck to Tomb of the Owl Lord - 4 Watches
-- Sultan's Oasis to Tomb of the Owl Lord - 3 Watches
-- Sultan's Oasis to Cricket Forest - 2 Watches
-- Sultan's Oasis to Cortezia - 3 Watches
-- Sultan's Oasis to Shepherd Camp - 3 Watches
-- Cricket Forest to Cortezia - 2 Watches
-- Cricket Forest to Shepherd Camp - 3 Watches
-- Cortezia to Shepherd Camp - 2 Watches
+为了练习 Cairn 的荒野流程，我把它转换成了节点探索。**沿道路的旅行时间相同（每个六角格 1 个时段），但偏离小径时更长。** 游戏会因此更长，因为遭遇会更多。
+- 霍勒克到苏丹绿洲 - 3 时段
+- 霍勒克到蟋蟀森林 - 3 时段
+- 霍勒克到枭领之墓 - 4 时段
+- 苏丹绿洲到枭领之墓 - 3 时段
+- 苏丹绿洲到蟋蟀森林 - 2 时段
+- 苏丹绿洲到科尔特齐亚 - 3 时段
+- 苏丹绿洲到牧人营地 - 3 时段
+- 蟋蟀森林到科尔特齐亚 - 2 时段
+- 蟋蟀森林到牧人营地 - 3 时段
+- 科尔特齐亚到牧人营地 - 2 时段
 
-**I tried to run the Cairn wilderness procedures for weather and getting lost, but it was a bit tough to take it all on.**  I think I wouldn't bother with those procedures if I were to run this module again because the encounters include most of the aspects of Cairn's wilderness procedure (dangerous encounters, discoveries, weather changes).
+**我试过用 Cairn 的荒野流程处理天气和迷路，但一下子全接上有点吃力。** 若再跑这场模组，我想我不会再费心用那些流程，因为遭遇已经包含了 Cairn 荒野流程的大部分要素（危险遭遇、发现、天气变化）。
 
-## Remix
+## 重混 {#remix}
 
-### Locations - Tomb of the Owl Lord
-The tomb in the module is a mostly linear dungeon crawl.  Inspired by the location generation procedure from _Mythic Bastionland_, **I added two rooms for flavor (Areas D0 and D3) and modified some connections between rooms.**  I also added some additional elements to rooms in the module (Areas 1-4) and some [Paint the Scene questions](https://www.gauntlet-rpg.com/blog/paint-the-scene).
+### 地点——枭领之墓 {#locations---tomb-of-the-owl-lord}
+模组中的这座墓基本是线性地城探索。受 _Mythic Bastionland_ 地点生成流程启发，**我为风味加了两个房间（区域 D0 和 D3），并改动了部分房间之间的连接。** 我也给模组原有房间（区域 1–4）加了额外元素，以及一些[描绘场景问题](https://www.gauntlet-rpg.com/blog/paint-the-scene)。
 
-####  Remixed Map
-Here's a weird ASCII map of the remixed tomb.
+#### 重混地图 {#remixed-map}
+下面是重混后墓穴的一份奇怪 ASCII 地图。
 
 ***
 
 ```
-##### KEY
-=>  Entrance
-V   Secret Entrance
-=== Clear Path
-=/= Path with Obstacle
---- Secret Path
-\   Indicates Path between levels
-/   Indicates Path between levels
+##### 图例
+=>  入口
+V   密门入口
+=== 畅通路径
+=/= 有障碍的路径
+--- 密道
+\   表示层间路径
+/   表示层间路径
 
-##### DUNGEON LAYOUT
+##### 地城布局
 
  => Area D0
            \                    V
@@ -193,62 +193,62 @@ V   Secret Entrance
 
 ***
 
-#### Area D0 - Nest of Honor
-*This is a room added for the remix.*
-A cave filled with dry brush, that appears to be well tended.  Someone has tromped through recently, revealing a cave leading further into the mountain.  Etchings and paintings on the wall show great deeds of the Owl Lord.
+#### 区域 D0——荣誉之巢 {#area-d0---nest-of-honor}
+*这是为重混新增的房间。*
+一处满是干灌木的洞穴，看上去照料得很好。最近有人踏过，露出一条通往山腹更深处的洞穴。墙上的刻痕与绘画展示着枭领的伟业。
 
-*Paint the Scene*: Looking at the wall paintings, what scene or deed stands out to your character?
+*描绘场景*：看着壁画，哪一幕或哪件功业最吸引你的角色？
 
-#### Area 1 - The Well
-*These notes are in addition to, and modify some of the module's description.*
+#### 区域 1——水井 {#area-1---the-well}
+*这些说明是对模组描述的补充，并改动了其中一些内容。*
 
-- Along the walls are six owl pellets the size of small barrels.  They can be cut open.  Three contain whole imp skeletons.  One contains an imp caught in a bear trap.  Another pellet has a bear trap in it.  Another has a bear trap with a key (this trap can trigger).
-- Inside the stone well, just out of arms reach, is a pile of typical owl pellets and old dried mouse skeletons.  The contents are an illusion, and the well connects to Area 3.
-- There's a door on the other side of the room, locked.  Key is in the pellet above.
+- 沿墙有六枚小桶大小的鸮食茧。可以剖开。三枚装有完整的小魔鬼骷髅。一枚装着一只被捕熊夹夹住的小魔鬼。另一枚食茧里有一个捕熊夹。还有一枚有一个带钥匙的捕熊夹（此夹可能触发）。
+- 石井内、刚好够不着的地方，堆着典型的鸮食茧和干枯的老鼠骷髅。井中之物是幻象，水井通向区域 3。
+- 房间另一侧有一扇锁着的门。钥匙在上方那枚食茧里。
 
-#### Area 2 - The Gallery
-*These notes are in addition to the module's description.*
+#### 区域 2——画廊 {#area-2---the-gallery}
+*这些说明是对模组描述的补充。*
 
-A stand with a dusty closed book.  A corridor on the other side leads downwards. A stone door appears to be carved into the wall.
-- When opened, the book begins to hoot, reading the book aloud.  The text is essentially a ledger, recording the lineage and deeds of the Owl Lord.  If written in, it can be used to communicate with owls.
-- If the PCs use the baby or sign of the baby near the door, it will open to Area D3 - the Overlook.
-- There can be a secret entrance/exit here, if characters search or get tipped off to one.  Perhaps behind a large portrait.
+一座架子上放着一本蒙尘的合上的书。另一侧有一条走廊向下延伸。墙上似乎雕出一扇石门。
+- 打开时，书开始发出猫头鹰的叫声，把书读出来。文本本质上是一份账册，记录枭领的世系与功业。若写入其中，可用于与猫头鹰交流。
+- 若 PC 在门旁使用婴孩或婴孩的征象，门会通向区域 D3——眺望台。
+- 若角色搜寻或得到提示，这里可以有一处密门出入口。或许在一幅巨大肖像后面。
 
-*Paint the Scene*: These paintings don't show the deeds of the Owl Lord, but the indulgences of his private life.  What do these paintings reveal that his devotees may prefer not to know?
+*描绘场景*：这些画展示的不是枭领的功业，而是他私生活中的放纵。这些画揭示了其信徒可能宁愿不知道的什么？
 
-*Manny's Note*: Ghost will opportunistically attack and possess a PC or NPC in order to sell the rug. Once the rug is sold, it will pass on to the next life. There's probably a really weird interaction you could do if it tries to possess the baby.
+*Manny 的注记*：鬼魂会伺机攻击并附身一名 PC 或 NPC，以便把地毯卖掉。地毯一旦卖掉，它就会前往来生。如果它试图附身婴孩，大概能玩出非常古怪的互动。
 
-#### Area D3 - The Overlook
-*This area is a new area added for the remix.*
+#### 区域 D3——眺望台 {#area-d3---the-overlook}
+*这是为重混新增的区域。*
 
-From here, it's possible to see all of the Dune Sea.  To the city far off in the distance; the much nearer Oasis, the Cricket Forest abutting the mountain range, and humble village where your journey began.  More pellets are located here.
-- The pellets contain 2 rations for each PC.
-- This is a safe place to rest - the baby can keep it closed.
-- Could have an encounter here: owl coming to anoint the remains of the dead in Area 3.
+从这里可以看见整片沙丘之海。远处的城市；近得多的绿洲；紧贴山脉的蟋蟀森林；以及你们旅程开始的那座简朴村庄。这里还有更多食茧。
+- 食茧中为每名 PC 装有 2 份口粮。
+- 这是一处安全的休息地点——婴孩可以让它保持关闭。
+- 这里可以有一场遭遇：猫头鹰前来为区域 3 的死者遗骸祝圣。
 
-*Paint the Scene question*: Everywhere you've gone, there has been interest in this child.  This is a moment where the Dune Sea appears calm.  What soothing landscape or scenery are your eyes drawn to when overlooking the region?
+*描绘场景问题*：你们所到之处，都有人对这个孩子感兴趣。此刻沙丘之海显得平静。俯瞰这片地域时，你的目光被哪处抚慰人心的风景或景色吸引？
 
-#### Area 3 - The Anointed Hollows
-*These notes are in addition to the module's description.*
+#### 区域 3——祝圣龛室 {#area-3---the-anointed-hollows}
+*这些说明是对模组描述的补充。*
 
-Set into the walls are the remains of owls who served the Owl Lord.  Beaks, bones and claws rest in small piles of fresh pine needles.  Inside, a Cultist, Imp and Spined Devil argue whom among them is the most fiendish.  When PCs are spotted, trio agree the PCs are most fiendish.
+嵌在墙里的是曾侍奉枭领的猫头鹰遗骸。喙、骨与爪安放在一小堆新鲜松针上。里面，一名邪教徒、一只小魔鬼和一只刺魔正在争论他们之中谁最邪恶。发现 PC 后，三人一致认为 PC 才最邪恶。
 
-#### Area 4 - The Sarcophagus
-*These notes are in addition to the module's description.*
+#### 区域 4——石棺 {#area-4---the-sarcophagus}
+*这些说明是对模组描述的补充。*
 
-*Character-development Questions*: Have you looted a tomb before?  How do you feel about having looted the owl lord's sarcophagus?
+*角色发展问题*：你以前洗劫过坟墓吗？洗劫了枭领的石棺，你作何感想？
 
-### The Baby Die Pool
-**I used a growing die pool to see if the baby gets upset.**  The die pool starts empty.  When I want to check if the baby is upset, add 1d6 and roll all the dice.  If there are any 1s, the baby gets agitated (triggers some troubling effect) and you empty the die pool.  GM's choice as to when to check.
+### 婴孩骰池 {#the-baby-die-pool}
+**我用一个逐渐增大的骰池来看婴孩会不会发脾气。** 骰池一开始是空的。当我想检定婴孩是否不高兴时，加入 1d6 并掷出所有骰子。若出现任何 1，婴孩就会躁动（触发某种麻烦效果），然后清空骰池。由守望者决定何时检定。
 
-**I would like to maybe come up with a few more negative effects the baby could have**.  The baby repeatedly crying and impairing everyone is good (players can even learn to manipulate the baby to turn the effect against enemies) but more options can spice things up.
+**我还想再设计几种婴孩可能产生的负面效果。** 婴孩反复哭喊并让所有人_削弱_已经很好（玩家甚至可以学会操纵婴孩，把效果转用到敌人身上），但更多选项能让事情更有味道。
 
-### Scenario Hook
-There's no significant hook in the adventure, which is totally fine if you're dropping this into a campaign.  The existing hook is straight forward, something like, a princess asks some adventurers to deliver a child to a distant city.  For a one- or two-shot, the GM can collaborate on a more specific hook with the players.
+### 场景钩子 {#scenario-hook}
+这场冒险没有特别重大的钩子；若你是把它放进长期战役，这完全没问题。现有钩子很直接，大致是：一位公主请几名冒险者把一个孩子送到远方城市。若是一到两场的短局，守望者可以与玩家一起协作出一个更具体的钩子。
 
-Consider telling player that **their characters are acolytes of a religious order**, and have them flesh it out with questions like these:
+可以告诉玩家**他们的角色是某宗教教团的侍僧**，并用类似这些问题让他们充实设定：
 
-- What is core tenet of this religious order?
-- What symbol represents this order to others?
-- What brought you to join the order?
-- What belief or aspect of the order challenges your personal belief system?
+- 这个宗教教团的核心信条是什么？
+- 什么象征在他人眼中代表这个教团？
+- 是什么让你加入这个教团？
+- 教团的哪条信念或哪一方面挑战了你个人的信念体系？

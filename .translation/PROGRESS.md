@@ -66,6 +66,11 @@
 | Source | 来源 | 研究行动中的信息来源 |
 | Critical Damage | 重伤 | HP 降至零以下后的伤害状态 |
 | Scar | 创伤 | HP 恰好降至零时的结果 |
+| Occulith | Occulith | 沿用《破碎堡垒》既有写法，不译 |
+| Tomb Crystal | 墓晶 | 水晶边疆相关转换共用 |
+| Lith | 岩缚 | 岩缚木乃伊 / 岩缚僵尸 / 岩缚灵 |
+| Empyrean | 苍穹 | 设定文化/帝国名 |
+| Ultan | 乌尔坦 | 《穿过乌尔坦之门》人名 |
 
 ## 进度与 TODO
 
@@ -112,7 +117,7 @@
 - [x] `second-edition/tools.md`
 - [x] `second-edition/tools/character-generator.md`
 - [x] `second-edition/game-files.md`
-- [ ] `second-edition/wardens-guide/` 下的其余规则、探索、战斗、怪物和法术内容
+- [x] `second-edition/wardens-guide/` 下的规则、探索、战斗、怪物和法术正文（见上方逐项）
 
 ### 第一版
 
@@ -125,8 +130,7 @@
 - [x] `first-edition/accessibility.md`
 - [x] `first-edition/accessibility/ebook.md`
 - [x] `first-edition/accessibility/read-aloud.md`
-- [ ] `first-edition/tools/` 下的其余工具页面
-- [ ] `first-edition/accessibility/` 与其他直接服务于规则使用的页面
+- [x] `first-edition/tools/` 与 `first-edition/accessibility/` 下服务于规则使用的页面（`character-generator.md` 仅为生成器引用，保持英文标题）
 
 ### 冒险
 
@@ -172,7 +176,27 @@
 - [x] `adventures/conversions/stellarium-of-the-vinteralf.md`
 - [x] `adventures/conversions/temple-of-1000-swords.md`
 - [x] `adventures/conversions/temple-of-the-bat-serpent.md`
-- [ ] `adventures/conversions/` 下的其余正文
+- [x] `adventures/conversions/temple-of-the-moon-priests.md`
+- [x] `adventures/conversions/the-black-wyrm-of-brandonsford.md`
+- [x] `adventures/conversions/the-frozen-ascent.md`
+- [x] `adventures/conversions/the-frozen-temple-of-glacier-peak.md`
+- [x] `adventures/conversions/the-gloaming.md`
+- [x] `adventures/conversions/the-hole-in-the-oak.md`
+- [x] `adventures/conversions/the-incandescent-grottoes.md`
+- [x] `adventures/conversions/the-isles-of-the-dead.md`
+- [x] `adventures/conversions/the-oracles-decree.md`
+- [x] `adventures/conversions/the-ruined-abbey-of-st-clewd.md`
+- [x] `adventures/conversions/the-sinister-secret-of-peacock-point.md`
+- [x] `adventures/conversions/the-sky-blind-spire.md`
+- [x] `adventures/conversions/the-stygian-library.md`
+- [x] `adventures/conversions/the-waking-of-willowby-hall.md`
+- [x] `adventures/conversions/through-ultans-door-1.md`
+- [x] `adventures/conversions/tomb-of-the-serpent-kings.md`
+- [x] `adventures/conversions/tomb-robbers-of-the-crystal-frontier.md`
+- [x] `adventures/conversions/what-child-is-this.md`
+- [x] `adventures/conversions/where-the-wheat-grows-tall.md`
+- [x] `adventures/conversions/willow.md`
+- [x] `adventures/conversions/winters-daughter.md`
 
 ## 批次记录
 
@@ -194,6 +218,8 @@
 | 13 | 冒险转换：本地小批 4 个正文文件 | 已完成 | 已检查 | `80cf5ba6` |
 | 14 | 冒险转换：第三批 7 个正文文件 | 已完成 | 已检查 | `5b7e4e3f` |
 | 15 | 冒险转换：第四批 9 个正文文件 | 已完成 | 已检查 | `47595414` |
+| 16 | 冒险转换：未提交续批 11 个正文文件（含补回的冰河峰） | 已完成 | 已抽查 | 未提交 |
+| 17 | 冒险转换：剩余 10 个正文文件（子 agent 并行） | 已完成 | 已抽查 | 未提交 |
 
 ## 验证记录
 
@@ -206,6 +232,7 @@
 - 2026-09-18：第十二批 8 个冒险转换文件通过 `git diff --check` 和结构检查。
 - 2026-09-18：第十三批 4 个冒险转换文件通过 `git diff --check` 和结构检查。
 - 2026-09-18：第十四、十五批共 16 个冒险转换文件通过 `git diff --check` 和结构检查，并补回遗漏的 SRD 链接。
+- 2026-09-18：第十六、十七批共 21 个冒险转换文件已对照 `../cairn-zh-cn-main` worktree 抽查标题层级、表格和若干规则句；`adventures/conversions/` 正文到此全部译完。未提交。
 - 2026-09-18：构建子 agent 确认系统 Ruby 2.6 无法满足 `Gemfile.lock` 要求的 Bundler 2.5.22；在临时 Ruby 3.3.7 环境中已完成 Bundler 2.5.22 与 97 个 gem 的安装并通过 `bundle check`，但 Jekyll 3.9/Liquid 4.0.3 在 Ruby 3.3+ 遇到 `tainted?` 兼容错误，Ruby 3.4 还额外缺少 `csv`/`bigdecimal`。建议使用 Ruby 3.1.x + Bundler 2.5.22；全站构建仍需在兼容运行时复验，远程主题下载还受当前 SSL/网络环境影响。
 
 ### 备注

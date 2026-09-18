@@ -2,162 +2,162 @@
 layout: default
 parent: Conversions
 grand_parent: Adventures
-title: The Gloaming
+title: 暮光
 ---
 
-- Original adventure by Kelsey Dionne in [Cursed Scroll #1](https://www.thearcanelibrary.com/products/cursed-scroll-zine-vol-1-diablerie)
-- Originally converted for Distant Lands by [River Grimm](https://rivergrimm.itch.io/distant-lands-cursed-scroll-1)
+- 根据 Kelsey Dionne 发表于 [Cursed Scroll #1](https://www.thearcanelibrary.com/products/cursed-scroll-zine-vol-1-diablerie) 的原冒险改编。
+- 最初由 [River Grimm](https://rivergrimm.itch.io/distant-lands-cursed-scroll-1) 为 Distant Lands 转换。
 
-# The Gloaming
+# 暮光 {#the-gloaming}
 
-## Bestiary
+## 生物图鉴 {#bestiary}
 
-### Bittermold
-4 HP, 11 STR, 8 DEX, 6 WIL, shortsword (d8) or sling (d6)
-- Damage from stabbing weapons is impaired.
+### 苦霉人 {#bittermold}
+4 HP, 11 STR, 8 DEX, 6 WIL, 短剑 (d8) 或投石索 (d6)
+- 穿刺武器造成的伤害受到_削弱_。
 
-### Bogthorn
-5 HP, 8 STR, 12 DEX, 9 WIL, thorns (d6), thorn hail (d6, blast)
-- **Critical Damage:** Poison paralyzes the victim for 1d4 rounds.
+### 沼棘 {#bogthorn}
+5 HP, 8 STR, 12 DEX, 9 WIL, 棘刺 (d6), 棘雹 (d6, _爆发_)
+- **重伤：**毒素使受害者麻痹 1d4 回合。
 
-### Dralech
-9 HP, 14 STR, 10 DEX, 8 WIL, charge (d12), bone axe (d8)
-- **Critical Damage:** A random piece of the target’s gear is shattered.
+### 德拉莱克（Dralech） {#dralech}
+9 HP, 14 STR, 10 DEX, 8 WIL, 冲锋 (d12), 骨斧 (d8)
+- **重伤：**目标一件随机装备被击碎。
 
-### Gordock Breeg
-7 HP, 2 Armor, 12 STR, 11 DEX, 12 WIL, bastard sword (d10) or sling (d6)
-- Once per combat Gordock may eat psychedelic algae making his next attack enhanced.
+### 戈多克·布里格（Gordock Breeg） {#gordock-breeg}
+7 HP, 2 Armor, 12 STR, 11 DEX, 12 WIL, 手半剑 (d10) 或投石索 (d6)
+- 每场战斗一次，戈多克可以吞食致幻藻类，使其下一次攻击得到_强化_。
 
-### Hexling
-5 HP, 10 STR, 12 DEX, 10 WIL, draining touch (d6, ignores armor)
-- **Critical Damage:** Target loses d4 STR. If reduced to 0 STR, they become a hexling as well.
+### 咒裔 {#hexling}
+5 HP, 10 STR, 12 DEX, 10 WIL, 汲取之触 (d6，忽略护甲)
+- **重伤：**目标失去 d4 STR。若 STR 降至 0，则同样变成咒裔。
 
-### Howler
-4 HP, 1 Armor, 11 STR, 12 DEX, 10 WIL, club (d6) or sling (d4)
-- Trained to fight together. Damage dealt is enhanced if an ally is also engaged with the same enemy.
+### 嚎叫者 {#howler}
+4 HP, 1 Armor, 11 STR, 12 DEX, 10 WIL, 棍棒 (d6) 或投石索 (d4)
+- 受训协同作战。若有盟友也在与同一敌人交战，则造成的伤害得到_强化_。
 
-### Ichor Ooze
-6 HP, 12 STR, 11 DEX, 6 WIL, tendrils (d4, *blast*)
-- Damage from stabbing weapons is impaired.
-- Any mundane metal or wood that touches the ooze is dissolved.
-- **Critical Damage:** Metal armor is eaten by acid and rendered useless.
+### 灵液软泥 {#ichor-ooze}
+6 HP, 12 STR, 11 DEX, 6 WIL, 触须 (d4, _爆发_)
+- 穿刺武器造成的伤害受到_削弱_。
+- 任何触碰到软泥的凡俗金属或木材都会被溶解。
+- **重伤：**金属护甲被酸液蚀尽，变得无用。
 
-### Marrow Fiend
-11 HP, 1 Armor, 13 STR, 13 DEX, 12 WIL, claws (d8+d8)
-- **Sap Gout:** Shoots sticky sap in a straight line to target. Anyone caught in sap must make STR save or become stuck in place. STR save each round to break free.
-- **Critical Damage:** Target is devoured, restoring d6 STR loss suffered by the Marrow Fiend.
+### 骨髓魔 {#marrow-fiend}
+11 HP, 1 Armor, 13 STR, 13 DEX, 12 WIL, 利爪 (d8+d8)
+- **树脂喷涌：**向目标直线喷射黏稠树脂。被树脂击中者必须进行 STR 豁免，否则被粘在原地。每回合进行 STR 豁免以挣脱。
+- **重伤：**目标被吞噬，恢复骨髓魔已损失的 d6 STR。
 
-### Mugdulblub
-13 HP, 1 Armor, 15 STR, 12 DEX, 16 WIL, tendrils (d8, *blast*)
-- Damage from stabbing weapons is impaired.
-- **Mutagenic:** Creatures within melee range have a 1-in-6 chance on their turn of a mutation. 1d4: **1.** Extra eye, **2-3.** Lost bone, **4.** Extra finger
-- **Dissolve:** Target must save WIL or lose 1d4 WIL. If the target reaches 0 WIL this way it becomes an ichor ooze under Mugdulblub’s control.
-- **Critical Damage:** A tentacle rips the target’s heart from their chest.
+### 玛格杜尔布勒布（Mugdulblub） {#mugdulblub}
+13 HP, 1 Armor, 15 STR, 12 DEX, 16 WIL, 触须 (d8, _爆发_)
+- 穿刺武器造成的伤害受到_削弱_。
+- **致突变：**近战范围内的生物在其回合有 1-in-6 概率发生突变。1d4：**1.** 多一只眼睛，**2-3.** 失去一块骨头，**4.** 多一根手指
+- **溶解：**目标必须进行 WIL 豁免，否则失去 1d4 WIL。若目标因此 WIL 降至 0，则变成受玛格杜尔布勒布控制的灵液软泥。
+- **重伤：**一条触手将目标的心脏从胸腔撕出。
 
-### Mutant Catfish
-4 HP, 10 STR, , 9 DEX, 7 WIL, claws (d6+d6)
-- **Critical Damage:** Target suffers d4 STR damage and becomes paralyzed for d4 rounds.
+### 变异鲶鱼 {#mutant-catfish}
+4 HP, 10 STR, 9 DEX, 7 WIL, 利爪 (d6+d6)
+- **重伤：**目标承受 d4 STR 伤害，并麻痹 d4 回合。
 
-### Skeleton
-5 HP, 1 Armor, 8 STR, 13 DEX, 0 WIL, rusty sword (d6) or bow (d6)
-- Frequently found serving a master or necromancer, often in groups of 3 or more.
-- Found wearing whatever was on them at the time of their death.
-- If a skeleton is killed and its bones are not scattered, it reforms.
+### 骷髅 {#skeleton}
+5 HP, 1 Armor, 8 STR, 13 DEX, 0 WIL, 锈剑 (d6) 或弓 (d6)
+- 常见于侍奉主人或死灵师，往往以 3 个或更多为一群。
+- 穿着死亡时身上所着之物。
+- 若骷髅被杀死但骸骨未被打散，它会重新成形。
 
-### Skrell
-4 HP, 12 STR, 15 DEX, 6 WIL, claws (d6+d6)
-- Can move at twice the speed of PC’s.
+### 斯克雷尔（Skrell） {#skrell}
+4 HP, 12 STR, 15 DEX, 6 WIL, 利爪 (d6+d6)
+- 移动速度为 PC 的两倍。
 
-### Tar Bat
-3 HP, 6 STR, 12 DEX, 7 WIL, bite (d4)
-- Immune to fire
-- Can ignite itself by flying into an open flame, causing it to deal 1d6 damage instead.
+### 焦油蝠 {#tar-bat}
+3 HP, 6 STR, 12 DEX, 7 WIL, 撕咬 (d4)
+- 免疫火焰
+- 可以飞入明火点燃自身，此后改为造成 1d6 伤害。
 
-### The Willowman
-16 HP, 16 STR, 18 DEX, 14 WIL, finger needle (d10, *blast*)
-- Immune to morale checks.
-- Can teleport to a nearby location at will.
-- **Terrify:** Target must save WIL or become paralyzed for 1d4 rounds.
-- **Waking Nightmare:** All nearby creatures must save WIL each round or flee in a random direction for 1d4 rounds.
+### 柳人 {#the-willowman}
+16 HP, 16 STR, 18 DEX, 14 WIL, 针指 (d10, _爆发_)
+- 免疫士气检定。
+- 可以随意传送到附近一处地点。
+- **恐吓：**目标必须进行 WIL 豁免，否则麻痹 1d4 回合。
+- **清醒梦魇：**附近所有生物每回合必须进行 WIL 豁免，否则朝随机方向奔逃 1d4 回合。
 
-### Plogrina B
-8 HP, 1 Arm, 10 STR, 13 DEX, 12 WIL, tendrils (d6, *blast*)
-•	Damage from stabbing weapons is impaired.
+### 普洛格丽娜·B（Plogrina B） {#plogrina-b}
+8 HP, 1 Armor, 10 STR, 13 DEX, 12 WIL, 触须 (d6, _爆发_)
+- 穿刺武器造成的伤害受到_削弱_。
 
-## The Hideous Halls of Mugdulblub
-### Dungeon Events
+## 玛格杜尔布勒布的可怖厅堂 {#the-hideous-halls-of-mugdulblub}
+### 地城事件 {#dungeon-events}
 
-| d6  | Signs                                                                           |
+| d6  | 征兆                                                                           |
 | --- | ------------------------------------------------------------------------------- |
-| 1   | Strange, web-shaped footprints in the muck.                                     |
-| 2   | A moldy cloak made of coyote pelts.                                             |
-| 3   | A pile of rubbish: wooden bowls and utensils, empty ale bottles, catfish bones. |
-| 4   | Fungi sprouting from spongy mortar in the wall.                                 |
-| 5   | Broken wood furniture, dissolving where an ichor ooze crawled over it.          |
-| 6   | A glob of black, tarry oil that smells of sulfur. Highly flammable.             |
+| 1   | 淤泥中有奇怪的蛛网状脚印。                                     |
+| 2   | 一件由郊狼皮制成的发霉斗篷。                                             |
+| 3   | 一堆垃圾：木碗和餐具、空麦酒瓶、鲶鱼骨。 |
+| 4   | 真菌从墙壁上海绵状的灰泥中冒出。                                 |
+| 5   | 破碎的木制家具，灵液软泥爬过之处正在溶解。          |
+| 6   | 一团黑色焦油状油污，有硫磺气味。极易燃。             |
 
-| d6  | Environment                                                                                          |
-| --- | ---------------------------------------------------------------------------------------------------- |
-| 1   | A tar bat engulfed in flames goes screeching past overhead.                                          |
-| 2   | A new pocket of acid quicksand opens up in front of the PCs.                                         |
-| 3   | Mortar in the ceiling gives way, causing stone and rubble to fall.                                   |
-| 4   | A low rumble echoes throughout as Mugdulblub feasts on another sacrifice.                            |
-| 5   | Cracks appear in the ceiling, dripping corrosive acid that deals 1d4 STR damage to any who touch it. |
-| 6   | A door clatters to the ground as its hinges pull free of dissolving stone.                           |
+| d6  | 环境                                                                                          |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | 一只燃着火焰的焦油蝠尖叫着从头顶掠过。                                          |
+| 2   | PC 前方裂开一处新的酸性流沙坑。                                         |
+| 3   | 天花板的灰泥脱落，石块与瓦砾落下。                                   |
+| 4   | 低沉的隆隆声回荡各处，玛格杜尔布勒布正在吞食又一名祭品。                            |
+| 5   | 天花板出现裂缝，滴下腐蚀酸液，触碰者受到 1d4 STR 伤害。 |
+| 6   | 铰链从正在溶解的石头中脱出，一扇门哗啦落到地上。                           |
 
-| d4  | Loss                                                                                                   |
-| --- | ------------------------------------------------------------------------------------------------------ |
-| 1   | A large glob of slime falls from the ceiling onto a torch, extinguishing it.                           |
-| 2   | A ration is discovered to have gotten damp and moldy, making it inedible.                              |
-| 3   | A PC steps in a puddle of acid left behind by an ichor ooze. Roll a d6, on a 1-3 their shoe is ruined. |
-| 4   | The next time a PC draws a steel blade they find it has begun to rust.                                 |
+| d4  | 损失                                                                                                   |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | 一大团黏液从天花板落到火把上，将其熄灭。                           |
+| 2   | 发现一份口粮受潮发霉，无法食用。                              |
+| 3   | 一名 PC 踩进灵液软泥留下的酸液洼。掷 d6，结果为 1-3 则鞋子被毁。 |
+| 4   | 下一次 PC 拔出钢刃时，发现它已开始生锈。                                 |
 
-### Magic Items
-- **Potion of Extirpation:** Pour on an object or creature. The target is erased fully from reality and cannot be brought back.
-- **Cloven Heart:** Swallow whole to become immune to fire until you get a full night's sleep. You are deprived the following day as the stone works through your system.
-- **Gold Hummingbird Charm:** *1 use*. The next time you would fail a DEX save you succeed instead and the charm disintegrates.
+### 魔法物品 {#magic-items}
+- **根除药水：**倒在物体或生物上。目标被彻底从现实中抹去，无法被带回。
+- **裂心石：**整颗吞下，直到好好睡上一整夜都免疫火焰。次日处于_匮乏_，因石头在体内运行。
+- **金蜂鸟护符：***1 次使用*。下一次你本应 DEX 豁免失败时改为成功，护符随之崩解。
 
-### Dungeon Key
-**Note:** Barricaded doors require time and the proper tools to either force open or destroy.
+### 地城索引 {#dungeon-key}
+**注记：**设障的门需要时间和合适的工具才能强行打开或摧毁。
 
-#### 2. Memorial Chamber
-- **Acid quicksand trap:** Anyone caught in quicksand takes 1d4 STR damage each round until freed.
+#### 2. 纪念厅 {#2-memorial-chamber}
+- **酸性流沙陷阱：**陷入流沙者每回合受到 1d4 STR 伤害，直到获救。
 
-#### 3. Pipe Organ Vault
-- **Poison gas trap:** Everyone in the room takes 1d4 STR damage each round.
+#### 3. 管风琴密室 {#3-pipe-organ-vault}
+- **毒气陷阱：**房间内所有人每回合受到 1d4 STR 伤害。
 
-#### 4. Ancient Fountains
-- **Pearl Fountain:** Drinking from it heals 1d6 STR but causes a mutation. 1d4: **1.** Extra eye, **2-3.** Lost bone, **4.** Extra finger
+#### 4. 远古喷泉 {#4-ancient-fountains}
+- **珍珠喷泉：**饮用可恢复 1d6 STR，但会引起突变。1d4：**1.** 多一只眼睛，**2-3.** 失去一块骨头，**4.** 多一根手指
 
-#### 5. Meteorite Room
-- **Door trap:** Person closest to the door must save WIL. On a fail, they fly into a screaming rage and attack allies. Ends if knocked unconscious or demon exorcised.
+#### 5. 陨石室 {#5-meteorite-room}
+- **门陷阱：**最靠近门的人必须进行 WIL 豁免。失败则陷入尖叫狂怒并攻击盟友。被打昏或驱除恶魔后结束。
 
-#### 6. Stalactite Cavern
-- **Acid quicksand trap:** Anyone caught in quicksand takes 1d4 STR damage each round until freed.
+#### 6. 钟乳石洞穴 {#6-stalactite-cavern}
+- **酸性流沙陷阱：**陷入流沙者每回合受到 1d4 STR 伤害，直到获救。
 
-#### 7. The Gold Catfish
-- **Gold catfish:** 7 HP, 13 STR, 10 DEX, 10 WIL, claws (d8+d8)
+#### 7. 金鲶 {#7-the-gold-catfish}
+- **金鲶：** 7 HP, 13 STR, 10 DEX, 10 WIL, 利爪 (d8+d8)
 
-#### 8. Steaming Stalagmites
-- Each dungeon turn roll a d6. On a 1 a random player must save DEX or take 1d4 damage from a steam gout.
+#### 8. 蒸汽石笋 {#8-steaming-stalagmites}
+- 每个地城轮次掷 d6。结果为 1 时，随机一名玩家必须进行 DEX 豁免，否则受到蒸汽喷涌造成的 1d4 伤害。
 
-#### 9. Time Flux Chamber
-- **Mushrooms:** Eating causes neon hallucinations for 1d4 rounds.
+#### 9. 时光流动室 {#9-time-flux-chamber}
+- **蘑菇：**食用会引起霓虹幻觉，持续 1d4 回合。
 
-#### 10. Jellified Remains
-- **Acid quicksand trap:** Anyone caught in quicksand takes 1d4 STR damage each round until freed.
+#### 10. 胶化残骸 {#10-jellified-remains}
+- **酸性流沙陷阱：**陷入流沙者每回合受到 1d4 STR 伤害，直到获救。
 
-#### 11. Illusory Wall
-- **River:** Anyone stepping into the river must save DEX or be swept toward Area 23.
+#### 11. 幻墙 {#11-illusory-wall}
+- **河流：**踏入河中者必须进行 DEX 豁免，否则被冲向区域 23。
 
-#### 12. Shrine to Mugdulblub
-- **Stalagmite:** Sweats beads of acid that deal 1d4 STR damage.
+#### 12. 玛格杜尔布勒布神龛 {#12-shrine-to-mugdulblub}
+- **石笋：**渗出酸珠，造成 1d4 STR 伤害。
 
-#### 13. Plogrina Bittermold's Cave
-- **Rock Pillar:** Metal in close proximity sticks to the pillar. STR save to remove.
+#### 13. 苦霉人普洛格丽娜的洞穴 {#13-plogrina-bittermolds-cave}
+- **石柱：**靠近的金属会粘在柱上。STR 豁免以取下。
 
-#### 14. Contested Cave
-- **River:** Anyone stepping into the river must save DEX or be swept toward Area 30.
+#### 14. 争夺洞穴 {#14-contested-cave}
+- **河流：**踏入河中者必须进行 DEX 豁免，否则被冲向区域 30。
 
-#### 15. Magical Rock
-- **Rock:** STR becomes 18 while standing on it.
+#### 15. 魔法岩石 {#15-magical-rock}
+- **岩石：**站在上面时 STR 变为 18。

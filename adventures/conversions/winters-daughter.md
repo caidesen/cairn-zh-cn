@@ -2,165 +2,165 @@
 layout: default
 parent: Conversions
 grand_parent: Adventures
-title: Winter's Daughter
+title: 冬之女
 redirect_from: /resources/adventure-conversions/winters-daughter/
 ---
 
-# Winter's Daughter
+# 冬之女 {#winters-daughter}
 
-- Converted from the [original work by Gavin Norman](https://necroticgnome.com/products/dolmenwood-winters-daughter).
-- In general, very little changes are necessary to run the adventure as written.
-- Note that there are [two versions](https://necroticgnome.com/blogs/news/winters-daughter) of this adventure (not including the 5e/OSE versions).
-- This conversion was written for the original edition, _published with permission_.
-- A PDF-friendly version of this conversion is available [here](https://drive.google.com/drive/folders/13gkybUAkRJAXSErB3rDXpclLOmpXLtOB).
+- 根据 [Gavin Norman 创作的原作](https://necroticgnome.com/products/dolmenwood-winters-daughter)改编。
+- 总体而言，按原文运行这场冒险时几乎不需要改动。
+- 请注意，这场冒险有[两个版本](https://necroticgnome.com/blogs/news/winters-daughter)（不包括 5e/OSE 版本）。
+- 这份转换是为初版撰写的，_经许可发布_。
+- 这份转换的[适合 PDF 的版本](https://drive.google.com/drive/folders/13gkybUAkRJAXSErB3rDXpclLOmpXLtOB)可用。
 
-## Outside the Mound
+## 坟冢之外 {#outside-the-mound}
 
-### Random Events
-- Gazing at the violet-eyed owl: save WIL to avoid fainting.
-- Gust of wind: DEX save to avoid taking 1 STR damage.
+### 随机事件 {#random-events}
+- 凝视紫眼猫头鹰：WIL 豁免以避免昏厥。
+- 阵风：DEX 豁免以避免受到 1 STR 伤害。
 
-### 1. Approaching the Burial Mound
-- Run as written.
+### 1. 接近墓冢 {#1-approaching-the-burial-mound}
+- 按原文执行。
 
-### 2. Sacrifice at the Whything Stones
-- Run as written except for the Drunes here. Their possessions are the same, but see notes below on staves and Spellbooks.
-- The "young woman" (Briar-Anne) is standard NPC but with relatively high WIL (4HP, 10/10/15).
+### 2. 在怀辛石献祭 {#2-sacrifice-at-the-whything-stones}
+- 除了这里的德鲁恩之外，按原文执行。他们的财物不变，但请参阅下方关于法杖和法术书的说明。
+- “年轻女子”（荆棘安妮）是标准 NPC，但 WIL 相对较高（4 HP，10/10/15）。
 
-#### Hooded Men (aka Drunes)
-12 HP, 9 STR, 12 DEX, 14 WIL, staff wreathed in green flame (d8), Spellbooks (_Charm Person, Magic Missile, Hold Person, Topple Dolmen_)  
-- _Charm Person_: Target sees caster as a friend until they succeed a WIL save.
-- _Hold Person_: Target is paralyzed until they succeed a WIL save. Undead are _not_ affected.
-- _Magic Missile_: A bolt of arcane green energy that causes d6 damage, ignoring mundane armor.
-- _Topple Dolmen_: One of the dolmens begins to glow eerily, then levitates from the circle and topples onto a spot within 30', doing 4d6 _Blast_ damage on a failed DEX save (the stones move quite slowly).
-- On death their bodies turn to ash, leaving only a cloak and staff which reek of arcane energies.
-- 1d4 Spellbooks can be recovered from the ashes of _one_ of their corpses.
-- Touching the staff for the first time causes 1d4 WIL damage. Survivors have power over the staff, which allows the bearer to hear the thoughts of others.
+#### 兜帽人（又名德鲁恩） {#hooded-men-aka-drunes}
+12 HP, 9 STR, 12 DEX, 14 WIL, 绿焰缠绕的法杖（d8）、法术书（_魅惑人类、魔法飞弹、定身术、推倒巨石_）  
+- _魅惑人类：_目标将施法者视为朋友，直到 WIL 豁免成功。
+- _定身术：_目标陷入麻痹，直到 WIL 豁免成功。不死生物_不受_影响。
+- _魔法飞弹：_一道奥术绿光造成 d6 伤害，忽略普通护甲。
+- _推倒巨石：_一块巨石开始诡异地发光，随后从石阵中漂浮起来，倒向 30' 内的一处地点。DEX 豁免失败时造成 4d6 _爆发_伤害（石头移动得相当缓慢）。
+- 死亡时，它们的身体化为灰烬，只留下散发着奥术能量恶臭的斗篷和法杖。
+- 从_一具_尸体的灰烬中可以找到 1d4 本法术书。
+- 第一次触碰法杖时受到 1d4 WIL 伤害。幸存者会获得控制法杖的力量，使持有者能够听见他人的思想。
 
-### 3. Tomb Entrance
-#### Door
-- Two _normal_ PCs must make a successful STR save per attempt to move the slab.
-- Breaking the slab is easier provided the PCs have the equipment and time (see notes about the noise).
+### 3. 墓穴入口 {#3-tomb-entrance}
+#### 门 {#door}
+- 每次尝试移动石板时，两名_普通_ PC 必须分别成功进行 STR 豁免。
+- 如果 PC 拥有合适的装备和充足时间，打破石板会更容易（见关于噪声的说明）。
 
-### 4. A Hole in the Earth
-- DEX save to avoid being heard by the worms.
+### 4. 地上的洞 {#4-a-hole-in-the-earth}
+- DEX 豁免以避免被蠕虫听见。
 
-## The Burial Mound
+## 墓冢 {#the-burial-mound}
 
-#### 5. Hall of Guardians
-#### Religious Objects
-4 HP, 1 Armor, bash (1d4)
-- Can fly.
-- Any PC with obvious ill-intent is immediately attacked.
-- On death, a cloud of mould spores erupt. Anyone nearby must make a STR save or suffer 1 STR damage and become paralyzed by choking for one round.
+#### 5. 守卫大厅 {#5-hall-of-guardians}
+#### 宗教物件 {#religious-objects}
+4 HP, 1 Armor, 猛击（1d4）
+- 可以飞行。
+- 任何明显怀有恶意的 PC 都会立即遭到攻击。
+- 死亡时会爆发一团霉菌孢子云。附近所有人必须进行 STR 豁免，否则受到 1 STR 伤害，并因窒息而麻痹一轮。
 
-### 6. Blindfolded Statue
-- Run as written.
+### 6. 蒙眼雕像 {#6-blindfolded-statue}
+- 按原文执行。
 
-### 7. Freezing Mirror
-#### Full-Length Mirror
-- WIL save to pass in front without becoming paralyzed.
-- Unfreezing people can include _Cure Wounds_ (restore 1d4 STR per day to a creature you can touch).
+### 7. 冰冻之镜 {#7-freezing-mirror}
+#### 全身镜 {#full-length-mirror}
+- 在镜前经过时进行 WIL 豁免，以避免陷入麻痹。
+- 解冻他人可以使用_治疗伤口_（每天为你能触碰的生物恢复 1d4 STR）。
 
-### 8. Family Crypt
-#### Floating Skeletons
-10 HP, 5 WIL, 8 STR, 13 DEX, claws (1d4)
-- Can fly and are unaffected by charms or mind control.
-- Any melee weapon that makes contact with the Skeleton becomes momentarily weightless (next attack is _impaired_).
+### 8. 家族墓室 {#8-family-crypt}
+#### 浮空骷髅 {#floating-skeletons}
+10 HP, 5 WIL, 8 STR, 13 DEX, 利爪（1d4）
+- 可以飞行，不受魅惑或心灵控制影响。
+- 任何接触骷髅的近战武器都会暂时失去重量（下一次攻击受到_削弱_）。
 
-### 9. Chapel of St. Sedge
-- Run as written.
+### 9. 塞奇特圣堂 {#9-chapel-of-st-sedge}
+- 按原文执行。
 
-### 10. Abandoned Priest's Quarters
-#### 3 Wormtongues
-4 HP, 1 Armor, acid bite (1d4)
-- Critical damage: acid eats at flesh and clothing. Lose 1 STR per round until washed off.
+### 10. 废弃的牧师住所 {#10-abandoned-priests-quarters}
+#### 3 条虫舌 {#3-wormtongues}
+4 HP, 1 Armor, 酸液撕咬（1d4）
+- 重伤：酸液侵蚀血肉与衣物。每轮失去 1 STR，直到酸液被洗掉。
 
-#### A Loose Flagstone
-- Any thorough search will discover the loose flagstone.
-- Poison needle trap: suffer 1d4 STR damage and fall unconscious for 1d12 minutes.
-- _Hold Person_: Target is paralyzed until they succeed a WIL save. Undead are _not_ affected. See rules for Scrolls in the [SRD](/cairn-srd/#magic).
-- Holy wafers: Anyone eating a single wafer provides an immense sense of well-being and peace. Eating three or more causes the person to fall into a deep sleep for 1d4 hours.
+#### 松动的地砖 {#a-loose-flagstone}
+- 仔细搜索一定会发现松动的地砖。
+- 毒针陷阱：受到 1d4 STR 伤害，并昏迷 1d12 分钟。
+- _定身术：_目标陷入麻痹，直到 WIL 豁免成功。不死生物_不受_影响。参见 [SRD](/cairn-srd/#magic) 中关于卷轴的规则。
+- 圣饼：吃下一块的人会感到极度的幸福与平和。吃下三块或更多会使人陷入深度睡眠，持续 1d4 小时。
 
-### 11. Statues With Weapons
-#### 7 Statues of Footmen
-- The longsword is two-handed and does d8+d8 damage.
-- Mace & spear do d8 damage, the Morningstar, Battle Axe, Halberd and Warhammer do d10.
+### 11. 持武器的雕像 {#11-statues-with-weapons}
+#### 7 尊步兵雕像 {#7-statues-of-footmen}
+- 长剑需要双手持用，造成 d8+d8 伤害。
+- 钉头锤和长矛造成 d8 伤害；晨星、战斧、长戟和战锤造成 d10 伤害。
 
-#### Mould-Patched Walls
-- Raises a cloud of spores. Everyone within 10' makes a WIL save or suffer 1d4 STR damage and be stricken with violent coughing and choking for 1 turn.
+#### 覆满霉菌的墙 {#mould-patched-walls}
+- 激起一团孢子云。10' 内所有人进行 WIL 豁免，否则受到 1d4 STR 伤害，并因剧烈咳嗽和窒息持续 1 轮。
 
-### 12. Hall of Hounds
-#### Stone Hounds
-16 HP, 3 Armor, 16 STR, 12 DEX, 1 WIL, bite (1d8)
-- Chained (can't leave the room).
-- Only harmed by magic. Unaffected by charms or mind control.
+### 12. 猎犬大厅 {#12-hall-of-hounds}
+#### 石猎犬 {#stone-hounds}
+16 HP, 3 Armor, 16 STR, 12 DEX, 1 WIL, 撕咬（1d8）
+- 被锁链拴住（无法离开房间）。
+- 只有魔法能伤害它们。不受魅惑或心灵控制影响。
 
-### 13. The Knight's Tomb
-#### The Ghost of Sir Chyde
-- 18 HP, 3 Armor, 14 STR, 16 DEX, 18 WIL, aging touch (1d6)
-- Abilities as written.
+### 13. 骑士之墓 {#13-the-knights-tomb}
+#### 夏德爵士之魂 {#the-ghost-of-sir-chyde}
+- 18 HP, 3 Armor, 14 STR, 16 DEX, 18 WIL, 衰老之触（1d6）
+- 能力按原文执行。
 
-### Stone Coffer
-- See [Ring of Soul-Binding](/adventures/conversions/winters-daughter/#ring-of-soul-binding).
+### 石棺 {#stone-coffer}
+- 参见[灵魂束缚戒指](/adventures/conversions/winters-daughter/#ring-of-soul-binding)。
 
-### 14. Warded Pool.
-- Run as written.
+### 14. 设防水池 {#14-warded-pool}
+- 按原文执行。
 
-## The Fairy Prison
+## 妖精囚室 {#the-fairy-prison}
 
-### Random Events
-#### Frost Elf Knights
-- See [Frost Elf Knights](/adventures/conversions/winters-daughter/#frost-elf-guards-and-knights).
+### 随机事件 {#random-events-2}
+#### 霜精灵骑士
+- 参见[霜精灵骑士](/adventures/conversions/winters-daughter/#frost-elf-guards-and-knights)。
 
-#### Goblin Sleigh-rider
-- See [Dolmenwood Goblin](/adventures/conversions/winters-daughter/#dolmenwood-goblin).
+#### 地精雪橇骑手
+- 参见[多尔门伍德地精](/adventures/conversions/winters-daughter/#dolmenwood-goblin)。
 
-#### Winter wolves
-5 HP, 14 STR, 12 DEX, bite (d8)
+#### 冬狼 {#winter-wolves}
+5 HP, 14 STR, 12 DEX, 撕咬（d8）
 
-### 15. Tower on a Frozen Lake
-- Run as written.
+### 15. 冰湖上的高塔 {#15-tower-on-a-frozen-lake}
+- 按原文执行。
 
-### 16. Entrance Hall
-#### Dolmenwood Troll
-14 HP, 2 Armor, 18 STR, 9 DEX, 12 WIL, moss fists (d10)
-- Moss growth: as written.
-- Regeneration: regains 3hp per round, and even severed limbs are reattached. If killed, will regenerate and fight again in 2d6 minutes.
-- Lore: as written.
+### 16. 入口大厅 {#16-entrance-hall}
+#### 多尔门伍德巨魔 {#dolmenwood-troll}
+14 HP, 2 Armor, 18 STR, 9 DEX, 12 WIL, 苔藓之拳（d10）
+- 苔藓生长：按原文执行。
+- 再生：每轮恢复 3 HP，甚至断肢也会重新接上。如果被杀死，会在 2d6 分钟后再生并重新战斗。
+- 传闻：按原文执行。
 
-#### Dolmenwood Goblin
-4 HP, 1 Armor 8 STR, 11 DEX, 8 WIL, spear (d6), Spells (once per day: _Charm person_, _Darkness_, _Sleep_, _Phantasmal Force_)
-- _Charm Person_: Target sees caster as a friend until they succeed a WIL save.
-- _Darkness_: Creates a shroud of magical darkness in a 15' radius.
-- _Sleep_: A creature you can see falls into a light sleep.
-- _Phantasmal Force_: You create a convincing illusion in the mind of a living creature, stimulating sound, touch, and temperature as if it were real. A WIL save is required to break the vision.
+#### 多尔门伍德地精 {#dolmenwood-goblin}
+4 HP, 1 Armor, 8 STR, 11 DEX, 8 WIL, 长矛（d6）、法术（每天一次：_魅惑人类、黑暗、睡眠、幻象_）
+- _魅惑人类：_目标将施法者视为朋友，直到 WIL 豁免成功。
+- _黑暗：_在半径 15' 内制造一片魔法黑暗。
+- _睡眠：_你能看见的一个生物陷入浅睡。
+- _幻象：_在一个活物的心智中制造令人信服的幻觉，使其仿佛真实地感受到声音、触感与温度。目标必须进行 WIL 豁免才能打破幻象。
 
-### 17. Fairy Kitchen
-#### Frost Elf Cooks
-8 HP, 9 STR, 13 DEX, 12 WIL, knife (d6), rolling pin (d4)
+### 17. 妖精厨房 {#17-fairy-kitchen}
+#### 霜精灵厨师 {#frost-elf-cooks}
+8 HP, 9 STR, 13 DEX, 12 WIL, 小刀（d6）、擀面杖（d4）
 
-### 18. Wedding Feast
-#### Frost Elf Guards and Knights
-11 HP, 2 Armor, 8 STR, 13 DEX, 14 WIL, spear or lance (d8)
+### 18. 婚宴 {#18-wedding-feast}
+#### 霜精灵卫兵与骑士 {#frost-elf-guards-and-knights}
+11 HP, 2 Armor, 8 STR, 13 DEX, 14 WIL, 长矛或骑枪（d8）
 
-#### Frost Elf Nobles
-11 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), a Spellbook (_Sleep_ or _Hold Person_)
-- _Sleep_: A creature you can see falls into a light sleep.
-- _Hold Person_: Target is paralyzed until they succeed a WIL save. Undead are _not_ affected.
+#### 霜精灵贵族 {#frost-elf-nobles}
+11 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, 冰柱匕首（d6）、一本法术书（_睡眠_或_定身术_）
+- _睡眠：_你能看见的一个生物陷入浅睡。
+- _定身术：_目标陷入麻痹，直到 WIL 豁免成功。不死生物_不受_影响。
 
-### 19. The Princess's Bedchamber
-#### Princess Snowfall-at-Dusk
-16 HP, 1 Armor, 8 STR, 15 DEX, 16 WIL, icicle dagger (d6), Spellbooks (_Charm Person_, _Sleep_, _Hold Person_, _Invisibility_)
-- _Charm Person_: Target sees caster as a friend until they succeed a WIL save.
-- _Sleep_: A creature you can see falls into a light sleep.
-- _Hold Person_: Target is paralyzed until they succeed a WIL save. Undead are _not_ affected.
-- _Invisibility_: Target is completely invisible to non-magical creatures until they attack.
+### 19. 公主的寝室 {#19-the-princesss-bedchamber}
+#### 暮雪公主 {#princess-snowfall-at-dusk}
+16 HP, 1 Armor, 8 STR, 15 DEX, 16 WIL, 冰柱匕首（d6）、法术书（_魅惑人类、睡眠、定身术、隐形_）
+- _魅惑人类：_目标将施法者视为朋友，直到 WIL 豁免成功。
+- _睡眠：_你能看见的一个生物陷入浅睡。
+- _定身术：_目标陷入麻痹，直到 WIL 豁免成功。不死生物_不受_影响。
+- _隐形：_目标对非魔法生物完全隐形，直到其发起攻击。
 
-## Magic Items
+## 魔法物品 {#magic-items}
 
-### Ring of Soul-Binding
-- As written; the unwilling should make a WIL save.
+### 灵魂束缚戒指 {#ring-of-soul-binding}
+- 按原文执行；不情愿者应进行 WIL 豁免。
 
-### Pouch of Limitless Fungi
-- As written.
+### 无尽真菌袋 {#pouch-of-limitless-fungi}
+- 按原文执行。

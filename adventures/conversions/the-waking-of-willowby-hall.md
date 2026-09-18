@@ -2,234 +2,234 @@
 layout: default
 parent: Conversions
 grand_parent: Adventures
-title: The Waking of Willowby Hall
+title: 柳比厅的苏醒
 redirect_from: /resources/adventure-conversions/the-waking-of-willowby-hall/
 ---
 
-# The Waking of Willowby Hall
+# 柳比厅的苏醒 {#the-waking-of-willowby-hall}
 
-- Converted from the original [work](https://shop.swordfishislands.com/the-waking-of-willowby-hall) by [Ben Milton](http://questingblog.com).
-- Original NPC stat blocks by Yochai Gal. Revised stat blocks and Willowby Hall location key by Derek B.
+- 根据 [Ben Milton](http://questingblog.com) 创作的原[作](https://shop.swordfishislands.com/the-waking-of-willowby-hall)改编。
+- 原始 NPC 属性块由 Yochai Gal 撰写。修订后的属性块与柳比厅地点索引由 Derek B. 撰写。
 
-## Encounters
+## 遭遇 {#encounters}
 
-### Bonebreaker Tom
+### Bonebreaker Tom {#bonebreaker-tom}
 
-#### If Fighting
-12 HP, 18 STR, 12 DEX, 14 WIL, smash/stomp or bell flail, *detachment*
-- Tom can only be injured by means of magic or *blast* attacks. Such attacks are considered *impaired* unless otherwise noted.
-- **Critical damage**: Victim takes d12+d12 STR damage as they are crushed and flung away by Tom.
+#### 若战斗 {#if-fighting}
+12 HP, 18 STR, 12 DEX, 14 WIL, 砸击/践踏或钟锤连枷，_分队_
+- Tom 只能被魔法或_爆发_攻击伤害。除非另有说明，此类攻击视为_削弱_。
+- **重伤**：受害者受到 d12+d12 STR 伤害，被 Tom 碾碎并甩飞。
 
-#### If Fleeing
-If Tom spots an enemy in a room he will smash in the wall with the bell flail (d6 STR damage to anyone still in the room and not behind cover) and attempt to grab a visible target (Save DEX or suffer his **Critical Damage** Effect).
+#### 若逃离 {#if-fleeing}
+若 Tom 在某个房间里发现敌人，他会用钟锤连枷砸穿墙壁（仍在房间内且未躲在掩体后的任何人受到 d6 STR 伤害），并试图抓住一个可见目标（DEX 豁免，否则遭受其**重伤**效果）。
 
-##### Things Found in Tom's Beard.
-* **Patricia**: d8 sword, *enhanced* against giants.
+##### Tom 胡须里发现的东西 {#things-found-in-toms-beard}
+* **Patricia**：d8 剑，对巨人_强化_。
 
-### Death Knight
+### 死亡骑士 {#death-knight}
 
-10 HP, 3 Armor, 12 STR, 12 DEX, 16 WIL, sword (d8+d8)  
-- **Bone Prison**: a target is enclosed in a cage made of bones that springs from the ground.  
-- **Reanimate**: d3 skeletons crawl their way out the floorboards, walls, and ceiling.  
-- **Unstoppable**: When defeated, collapses into a pile of dust. Fully regenerates within his stone sarcophagus in 2 Dungeon Cycles unless it is destroyed or at least three lit black candles are placed on top of it.  
-- **Undead**: Not subject to Morale or Reaction rolls. Cannot approach Saint Olvard’s Bell.  
+10 HP, 3 Armor, 12 STR, 12 DEX, 16 WIL, 剑（d8+d8）  
+- **白骨牢笼**：目标被从地面升起的骨笼困住。  
+- **复生**：d3 具骷髅从地板、墙壁和天花板中爬出。  
+- **无法阻止**：被击败时化为尘土。除非石棺被摧毁，或至少三支点燃的黑蜡烛被放在其上，否则他会在 2 个地城周期内于石棺中完全再生。  
+- **不死生物**：不受士气或反应检定影响。无法靠近圣 Olvard 之钟。  
 
-### Skeletal Servants
+### 骷髅仆人 {#skeletal-servants}
 
-4 HP, Armor 1, 8 STR, 12 DEX, 3 WIL, makeshift weapon (46)  
-- **Peaceful**: The skeletal servants of Willowby Hall are not the fighting type, unless attacked. When encountered, they are occupied in housework appropriate for the room.  
-- **Obedient**: All skeletons obey the Death Knight’s commands. If compelled into service, they will use whatever implements are at hand to attack. Either roll or pick from the list below.  
-- **Undead**: Not subject to Morale or Reaction rolls. Cannot approach Saint Olvard’s Bell.  
+4 HP, Armor 1, 8 STR, 12 DEX, 3 WIL, 临时武器（46）  
+- **平和**：柳比厅的骷髅仆人并非战斗型，除非遭到攻击。遭遇时，他们正忙于与该房间相称的家务。  
+- **服从**：所有骷髅都服从死亡骑士的命令。若被强迫服役，他们会使用手边的任何器具攻击。从下方列表中掷骰或挑选。  
+- **不死生物**：不受士气或反应检定影响。无法靠近圣 Olvard 之钟。  
 
-### Elias Fenwick (Evil Occultist)
+### Elias Fenwick（邪恶秘术师） {#elias-fenwick-evil-occultist}
 
-7 HP, 8 STR, 10 DEX, 15 WIL, wand (1d6), spells: _Comprehend, Liquid Air, Mirror Image, Visual Illusion._
-* *Comprehend*: You become fluent in all languages for a short while.
-* *Liquid Air*: The air around you becomes swimmable.
-* *Mirror Image*: An illusory duplicate of yourself appears and is under your control.
-* *Visual Illusion*: A silent, immobile, room-sized illusion of your choice appears.
+7 HP, 8 STR, 10 DEX, 15 WIL, 魔杖（1d6），法术：_理解语言_、_液态空气_、_镜像_、_视觉幻象_。
+* *理解语言*：你会在短时间内流利掌握所有语言。
+* *液态空气*：你周围的空气变得可以游泳。
+* *镜像*：一个你的幻象复制体出现，并受你控制。
+* *视觉幻象*：一个无声、静止、房间大小的幻象按你的选择出现。
 
 
-### Lavinia Coldwater (Ghostly Aristocrat)
+### Lavinia Coldwater（鬼魂贵族） {#lavinia-coldwater-ghostly-aristocrat}
 
-4 HP, 7 STR, 16 DEX, 14 WIL, astral strike (1d6, ignores armor)  
-- Critical Damage (WIL): Knocks the target’s soul right out of its body. May Save WIL to return next Round.  
-- **Spectral**: Lavinia can become invisible and intangible at will, has no physical needs, and can only be affected by magic and silver. Cannot approach Saint Olvard’s bell.  
+4 HP, 7 STR, 16 DEX, 14 WIL, 星界打击（1d6，忽略护甲）  
+- **重伤**（WIL）：将目标的灵魂直接打出体外。可进行 WIL 豁免以在下一回合返回。  
+- **灵体**：Lavinia 可以随意隐形与化为无形，没有生理需求，且只能被魔法和银器影响。无法靠近圣 Olvard 之钟。  
   
-### Horatio (Ghostly Footman)
+### Horatio（鬼魂男仆） {#horatio-ghostly-footman}
 
 2 HP, 6 STR, 12 WIL  
-- **Spectral**: Horatio is invisible and intangible to everyone other than the person who summoned him. He has no physical needs, and can only be affected by magic and silver.  
+- **灵体**：Horatio 对召唤者以外的所有人隐形且无形。他没有生理需求，且只能被魔法和银器影响。  
 
-### Taxidermied Owl Bear
+### 标本枭熊 {#taxidermied-owl-bear}
 
-8 HP, 16 STR, 14 DEX, 3 WIL, beak and talons (d10, *blast*)
-- **Stuffed**: Ignores all piercing and bludgeoning damage.  
-- **Flammable**: Very easy to ignite. Once on fire, it takes 1d6 STR damage per round and charges around the manor in a panic spreading the fire.  
+8 HP, 16 STR, 14 DEX, 3 WIL, 喙与爪（d10，_爆发_）
+- **填充标本**：忽略所有穿刺和钝击伤害。  
+- **易燃**：极易点燃。着火后，每回合受到 1d6 STR 伤害，并在庄园内惊慌冲撞，使火势蔓延。  
 
-### Helmut Halfsword
-9 HP, 2 Armor, 12 STR, 8 DEX, 6 WIL, halfsword (1d8, *bulky*)
+### Helmut Halfsword {#helmut-halfsword}
+9 HP, 2 Armor, 12 STR, 8 DEX, 6 WIL, 半剑（1d8，_笨重_）
 
-### Lisbet Grund
-6 HP, 11 STR, 14 DEX, 11 WIL, knife (1d6) and hook (1d6)  
-- **Bag of Tricks**: Lisbet is carrying 50’ of rope, a bag of 100 marbles, two flasks of fire oil, a fake beard, a whole turkey leg, a bottle of poison, and a smoke bomb.
-- **Critical Damage**: The poison on Lisbet's knife causes nausea and blurred vision for 24 hours: D6 DEX damage and attacks are *impaired*  
+### Lisbet Grund {#lisbet-grund}
+6 HP, 11 STR, 14 DEX, 11 WIL, 小刀（1d6）与钩子（1d6）  
+- **百宝袋**：Lisbet 带着 50' 绳索、一袋 100 颗弹珠、两瓶火油、一副假胡子、一整根火鸡腿、一瓶毒药，以及一枚烟雾弹。
+- **重伤**：Lisbet 小刀上的毒药导致恶心与视力模糊，持续 24 小时：D6 DEX 伤害，且攻击处于_削弱_  
   
 
-### Apocalypse Ann
+### Apocalypse Ann {#apocalypse-ann}
  
-4 HP, 9 STR, 11 DEX, 16 WIL, doomsday staff ( (1d6), spellbooks: _Adhere_, _Arcane Arrow_, _Web_
-- **Doomsday Staff**: 3 charges, fires a fireball dealing d8 *blast* damage. At the start of the adventure she only has two charges left.
-- **Recharge**: Be in the posession of a person who is victim to but survives a major catastrophe. 
-* *Adhere*: An object is covered in extremely sticky slime.
-* *Arcane Arrow*: Green energy bursts from your fingers, dealing 1d6 STR damage and ignoring mundane armor.
-* *Web*: Your wrists shoot thick webbing.
+4 HP, 9 STR, 11 DEX, 16 WIL, 末日法杖（1d6），法术书：_黏附_、_奥术箭_、_蛛网_
+- **末日法杖**：3 次充能，发射火球造成 d8 _爆发_伤害。冒险开始时她只剩两次充能。
+- **重新充能**：由一名遭遇重大灾难却幸存下来的人持有。
+* *黏附*：一件物品被极其黏稠的黏液覆盖。
+* *奥术箭*：绿色能量从你的手指间迸发，造成 1d6 STR 伤害，并忽略普通护甲。
+* *蛛网*：厚厚的蛛网从你的手腕射出。
 
-### Horrible Magic Goose
-4 HP, STR 1, DEX 16, WIL 18, bite (1d4)
-- **Honk**: If chased, harassed, or grabbed, Mildred will start honking and biting, requiring Dungeon Event rolls. The honking may also alert Bonebreaker Tom if he is nearby.
-- **Lay**: Every morning, Mildred lays a very heavy goose egg. Peel away the shell and the interior is solid gold. The volume of the metal is equal to 300gp.
+### 可怕的魔法鹅 {#horrible-magic-goose}
+4 HP, STR 1, DEX 16, WIL 18, 撕咬（1d4）
+- **鸣叫**：若被追逐、骚扰或抓住，Mildred 会开始鸣叫并啄咬，需要掷地城事件。鸣叫也可能惊动附近的 Bonebreaker Tom。
+- **下蛋**：每天早晨，Mildred 会下一枚非常沉重的鹅蛋。剥开蛋壳，内部是实心黄金。金属体积相当于 300gp。
 
-## A Note on Time
-* If running Second Edition, treat all mentions of 10 minutes as one Dungeon Cycle for the purposes of Cairn Second Edition.
+## 关于时间的说明 {#a-note-on-time}
+* 若使用第二版，为配合 Cairn 第二版，将所有提及的 10 分钟视为一个地城周期。
 
-## Willowby Hall First Floor
-### Great Hall
-* **When Awake**: Save DEX if moving quickly through the room or slip and fall.
+## 柳比厅一楼 {#willowby-hall-first-floor}
+### 大厅 {#great-hall}
+* **苏醒时**：快速穿过房间时进行 DEX 豁免，否则滑倒摔跤。
 
-### Music Room
-* If anything but the sheet music in the Guest Bedroom is played, thousands of harmless black spiders swarm over the PC's hands. Save WIL to keep from crying out and provoking a Dungeon Events roll.
+### 音乐室 {#music-room}
+* 若演奏客房中那份乐谱以外的任何乐曲，成千上万无害的黑蜘蛛会涌上 PC 的双手。进行 WIL 豁免以免喊出声并引发一次地城事件检定。
 
-### Sitting Room 
-* As written.
+### 起居室 {#sitting-room}
+* 按原文执行。
 
-### Smoking Room
-* As written.
+### 吸烟室 {#smoking-room}
+* 按原文执行。
 
-### Tomb Room
-* **Suit 1**: Treat as Spellbook of *Control Plants*: Nearby plants and trees obey you and gain the ability to move at a slow pace.
-* **Suit 2**: Treat as Spellbook of *Scry* (You can see through the eyes of a creature you touched earlier today) as long as you have access to still water.
-* **Suit 3**: As written.
-* **Suit 4**: As written.
+### 墓室 {#tomb-room}
+* **甲胄 1**：视为*控制植物*法术书：附近的植物和树木会服从你，并获得缓慢移动的能力。
+* **甲胄 2**：视为*占卜*法术书（你可以透过今天早些时候触碰过的一名生物的眼睛看见事物），只要你能够接触到静止的水面。
+* **甲胄 3**：按原文执行。
+* **甲胄 4**：按原文执行。
 
-### Weapons Room
-* As written.
+### 武器室 {#weapons-room}
+* 按原文执行。
 
-### Night Garden 
-* **When Awake::** Touching the blood causes the body part to shrivel and weaken, dealing 1d4 STR damage.
+### 夜花园 {#night-garden}
+* **苏醒时：**触碰血液会使该身体部位萎缩衰弱，造成 1d4 STR 伤害。
 
-#### Unusual Fungi
+#### 奇特真菌 {#unusual-fungi}
 
 |      |                                                                                                                                      |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| **Roll** | **Effect** |
-| **1** | Heal d6 STR |
-| **2** | The eater falls into a light sleep for one Dungeon Cycle |
-| **3** | Bad Breath |
-| **4** | Makes eater itchy |
-| **5** | Cannot talk for one Dungeon Cycle |
-| **6** | Extremely delicious |
-| **7** | Makes eater even more hungry |
-| **8** | Makes eater cough uncontrollably for one Dungeon Cycle |
-| **9** | Eater can summon and command a swarm of rats for one Dungeon Cycle. 4 STR. Can only be harmed by *blast* attacks. 1d4 bite damage |
-| **10** | Gravity's pull on the eater is halved for one Dungeon Cycle, allowing them to jump and climb more easily |
-| **11** | Eater sweats a thin layer of slime from their skin for 24 hours |
-| **12** | Eater is drunk for one Dungeon Cycle |
-| **13** | Vomiting for one Dungeon Cycle |
-| **14** | Eater sprouts fungi all over their body. Roll 2d6 to determine their effects when eaten |
-| **15** | Eater can transform into a spore cloud once in the next 24 hours. Lasts one Dungeon Cycle |
-| **16** | Eater cam transform themselves into a living slime once in the next 24 hours. Lasts for one Dungeon Cycle |
-| **17** | The eater shrinks to half size for 24 hours |
-| **18** | Eater can cause thick fungal growths to cover anything in sight at will until the next sunrise |
+| **掷骰** | **效果** |
+| **1** | 恢复 d6 STR |
+| **2** | 食用者陷入浅睡，持续一个地城周期 |
+| **3** | 口臭 |
+| **4** | 使食用者发痒 |
+| **5** | 一个地城周期内无法说话 |
+| **6** | 极其美味 |
+| **7** | 使食用者更加饥饿 |
+| **8** | 使食用者在一个地城周期内无法控制地咳嗽 |
+| **9** | 食用者可以召唤并指挥一群老鼠，持续一个地城周期。4 STR。只能被_爆发_攻击伤害。撕咬伤害 1d4 |
+| **10** | 一个地城周期内，作用在食用者身上的重力减半，使其更容易跳跃和攀爬 |
+| **11** | 食用者的皮肤渗出一层薄黏液，持续 24 小时 |
+| **12** | 食用者醉酒一个地城周期 |
+| **13** | 呕吐一个地城周期 |
+| **14** | 食用者全身长出真菌。掷 2d6 以确定这些真菌被食用时的效果 |
+| **15** | 食用者可以在接下来的 24 小时内变成孢子云一次。持续一个地城周期 |
+| **16** | 食用者可以在接下来的 24 小时内将自己变成活黏液一次。持续一个地城周期 |
+| **17** | 食用者缩小到一半大小，持续 24 小时 |
+| **18** | 食用者可以随意使视野内的任何东西覆上厚厚的真菌生长，直到下一次日出 |
 
-### Hunting Room
-* As written.
+### 狩猎室 {#hunting-room}
+* 按原文执行。
 
-### Tapestry Room
-* As written.
+### 挂毯室 {#tapestry-room}
+* 按原文执行。
 
-### Kitchen 
-* *When Awake*: All inside the Kitchen must Save Dex or suffer 1d8 STR damage as the contents of Servant Room B rain down from above. If traversing later in a hurry, save Dex or slip in ectoplasm.
+### 厨房 {#kitchen}
+* *苏醒时*：厨房内所有人必须进行 DEX 豁免，否则因仆人房 B 的 содержи从上方倾泻而受到 1d8 STR 伤害。若稍后匆忙穿过，进行 DEX 豁免，否则在灵外质上滑倒。
 
-### Pantry
-* If climbing shelves, Save DEX or the shelves collapse loudly.
+### 储藏室 {#pantry}
+* 若攀爬架子，进行 DEX 豁免，否则架子会轰然倒塌。
 
-### Servant's Hall
+### 仆人厅 {#servants-hall}
 
-#### Items Wagered
+#### 下注物品 {#items-wagered}
 
 |      |        |
 | ---- | ------ |
-| Roll | Item |
-| **1** | The Inner Sanctum’s (p. 27) cabinet key (1gp) |
-| **2** | A grappling hook (5gp) |
-| **3** | A pair of riding boots (10gp) |
-| **4** | 10 silver spoons (20gp) |
-| **5** |A black candle (75gp) |
-| **6** | A potion of silence (100gp) |
-| **7** | Miniature painting (100gp) |
-| **8** | Bag of 200gp (*bulky*) |
-| **9** | Silver brooch with emeralds (500gp, *petty*) |
-| **10** | Jeweled dagger (1000gp) |
+| 掷骰 | 物品 |
+| **1** | 内殿（第 27 页）的柜门钥匙（1gp） |
+| **2** | 一把抓钩（5gp） |
+| **3** | 一双马靴（10gp） |
+| **4** | 10 把银匙（20gp） |
+| **5** |一支黑蜡烛（75gp） |
+| **6** | 一瓶沉默药水（100gp） |
+| **7** | 微型画（100gp） |
+| **8** | 装有 200gp 的袋子（_笨重_） |
+| **9** | 镶翡翠的银胸针（500gp，_轻巧_） |
+| **10** | 宝石匕首（1000gp） |
 
-### Dining Room
-* Wand of *Lightning Strike*, 2 charges
-* 1d2 *blast* in a straight line. 
-* Recharge: Leave at the highest point of an area during a thunderstorm.
+### 餐厅 {#dining-room}
+* *闪电打击*魔杖，2 次充能
+* 直线上 1d2 _爆发_。
+* 重新充能：在雷暴期间放在某地的最高点。
 
-* **When Restless**: If moving quickly, Save DEX or slip in ectoplasm.
+* **躁动时**：若快速移动，进行 DEX 豁免，否则在灵外质上滑倒。
 
-### Breakfast Room
-* **When Awake**: Without taking steps to neutralize the vines, PCs must Save DEX to move quickly enough through the room to avoid the vines while simultaneously not slipping. Failure results in 1d6 STR damage per round until the vines are removed. 
+### 早餐室 {#breakfast-room}
+* **苏醒时**：若不采取措施中和藤蔓，PC 必须进行 DEX 豁免，才能既足够快地穿过房间避开藤蔓，同时又不会滑倒。失败则每回合受到 1d6 STR 伤害，直到藤蔓被移除。
 
-## Willowby Hall 2nd Floor
-### Bedroom 
-* If the dust from the bed is released, Save STR or cough and choke loudly enough to trigger a Dungeon Events roll.
+## 柳比厅二楼 {#willowby-hall-2nd-floor}
+### 卧室 {#bedroom}
+* 如果床上的灰尘被扬起，进行 STR 豁免，否则剧烈咳嗽窒息，足以触发一次地城事件检定。
 
-### Dressing Room 
-* As written.
+### 更衣间 {#dressing-room}
+* 按原文执行。
 
-### Museum
-* As written.
+### 博物馆 {#museum}
+* 按原文执行。
 
-### West Stairs
-* As written.
+### 西楼梯 {#west-stairs}
+* 按原文执行。
 
-### Gallery
-* As written.
+### 画廊 {#gallery}
+* 按原文执行。
 
-### Inner Sanctum
-* As written.
+### 内殿 {#inner-sanctum}
+* 按原文执行。
 
-### East Stairs
-* As written.
+### 东楼梯 {#east-stairs}
+* 按原文执行。
 
-### Servant Room A
-* As written.
+### 仆人房 A {#servant-room-a}
+* 按原文执行。
 
-### Servant Room B
-* As written.
+### 仆人房 B {#servant-room-b}
+* 按原文执行。
 
-### Servant Room C
-* As written.
+### 仆人房 C {#servant-room-c}
+* 按原文执行。
 
-### Guest Bedroom
-* As written.
+### 客房 {#guest-bedroom}
+* 按原文执行。
 
-### Library
-* PCs who know what Fenwick's red alchemy book look like and specifically look for it can find it in one Dungeon Cycle.
+### 图书室 {#library}
+* 知道 Fenwick 的红色炼金术书长什么样并专门寻找的 PC，可以在一个地城周期内找到它。
 
-## Willowby Hall Roof
-* Those who suffer STR damage or do something to lose their footing must Save DEX or begin to slide off the roof, taking 1d12 STR damage from the 30' fall.
+## 柳比厅屋顶 {#willowby-hall-roof}
+* 受到 STR 伤害或做出任何会失去立足的举动者，必须进行 DEX 豁免，否则开始从屋顶滑落，从 30' 高处坠落受到 1d12 STR 伤害。
 
-### West Roof Stairs
-* As written.
+### 西屋顶楼梯 {#west-roof-stairs}
+* 按原文执行。
 
-### East Roof Stairs
-* As written.
+### 东屋顶楼梯 {#east-roof-stairs}
+* 按原文执行。
 
-### Beacon Tower
-* As written.
+### 信标塔 {#beacon-tower}
+* 按原文执行。
 
-### Ballista Tower
-* Projectiles fired from the Ballista are *enhanced*, even against Tom.
+### 弩炮塔 {#ballista-tower}
+* 从弩炮射出的投射物得到_强化_，即使对 Tom 也是如此。

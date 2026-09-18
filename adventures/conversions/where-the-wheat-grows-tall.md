@@ -2,101 +2,101 @@
 layout: default
 parent: Conversions
 grand_parent: Adventures
-title: Where The Wheat Grows Tall
+title: 麦子长得高
 redirect_from: /resources/adventure-conversions/where-the-wheat-grows-tall/
 ---
 
-# Where The Wheat Grows Tall
+# 麦子长得高 {#where-the-wheat-grows-tall}
 
-- Converted from the [original work](https://www.exaltedfuneral.com/products/where-the-wheat-grows-tall-pdf) by [Evlyn Moreau](http://chaudronchromatique.blogspot.com/) and [Camilla Greer](https://greerrrr.itch.io/). Buy it in print, if you can. It's fantastic.
-- Only what needs to be converted or changed will appear here.
-- If an important detail is missing, refer to the adventure!
+- 根据 [Evlyn Moreau](http://chaudronchromatique.blogspot.com/) 与 [Camilla Greer](https://greerrrr.itch.io/) 创作的[原作](https://www.exaltedfuneral.com/products/where-the-wheat-grows-tall-pdf)改编。如果可以，请购买印刷版——它非常棒。
+- 这里只记录需要转换或修改的内容。
+- 如果缺少重要细节，请参阅冒险原文！
 
-## Location Notes
-- Treat damage as-is.  
-- The **Polotnikovs** have 4 HP, and abilities are 10/10/10 unless otherwise noted.
+## 地点说明 {#location-notes}
+- 伤害照原文处理。
+- **波洛特尼科夫一家**拥有 4 HP，除非另有说明，其能力值均为 10/10/10。
 
-### 12. The Noon Lady Idol
-- Destroying the idol makes Faeries go _after_ PCs in combat.
+### 12. 正午女士雕像 {#12-the-noon-lady-idol}
+- 摧毁雕像后，妖精会在战斗中排在 PC 之后行动。
 
-### 14. Buried Wheel
-### Table
-- d10+STR instead of CON
-- d10+WIL instead of WIS
-- Fey reaction: go first against Faerie creatures in combat.
+### 14. 埋葬之轮 {#14-buried-wheel}
+### 桌子 {#table}
+- 用 d10+STR 代替 CON
+- 用 d10+WIL 代替 WIS
+- 妖精反应：与妖精生物战斗时优先行动。
 
-### 15. Stoneface Guardian
-- Stoney Gaze: WIL save to avoid petrification
+### 15. 石面守卫 {#15-stoneface-guardian}
+- 石化凝视：WIL 豁免以避免石化。
 
-### 16. Likho's House
-- Mantelpiece: DEX save or 1d4 STR damage.
-- Muffins: heal 1d4 STR.
-- Silver mirror: WIL save or they cannot take their next action.
-- Cookie Jar: heals 1 STR each, but _deprived_ for the rest of the day.
+### 16. 利霍的房子 {#16-likhos-house}
+- 壁炉台：DEX 豁免，否则受到 1d4 STR 伤害。
+- 松饼：恢复 1d4 STR。
+- 银镜：WIL 豁免，否则无法进行下一次行动。
+- 曲奇罐：每块曲奇恢复 1 STR，但当天剩余时间处于_匮乏_状态。
 
-## Bestiary
-### The "House Spirit" (Oleg)
+## 生物志 {#bestiary}
+### “房灵”（奥列格） {#the-house-spirit-oleg}
 - 4 HP, 5 STR, 11 DEX, 12 WIL
 
-### Old Svarg
-5 HP, 1 Armor, 8 STR, 12 DEX, 15 WIL, fire sickle (d6)
-- Critical damage: 1d4 items catch fire and are destroyed (flammable or valuable first)
+### 老斯瓦尔格 {#old-svarg}
+5 HP, 1 Armor, 8 STR, 12 DEX, 15 WIL, 火焰镰刀（d6）
+- 重伤：1d4 件物品着火并被摧毁（优先易燃或贵重物品）。
 
-### Barstukai
-2 HP, 4 STR, 12 DEX, 5 WIL, claws (d4), farming tools (d6)
-- Can vanish into the crops without a save (their laughter may reveal location).
+### 巴尔斯图凯 {#barstukai}
+2 HP, 4 STR, 12 DEX, 5 WIL, 利爪（d4）、农具（d6）
+- 无需豁免即可消失在庄稼中（它们的笑声可能暴露位置）。
 
-### Crops Spirit
-10 HP, 1 Armor, 9 STR, 14 DEX, 6 WIL, farming tools or talons (d8+d8)
-- If attacked, animates crops to subdue attacker (DEX to break free). On a fail, the target is strangled unconscious and eventually asphyxiates.
+### 庄稼灵 {#crops-spirit}
+10 HP, 1 Armor, 9 STR, 14 DEX, 6 WIL, 农具或利爪（d8+d8）
+- 如果遭到攻击，会使庄稼活化以制服攻击者（DEX 以挣脱）。失败时，目标会被勒至失去意识，最终窒息。
 
-### Crow/Owl Spirit
-5 HP, 1 Armor, 8 STR, 10 DEX, 12 WIL, farming tool (d6), flock of birds (d4, _blast_)
-- If attacked, summons a flock of birds to their defense (additional d4 damage every round).
-- Critical damage: target must make two STR saves and keep the higher result.
+### 乌鸦/猫头鹰灵 {#crowowl-spirit}
+5 HP, 1 Armor, 8 STR, 10 DEX, 12 WIL, 农具（d6）、鸟群（d4，_爆发_）
+- 如果遭到攻击，会召来鸟群为自己防御（每轮额外造成 d4 伤害）。
+- 重伤：目标必须进行两次 STR 豁免，取较高结果。
 
-### Ghosts
-4 HP, 2 Armor, 12 STR, 14 DEX, 16 WIL, old weapon (d6)
-- Flashback: Target loses 1d4 WIL and must make a WIL save or lose their next action as they relive the spirit's death.
-- Attacks against Ghosts are _impaired_.
+### 鬼魂 {#ghosts}
+4 HP, 2 Armor, 12 STR, 14 DEX, 16 WIL, 旧武器（d6）
+- 闪回：目标失去 1d4 WIL，并必须进行 WIL 豁免，否则会重历灵体的死亡，失去下一次行动。
+- 针对鬼魂的攻击受到_削弱_。
 
-### The Likho, The One Eyed Witch
-8 HP, 1 Armor, 14 STR, 8 DEX, 12 WIL, claws (d4+d4), gaze attack (once each, permitting)
-- **Midnight Gaze**: target is paralyzed and blind and must make a WIL save to break free.
-- **Sunstrike Gaze**: target takes 1d6 STR damage and then must make a WIL save or believe they are on fire.
+### 独眼女巫利霍 {#the-likho-the-one-eyed-witch}
+8 HP, 1 Armor, 14 STR, 8 DEX, 12 WIL, 利爪（d4+d4）、凝视攻击（每种一次，可重复使用）
+- **午夜凝视：**目标陷入麻痹并失明，必须进行 WIL 豁免才能挣脱。
+- **日击凝视：**目标受到 1d6 STR 伤害，然后必须进行 WIL 豁免，否则会以为自己着火了。
 
-### Night Goblins
-2 HP, 6 STR, 13 DEX, 5 WIL, claws (d4)
+### 夜地精 {#night-goblins}
+2 HP, 6 STR, 13 DEX, 5 WIL, 利爪（d4）
 
-### Night Spirit
-8 HP, 1 Armor, 12 STR, 9 DEX, 12 WIL, bite (d8)
+### 夜灵 {#night-spirit}
+8 HP, 1 Armor, 12 STR, 9 DEX, 12 WIL, 撕咬（d8）
 
-### Noon Wraith
-8 HP, 1 Armor, 8 STR, 11 DEX, 15 WIL, claws (d6+d6), sunstrike
-- **Sunstrike**: target takes 1d4 STR damage and must then make a WIL save or believe they are on fire.
+### 正午怨灵 {#noon-wraith}
+8 HP, 1 Armor, 8 STR, 11 DEX, 15 WIL, 利爪（d6+d6）、日击
+- **日击：**目标受到 1d4 STR 伤害，然后必须进行 WIL 豁免，否则会以为自己着火了。
 
-### Poleviks
-6 HP, 1 Armor, 12 STR, 10 WIL, claws (d4), farm tools (d6)
-- **Grasping Roots**: target is engulfed by strangling roots. On their next turn, make a STR save or be buried under ground.
+### 波列维克 {#poleviks}
+6 HP, 1 Armor, 12 STR, 10 WIL, 利爪（d4）、农具（d6）
+- **缠绕根须：**目标被绞杀根包裹。目标在下一回合进行 STR 豁免，否则被埋入地下。
 
-### Scarecrow Piotr
-9 HP, 1 Armor, 12 STR, 8 DEX, 18 WIL, claws (d6+d6)
+### 稻草人彼得 {#scarecrow-piotr}
+9 HP, 1 Armor, 12 STR, 8 DEX, 18 WIL, 利爪（d6+d6）
 
-### Strangling Roots
+### 绞杀根 {#strangling-roots}
 5 HP, 1 Armor, 18 WIL
-- Treat as trap.
+- 按陷阱处理。
 
-### Sunstroke Thrall
-4 HP, 8 STR, 5 DEX, 11 WIL, farming tool (d6)
+### 中暑奴仆 {#sunstroke-thrall}
+4 HP, 8 STR, 5 DEX, 11 WIL, 农具（d6）
 
-### Trull The Troll
-8 HP, 2 Armor, 14 STR, 11 DEX, 11 WIL, toadslap (d6+d6, _blast_)
-- Critical damage: characters are hurled into stream.
-- In shadowed water regenerates 2 STR per round.
+### 巨魔特鲁尔 {#trull-the-troll}
+8 HP, 2 Armor, 14 STR, 11 DEX, 11 WIL, 蟾掌击（d6+d6，_爆发_）
+- 重伤：角色被掷入溪流。
+- 在阴影笼罩的水中，每轮恢复 2 STR。
 
-### Turnip Jack
-6 HP, 1 Armor, 11 STR, 9 DEX, 11 WIL, farming tool (d6)
-- Regenerates 2 STR when eating light from his lantern.
+### 芜菁杰克 {#turnip-jack}
+6 HP, 1 Armor, 11 STR, 9 DEX, 11 WIL, 农具（d6）
+- 吸收自己灯笼发出的光时恢复 2 STR。
 
-### Spiteful Wierga
-5 HP, 1 Armor, 11 STR, 12 DEX, 8 WIL, claws (d6)
+### 刻毒维尔加 {#spiteful-wierga}
+5 HP, 1 Armor, 11 STR, 12 DEX, 8 WIL, 利爪（d6）

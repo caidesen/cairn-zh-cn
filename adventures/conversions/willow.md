@@ -2,167 +2,167 @@
 layout: default
 parent: Conversions
 grand_parent: Adventures
-title: Willow
+title: 柳
 ---
 
-# Willow
+# 柳 {#willow}
 
-- Converted from the [original work by Lazy Lich](https://www.drivethrurpg.com/product/316522/Willow).
-- Conversion by **bilingo**.
+- 根据 [Lazy Lich 创作的原作](https://www.drivethrurpg.com/product/316522/Willow)改编。
+- 转换：**bilingo**。
 
-#### Shadow Weath (p. 25, single use)
+#### 影麦（p. 25，一次性） {#shadow-weath-p-25-single-use}
 
-|  |Effect on 1d6| |
+|  |1d6 效果| |
 |-----|--------|
-| 1   | The user can’t cast spells for the rest of the day   |
-| 2   | The user cast spells normally for the next d3 hours, but takes fatigue only on 4-6 (1d6)  |
-| 3   | The colour of the user’s eyes become “fluo-emerald green”      |
-| 4   | The user attacks are considered magical for the rest of the day     |
-| 5   | The user’s skin becomes grey     |
-| 6   | The user can see the plan of the oakalisk: reveal some information about what will happen to willow on the next day (p. 32) |
+| 1   | 使用者当天剩余时间无法施法   |
+| 2   | 接下来 d3 小时内使用者可正常施法，但仅在掷出 4-6（1d6）时获得疲劳  |
+| 3   | 使用者的眼睛变成“荧光翠绿”      |
+| 4   | 使用者的攻击在当天剩余时间被视为魔法     |
+| 5   | 使用者的皮肤变成灰色     |
+| 6   | 使用者能看见橡蜥的计划：揭示柳镇次日将发生的一些信息（p. 32） |
 
-#### Coral Guardian (p. 16)
-HP 17, armor 1, STR 15, DEX 6, WIL 12, double slam (1d6 + 1d6).
+#### 珊瑚守卫（p. 16） {#coral-guardian-p-16}
+HP 17, Armor 1, STR 15, DEX 6, WIL 12, 双猛击（1d6 + 1d6）。
 
-- The guardian is powered by eel electricity and is nearly entirely out of power, it stops anyone from entering the dungeon. It will agree to allow the players an invitation to visit the elves if players it a jar of electricity or a thunderstone.
-- Immune to sleep
-- The guardian repeatedly turns its nose up at the players unless they display high class
+- 这名守卫由鳗鱼电力驱动，电量几乎耗尽，它会阻止任何人进入地城。若玩家交给它一罐电力或一枚雷石，它会同意发请帖让玩家拜访精灵。
+- 免疫睡眠
+- 除非玩家表现出上流气派，否则守卫会一再对他们嗤之以鼻
 
-#### Nereocystis (p. 16)
+#### 涅瑞奥西斯（p. 16） {#nereocystis-p-16}
 10 HP, 8 STR, 13 DEX, 13 WIL
 
-- A serial killer seaweed who was imprisoned in room 6. He will immediately try and escape. He is slimey, raspy and manipulative. He will lie to the players that he is the king of the seaweedlings and will promise to reward them for freeing him if needed.
-- Can alter its shape.
+- 一名被囚禁在房间 6 的连环杀手海藻民。他会立刻试图逃脱。他黏滑、声音沙哑、善于操纵。他会向玩家撒谎，自称是海藻民之王，必要时会许诺报答他们的解救之恩。
+- 可以改变外形。
 
-#### Dungeon Monster (p. 19)
+#### 地城怪物（p. 19） {#dungeon-monster-p-19}
 
-#### Aquatic elf skeleton
-5 HP, 1 Armor, STR 10, DEX 13, trident (d6)
+#### 水族精灵骷髅 {#aquatic-elf-skeleton}
+5 HP, 1 Armor, STR 10, DEX 13, 三叉戟（d6）
 
-- These elves have forgotten everything except their court manners and will kill those do not display proper court etiquette
-- Immune to sleep and charm
+- 这些精灵除了宫廷礼仪外已遗忘一切，会杀死那些不遵守恰当宫廷礼节的人
+- 免疫睡眠与魅惑
 
-#### Undead Seaweedling 
-4 HP, STR 6, DEX 10, WIL 3, leeching seaweed sendrils (1d6, 10ft reach).
+#### 亡灵海藻民 {#undead-seaweedling}
+4 HP, STR 6, DEX 10, WIL 3, 吸血海藻卷须（1d6，10ft 触及）。
 
-- Seaweedlings (a seaweed race living in the lake) who entered the dungeon out of curiosity and were corrupted by the dark magic the elves used to preserve their lives.
-- Recovers 1 HP for every successful attack
-- Immune to sleep and charm
+- 海藻民（生活在湖中的海藻种族）出于好奇进入地城，被精灵用来延续生命的黑暗魔法腐化。
+- 每次成功攻击恢复 1 HP
+- 免疫睡眠与魅惑
 
-### Seaweed Shambling Mound
-10 HP, 13 STR, 12 DEX, 14 WIL, Bone & Chain Claws (1d8 + 1d8).
-- Monstrosities formed of seaweed, bone, metal chains and coral. These creatures fear happiness, and creep closer and closer as anxiety, sadness and despair are vocalized by the PCs.
-- Pass through area 4x4 ft
-- Armor 3 from normal attacks
-- Double damage from explosions and sprays attacks
+### 海藻蹒跚魔 {#seaweed-shambling-mound}
+10 HP, 13 STR, 12 DEX, 14 WIL, 骨链爪（1d8 + 1d8）。
+- 由海藻、骨头、金属锁链与珊瑚组成的畸物。这些生物惧怕快乐，随着 PC 把焦虑、悲伤与绝望说出口，它们会越靠越近。
+- 可通过 4x4 ft 的空间
+- 对普通攻击拥有 Armor 3
+- 爆炸与喷溅攻击伤害翻倍
 
-### Aquatic Elf Skeleton Mage
+### 水族精灵骷髅法师 {#aquatic-elf-skeleton-mage}
 HP 4, STR 10, DEX 10, WIL 13
-- These royal members of the Coral Court have glowing pale blue lights in their eye sockets
-- Spells: cure wounds – mirror image – ice ray – fire curse
+- 这些珊瑚宫廷的王室成员眼窝中有苍蓝的光
+- 法术：治疗伤口 – 镜像 – 冰射线 – 火焰诅咒
 
-### Undead Electric Eel
-HP 6, STR 9, DEX 10, WIL 8, bite (1d6)
-- giant eels were once used as a power source by the Coral Court for lighting, magical devices and rituals. Their electric shock can still trigger ancient mechanisms
-- immune to sleep and charm
-- Electric Shock: blast 1d8
+### 亡灵电鳗 {#undead-electric-eel}
+HP 6, STR 9, DEX 10, WIL 8, 撕咬（1d6）
+- 巨型鳗鱼曾被珊瑚宫廷用作照明、魔法装置与仪式的动力源。它们的电击仍能触发古代机关
+- 免疫睡眠与魅惑
+- 电击：_爆发_ 1d8
 
-### Undead Water Elemental Skeleton
-HP 13, armor 1, STR 10, DEX 12, WIL 14, sword strike (1d6, blast)
-- Ancient elven warrior guards the treasure of the Coral Court. A  water elemental was fused to her bones. She can break down into a  pile of bone shards and pass under doors.
-- If the coral boat from the treasure horde is thrown into her magical  water, the boat will expand for an instant, completely destroying her.
+### 亡灵水元素骷髅 {#undead-water-elemental-skeleton}
+HP 13, Armor 1, STR 10, DEX 12, WIL 14, 剑击（1d6，_爆发_）
+- 古老的精灵战士守卫着珊瑚宫廷的宝藏。一个水元素与她的骨骸融合。她可以分解成一堆骨片，从门下通过。
+- 若把宝藏中的珊瑚船扔进她的魔法之水，船会瞬间膨胀，彻底摧毁她。
 
-### Smoke Dragon (p21) 
-HP 5, STR 9, DEX 9, WIL 13.  Scorching Smoke (d8)
-- A dragon shaped cloud filled with embers with glowing red eyes
-- Can only be harmed by magic attacks
-- Spells: fog cloud – fire curse
+### 烟龙（p21） {#smoke-dragon-p21}
+HP 5, STR 9, DEX 9, WIL 13。灼热烟云（d8）
+- 一团龙形云雾，充满余烬，有发光的红眼
+- 只能被魔法攻击伤害
+- 法术：雾云术 – 火焰诅咒
 
-### Magical Guardian (p24)
-10 HP, armor 1 14 STR, 8 DEX, 10 WIL, weapon 1d8
-- A magical construct that the wizards have made to guard their home.  It speaks in a very fast and sharp monotone voice. Its only interest is in competitions of strength
+### 魔法守卫（p24） {#magical-guardian-p24}
+10 HP, Armor 1, 14 STR, 8 DEX, 10 WIL, 武器 1d8
+- 法师们造来看守家园的魔法构装。它说话又快又尖，语调单调。它唯一的兴趣是比试力量
 
-### Necrotic Trent (p. 29)
-HP 13, Armor 2, STR 13, DEX 6, WIL 10, 2 strikes (1d10 + 1d10 blast).
-Once a lawful guardian of the forest, this Trent was corrupted by  the influence of the Oakalisk's power. The Trent serves the Oakalisk, obeying its every command. It has currently been tasked with expanding the corrupted wood. Any creatures in its way will be  killed and brought to the Oakalisk to be transformed into monstrosities.
-- Controls trees up to 200ft
-- Necrotic Bolt: 1d10 damage. Chance of recharging once per round on a roll of 5 or 6 (1d6)
-- Takes _enhanced_ damage from “holy/light” attacks
-- If it is submerged in the running water of the river, it's corruption will be washed away and it will become benevolent again
+### 死灵树人（p. 29） {#necrotic-trent-p-29}
+HP 13, Armor 2, STR 13, DEX 6, WIL 10, 2 次打击（1d10 + 1d10 _爆发_）。
+它曾是森林的守序守卫，被橡蜥力量的影响腐化。这树人侍奉橡蜥，服从其一切命令。它目前的任务是扩张腐化林地。挡路的生物都会被杀死并带去橡蜥处，变成畸物。
+- 控制最远 200ft 内的树木
+- 死灵箭：1d10 伤害。每回合有一次在掷出 5 或 6（1d6）时重新充能的机会
+- 受到“圣洁/光耀”攻击时承受_强化_伤害
+- 若被浸入河中的流水，它的腐化会被冲刷掉，重新变得仁慈
 
-### Ashen Dryad (p. 30) 
-HP 5, 10 STR, 10 DEX, 14 WIL, Necrotic Sword (1d8).
-- Created by the Necrotic Trent out of ashes of necrotic wood. The  Ashen Dryads serve as assassins and scouts for their creator, obeying its every command
-- Invisibility (2 times per day – 1d4 rounds) 
-- Darkvision
-- Ashen Dryads contain a black marble stone core in their chest. This  can be used to create magical orbs, or shattered with a hammer to release a cloud of darkness in a 15-foot radius for 1 hour
+### 灰烬树精（p. 30） {#ashen-dryad-p-30}
+HP 5, 10 STR, 10 DEX, 14 WIL, 死灵剑（1d8）。
+- 由死灵树人用死灵树木的灰烬造就。灰烬树精作为其创造者的刺客与斥候，服从其一切命令
+- 隐形（每天 2 次 – 1d4 回合）
+- 黑暗视觉
+- 灰烬树精胸口有一颗黑色大理石核心。可用来制作魔法球，或用锤子砸碎，在 15-foot 半径内释放持续 1 小时的黑暗云团
 
-**Ashen Dryad (champion)** HP 6, 11 STR, 11 DEX, 14 WIL, flaming sword (1d10)
+**灰烬树精（冠军）** HP 6, 11 STR, 11 DEX, 14 WIL, 火焰剑（1d10）
 
-- The leader of the Ashen Dryads was created by the Necrotic Trent from a limb of Dragonwood (see pg 21). It is coated in flames and so cannot enter water
-- Darkvision
-- Invisibility (3 times per day – 1d4 rounds)
-- Fireball (2d6). Recharges on 5 and 6 (1d6)
-- Ashen Dryads contain a black marble stone core in their chest. This can be used to create magical orbs, or shattered with a hammer to release a cloud of darkness in a 15-foot radius for 1 hour
+- 灰烬树精的首领由死灵树人用一根龙木的枝干造就（见 pg 21）。它周身覆火，因此不能进入水中
+- 黑暗视觉
+- 隐形（每天 3 次 – 1d4 回合）
+- 火球术（2d6）。在掷出 5 和 6（1d6）时重新充能
+- 灰烬树精胸口有一颗黑色大理石核心。可用来制作魔法球，或用锤子砸碎，在 15-foot 半径内释放持续 1 小时的黑暗云团
 
-## Overland Monsters (p. 31)
+## 野外怪物（p. 31） {#overland-monsters-p-31}
 
-### Rat Folk, 4 HP, 1 Armor 8 STR, 10 DEX, 8 WIL, weapon (1d6) or bite (1d8)
-- Enemies of the Crow folk, Rat folk live in tunnels under the forest, and come out to scavage at night.
-- Immune to disease
-- Darkvision
+### 鼠民，4 HP, 1 Armor 8 STR, 10 DEX, 8 WIL, 武器（1d6）或撕咬（1d8） {#rat-folk-4-hp-1-armor-8-str-10-dex-8-wil-weapon-1d6-or-bite-1d8}
+- 鸦民的敌人，鼠民住在森林下的隧道中，夜间出来觅食。
+- 免疫疾病
+- 黑暗视觉
 
-### Undead Crow Folk
-5 HP, 10 STR, 10 DEX, 3 WIL  short bow (1d6)
-- Crow people turned in skeletons by the Oskalisk. In the woods they attack the intruders from the sky
--  Ability to Fly
-- Immune to sleep and charm
+### 亡灵鸦民 {#undead-crow-folk}
+5 HP, 10 STR, 10 DEX, 3 WIL 短弓（1d6）
+- 被橡蜥变成骷髅的鸦人。在林中从天空攻击入侵者
+- 能够飞行
+- 免疫睡眠与魅惑
 
-### Venus Wolf
-6 HP, 9 STR, 12 DEX, 3 WIL, bite (1d6 + 1),  3 plant traps (1d4 + 1d4 + 1d4, blast)
-- The Necrotic Trent has been killing off the wolf population and bringing them to the Oakalisk. Magic seeds are planted in their
-skeleton bodies and giant venus fly traps grow out from the gaps between their ribs
-- Immune to sleep and charm
+### 捕蝇草狼 {#venus-wolf}
+6 HP, 9 STR, 12 DEX, 3 WIL, 撕咬（1d6 + 1），3 个植物陷阱（1d4 + 1d4 + 1d4，_爆发_）
+- 死灵树人一直在杀光狼群，把它们带去橡蜥处。魔法种子被种进它们的
+骷髅身体，巨型捕蝇草从肋骨缝隙中长出
+- 免疫睡眠与魅惑
 
-### Wailing Willow
-10 HP, 1 armor, 14 STR, 3 DEX, 10 WIL, shortbow (1d6) & 2 weapons (1d6 + 1d6).
-- Grown by the Necrotic Trent, these trees are planted along the riverbank and will attack boats
-- They will instantly wither if the 'watching skull' on the upmost branch is destroyed or if all the skeleton buds die
-- Special: fireball (2d6) – 4 per day
+### 哀号柳 {#wailing-willow}
+10 HP, 1 Armor, 14 STR, 3 DEX, 10 WIL, 短弓（1d6）与 2 件武器（1d6 + 1d6）。
+- 由死灵树人培育，这些树种在河岸边，会攻击船只
+- 若最上方枝条上的“监视颅骨”被摧毁，或所有骷髅芽死亡，它们会立刻枯萎
+- 特殊：火球术（2d6）– 每天 4 次
 
-### Vine Skeletons
-5 HP, 1 armor, 10 STR, 13 DEX, 10 WIL, weapon 1d6
-- These human skeletons have been fused with necrotic vines, which act as muscles and ligaments as well as extra limbs.
-- Immune to sleep and charm
+### 藤蔓骷髅 {#vine-skeletons}
+5 HP, 1 Armor, 10 STR, 13 DEX, 10 WIL, 武器 1d6
+- 这些人类骷髅与死灵藤蔓融合，藤蔓充当肌肉与韧带，也充当额外的肢体。
+- 免疫睡眠与魅惑
 
-## Rat folk magic items (p. 27)
+## 鼠民法术物品（p. 27） {#rat-folk-magic-items-p-27}
 
-### Blood Moon Pack
-#### Staff of Sparks (6 charges)
-- A long walking stick made of Fir wood. It has a carved top resembling a star.
-- Expend 1 charge to cast Flare or Smoke Form. Expend 2 charges to  cast Elemental Wall (only fire). Recharge: Let a fire-breathing  dragon blow smoke on the staff
+### 血月帮 {#blood-moon-pack}
+#### 火花法杖（6 次充能） {#staff-of-sparks-6-charges}
+- 一根冷杉木制成的长手杖。顶端雕成星形。
+- 消耗 1 次充能以施放闪光或烟雾形态。消耗 2 次充能以施放元素之墙（仅火焰）。充能：让一条喷火龙对法杖吹烟
 
-### Plague Pack 
-#### Wand of Web (3 charges)
-- Expend a charge to cast web (spellbook n. 97)
-- Recharge: leave one night in a spider nest
+### 瘟疫帮 {#plague-pack}
+#### 蛛网魔杖（3 次充能） {#wand-of-web-3-charges}
+- 消耗一次充能以施放蛛网（法术书 n. 97）
+- 充能：在蜘蛛巢中放置一夜
 
-#### Stitch pack
-#### 1 orb of Darkness
-- If broken, it emanates pure darkness in 10 ft radius. No recharge
+#### 缝缀帮 {#stitch-pack}
+#### 1 枚黑暗法球 {#1-orb-of-darkness}
+- 若被打破，在 10 ft 半径内散发出纯粹黑暗。无法充能
 
-### Death pack 
-#### Illusionist pipe (5 charges)
-- A long curved smoking pipe, cut from the roots of a pear tree
-- When smoking on the pipe, you can make the smoke change color and form as fantastical shapes (ex. galloping horses).
-- When smoking on the pipe and by expending 1 charge, you can blow smoke in someone’s eyes disorienting them with weird colors and shapes.
-- Recharge: Rub the pipe against the nose of a gnome.
+### 死亡帮 {#death-pack}
+#### 幻术烟斗（5 次充能） {#illusionist-pipe-5-charges}
+- 一根从梨树根部削成的长弯烟斗
+- 抽这根烟斗时，你可以让烟雾变色，并形成奇幻形状（例如奔驰的马）。
+- 抽这根烟斗并消耗 1 次充能时，你可以把烟吹进某人眼中，用怪异的色彩与形状使其迷失方向。
+- 充能：用烟斗摩擦侏儒的鼻子。
 
-### Frost Pack 
-Staff of Frost (5 charges)
-- Expend 1 charge to cast ice ray (spellbook n. 335) or glacier (spellbook n. 315)
-- Recharge: leave one night under the snow
+### 霜寒帮 {#frost-pack}
+冰霜法杖（5 次充能）
+- 消耗 1 次充能以施放冰射线（法术书 n. 335）或冰川（法术书 n. 315）
+- 充能：在雪下放置一夜
 
-**Mutilation pack ** 1 helm of speed** 6 charges
-- Expend one charge to flee from a combat without a roll
-- Recharge: Drop the wand from a height of at least 100 ft from the ground
+**残损帮** **1 顶加速头盔** 6 次充能
+- 消耗一次充能，无需掷骰即可逃离战斗
+- 充能：将魔杖从距地面至少 100 ft 的高度扔下

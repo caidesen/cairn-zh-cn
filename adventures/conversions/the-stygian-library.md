@@ -2,272 +2,272 @@
 layout: default
 parent: Conversions
 grand_parent: Adventures
-title: The Stygian Library
+title: 冥河图书馆
 nav_exclude: true
 search_exclude: true
 ---
 
-# The Stygian Library
+# 冥河图书馆 {#the-stygian-library}
 
-- Based on the [The Stygian Library](https://www.exaltedfuneral.com/products/aberrant-reflections-pdfhttps://usa.soulmuppet-store.co.uk/products/the-stygian-library) by [Emmy 'Cavegirl' Allen](http://cavegirlgames.blogspot.com/).
-- Conversion by [Pat Eyler](https://footofthemountainadventures.blogspot.com)
+- 根据 [Emmy 'Cavegirl' Allen](http://cavegirlgames.blogspot.com/) 创作的[《冥河图书馆》](https://www.exaltedfuneral.com/products/aberrant-reflections-pdfhttps://usa.soulmuppet-store.co.uk/products/the-stygian-library)改编。
+- 转换： [Pat Eyler](https://footofthemountainadventures.blogspot.com)
 
 
-## General Notes
-- This conversion is based on The Stygian Library: Remastered
-- Archivist-Liches are based on Liches at [cairnrpg.com](https://cairnrpg.com).
+## 总体说明 {#general-notes}
+- 这份转换基于《冥河图书馆：重制版》
+- 档案员巫妖基于 [cairnrpg.com](https://cairnrpg.com) 的巫妖。
 
-## Locations
+## 地点 {#locations}
 
-### Boiler Room
-Boiler 
+### 锅炉房 {#boiler-room}
+锅炉
 - 0 HP, 2 Armor, 20 STR
-- If the boiler takes **Critical Damage** it bursts, dealing d12+d12 *blast* damage.
+- 若锅炉受到**重伤**，它会爆裂，造成 d12+d12 _爆发_伤害。
 
-### Chained Lectern
+### 锁链读经台 {#chained-lectern}
 
-Furious Book 
+暴怒之书
 
-- 6 HP, 1 Armor, 10 STR, Slam (d6)
-- Anyone reading the book takes 1 damage per turn of reading. 
-- If unfastened from the lectern, it can fly.
-- It is immune to poison, cold, and effects that only affect living things.
-- Fire does *enhanced* damage.
-- **Critical Damage:** drains 1 point of WIL
+- 6 HP, 1 Armor, 10 STR, 猛击 (d6)
+- 阅读此书者每阅读一轮受到 1 点伤害。
+- 若从读经台上解开，它可以飞行。
+- 它免疫毒素、寒冷，以及只影响活物的效果。
+- 火焰造成_强化_伤害。
+- **重伤：**吸取 1 点 WIL
 
-### Furnace
+### 熔炉 {#furnace}
 
-Furnace 
+熔炉
 
-- Opening the doors does d6 damage to anyone directly in front of it.
-- Entering the furnace does d12+d12 damage.
+- 打开炉门会对正前方的任何人造成 d6 伤害。
+- 进入熔炉造成 d12+d12 伤害。
 
-### Infernal Gateway
+### 炼狱门户 {#infernal-gateway}
 
-Minor Devil 
+次级魔鬼
 
-- 7-12 HP, 2 Armor, 13-18 STR, claws of various weapons (d8+d8)
-- Takes *impaired* damage from weapons that are not Holy, Magical, or Silver.
-- Takes *enhanced* damage from Holy weapons.
-- Immune to mind control that doesn't specifically target infernal beings.
-- Special ability 6: Drain a memory by touch - does d12 damage to WIL
+- 7-12 HP, 2 Armor, 13-18 STR, 各种武器的利爪 (d8+d8)
+- 非神圣、魔法或银质武器对其造成_削弱_伤害。
+- 神圣武器对其造成_强化_伤害。
+- 免疫并非专门针对炼狱生物的心灵控制。
+- 特殊能力 6：以触摸吸取一段记忆——对 WIL 造成 d12 伤害
 
-### Ossuary
+### 藏骨堂 {#ossuary}
 
-Bone Beast
+骨兽
 
-- 9 HP, 1 Armor, 12 STR, batter (d6 *blast*) *detachment*
-- Physical attacks against it are *impaired*, blast attacks are *enhanced*.
+- 9 HP, 1 Armor, 12 STR, 锤击 (d6 _爆发_) _分队_
+- 对其的物理攻击受到_削弱_，_爆发_攻击得到_强化_。
 
-### Paper Beehive 
+### 纸蜂巢 {#paper-beehive}
 
-Effects of eating Black Honey 
+食用黑蜜的效果
 
-3) -2 STR, permanently
+3) -2 STR，永久
 
-5. Stinger does d12+d12 damage to both attacker and target
+5. 螫针对攻击者和目标均造成 d12+d12 伤害
 
-8. +1 Armor, permanently
+8. +1 Armor，永久
 
-Bee
+蜜蜂
 
-- 3 HP, 1 Armor, 3 STR, sting (d8 to bee and victim)
+- 3 HP, 1 Armor, 3 STR, 蜇刺 (对蜜蜂和受害者造成 d8)
 
-Queen Bee
+蜂后
 
-- 7 HP, 1 Armor, 12 STR, sting (d8+d6 to queen and victim)
+- 7 HP, 1 Armor, 12 STR, 蜇刺 (对蜂后和受害者造成 d8+d6)
 
-### Planetarium
+### 天象厅 {#planetarium}
 
-The Orrery
+太阳系仪
 
-- Make a WIL save, on success may as a single yes-or-no question about a cast horoscope and get an accurate answer.
+- 进行 WIL 豁免，成功则可就已占出的星象提出一个是/否问题并得到准确答案。
 
-### Spider Trapdoor
+### 蜘蛛活板门 {#spider-trapdoor}
 
-Trapdoor Spider 
+活板门蜘蛛
 
-- 7 HP, 2 Armor, 16 STR, sting (d10)
-- 3-in-6 chance to make no noise at all when it does something.
-- **Critical Damage:** victim is paralyzed for 1 turn.
+- 7 HP, 2 Armor, 16 STR, 蜇刺 (d10)
+- 它做某事时有 3-in-6 的概率完全不发出声音。
+- **重伤：**受害者麻痹 1 轮。
 
-### Steam Vents
+### 蒸汽喷口 {#steam-vents}
 
-Valve
+阀门
 
-- If the valve is opened, everyone in the room will take d6 damage.
+- 若打开阀门，房间内所有人受到 d6 伤害。
 
-## Details
+## 细节 {#details}
 
-### Gas Lamps
+### 煤气灯 {#gas-lamps}
 
-Gas pipes 
+煤气管
 
-- If the gas is let out in a room, it will explode for d10+d8 *blast* damage to everyone present.
+- 若气体在房间内泄漏，会爆炸，对所有在场者造成 d10+d8 _爆发_伤害。
 
-### Haunted
+### 闹鬼 {#haunted}
 
-What the Haunting can do 
+闹鬼能做什么
 
-1. Thrown objects to d6 damage.
+1. 投掷物品造成 d6 伤害。
 
-4. WIL save or memories are subtly altered. If the victim makes their save, they are aware of the attempt.
+4. 进行 WIL 豁免，否则记忆会被微妙地篡改。若受害者豁免成功，则能察觉此次尝试。
 
-5. DEX save or take flame damage
+5. 进行 DEX 豁免，否则受到火焰伤害
 
-10. make a vermin swarm appear:
+10. 使一群害虫出现：
 
-    4 HP, 6 STR, 12 DEX, 11 WIL, bite (d3) _detachment_
+    4 HP, 6 STR, 12 DEX, 11 WIL, 撕咬 (d3) _分队_
 
-    - Afraid of fire
+    - 害怕火焰
 
-12. Falling objects do D6 damage.
+12. 坠落物体造成 D6 伤害。
 
-### Morbid
+### 病态 {#morbid}
 
-Death is a constant presence here 
+死亡在此常驻
 
-- Increase any damage taken here by 1 point.
-- Anyone sleeping here heals any lost STR.
+- 在此受到的任何伤害增加 1 点。
+- 在此睡眠者会治愈所有失去的 STR。
 
-### Negligible Gravity
+### 微弱重力 {#negligible-gravity}
 
-Effects of low gravity 
+低重力的影响
 
-- Missile attacks are *impaired*.
+- 远程攻击受到_削弱_。
 
-### Silent
+### 寂静 {#silent}
 
-Trying to cast spells 
+试图施法
 
-- The caster must make a STR save to yell loudly enough to cast the spell. If they fail, they take 1 point damage by damaging their vocal cords.
+- 施法者必须进行 STR 豁免，才能喊得足够大声以施放法术。若失败，会因损伤声带而受到 1 点伤害。
 
-### Staircase
+### 楼梯 {#staircase}
 
-Falling 
+坠落
 
-- Anything falling down the stairs takes d6 damage for each 20' fallen.
-- If someone is pushed down the stairs, they make a DEX save or fall.
+- 任何从楼梯上坠落的事物，每坠落 20' 受到 d6 伤害。
+- 若有人被推下楼梯，其进行 DEX 豁免，否则坠落。
 
-### Turning Gears
+### 转动齿轮 {#turning-gears}
 
-Getting caught in the gears
+被齿轮卷入
 
-- Sticking a body part into the gears does d8+d8 damage.
-- If someone is pushed into the gears, they make a Dex save or take d8+d8 damage.
+- 将身体部位伸进齿轮会造成 d8+d8 伤害。
+- 若有人被推进齿轮，其进行 DEX 豁免，否则受到 d8+d8 伤害。
 
-## Monsters
+## 怪物 {#monsters}
 
-### Animated Book
+### 活化书籍 {#animated-book}
 
-6 HP, 1 Armor, 8 STR, 8 DEX, 9 WIL,  slam (d6)
+6 HP, 1 Armor, 8 STR, 8 DEX, 9 WIL,  猛击 (d6)
 
-- It can fly.
-- It is immune to poison, cold, and effects that only affect living things.
-- Fire does *enhanced* damage.
-- **Critical Damage:** drains 1 point of WIL
+- 它可以飞行。
+- 它免疫毒素、寒冷，以及只影响活物的效果。
+- 火焰造成_强化_伤害。
+- **重伤：**吸取 1 点 WIL
 
-### Animate Spell
+### 活化法术 {#animate-spell}
 
-3 HP, 6 STR, 6 DEX, 10 WIL, *spell casting* 
+3 HP, 6 STR, 6 DEX, 10 WIL, _施法_
 
-- The spell's personality and powers depend on the nature of the spell
-- Immune to physical damage of the same type as the spell.
-- Controls the effects of any spells cast which have the same type/function.
-- Magical weapons do *diminished* damage to animate spells, normal weapons do no damage.
-- No physical attacks, but can cast itself once per round. 
-- If reduced to 0 STR, 0 WIL, or takes **critical damage**, becomes a normal spell book.
+- 该法术的个性和能力取决于法术的性质
+- 免疫与该法术相同类型的物理伤害。
+- 控制任何已施放的、类型/功能相同的法术效果。
+- 魔法武器对活化法术造成_减弱_伤害，普通武器不造成伤害。
+- 没有物理攻击，但每回合可以施放自身一次。
+- 若 STR 降至 0、WIL 降至 0，或受到**重伤**，则变为一本普通法术书。
 
-### Archivist-Liches
+### 档案员巫妖 {#archivist-liches}
 
-14 HP, 3 Armor, 15 STR, 9 DEX, 15 WIL, lich's finger (d10), *spell casting* 
+14 HP, 3 Armor, 15 STR, 9 DEX, 15 WIL, 巫妖之指 (d10), _施法_
 
-- Immune to mind control and sleep magics
-- Unless phylactery is destroyed, cannot be permanently killed.
-- cannot be turned
-- Able to cast virtually any spell without suffering consequences. Carries 2d6 random spellbooks with them.
-- **Critical Damage:** victim is paralyzed for 1 turn.
+- 免疫心灵控制和睡眠魔法
+- 除非命匣被摧毁，否则无法被永久杀死。
+- 无法被驱散
+- 几乎能施放任何法术而无须承担后果。随身携带 2d6 本随机法术书。
+- **重伤：**受害者麻痹 1 轮。
 
-### Bandersnatch
+### 班德斯纳奇 {#bandersnatch}
 
-13 HP, 14 STR, 9 DEX, 7 WIL, Long Arms (d4, *long reach*)
+13 HP, 14 STR, 9 DEX, 7 WIL, 长臂 (d4, _长触及_)
 
-- Until they take action, they can remain unnoticed, make a WIL save to spot them.
-- In lieu of attacking the arms can snatch an item (make a STR save to resist) or pick a victim's pocket (make a DEX save to avoid).
-- Non-iron weapons are *impaired* against them. Iron weapons are *enhanced*. 
-- **Critical Damage:** The opponent is grabbed and takes d8+d8 Damage per round until they make 3 STR saves to escape.
+- 在它们采取行动之前可以保持不被注意，需进行 WIL 豁免才能发现它们。
+- 可以不进行攻击，改用手臂抢夺一件物品（进行 STR 豁免以抵抗）或扒窃受害者的口袋（进行 DEX 豁免以避免）。
+- 非铁质武器对其攻击受到_削弱_。铁质武器得到_强化_。
+- **重伤：**对手被抓住，每回合受到 d8+d8 伤害，直到成功通过 3 次 STR 豁免逃脱。
 
-### Black Ooze
+### 黑色软泥 {#black-ooze}
 
-5 HP, 12 STR, 6 DEX, 3 WIL, Mental Digestion (d6 to WIL)
+5 HP, 12 STR, 6 DEX, 3 WIL, 精神消化 (对 WIL 造成 d6)
 
-- Piercing or slashing attacks against it are *diminished*
-- Regains 1HP for every point of damage caused by Mental Digestion 
-- Can crawl up walls and along ceilings, can squeeze through small openings.
+- 对其的穿刺或挥砍攻击受到_减弱_
+- 精神消化每造成 1 点伤害，恢复 1 HP
+- 能沿墙壁和天花板爬行，能挤过狭小开口。
 
-### Conceptual Well
+### 概念之井 {#conceptual-well}
 
-1 HP, 5 STR, 5 DEX, 5 WIL, Unreal Knife (d6)
+1 HP, 5 STR, 5 DEX, 5 WIL, 虚幻小刀 (d6)
 
-- Can not be perceived or attacked directly.
-- **Critical Damage:** The victim immediately forgets a concept from the table provided. They take d10+d10 damage if they act in a way that indicates they are still aware of that concept unless the player immediately changes course when reminded by the keeper.
+- 无法被直接感知或攻击。
+- **重伤：**受害者立即忘记所提供表格中的一个概念。若其行动表明仍知晓该概念，则受到 d10+d10 伤害，除非玩家在被守望者提醒后立即改换做法。
 
-### Crawling Things
+### 爬行之物 {#crawling-things}
 
-4 HP, 1 Armor, 9 STR, 6 DEX, 5 WIL, Claw and Clutch (d6)  
+4 HP, 1 Armor, 9 STR, 6 DEX, 5 WIL, 爪击与擒抓 (d6)
 
-- Slow, lurching.
-- Only dimly aware of surroundings
-- **Critical Damage:** Begins removing body parts and incorporating them into itself. Does d6+d6 damage to the victim from that point. Will only release its victim when the Crawling Thing is killed.
+- 缓慢、蹒跚。
+- 对周围环境只有模糊意识
+- **重伤：**开始拆下身体部位并并入自身。此后对受害者造成 d6+d6 伤害。只有爬行之物被杀死时才会放开受害者。
 
-### Monster 1
+### 怪物 1 {#monster-1}
 
-Stats 
+数据
 
-- Notes
-- **Critical Damage:**
+- 注释
+- **重伤：**
 
 
 
-### Monster 1
+### 怪物 1 {#monster-1}
 
-Stats 
+数据
 
-- Notes
-- **Critical Damage:**
+- 注释
+- **重伤：**
 
 
 
-### Monster 1
+### 怪物 1 {#monster-1}
 
-Stats 
+数据
 
-- Notes
-- **Critical Damage:**
+- 注释
+- **重伤：**
 
 
 
 
 
-### 
+###
 
-### Mummified Sage
+### 木乃伊贤者 {#mummified-sage}
 
-Stats 
+数据
 
-- Notes
-- **Critical Damage:**
+- 注释
+- **重伤：**
 
-### Neurovore
+### 噬神经者 {#neurovore}
 
-Stats 
+数据
 
-- Notes
-- **Critical Damage:**
+- 注释
+- **重伤：**
 
-### 
+###
 
-## 
+##
 
 ```
 

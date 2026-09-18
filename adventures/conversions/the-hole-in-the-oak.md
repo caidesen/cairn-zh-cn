@@ -2,117 +2,117 @@
 layout: default
 parent: Conversions
 grand_parent: Adventures
-title: The Hole in the Oak
+title: 橡树洞
 redirect_from: /resources/adventure-conversions/the-hole-in-the-oak/
 ---
 
-# The Hole in the Oak
+# 橡树洞 {#the-hole-in-the-oak}
 
-- Converted from the [original work by Gavin Norman](https://necroticgnome.com/collections/adventures/products/the-hole-in-the-oak).
-- Conversion by [xenio](https://xenioinabottle.blogspot.com)
+- 根据 [Gavin Norman 创作的原作](https://necroticgnome.com/collections/adventures/products/the-hole-in-the-oak)改编。
+- 转换： [xenio](https://xenioinabottle.blogspot.com)
 
-## Upholstered Chairs
-No stats, run them as objects that are destroyed after receiving 6 damage.
+## 软垫椅 {#upholstered-chairs}
+无数据，将其作为物体处理，受到 6 点伤害后摧毁。
 
-## Sheep-Headed Fauns
-4 HP, 11 STR, 12 WIL, knife (d6)
-- Abilities as written.
+## 羊头农牧神 {#sheep-headed-fauns}
+4 HP, 11 STR, 12 WIL, 匕首 (d6)
+- 能力按原文执行。
 
-## Enchanted Sheep Skulls
-3 HP, 6 STR, butt (d6)
-- Flies.
+## 附魔羊头骨 {#enchanted-sheep-skulls}
+3 HP, 6 STR, 头槌 (d6)
+- 会飞行。
 
-## Spectral Hunter
-6 HP, 1 Armor, 12 DEX, 12 WIL, sword (d8), shortbow (d6)
-- Abilities as written.
+## 幽灵猎手 {#spectral-hunter}
+6 HP, 1 Armor, 12 DEX, 12 WIL, 剑 (d8), 短弓 (d6)
+- 能力按原文执行。
 
-## Spectral Hounds
- 2 HP, 12 DEX, bite (d6)
-- Abilities as written.
+## 幽灵猎犬 {#spectral-hounds}
+ 2 HP, 12 DEX, 撕咬 (d6)
+- 能力按原文执行。
 
-## Giant Crab Spider
-5 HP, 8 DEX, bite (d8)
-- Lurks in the ceiling, ambushing from above.
-- Critical Damage: Target loses 1d6 STR from the poison.
+## 巨型蟹蛛 {#giant-crab-spider}
+5 HP, 8 DEX, 撕咬 (d8)
+- 潜伏在天花板上，从上方伏击。
+- 重伤：目标因毒素失去 1d6 STR。
 
-## Troglodytes
-4 HP, 12 DEX, claws (d6+d6)
-- Intelligent, reptilian humanoids with agile hands, long legs, short tails, and spiky combs on their heads and arms.
-- Can change color to match their surroundings. Lurk by rock walls and await victims.
-- Emits an oil with a nauseating stench from its pores.
+## 穴居人 {#troglodytes}
+4 HP, 12 DEX, 利爪 (d6+d6)
+- 聪明的爬行类人生物，双手灵巧，腿长，尾巴短，头和手臂上有尖刺状肉冠。
+- 能改变颜色以融入周围环境。潜伏在岩壁旁等待受害者。
+- 毛孔会分泌带有令人作呕恶臭的油脂。
 
-## Ghouls
-6 HP, 11 STR, 14 DEX, 3 WIL, claws (d6+d6), bite (d8)
-- Grey-skinned Undead-things wearing shredded clothes, hunkering over the ground.
-- Immune to poison and mind-affecting spells.
-- Critical damage: target loses d12 DEX.
+## 食尸鬼 {#ghouls}
+6 HP, 11 STR, 14 DEX, 3 WIL, 利爪 (d6+d6), 撕咬 (d8)
+- 灰肤的不死之物，穿着碎裂的衣物，蜷伏在地面上。
+- 免疫毒素和影响心灵的法术。
+- 重伤：目标失去 d12 DEX。
 
-## Half-Devoured Corpse
-3 HP, 3 WIL, bite (d4)
+## 半噬尸体 {#half-devoured-corpse}
+3 HP, 3 WIL, 撕咬 (d4)
 
-## Black Skeletons
-5 HP, 1 Armor, sword (d8)
-- Never escapes or surrenders.
+## 黑色骷髅 {#black-skeletons}
+5 HP, 1 Armor, 剑 (d8)
+- 从不逃跑或投降。
 
-## Mutagenic Ogre
-6 HP, Armor 1, 15 STR, 8 DEX, 8 WIL, club (d10)
-- Abilities as written.
+## 诱变食人魔 {#mutagenic-ogre}
+6 HP, Armor 1, 15 STR, 8 DEX, 8 WIL, 木棒 (d10)
+- 能力按原文执行。
 
-## Caged Mutants
-3 HP, 6 WIL, bite (d4)
-- Run as written.
+## 笼中突变体 {#caged-mutants}
+3 HP, 6 WIL, 撕咬 (d4)
+- 按原文执行。
 
-## Shadow Gardener
-4 HP, 14 WIL, touch (d4, ignores Armor and HP)
-- Hates warm-blooded creatures and will try to kill any who enter.
-- Immune to non-magical attacks, sleep and charm.
-- Targets killed by the touch become a shadow.
+## 阴影园丁 {#shadow-gardener}
+4 HP, 14 WIL, 触碰 (d4, 忽略 Armor 和 HP)
+- 憎恨温血生物，会试图杀死任何进入者。
+- 免疫非魔法攻击、睡眠和魅惑。
+- 被此触碰杀死的目标变成幽影。
 
-## Evil Tree Babies
-3 HP, 6 STR, bite (d4)
+## 邪树婴孩 {#evil-tree-babies}
+3 HP, 6 STR, 撕咬 (d4)
 
-## Jorg the Defiler
-3 HP, 11 STR, 12 WIL, sword (d8)
-- Immune to non-magical attacks, poison and mind-affecting spells.
-- Critical damage: target loses d6 STR.
-- Anyone killed by Jorg is raised as a Wight in his control after 1d4 days.
+## 玷污者 Jorg {#jorg-the-defiler}
+3 HP, 11 STR, 12 WIL, 剑 (d8)
+- 免疫非魔法攻击、毒素和影响心灵的法术。
+- 重伤：目标失去 d6 STR。
+- 任何被 Jorg 杀死的人会在 1d4 天后作为受其控制的尸妖复活。
 
-## 100 Normal Bats
-No stats, run as a hazard.
+## 100 只普通蝙蝠 {#100-normal-bats}
+无数据，作为危险处理。
 
-## Giant Lizard Man Figment
-6 HP, 1 Armor, 12 STR, claws (d6+d6)
-- Immune to non-magical attacks.
+## 巨型蜥蜴人幻影 {#giant-lizard-man-figment}
+6 HP, 1 Armor, 12 STR, 利爪 (d6+d6)
+- 免疫非魔法攻击。
 
-## Warrior Figment
-3 HP, 12 WIL, spear (d8)
-- Immune to non-magical attacks.
+## 战士幻影 {#warrior-figment}
+3 HP, 12 WIL, 长矛 (d8)
+- 免疫非魔法攻击。
 
-## Giant Fire Beetles
-2 HP, 4 STR, 12 DEX, 6 WIL, bite(d4)
-- 3’ long beetles commonly found underground.
-- Emits light through glands located in the abdomens and above the eyes.
+## 巨型火甲虫 {#giant-fire-beetles}
+2 HP, 4 STR, 12 DEX, 6 WIL, 撕咬(d4)
+- 长 3' 的甲虫，常见于地下。
+- 通过腹部和眼上方的腺体发光。
 
-## Giant Tuatara Lizards
-6 HP, 14 STR, 12 WIL, bite (d6+d6)
-- Abilities as written.
+## 巨型楔齿蜥 {#giant-tuatara-lizards}
+6 HP, 14 STR, 12 WIL, 撕咬 (d6+d6)
+- 能力按原文执行。
 
-## Adult Heretic Gnomes
-4 HP, 8 STR, 12 DEX, 14 WIL, hammer (d6) or crossbow (d8)
-- Abilities as written.
+## 成年异端侏儒 {#adult-heretic-gnomes}
+4 HP, 8 STR, 12 DEX, 14 WIL, 战锤 (d6) 或弩 (d8)
+- 能力按原文执行。
 
-## Gnome Leader Grimm
-5 HP, 3 Armor, 9 STR, 12 DEX, 14 WIL, hammer (d6) or crossbow (d8)
+## 侏儒首领 Grimm {#gnome-leader-grimm}
+5 HP, 3 Armor, 9 STR, 12 DEX, 14 WIL, 战锤 (d6) 或弩 (d8)
 
-## Gnome Stump Priestess Gribbl
-3 HP, 6 STR, 12 DEX, 15 WIL, knife (d6) or spells
-- Spellbooks: Charm(#14) and Ward(#96).
+## 侏儒树桩女祭司 Gribbl {#gnome-stump-priestess-gribbl}
+3 HP, 6 STR, 12 DEX, 15 WIL, 匕首 (d6) 或法术
+- 法术书：魅惑(#14) 和结界(#96)。
 
-## Pet Giant Rat
-2 HP, 6 STR, bite (d4)
-- Afraid of fire
-- Critical Damage: The victim contracts a disease, leaving it bedridden for a month.
+## 宠物巨鼠 {#pet-giant-rat}
+2 HP, 6 STR, 撕咬 (d4)
+- 害怕火焰
+- 重伤：受害者染上疾病，卧床一个月。
 
-## Evil Tree Stump
-6 HP, 2 Armor, 14 STR, 6 DEX, roots (d6+d6)
-- Once per round the stump gives a simple command to a creature, who must save WIL or obey it. Typically the command is to attack its companions.
+## 邪树桩 {#evil-tree-stump}
+6 HP, 2 Armor, 14 STR, 6 DEX, 树根 (d6+d6)
+- 每回合一次，树桩向一名生物发出简单命令，该生物必须进行 WIL 豁免，否则服从。该命令通常是攻击其同伴。

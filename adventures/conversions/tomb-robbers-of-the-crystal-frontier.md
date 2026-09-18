@@ -2,364 +2,364 @@
 layout: default
 parent: Conversions
 grand_parent: Adventures
-title: Tomb Robbers of the Crystal Frontier
+title: 水晶边疆的盗墓者
 ---
 
-# Tomb Robbers of the Crystal Frontier
+# 水晶边疆的盗墓者 {#tomb-robbers-of-the-crystal-frontier}
 
-- Converted from the [original work by Gus L./Ratking Productions](https://www.drivethrurpg.com/product/357799/Tomb-Robbers-of-the-Crystal-Frontier).
-- Converted by [Naeolin](https://widdershinswanderings.bearblog.dev/) with help from Xenio and Yochai Gal.
-- [PDF version](https://drive.google.com/file/d/1CxJ7ZKD-swvm2A1MA2sNgpuyJES37Sr1/view?usp=sharing) provided by pbcrazy.
+- 根据 [Gus L./Ratking Productions 的原作](https://www.drivethrurpg.com/product/357799/Tomb-Robbers-of-the-Crystal-Frontier)改编。
+- 转换：[Naeolin](https://widdershinswanderings.bearblog.dev/)，Xenio 与 Yochai Gal 协助。
+- [PDF 版本](https://drive.google.com/file/d/1CxJ7ZKD-swvm2A1MA2sNgpuyJES37Sr1/view?usp=sharing)由 pbcrazy 提供。
 
-### Adipose Mab's Mule Train
+### Adipose Mab 的骡队 {#adipose-mabs-mule-train}
 
-#### Adipose Mab
-6 HP, 1 Armor, 10 STR, 16 DEX, 14 WIL, small sword (d8) or light crossbow (d6)
-* Scholarly Training: With an hour of time, once per day, Mab can comprehend languages, read magic, and identify magical objects. 
-* Chirurgeonly Training: With an hour of time, once per day, Mab can restore 1d6 STR or DEX to an individual.  
+#### Adipose Mab {#adipose-mab}
+6 HP, 1 Armor, 10 STR, 16 DEX, 14 WIL, 短剑 (d8) 或轻弩 (d6)
+* 学者训练：每天一次，花费一小时，Mab 可以理解语言、阅读魔法并鉴定魔法物品。
+* 外科训练：每天一次，花费一小时，Mab 可以为一名个体恢复 1d6 STR 或 DEX。
 
-#### Flash
-3 HP, 1 Armor, 10 STR, 15 DEX, 6 WIL, sledgehammer (d8, bulky) 
-* Gemcutting Training: With 10 minutes of careful exertion, Flash may safely facet by succeeding at a DEX save.  
+#### Flash {#flash}
+3 HP, 1 Armor, 10 STR, 15 DEX, 6 WIL, 大锤 (d8, _笨重_)
+* 切宝石训练：花费 10 分钟仔细用力，Flash 可通过 DEX 豁免成功来安全切面。
 
-#### Kotto & Carrow Blüed
-8 HP, 3 Armor, 15 STR, 15 DEX, 14 WIL, flamberge (d10, bulky)  
-* Fraternal Rage: If either Kotto or Carrow is killed (or suffers Critical Damage) during combat, the other will enter a beserk state.  All attacks gain the *enhanced* and *blast* qualities until they suffer Critical Damage.
+#### Kotto & Carrow Blüed {#kotto--carrow-blüed}
+8 HP, 3 Armor, 15 STR, 15 DEX, 14 WIL, 焰形剑 (d10, _笨重_)
+* 兄弟之怒：若 Kotto 或 Carrow 在战斗中被杀死（或受到重伤），另一人将进入狂暴状态。所有攻击获得_强化_与_爆发_性质，直至其自身受到重伤。
 
-#### Greenhorn
-4 HP, 2 Armor, 10 STR, 10 DEX, 10 WIL, axe/mace/spear/sword (d8) 
+#### Greenhorn {#greenhorn}
+4 HP, 2 Armor, 10 STR, 10 DEX, 10 WIL, 斧/钉头锤/矛/剑 (d8)
 
-### Random Encounters
+### 随机遭遇 {#random-encounters}
 
-#### Hunting Echo
-10 HP, 1 Armor, 10 STR, 15 DEX, 10 WIL, flensing wind (d8) 
-* Glass Explosion: Melee and ranged attacks without the *blast* quality are *impaired* against the Hunting Echo, with melee attackers also suffering d4 damage for every attack made.  
-* Eternal Recurrence: There is only one Hunting Echo, but it will always reform in 30-80 minutes when destroyed (unless the **Sleeper** is either awakened or slain).
-* **Critical Damage**: Arterial spray mixes with Tomb Crystal dust, and a new Echo forms in the shape of the victim (but with the statistics of the Hunting Echo). The new Echo will not reform upon destruction.
+#### 狩猎回响 {#hunting-echo}
+10 HP, 1 Armor, 10 STR, 15 DEX, 10 WIL, 剥皮之风 (d8)
+* 玻璃爆裂：不具备_爆发_性质的近战与远程攻击对狩猎回响受到_削弱_，近战攻击者每次攻击还会受到 d4 伤害。
+* 永恒轮回：狩猎回响只有一个，但被摧毁后总会在 30-80 分钟内重组（除非**沉睡者**被唤醒或杀死）。
+* **重伤**：动脉喷血与墓晶尘埃混合，形成一个受害者外形的新回响（但使用狩猎回响的数据）。这个新回响被摧毁后不会再重组。
 
-#### Glass Spiders
-6 HP, 3 STR, 10 DEX, 6 WIL, bite (d6)
-* Will almost always attack, but will often retreat after one or more characters suffers Critical Damage.  They will return later with the intention of feasting on anyone left behind.
-* Tenacious: Glass spiders do not check Morale (WIL save) unless reduced to 0 HP or faced with overwhelming force.  
-* **Critical Damage**: Target suffers from spasmodic violence and attacks (*enhanced* damage) the nearest creature, then falls into a coma. They die in 1d6/2 days, or recover in 2d6 if hydrated and cared for.  
+#### 玻璃蜘蛛 {#glass-spiders}
+6 HP, 3 STR, 10 DEX, 6 WIL, 撕咬 (d6)
+* 几乎总会发动攻击，但在一名或多名角色受到重伤后，通常会撤退。它们稍后会回来，打算享用任何被留下的人。
+* 坚韧：除非 HP 降至 0 或面对压倒性的力量，否则玻璃蜘蛛不会进行士气检定（WIL 豁免）。
+* **重伤**：目标陷入痉挛性暴力，攻击最近的生物（伤害得到_强化_），然后陷入昏迷。他们会在 1d6/2 天内死亡；如果补充水分并得到照料，则会在 2d6 天内恢复。
 
-#### Lith Mummy
-6 HP, 12 STR, 8 DEX, 6 WIL, rend (d8)
-* Crystallized Flesh: All attacks from normal weapons are considered *impaired*. 
-* **Critical Damage**: Suffer a level of Tomb Crystal Poisoning after the battle is over (see [Appendix A](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#appendix-a---occuliths)).
+#### 岩缚木乃伊 {#lith-mummy}
+6 HP, 12 STR, 8 DEX, 6 WIL, 撕裂 (d8)
+* 结晶化血肉：普通武器的所有攻击视为_削弱_。
+* **重伤**：战斗结束后承受一层墓晶中毒（见[附录 A](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#appendix-a---occuliths)）。
 
-#### Lith Zombies
-6 HP, 10 STR, 6 DEX, 3 WIL, pummel (d6)
-* Crystal Encrusted: Always act last. 
-* Mindless: Immune to all mind-influencing effects, including Morale.
-* **Critical Damage**: Suffer a level of Tomb Crystal Poisoning after the battle is over (see [Appendix A](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#appendix-a---occuliths)).
+#### 岩缚僵尸 {#lith-zombies}
+6 HP, 10 STR, 6 DEX, 3 WIL, 锤击 (d6)
+* 晶体包覆：总是最后行动。
+* 无心智：免疫所有影响心智的效果，包括士气。
+* **重伤**：战斗结束后承受一层墓晶中毒（见[附录 A](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#appendix-a---occuliths)）。
 
-#### Stylite's Eyes 
-3 HP, 3 STR, 14 DEX, 12 WIL, burning gaze (d6)
-* Immaterial: : Immune to all attacks with normal weapons. 
-* If destroyed, lower the Reaction of the **Stylite** by three steps when next encountering him.
+#### 柱居者之眼 {#stylite's-eyes}
+3 HP, 3 STR, 14 DEX, 12 WIL, 燃烧凝视 (d6)
+* 非物质：免疫所有普通武器攻击。
+* 若被摧毁，下次遭遇**柱居者**时，其**反应**降低三档。
 
-#### Tomb Homunculi
-3 HP, 5 STR, 10 DEX, 6 WIL, bite (d4)
-* Death Screech: If wounded without being killed (or suffering Critical Damage), A Homunculus emits a piercing cry that attracts another random encounter from this list in d6+1 Rounds. 
+#### 墓穴何蒙库鲁斯 {#tomb-homunculi}
+3 HP, 5 STR, 10 DEX, 6 WIL, 撕咬 (d4)
+* 死亡尖啸：若受伤但未被杀死（或未受到重伤），何蒙库鲁斯会发出刺耳尖叫，在 d6+1 回合后从本表再引来一次随机遭遇。
 
-#### Bearowl
-8 HP, 2 Armor, 16 STR, 14 DEX, 8 WIL, claw (d8+d8)
-* Bite: A roll of 8 on either damage dice results in a 3rd, *enhanced* attack being rolled. The highest of the three rolls is kept. 
-* Warded: Magical attacks are *impaired* against the bearowl.
-* **Critical Damage**: The bearowl seizes the victim in a bone-breaking hug, dealing an additional d6 STR damage as it attempts to crush them into a bloody pulp.
+#### 熊鸮 {#bearowl}
+8 HP, 2 Armor, 16 STR, 14 DEX, 8 WIL, 利爪 (d8+d8)
+* 撕咬：任一伤害骰掷出 8 时，额外掷第三次_强化_攻击。三者取最高。
+* 受守护：针对熊鸮的魔法攻击受到_削弱_。
+* **重伤**：熊鸮以折骨般的拥抱攫住受害者，额外造成 d6 STR 伤害，试图将其碾成血肉模糊。
 
-#### Priest's Children
-6 HP, 2 Armor, 12 STR, 8 DEX, 6 WIL, scimitar (d8)
-* Tenacious: Priest's Children do not check Morale (WIL save) unless reduced to 0 HP or faced with overwhelming force
-* **Critical Damage**: Suffer a level of Tomb Crystal Poisoning after the battle is over (see [Appendix A](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#appendix-a---occuliths)).
+#### 祭司之子 {#priest's-children}
+6 HP, 2 Armor, 12 STR, 8 DEX, 6 WIL, 弯刀 (d8)
+* 坚韧：除非 HP 降至 0 或面对压倒性的力量，否则祭司之子不会进行士气检定（WIL 豁免）
+* **重伤**：战斗结束后承受一层墓晶中毒（见[附录 A](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#appendix-a---occuliths)）。
 
-### Exterior of Murkvey's Rock
-* Burlap covered hole: Roll a Die of Fate to determine if the bearowl is present (1-3: present, 4-6: not present).
+### Murkvey 岩外观 {#exterior-of-murkveys-rock}
+* 麻袋布覆盖的洞：掷一枚命运骰，以决定熊鸮是否在场（1-3：在场，4-6：不在场）。
 
-### 1) Surface Shaft
-* 20' shaft: DEX save to climb walls without proper equipment.
+### 1) 地面竖井 {#1-surface-shaft}
+* 20' 竖井：无合适装备时攀爬岩壁须通过 DEX 豁免。
 
-### 2) Mirror of the Past
+### 2) 往昔之镜 {#2-mirror-of-the-past}
 
 |                  |                               |
 | ---------------- | ----------------------------- |
-| Events Witnessed | Effects of Prolonged Viewing |
-| **2** A Crowned King and his Wazir tour a natural crystal cave, the Wazir gestures and the King sneers. | Several vague ideas about crystal structure form occur to the viewer, providing "Training" in Tomb Crystal Faceting (see [Appendix A](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#appendix-a---occuliths)). |
-| **3** Workers toil at the edge of exhaustion. They carve a throne, and connect it to machinery they're installing in the walls and floors. | The workers look back, eyes filled with hate. Lith Mummies, Wights and Zombies are treated as if they rolled Hostile for their *Reaction* and seek to immediately kill the viewer. |
-| **4** A Noble in battered armor kneels before a Crowned King. The King is angry. He grips the throne, and Burning Rays from the walls melt the Noble. | A curse of rage boils within, making the viewer yearn for brutal combat. Viewer will no longer use ranged weapons, and must make a WIL save to retreat from battle. |
-| **5** A group of Nobles force one of their own into a gilded suit of red-hot armor. He screams, and pleads. A Sad Woman in chains watches. | Sympathetic magic burns and boils across the viewer. They take d6 STR damage in ugly blisters and rashes as they're cooked by the body's own fires. |
-| **6** A Crowned King sits on the throne in the gilded chamber. Nobles and Concubines kneel before him, including a Sad Woman. | The viewer's manner changes. Sneering disregard and cold command come more naturally now. The viewer becomes imperious, with Reaction results reduced by one step for most social interactions. Hirelings treat their Reaction results as one step higher instead. |
-| **7** A Crowned King slumps on his throne in the dark. He coughs blood into his sleeve, eyes wild. A Gilded Guard and silent concubines stand at his side. | The King's pain causes sympathetic lung disease. The viewer coughs and hacks when they're under stress, making stealth impossible until cured. |
-| **8** A Sad Woman stares at the dying Crowned King. She smiles at the King's monsterous Gilded Guard, who nods back. | A sense of fulfillment and the inevitability of revenge sets in the viewer's mind. Gain 1 WIL in steadiness of purpose. |
-| **9** Incense, wailing and pomp as a Crowned King's corpse is placed on his throne. His weight arms the room's traps. | An understanding of the nature of traps within the tomb dawns on the viewer - they gain knowledge of the importance and use of the King's Mark (Areas 8 and 11). |
-| **10** Concubines and Nobles drink poison from golden goblets and collapse into frothing heaps. A Sad Woman slips something from a vial into her cup. | Witnessing such foolish acts of devotion, and feeling sympathetic effects of the Empyrean poisons grants the viewer +1 STR due to an enhanced constitution. |
-| **11** Draped in golden robes, a robed Wazir walks into the silent tomb. He seals the crystals behind him, and drinks from a poisoned cup. | A curse of compulsion to duty and truth seeps into the viewer. They are unable to lie without suffering internal bleeding (d6 STR damage per lie). |
-| **12** A Crowned King—now the **Dead King**—mummifies on his throne. The corpse's weight keeps the machinery in the walls primed to trigger their Burning Rays. | Death's inevitability settles to ride the viewer's soul. Any attack that targets the viewer deals double damage if the maximum amount is rolled. |
+| 目睹的事件 | 长时间观看的效果 |
+| **2** 一位加冕之王与他的维齐尔巡视天然晶洞，维齐尔打着手势，国王则冷笑。 | 观看者脑海中浮现若干关于晶体结构形态的模糊想法，获得墓晶切面的「训练」（见[附录 A](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#appendix-a---occuliths)）。 |
+| **3** 工人在精疲力竭的边缘劳作。他们雕刻王座，并将其连接到正在安装于墙壁与地板中的机械。 | 工人们回过头来，眼中充满仇恨。岩缚木乃伊、岩缚灵与岩缚僵尸视为其*反应*掷出了敌对，并试图立即杀死观看者。 |
+| **4** 一名身着破损铠甲的贵族跪在加冕之王面前。国王震怒。他握住王座，墙壁中射出的燃烧射线将贵族熔化。 | 一股暴怒诅咒在体内沸腾，使观看者渴求残酷的战斗。观看者将不再使用远程武器，且必须进行 WIL 豁免才能退出战斗。 |
+| **5** 一群贵族将他们中的一员强行塞进一套烧得通红的镀金铠甲。他尖叫、哀求。一名戴着锁链的悲伤女子在旁观看。 | 交感魔法在观看者身上灼烧沸腾。他们受到 d6 STR 伤害，身上布满丑陋水疱与疹子，如同被自身体内的火焰烹煮。 |
+| **6** 加冕之王坐在镀金殿堂的王座上。贵族与妃嫔跪在他面前，其中包括一名悲伤女子。 | 观看者的仪态改变。轻蔑的漠视与冰冷的号令如今来得更为自然。观看者变得专横，在大多数社交互动中反应结果降低一档。雇工则将其反应结果视为高一档。 |
+| **7** 加冕之王在黑暗中瘫坐于王座。他朝袖中咳血，双眼狂乱。一名镀金守卫与沉默的妃嫔立于身侧。 | 国王的痛苦引发交感性肺病。观看者在压力下会咳嗽、干咳，在治愈前无法潜行。 |
+| **8** 悲伤女子凝视垂死的加冕之王。她朝国王那可怖的镀金守卫微笑，对方点头回应。 | 一种圆满之感与复仇的必然性在观看者心中定着。因心意坚定而获得 1 WIL。 |
+| **9** 香烟、哀号与排场之中，加冕之王的尸体被安放在王座上。他的重量启动了房间中的陷阱。 | 观看者领悟墓中陷阱的本质——获知国王印记的重要性与用法（第 8 区与第 11 区）。 |
+| **10** 妃嫔与贵族从金杯中饮下毒药，口吐白沫成堆倒下。悲伤女子将小瓶中的什么倒入自己杯中。 | 目睹如此愚昧的效忠，并感受到苍穹毒药的交感效应，使观看者因体质增强而获得 +1 STR。 |
+| **11** 身披金袍的维齐尔走入寂静墓穴。他封上身后的晶体，饮下毒杯。 | 一股迫使尽责与诚实的诅咒渗入观看者。他们无法说谎，否则会内出血（每说一次谎受到 d6 STR 伤害）。 |
+| **12** 加冕之王——如今已是**死王**——在王座上木乃伊化。尸体的重量使墙壁中的机械保持待发，随时触发燃烧射线。 | 死亡的必然性栖上观看者的灵魂。任何以观看者为目标的攻击，若掷出最大值，则造成双倍伤害。 |
 
-### 4) Singing Crystals
-* Crystal Columns: Crystals can be avoided by succeeding at a DEX save.  Failure results in d6 DEX damage from the painful warbling sounds produced, and any hesitation in immediately leaving the room as the sound intensifies will provoke a STR save, with failure leading to unconsciousness and death by the end of 10 minutes.
-* Two Corpses: See [Empyrean Panoply](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#empyrean-panoply-2-armor) in **Appendix C**.  
+### 4) 歌唱晶体 {#4-singing-crystals}
+* 晶体柱：成功通过 DEX 豁免即可避开晶体。失败则因痛苦的颤鸣受到 d6 DEX 伤害；若声音加剧时仍未立即离开房间，须进行 STR 豁免，失败则陷入昏迷，并在 10 分钟结束时死亡。
+* 两具尸体：见**附录 C**中的[苍穹甲胄](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#empyrean-panoply-2-armor)。
 
-### 5) Murkvey's Camp
-* Canvas Bundles: Lower the **Reaction** of Murkvey and his men by 1 step due to the party's presence in their camp.
+### 5) Murkvey 营地 {#5-murkveys-camp}
+* 帆布捆：因队伍出现在营地中，将 Murkvey 及其手下的**反应**降低 1 档。
 
 **Murkvey**
-* Stats as [Priest's Children](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#priest's-children)
+* 数据同[祭司之子](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#priest's-children)
 
-### 6) Encysted Beast
+### 6) 包囊之兽 {#6-encysted-beast}
 
-#### Bloated Monstrosity
-10 HP, 3 Armor, 15 STR, 5 DEX, 8 WIL, claws and tentacles (d8, blast)
-* Death Wish: Both Reaction and Morale do not apply to the Monstrosity.
-* Crystal Plating: All attacks from normal weapons are *impaired*, unless the player specifically targets the face.
-* Resilience: The Monstrosity regenerates 2 STR per round, even after it's dead or reduced to fragments. If killed, it will be able to fight again at 6 STR. It may only be permanently slain by being dissolved in alchemical spirits.
-* Poisonous: Striking the Monstrosity creates a cloud of Tomb Crystal dust and a spray of crystal shards. After any combat where the Monstrosity has been attacked (damaged or not) anyone who was in the same location must make a STR save or suffer a level of Tomb Crystal Poisioning (see [Appendix A](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#appendix-a---occuliths)). 
-* **Critical Damage**: The Monstrosity inexorably crushes the victim, whose bloody remains are are absorbed into the Monstrosity's cancerous bulk.  It restores 6 STR and its attacks are treated as *enhanced* on its next turn.
+#### 臃肿怪物 {#bloated-monstrosity}
+10 HP, 3 Armor, 15 STR, 5 DEX, 8 WIL, 利爪与触手 (d8, _爆发_)
+* 赴死之心：反应与士气皆不适用于此怪物。
+* 晶体护甲：普通武器的所有攻击受到_削弱_，除非玩家明确瞄准面部。
+* 韧性：怪物每回合再生 2 STR，即使已经死亡或被打成碎片。若被杀死，它能以 6 STR 再次投入战斗。只有将其溶解于炼金酒精中才能永久消灭。
+* 剧毒：击打怪物会产生墓晶尘埃云与晶体碎片喷溅。任何攻击过该怪物的战斗结束后（无论是否造成伤害），当时同处一地的所有人必须进行 STR 豁免，否则承受一层墓晶中毒（见[附录 A](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#appendix-a---occuliths)）。
+* **重伤**：怪物不可阻挡地碾碎受害者，血肉残骸被吸收进它癌变般的躯体。它恢复 6 STR，且其下一轮次的攻击视为_强化_。
 
-### 7) Chambered Hall
+### 7) 隔室大厅 {#7-chambered-hall}
 
-#### Revenant of Greed
-6 HP, 12 STR, 14 DEX, 3 WIL, claws (d6, ignores armor)
-* Shambling, Empyryean figures wrapped in stained silks, their hands compulsively grasping for any nearby riches.
-* Self-Serving: Only check Morale if reduced to 0 HP.
-* Semi-Corporeal: Immune to all normal weapons, but take full damage from blessed weapons, fire, and acid. Immune to sleep, charm, and mind-affecting spells.
-* Lure of Gold: The Revenant can forgo dealing STR damage, instead grasping the target and provoking a WIL save.  Failure results in the victim being overcome with the compulsion to kill and rob one's companions:  They must attack their nearest ally for the next 1d6 Rounds. 
+#### 贪婪亡魂 {#revenant-of-greed}
+6 HP, 12 STR, 14 DEX, 3 WIL, 利爪 (d6, 忽略 Armor)
+* 蹒跚的苍穹身影，裹着污渍丝绸，双手强迫性地抓取附近任何财宝。
+* 自私：仅在 HP 降至 0 时进行士气检定。
+* 半实体：免疫所有普通武器，但受祝福武器、火焰与酸液的全额伤害。免疫睡眠、魅惑与影响心智的法术。
+* 黄金诱惑：亡魂可以放弃造成 STR 伤害，改为抓住目标并迫使其进行 WIL 豁免。失败则受害者被杀死并抢劫同伴的强迫冲动所支配：在接下来的 1d6 回合内必须攻击最近的盟友。
 
-**Tubbs (Greenhorn)**
-4 HP, 2 Armor, 10 STR, 10 DEX, 10 WIL, spear (d8)
-* possessed of a puerile cupidity. 
+**Tubbs（Greenhorn）**
+4 HP, 2 Armor, 10 STR, 10 DEX, 10 WIL, 矛 (d8)
+* 怀有幼稚的贪欲。
 
-### 8) Prism Tomb
-* Telegraph danger: emphasize the prisms on the ceiling flaring with white light and beginning to hum when someone steps on the threshold of the room.
-* DEX save or PC is incinerated by beams of searing light.
+### 8) 棱镜墓室 {#8-prism-tomb}
+* 预示危险：当有人踏上门槛时，强调天花板上的棱镜爆发出白光并开始嗡鸣。
+* DEX 豁免，否则 PC 被灼热光束烧成灰烬。
 
-#### Thuvia of the Red Sphere
-10 HP, 2 Armor, 16 WIL, maleficence (d8+d8) or (d8, blast), Red Tome  (see [Appendix C](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#red-tome))
-* High Sorcery: Immune to normal missiles and damaging magical effects.
-* *Sand of Slumber*: Up to 3 targets must save vs WIL or fall asleep.
-* *Crystal Weaving*: Up to 3 targets must save vs STR or be held in place.
-* *Mirror Step*: Step into a crystalline or reflective surface and either exit through another surface in sight immediately or after a period of up to 20 minutes.
-* **Critical Damage**: Arcane energies transform the victim into a statue of Tomb Crystal, their soul separated from their body and vulnerable to torment.  
+#### 红球之 Thuvia {#thuvia-of-the-red-sphere}
+10 HP, 2 Armor, 16 WIL, 恶咒 (d8+d8) 或 (d8, _爆发_)，红卷（见[附录 C](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#red-tome)）
+* 高阶巫术：免疫普通投射物与造成伤害的魔法效果。
+* _沉睡之沙_：至多 3 个目标必须进行 WIL 豁免，否则入睡。
+* _晶体编织_：至多 3 个目标必须进行 STR 豁免，否则被定在原地。
+* _镜步_：步入晶体或反射表面，立即或至多 20 分钟后从视野内的另一表面走出。
+* **重伤**：奥术能量将受害者转化为墓晶雕像，其灵魂与身体分离，易受折磨。
 
-### 9) Stylite's Tomb
+### 9) 柱居者之墓 {#9-stylites-tomb}
 
-* PCs in heavy armor who enter the water must save vs STR or sink and begin to drown.
+* 穿着重甲进入水中的 PC 必须进行 STR 豁免，否则下沉并开始溺水。
 
-#### The Stylite
-7 HP,  8 STR, 6 DEX, 16 WIL, burning touch (d6+d6) 
-* Resilient: Immune to normal weapons and attacks with silver or blessed weapons are *impaired*.
-* Burning Eyes: Up to 4 Stylite's Eyes (minus any destroyed during the current session) will rise and attack when the Stylite does.
-* Death in Life: As written.
-  
-### 10) Geode Grave
-* PCs do not need to make saves as long as they are moving cautiously, but a DEX save will be required to descend to the floor without adequate equipment or training.
-* If not in combat, a PC with adequate time, tools, and skill can pick the lock in about 10 combat rounds.  A successful save vs DEX will reduce that to 5 rounds, but risks breaking the lockpicks in the process.  
-* See [Lith Zombies](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#lith-zombies)
+#### 柱居者 {#the-stylite}
+7 HP,  8 STR, 6 DEX, 16 WIL, 燃烧之触 (d6+d6)
+* 坚韧：免疫普通武器，银制或祝福武器的攻击受到_削弱_。
+* 燃烧之眼：柱居者攻击时，至多 4 只柱居者之眼（减去本场聚会中已被摧毁的数量）会升起并攻击。
+* 生中之死：按原文执行。
 
-### 11) Muraled Hall
-* Telegraph Danger: Anyone who is moving slowly and carefully examining the room should be told about the holes bored into the ceiling.
-* Spear Trap: Save vs DEX or suffer D6+D6 STR damage.
+### 10) 晶洞坟墓 {#10-geode-grave}
+* 只要谨慎移动，PC 无需进行豁免；但若无足够装备或训练便下到地面，则须进行 DEX 豁免。
+* 若不在战斗中，拥有充足时间、工具与技能的 PC 约需 10 个战斗回合撬开锁。成功通过 DEX 豁免可缩短至 5 回合，但过程中有折断撬锁工具的风险。
+* 见[岩缚僵尸](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#lith-zombies)
 
-### 12) Bronze Portal
-* Brass Braziers: Burning incense induces visions that reduce HP to 0 and cause attacks to be *impaired* for one hour. STR save to permanently gain 1 WIL. Upon failure, lose 1 WIL instead.
+### 11) 壁画大厅 {#11-muraled-hall}
+* 预示危险：任何缓慢移动并仔细检查房间的人都应被告知天花板上钻出的孔洞。
+* 矛陷阱：DEX 豁免，否则受到 D6+D6 STR 伤害。
 
-### 13) Tomb of Traitors
-* Large Glowing Crystals: If touched, WIL save or PC is possessed by the spirit that was trapped within.
+### 12) 青铜门户 {#12-bronze-portal}
+* 黄铜火盆：燃烧的熏香引发幻象，使 HP 降至 0，且攻击受到_削弱_，持续一小时。进行 STR 豁免以永久获得 1 WIL。失败则改为失去 1 WIL。
 
-#### Tormented Wraith
-4 HP, 6 STR, 6 DEX, 16 WIL, freezing touch (d6, ignores armor) 
-* Immaterial and Undead: Immune to normal weapons and fire, sleep, and charm spells. Attacks with silver or blessed weapons are *impaired*.
-* **Critical Damage**: Deals d6 additional STR damage as the Wraith attempts to suck the life force from its victim.
+### 13) 叛徒之墓 {#13-tomb-of-traitors}
+* 大型发光晶体：若触碰，进行 WIL 豁免，否则 PC 被困于其中的灵魂附身。
 
-#### Demands of Empyrean Wraith
+#### 受折磨的怨灵 {#tormented-wraith}
+4 HP, 6 STR, 6 DEX, 16 WIL, 冰冻之触 (d6, 忽略 Armor)
+* 非物质且为不死生物：免疫普通武器以及火焰、睡眠与魅惑法术。银制或祝福武器的攻击受到_削弱_。
+* **重伤**：怨灵试图吸走受害者的生命力，额外造成 d6 STR 伤害。
+
+#### 苍穹怨灵的要求 {#demands-of-empyrean-wraith}
 
 |          |          |          |
 | -------- | -------- | -------- |
-| **D10** | **Demand** | **Wraith / Effect If Ignored** |
-| 1 | Gorge oneself to near bursting. Now and once a day, on sweets if available. | A petulant child / Constant screaming destroys mind (-d6 WIL)|
-| 2 | Murder any wizard encountered, eat their brain to absorb their power | Elderly Sorcerer / Insidious arguments about the nature of the universe (-d6 WIL) |
-| 3 | Never show mercy. Any who raise their hand against you must die. | Embittered soldier / Slow atrophy of the limbs (-d6 STR) |
-| 4 | Waste at least 100 GP per session on delicacies and fine living. | Betrayed courtier / Lethargy, indolence, stomach ailments and pique (-d6 DEX) |
-| 5 | Spend at least 250 GP pers session on clothing, jewels and perfumes. | Jilted concubine / Endless discouraging and cruel quips (-d6 WIL) |
-| 6 | Personally investigate odd, dangerous looking things — like obvious traps. | Discredited scholar / Overstimulation, distraction, and doubt (must act last in the 1st Round of combat, and is the last PC to go thereafter). |
-| 7 | Save the weak, perform acts of charity and always violently confront tyranny. | Patriotic assassin / Berserker rage (cannot retreat from combat or use range weapons). |
-| 8 | Tear down shrines and temples. Strike and insult priests and worshipers. | Turbulent philosopher / Terrible dream of ruin and destruction (+2 to all damage received) |
-| 9 | Always carry wine. Drink and carouse whenever possible to maximum ability. | Debauched entertainer / Constant reeling intoxication (all attack rolls are *impaired* and Save consequences are more severe). |
-| 10 | Scheme to seize power. Take concrete action against local rulers. | Tortured Royalty / Searing memories of pain (-d6 DEX) |
+| **D10** | **要求** | **怨灵 / 若被忽视的效果** |
+| 1 | 暴食至几乎撑破。立刻如此，并且每天一次；若有甜食则用甜食。 | 任性的孩童 / 持续尖叫摧毁心智（-d6 WIL）|
+| 2 | 杀死任何遇到的巫师，吃掉其大脑以吸收力量 | 年迈术士 / 关于宇宙本质的阴险争辩（-d6 WIL） |
+| 3 | 永不心慈手软。任何对你举起手的人都必须死。 | 愤懑的士兵 / 四肢缓慢萎缩（-d6 STR） |
+| 4 | 每场聚会至少挥霍 100 GP 于珍馐与奢华生活。 | 被背叛的朝臣 / 怠惰、懒散、胃疾与恼怒（-d6 DEX） |
+| 5 | 每场聚会至少花费 250 GP 于衣饰、珠宝与香氛。 | 被抛弃的妃嫔 / 无尽的打击与刻薄俏皮话（-d6 WIL） |
+| 6 | 亲自调查古怪、看起来危险的事物——比如明显的陷阱。 | 声名扫地的学者 / 过度刺激、分心与疑虑（战斗第 1 回合必须最后行动，此后也是最后行动的 PC）。 |
+| 7 | 拯救弱者，行慈善之事，并总是以暴力对抗暴政。 | 爱国刺客 / 狂暴之怒（无法退出战斗或使用远程武器）。 |
+| 8 | 拆毁神龛与神殿。打击并侮辱祭司与信徒。 | 躁动的哲人 / 毁灭与破坏的可怖梦境（受到的所有伤害 +2） |
+| 9 | 始终携带酒。一有可能就尽最大能力饮酒作乐。 | 放荡的艺人 / 持续踉跄的醉态（所有攻击掷骰受到_削弱_，豁免失败的后果更为严重）。 |
+| 10 | 密谋夺权。对当地统治者采取具体行动。 | 受折磨的王室 / 灼痛的痛苦记忆（-d6 DEX） |
 
-### 14) Faceted Shrine
-* White Faceted Walls: Any PC entering the room while light is present must pass a DEX save or be blinded (HP reduced to 0, attacks *impaired*, common sense action limitations).
-* Altar of carved crystal: Inflicts d6 STR damage on those approaching the altar without a means of seeing or being directed (Armor may reduce damage taken).
+### 14) 切面神龛 {#14-faceted-shrine}
+* 白色切面墙壁：任何在有光时进入房间的 PC 必须通过 DEX 豁免，否则目盲（HP 降至 0，攻击受到_削弱_，依常识限制行动）。
+* 雕刻晶体祭坛：对在没有视觉手段或他人引导的情况下接近祭坛者造成 d6 STR 伤害（Armor 可减少所受伤害）。
 
-### 16) Tomb of Nobles
-* Spiral Glyph Curse (2nd Coffin): Until glyph is removed, the PC in question automatically fails Critical Damage saves.
+### 16) 贵族之墓 {#16-tomb-of-nobles}
+* 螺旋符文诅咒（第二具棺木）：在符文被移除前，该 PC 自动无法通过重伤豁免。
 
-#### Guardian Demon
-7 HP, 2 Armor, 18 WIL, death touch (d10, ignores armor) 
-* Void Born: Immune to all non-magical attacks. Status as Outsider renders it immune to mind-affecting spells.
-* **Critical Damage**: Damage is dealt to WIL. The touch provokes a WIL save (using the reduced attribute) with failure leading to instant death.
+#### 守护恶魔 {#guardian-demon}
+7 HP, 2 Armor, 18 WIL, 死亡之触 (d10, 忽略 Armor)
+* 虚空所生：免疫所有非魔法攻击。作为异界者的身份使其免疫影响心智的法术。
+* **重伤**：伤害施加于 WIL。此触碰迫使其进行 WIL 豁免（使用降低后的属性），失败则立即死亡。
 
-### 17) Guardian Cell
+### 17) 守护者囚室 {#17-guardian-cell}
 
-#### Guardian
-10 HP, 3 Armor, 18 STR, 8 DEX, 12 WIL, executioner sword (d10+d10) 
-* Haunted Armor: Immune to normal missile weapons and attacks made with non-magical fire, cold, and cutting and thrusting weapons are *impaired*.
-* Undead and Cursed: The Guardian is immune to sleep, charm, and other mind-affecting spells or relics. While under the thrall of the geas, he must attack anyone he sees and never makes a WIL save to check Morale.
-* Executioner: A roll of two 10's results in dealing damage directly to STR, effectively triggering the Guardian's **Critical Damage**.
-* **Critical Damage**: The victim is beheaded or bisected.
+#### 守护者 {#guardian}
+10 HP, 3 Armor, 18 STR, 8 DEX, 12 WIL, 处刑剑 (d10+d10)
+* 闹鬼铠甲：免疫普通投射武器；以非魔法火焰、寒冷以及挥砍与穿刺武器进行的攻击受到_削弱_。
+* 不死且受诅咒：守护者免疫睡眠、魅惑以及其他影响心智的法术或遗物。在禁咒驱使下，他必须攻击所见的任何人，且从不进行 WIL 豁免来检定士气。
+* 处刑者：掷出两个 10 时，伤害直接施加于 STR，等同于触发守护者的**重伤**。
+* **重伤**：受害者被斩首或劈成两半。
 
-### 18) Crypt Throne
-* Telegraph danger: emphasize the slight give of the tiles of the inlaid floor, and the glow and fierce humming that comes from the carvings on the walls once someone steps on the floor.
-* Inlaid floor: The PC who first steps on the tiles can safely flee if that is their first declared action. Otherwise they must pass a DEX save or be incinerated.  Anyone who steps onto the tiles afterwards is incinerated before they have a chance to react.
-* Glittering Orb: If the Occulith Orb drops onto the floor while it is still armed, the resulting explosion will instantly kill anyone in the room in a massive conflagration. Those in the hallway or adjoining room (Guardian Cell) must make a DEX save or suffer d12+d12 STR damage as they are hit with the heat and concussive force from the blast.  
+### 18) 墓穴王座 {#18-crypt-throne}
+* 预示危险：强调镶嵌地板砖石的轻微下陷，以及有人踏上地板后墙壁雕饰发出的辉光与剧烈嗡鸣。
+* 镶嵌地板：首先踏上地砖的 PC 若将逃离作为其宣告的第一个行动，则可安全逃走。否则必须通过 DEX 豁免，否则被烧成灰烬。之后踏上地砖的任何人会在有机会反应之前被烧成灰烬。
+* 闪光球体：若 Occulith 球体在机关仍处于待发状态时落到地板上，随之而来的爆炸会在一场巨大火海中立即杀死房间内的所有人。走廊或邻接房间（守护者囚室）中的人必须进行 DEX 豁免，否则受到爆炸的热浪与冲击力，承受 d12+d12 STR 伤害。
 
-## Appendix A - Occuliths
+## 附录 A - Occulith {#appendix-a---occuliths}
 
-### Crystal Poisoning Infection Stage & Effect
+### 墓晶中毒感染阶段与效果 {#crystal-poisoning-infection-stage--effect}
 
 |           |            |
-| --------- | ---------- | 
-| **Stage** | **Effect** |
-| I | Bodily excretions turn to glittering pastel Tomb Crystal. Most notably, sweat will harden into fragile sheets, and tiny crystal tears must occasionally be picked out of one's eyes. **Suffer one Fatigue upon reaching this stage. No other negative effects**. | 
-| II | Patches of crystal build up on bone, hair, and skin. They result in random bruises, stiff joints, and frequent aching pains.**-1 permanent DEX loss.** | 
-| III | Eyes cloud and craze with tiny growths, while shoots of crystal push out through flesh. The poisoned character's immune system begins to break down. **-2 permanent loss to both STR and DEX.** | 
-| IV | A crystal lattice thickens the blood. The heart pumps sluggishly, Crystals forming in the throat make eating and drinking difficult. Pain is constant at this stage, and sleep is never restful. **STR, DEX, and WIL all suffer 1d6 points of permanent loss. If any Ability Score is reduced below 3, the character is Deprived. Below 0, the victim dies, advances to stage VI, and rises as a Lith Wight**. | 
-| V | Growths erupt through flesh as spires of Tomb Crystal grow all over the body. Pain becomes deadened at this stage as tiny crystal deposits in the brain dramatically decrease cognition, wit, and coordination. **DEX and WIL reduced to 3, maximum HP is halved, but the sufferer now heals 1 STR per turn as crystal growths replace their body's functions. If the character suffers Critical Damage at this stage, automatically advance them to Infection Stage VI.** | 
-| VI | Entire limbs are now replaced with veined, blood filled Tomb Crystal. Death occurs, and the infected transforms into a Lith Wight. **The character becomes an NPC under the control of the Warden, but largely retains their strongest personality features and goals. They might remain with the party as a henchperson**. | 
-| VII | Complete immobilization. Those limbs that are not transformed are completely encysted. The unfortunates who reach this stage lose any remaining vestige of identity. There is no cure at this point, only endless mineral pain. | 
+| --------- | ---------- |
+| **阶段** | **效果** |
+| I | 身体排泄物变成闪闪发光的柔和彩色墓晶。最明显的是，汗水会硬化成易碎的薄片，细小的晶泪必须偶尔从眼睛里挑出来。**进入此阶段时承受一点疲劳。没有其他负面效果**。 |
+| II | 骨骼、头发和皮肤上积聚晶体斑块。它们导致随机瘀伤、关节僵硬和频繁的疼痛。**永久失去 1 点 DEX。** |
+| III | 眼睛变得浑浊，细小的晶体增生使其出现裂纹；同时晶体枝条从血肉中长出。中毒角色的免疫系统开始崩溃。**STR 与 DEX 各永久失去 2 点。** |
+| IV | 晶体网格使血液变稠。心脏缓慢地跳动，喉咙中形成的晶体使进食和饮水变得困难。此阶段疼痛不止，睡眠也从不得到充分休息。**STR、DEX 和 WIL 各永久失去 1d6 点。如果任一属性值降至 3 以下，角色陷入匮乏。降至 0 以下时，受害者死亡，进入第 VI 阶段，并作为岩缚灵复起**。 |
+| V | 增生物穿破血肉，墓晶尖塔长遍全身。此阶段疼痛变得麻木，因为脑内细小的晶体沉积会大幅降低认知、机敏和协调能力。**DEX 和 WIL 降至 3，最大 HP 减半，但随着晶体增生取代身体功能，患者现在每轮恢复 1 STR。如果角色在此阶段受到重伤，则自动进入感染第 VI 阶段。** |
+| VI | 整条肢体都被带有静脉、充满血液的墓晶取代。角色死亡，感染者转化为岩缚灵。**角色成为由守望者控制的 NPC，但大体保留其最强烈的性格特征和目标。他们可能会作为随从继续留在队伍中**。 |
+| VII | 完全无法行动。尚未转化的肢体也完全被囊肿包裹。达到此阶段的不幸者会失去仅存的身份痕迹。此时已经无药可救，只有无尽的矿物质疼痛。 |
 
-### Occulith Size and Effect 
-
-|          |          |          |
-| -------- | -------- | -------- |
-| **Name** | **Value** | **Effect** |
-| Spark | 100 GP | Allows possessor to cast a spell without adding Fatigue, or restores 1 charge to a relic. |
-| Ember | 500 GP | Allows the possessor to cast a spell without adding Fatigue, restore 2 charges to a relic, or enhance a spell quickly without consequence. |
-| Carbuncle | 1000 GP | Allows the possessor to cast a spell without adding Fatigue and enhance it quickly without consequence, or restore 4 charges to a relic. |
-| Orb | 10,000 GP | Allows the possessor to cast a spell without adding Fatigue and enhance it quickly without consequence, restore all charges to a relic, or perform a greater work of sorcery if given sufficient time and additional resources. 
-
-## Appendix C - Wondrous Items
-
-#### Blood Drinking Smallsword (d8)
-* Anyone who fails a Critical Damage save as a result of a blow from the sword is *deprived* and all of their subsequent attacks are *impaired*. This lasts until the STR damage dealt by the weapon is healed. 
-
-#### Crystal Executioner's Sword (d10+d10)
-* Instantly kills a human-sized or smaller foe if two 10's are rolled for a single attack, or if an opponent fails their **Critical Damage** save. For a wielder with less than 15 STR, the sword merely does d10 damage and only instantly kills upon a failed **Critical Damage** save.
-
-#### Empyrean Panoply, 2 Armor
-* Lightweight suit of armor forged from a dull grey metal.  Unencumbering (does not count as bulky) and causes damage from piercing weapons to be *impaired*.
-
-#### Lesser Key, 6 Charges
-* Opens any portal sealed by means either mundane or magical.  
-  **Recharge**: Unknown, but can be restored via Occulith. 
-
-#### Mask of Command, 6 Charges
-* The wearer can command fleeing allies (whether due to magical fear or failed Morale) to stand fast, allowing them to reroll their WIL save. Any NPC ally who succeeds must obey any commands issued by the wearer until the end of the current combat.  
-
-#### Red Tome
-* Special Note: The Red Tome is an object of Empyrean Sorcery that is far beyond the ken of more common Terrestrial sorcereries practiced by the denizens of the Crystal Frontier.  Thuvia's magical prowess is such that her versions of these spells are more potent and able to be performed in less time.  **The following spells are treated as Scrolls for the purposes of casting, and are used up in a similar manner.  The GP value listed next to each one is the price in magical materials and research that would be required to produce a terrestrial Spellbook capable of repeated use.**
-
-* **Crystal Key (500 GP)**: Can unlock any door with a keyhole.
-
-* **Sand of Slumber (500 GP)**: A target that you can see falls asleep. 
-
-* **Scintillating Lamps (500 GP)**: Creates an array of multicolored lights. Can be used to distract, or make vague shapes or patterns, but move slowly and provide poor illumination (as candle).
-
-* **Illuminating Eye (500 GP)**: One of the caster's eyes produces a bright light that is equivalent to a lantern. Can be directed at a single target to potentially induce blindness (WIL save or HP), but the PC directing the light is incapable of any other action.
-
-* **Phantasmal Servant (500 GP)**: Creates an immaterial entity capable of lifting, carrying, or manipulating one significant item.  Incapable of inflicting harm or of fine manipulation.
-
-* **Crystal Weaving (1000 GP)**: A target in bowshot is bound with a web of crystalline strands. A successful STR save on their turn allows them to move freely once more.
-
-* **Hallucinatory Miasma (1000 GP)**: Produces a small cloud cloud of gas (treat as a *blast* if used in a small, enclosed room) that causes paralysis via a cheerful languor. Target(s) who succeed at a WIL save may continue to attack, but all attacks are *impaired* and they are incapable of haste.
-
-* **Mystic Prism (1000 GP)**: Creates an interdimensional space that the caster and up to four others can take refuge in.  Lasts until the Caster exits the space.
-
-* **Fractal Presence (1000 GP)**: Produces several copies of the caster that seem to weave about in constant motion. Attacks against the caster are *impaired*.
-
-* **Anathema (1500 GP)**: Permanently dispels an effect caused by a Spellbook or minor magical ability. Can temporarily nullify magical effects produced by magical objects or major magical abilities. 
-
-* **Mirror Step (1500 GP)**: Step into a crystalline or reflective surface and exit through another surface in sight.
-
-* **Crystal Storm (1500 GP)**: A blast of tiny Tomb Crystal particles scours the target, who must succeed at a DEX save or be blinded and suffer a level of Tomb Crystal Poisoning.
-
-* **Madness of the Prisms (2000 GP)**: Up to 3 targets are beset by prisms of scintillating light that whisper unspeakable things to their victims.  Victims roll a 1d6 every turn of combat: **1-**Take no action, overwhelmed by stimuli from prisms. **2-**Attack nearest foe. **3-**Atack nearby ally. **4-**Attack nearest possible target. **5-**Attack self. **6-**May act normally.
-
-* **Crystal Prison (2000 GP)**: target must succeed at a WIL save or be transformed into a statue of Tomb Crystal. The effect can be reversed with another use of the spell, or with an effect that negates magical effects.
-
-* **Wall of Crystal (2000 GP)**: A straight wall of Tomb Crystal 50' long and 10' high rises from the ground. It is resistant to magic, heat, and cold, but is easily shattered by mining tools.  
-
-* **Mirror Walk (2500 GP)**: Opens a portal in a reflective surface that connects to another reflective surface that has been seen by the caster.  Distance between the two points determines the potential consequences. 
-
-*Journey Difficulty*
+### Occulith 尺寸与效果 {#occulith-size-and-effect}
 
 |          |          |          |
 | -------- | -------- | -------- |
-| 1 | WIL save or *deprived* | Journey is greater than the Local Dungeon or City map. |
-| 2 | As above, plus 1 roll on the Journey Failure table | Journey is greater than the Regional Map |
-| 3 | As above, plus 2 rolls on the Journey Failure table | Journey is greater than a Continent |
-| 4 | As above, plus 3 rolls on the Journey Failure table | Journey is beyond the Terrestrial Sphere | 
+| **名称** | **价值** | **效果** |
+| 火花 | 100 GP | 允许持有者施放法术而不增加疲劳，或为一件遗物恢复 1 次充能。 |
+| 余烬 | 500 GP | 允许持有者施放法术而不增加疲劳、为一件遗物恢复 2 次充能，或迅速强化法术而不产生后果。 |
+| 红玉 | 1000 GP | 允许持有者施放法术而不增加疲劳并迅速强化法术而不产生后果，或为一件遗物恢复 4 次充能。 |
+| 球体 | 10,000 GP | 允许持有者施放法术而不增加疲劳并迅速强化法术而不产生后果、恢复一件遗物的所有充能，或在给予足够时间和额外资源后完成更高等的巫术工作。 |
 
-*Journey Failure (d6)*
+## 附录 C - 奇物 {#appendix-c---wondrous-items}
+
+#### 饮血短剑 (d8) {#blood-drinking-smallsword-d8}
+* 任何因该剑一击而未能通过重伤豁免者陷入_匮乏_，且其随后所有攻击受到_削弱_。持续至该武器造成的 STR 伤害被治愈。
+
+#### 晶体处刑剑 (d10+d10) {#crystal-executioners-sword-d10d10}
+* 若单次攻击掷出两个 10，或对手未能通过**重伤**豁免，则立即杀死人类体型或更小的敌人。STR 不足 15 的持用者使用此剑仅造成 d10 伤害，且仅在对手**重伤**豁免失败时立即杀死对方。
+
+#### 苍穹甲胄，2 Armor {#empyrean-panoply-2-armor}
+* 以暗灰色金属锻造的轻便甲胄。不构成负担（不视为_笨重_），并使穿刺武器造成的伤害受到_削弱_。
+
+#### 次级钥匙，6 次充能 {#lesser-key-6-charges}
+* 打开任何以凡俗或魔法手段封闭的门户。
+  **充能**：未知，但可通过 Occulith 恢复。
+
+#### 号令面具，6 次充能 {#mask-of-command-6-charges}
+* 穿戴者可命令正在逃跑的盟友（无论因魔法恐惧或士气失败）站住，允许他们重掷 WIL 豁免。任何因此成功的 NPC 盟友必须服从穿戴者发出的任何命令，直至当前战斗结束。
+
+#### 红卷 {#red-tome}
+* 特别说明：红卷是一件苍穹巫术之物，远超水晶边疆居民所习的寻常尘世巫术之理解。Thuvia 的魔法造诣使其施展的这些法术更为强大，且能以更短时间完成。**以下法术在施法时视为卷轴，并以类似方式消耗。每种法术旁所列的 GP 价值，是制作一本可重复使用的尘世法术书所需的魔法材料与研究花费。**
+
+* **晶体钥匙（500 GP）**：可打开任何带钥匙孔的门。
+
+* **沉睡之沙（500 GP）**：你能看见的一个目标入睡。
+
+* **闪烁灯火（500 GP）**：制造一组多彩灯光。可用于分心，或构成模糊的形状或图案，但移动缓慢，照明很差（如同蜡烛）。
+
+* **照明之眼（500 GP）**：施法者的一只眼睛发出相当于灯笼的明亮光芒。可对准单一目标，有可能使其目盲（WIL 豁免，否则 HP），但引导光线的 PC 无法进行其他任何行动。
+
+* **幻影仆从（500 GP）**：创造一个非物质存在，能够举起、搬运或操作一件重要物品。无法造成伤害，也无法进行精细操作。
+
+* **晶体编织（1000 GP）**：弓箭射程内的一个目标被晶体丝网束缚。其在自己的轮次成功通过 STR 豁免后即可再次自由移动。
+
+* **迷幻瘴气（1000 GP）**：产生一小团气体（在狭小封闭房间中使用时视为_爆发_），以欢愉的慵懒造成麻痹。成功通过 WIL 豁免的目标可以继续攻击，但所有攻击受到_削弱_，且无法急行。
+
+* **秘法棱镜（1000 GP）**：创造一个异次元空间，施法者与至多四人可在其中避难。持续至施法者离开该空间。
+
+* **分形现身（1000 GP）**：产生施法者的若干分身，看似不断交错移动。针对施法者的攻击受到_削弱_。
+
+* **厌诅（1500 GP）**：永久解除由法术书或次要魔法能力造成的效果。可暂时消解魔法物品或强大魔法能力产生的魔法效果。
+
+* **镜步（1500 GP）**：步入晶体或反射表面，从视野内的另一表面走出。
+
+* **晶体风暴（1500 GP）**：一阵细小墓晶微粒冲刷目标，目标必须成功通过 DEX 豁免，否则目盲并承受一层墓晶中毒。
+
+* **棱镜狂乱（2000 GP）**：至多 3 个目标被闪烁光芒的棱镜围困，棱镜对受害者低语不可名状之事。受害者在战斗的每个轮次掷 1d6：**1-**不采取行动，被棱镜的刺激压垮。 **2-**攻击最近的敌人。 **3-**攻击附近的盟友。 **4-**攻击最近的可能目标。 **5-**攻击自己。 **6-**可正常行动。
+
+* **晶体监牢（2000 GP）**：目标必须成功通过 WIL 豁免，否则转化为墓晶雕像。再用一次该法术，或使用可消除魔法效果的效应，即可逆转。
+
+* **晶体之墙（2000 GP）**：一道 50' 长、10' 高的笔直墓晶墙从地面升起。它抵抗魔法、热与冷，但易被采矿工具击碎。
+
+* **镜行（2500 GP）**：在反射表面上打开一道传送门，连接到施法者曾见过的另一反射表面。两点间的距离决定潜在后果。
+
+*旅程难度*
+
+|          |          |          |
+| -------- | -------- | -------- |
+| 1 | WIL 豁免，否则陷入_匮乏_ | 旅程超出本地地城或城市地图。 |
+| 2 | 同上，外加在旅程失败表上掷 1 次 | 旅程超出地区地图 |
+| 3 | 同上，外加在旅程失败表上掷 2 次 | 旅程超出一洲 |
+| 4 | 同上，外加在旅程失败表上掷 3 次 | 旅程超出尘世天球 |
+
+*旅程失败（d6）*
 
 |          |          |
 | -------- | -------- |
-| 1 | **Horrific Premonitions.** A random traveler permanently loses d6 WIL.|
-| 2 | **Sky Shine.** A random traveler is blinded. |
-| 3 | **Crystal Storms.** All travlers are afflicted by one level of Tomb Crystal Poisoning. |
-| 4 | **Timeless Sojourn.** 6 months passed while the travelers were in the mirror realm. |
-| 5 | **Refraction.** All treasure and valuables are transformed into worthless Tomb Crystal. |
-| 6 | **Durance.** A random traveler is lost in the Place of Reflection, but may be recovered. |
+| 1 | **可怖预兆。** 一名随机旅行者永久失去 d6 WIL。|
+| 2 | **天光。** 一名随机旅行者目盲。 |
+| 3 | **晶体风暴。** 所有旅行者承受一层墓晶中毒。 |
+| 4 | **无时旅居。** 旅行者身处镜境期间，外界已过 6 个月。 |
+| 5 | **折射。** 所有宝藏与贵重物品转化为无价值的墓晶。 |
+| 6 | **禁锢。** 一名随机旅行者迷失于映照之所，但仍可能被找回。 |
 
-* **Lithic Necromancy (2500 GP)**: Causes a growth of Tomb Crystal to bloom within a single corpse, transforming it into a [Lith Zombie.](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#lith-zombies) It will serve the caster until the next sunrise, after which it becomes an indiscriminate devourer of human flesh.
+* **岩缚死灵术（2500 GP）**：使墓晶在一具尸体中绽放生长，将其转化为[岩缚僵尸](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#lith-zombies)。它会侍奉施法者直至下一次日出，此后成为不辨敌我的人肉吞噬者。
 
-* **Phantasmal Hunter (3000 GP)**: Summons an invisible horror from another dimension that will relentlessly hunt and kill a single enemy.  It takes three hours to perform the ritual that completes this spell, and doing so leaves the caster *deprived*. The caster must make a WIL save at the end of that time, and failure means that the creature now has a second target before it returns to its realm: the caster.
+* **幻影猎手（3000 GP）**：从另一次元召唤一个隐形恐怖，它将无情地猎杀单一敌人。完成此法术的仪式需要三小时，并使施法者陷入_匮乏_。仪式结束时施法者必须进行 WIL 豁免，失败则意味着该生物在返回其领域前有了第二个目标：施法者。
 
-**Phantasmal Hunter**
-13 HP, 18 STR, 16 DEX, 18 WIL, claws (d12, *blast*), *detachment* 
-* Phantasmal: Immune to non-magical weapon attacks and all missile weapons (barring the ability to see through invisibility). 
-* **Critical Damage**: The Hunter's bite results in the victim being sucked, screaming, into the void beyond the fixed stars.  
+**幻影猎手**
+13 HP, 18 STR, 16 DEX, 18 WIL, 利爪 (d12, _爆发_), _分队_
+* 幻影：免疫非魔法武器攻击与所有投射武器（除非具备看破隐形的能力）。
+* **重伤**：猎手的撕咬将受害者在尖叫中吸入恒星之外的虚空。
 
-#### Sanguine Rod
-* Can be used to restore STR to one target at the expense of another. Requires the target receiving the STR to be touched by the rod for 1 minute, followed by another minute touching the person losing STR. 1d4 STR is restored at the expense of 1d8 STR damage.
+#### 血红权杖 {#sanguine-rod}
+* 可用于以一名目标为代价恢复另一名目标的 STR。需要权杖接触接受 STR 的目标 1 分钟，接着再接触失去 STR 者 1 分钟。恢复 1d4 STR，代价为 1d8 STR 伤害。
 
-#### Silvered Khopesh (d10)
-* Capable of damaging creatures immune to normal weapons, and reduces a target's non-magical Armor by 1 if a 10 is rolled for damage.  
+#### 镀银克佩什 (d10) {#silvered-khopesh-d10}
+* 能够伤害免疫普通武器的生物；若伤害掷出 10，使目标的非魔法 Armor 降低 1。
 
-## Appendix D - Scarlet Town and Environs
+## 附录 D - 绯红镇及周边 {#appendix-d---scarlet-town-and-environs}
 
-#### Scarlet Town Thug
-4 HP, 2 Armor, 10 STR, 10 DEX, 10 WIL, axe/mace/spear/sword (d8)
+#### 绯红镇暴徒 {#scarlet-town-thug}
+4 HP, 2 Armor, 10 STR, 10 DEX, 10 WIL, 斧/钉头锤/矛/剑 (d8)
 
-### Speculators 
-#### Freytag the Heartless
-3 HP, 14 WIL, pen knife (d4)
-* Always accompanied by 5 **Silent Assassins** (see below).
-* Heartless: Appeals to compassion or honor fall on deaf ears.
-* Gutless: Anything that would trigger a WIL save due to Morale should be treated as a failure. Freytag will not risk himself in a violent encounter if there is even a hint it will not go his way.
+### 投机者 {#speculators}
+#### 无心的 Freytag {#freytag-the-heartless}
+3 HP, 14 WIL, 小刀 (d4)
+* 始终有 5 名**沉默刺客**随行（见下）。
+* 无心：诉诸同情或荣誉只会充耳不闻。
+* 怯懦：任何因士气而触发的 WIL 豁免都应视为失败。只要有一丝迹象表明暴力冲突不会按他的意愿发展，Freytag 就不会拿自己冒险。
 
-#### Silent Assassin (5)
-6 HP, 3 Armor, 18 STR, 12 DEX, 15 WIL, punch (d6+d6)
-**Critical Damage**: The assassin begins to choke the life from their victim, dealing an additional d6 STR damage, continuing every round until their target is dead or someone intervenes. 
+#### 沉默刺客（5） {#silent-assassin-5}
+6 HP, 3 Armor, 18 STR, 12 DEX, 15 WIL, 拳击 (d6+d6)
+**重伤**：刺客开始扼杀受害者的生命，额外造成 d6 STR 伤害，每回合持续，直至目标死亡或有人介入。
 
-#### Jolly Diamond 
-7 HP, 3 Armor, 15 STR, 12 WIL, rapier (d8)
+#### Jolly Diamond {#jolly-diamond}
+7 HP, 3 Armor, 15 STR, 12 WIL, 刺剑 (d8)
 
-### Gem Robbers
-#### Big Tunny 
-6 HP, 13 DEX, 15 WIL, dagger (d6), Spellbooks (*Sleep*, *Illuminate*, *Knock*)
-* *Sleep*: A creature you can see falls into a light sleep.
-* *Illuminate*: A floating light moves as you command.
-* *Knock*: A nearby mundane or magical lock unlocks loudly.
+### 宝石劫匪 {#gem-robbers}
+#### Big Tunny {#big-tunny}
+6 HP, 13 DEX, 15 WIL, 匕首 (d6)，法术书（_睡眠_、_照明_、_敲击_）
+* _睡眠_：你能看见的一个生物陷入浅睡。
+* _照明_：一盏浮空的灯会按照你的命令移动。
+* _敲击_：附近的一把世俗或魔法锁会发出巨响并解锁。
 
-#### Veteran Gemrobber
-5 HP, 15 STR, WIL 14, sword/axe/hammer (d8), crossbow (d8, bulky)
+#### 老练宝石劫匪 {#veteran-gemrobber}
+5 HP, 15 STR, WIL 14, 剑/斧/锤 (d8), 弩 (d8, _笨重_)
 
-#### Graf 
-9 HP, 2 Armor, 16 STR, 13 DEX, 16 WIL, [blood-drinking smallsword (d8)](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#blood-drinking-smallsword-d8), dagger (d6)
-* Rake: Graf is a well-practiced duelist, and his attacks are *enhanced* against any human-sized opponent during single combat.
+#### Graf {#graf}
+9 HP, 2 Armor, 16 STR, 13 DEX, 16 WIL, [饮血短剑 (d8)](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#blood-drinking-smallsword-d8), 匕首 (d6)
+* 浪荡剑客：Graf 是训练有素的决斗者，在单挑中对任何人类体型对手的攻击得到_强化_。
 
-#### Cult Fanatic
-3 HP, 14 STR, 12 DEX, 14 WIL, axe/mace/spear/sword (d8)
-* Fervor: Cult Fanatics never check Morale, and may make a WIL save to act on their turn even if they have failed a Critical Damage save.
+#### 邪教狂热者 {#cult-fanatic}
+3 HP, 14 STR, 12 DEX, 14 WIL, 斧/钉头锤/矛/剑 (d8)
+* 狂热：邪教狂热者从不进行士气检定，即使未能通过重伤豁免，仍可进行 WIL 豁免以在自己的轮次行动。

@@ -2,182 +2,182 @@
 layout: default
 parent: Conversions
 grand_parent: Adventures
-title: The Sky-Blind Spire
+title: 盲天之塔
 redirect_from: /resources/adventure-conversions/the-sky-blind-spire/
 ---
 
-# The Sky-Blind Spire
+# 盲天之塔 {#the-sky-blind-spire}
 
-- Converted from the original [adventure by Michael Prescott](http://blog.trilemma.com/2016/04/the-sky-blind-spire.html).
-- Credit to [Jason Tocci's](http://jasontocci.itch.io/) original [conversion](https://docs.google.com/document/d/1cv4JwXbmvrpgToQHvljCCNrZgdAEN6ERcXz7-ya9IPM/edit?usp=driveweb&ouid=116013665970125878211) Into The Odd conversion.
+- 根据 [Michael Prescott 创作的原冒险](http://blog.trilemma.com/2016/04/the-sky-blind-spire.html)改编。
+- 致谢 [Jason Tocci](http://jasontocci.itch.io/) 的原始 [Into The Odd 转换](https://docs.google.com/document/d/1cv4JwXbmvrpgToQHvljCCNrZgdAEN6ERcXz7-ya9IPM/edit?usp=driveweb&ouid=116013665970125878211)。
 
-## Introduction
+## 引言 {#introduction}
 
-**Tintardinal’s** spire was to be his greatest work: A stone tower crafted as a giant arcanum, granting a great reward to those who unlock its secrets. Nobody knows the secrets, though, because **Tintardinal** fell to his death before he could use it.
+**Tintardinal** 的尖塔本将成为他最伟大的作品：一座被打造成巨型秘仪的石塔，为解开其秘密者赐予厚赏。然而无人知晓这些秘密，因为 **Tintardinal** 在能够使用它之前就坠亡了。
 
-The spire stands five stories tall, the only structure on a small island in a large lake. Now that  you've had a chance to tether your rowboat and get a close up look, you can see a great door ahead at the end of the path leading from the dock, and windows up the sides of the tower, pointing in each of the directions of the compass. The upper floor windows each seem to have a chain bolted to their sills, dangling down to the window down below (but nothing dangling from the second floor all the way to the ground). The lake is all around you, and beyond that, the scrublands you crossed to get here, mountains in the distance, and the sun just rising over the horizon to the east. The weather’s clear – it’ll be a sunny day with a clear, blue sky.
+尖塔高五层，是一座大湖中小岛上唯一的建筑。此刻你已经系好划艇，得以近看：码头延伸出的小路尽头有一扇大门，塔身各侧都有窗户，分别朝向罗盘的各个方向。上层窗户的窗台上似乎都用螺栓固定着一条铁链，垂向其下方的窗户（但从二层一直到地面没有任何下垂的链子）。湖水环绕四周；再往外是你们前来时穿过的灌丛荒地，远处是群山，太阳刚从东方地平线升起。天气晴朗——这将是阳光灿烂、蓝天澄澈的一天。
 
-Close inspection of the shore surrounding the tower reveals small barefoot tracks in the mud going in and out, possibly from many weeks. Even closer inspection may reveal holes dug and refilled around the perimeter, with a tool buried in each.
+仔细查看塔周围的岸边，会发现泥地上有进出的细小赤足足迹，可能已有许多个星期。再仔细看，或许会发现沿周界挖掘后又填回的坑洞，每个坑里都埋着一件工具。
 
 
-## 1. Unwelcoming Hall
+## 1. 拒客大厅 {#1-unwelcoming-hall}
 
-The room is filled with iron gibbets hanging on chains from a high ceiling, each with a body inside, long-decayed. **Tintardinal** likely put them here to frighten off visitors.
+房间里挂满铁囚笼，用锁链从高高的天花板垂下，每个笼子里都有一具早已腐朽的尸体。**Tintardinal** 很可能把它们放在这里以吓退访客。
 
-As you walk through the room, you see a tile on the floor ahead of you begin to glow. It’s slightly depressed, like a shallow bowl, with a bit of water in it and a large number “one” etched into the bottom. A moment later, a spark of light emerges from the glowing tile, and floats over to you, slowly orbiting your head – one for each of you in the room.
+当你穿过房间时，会看见前方地板上的一块砖开始发光。它略微凹陷，像一只浅碗，里面有一点水，底部蚀刻着一个大大的数字“一”。片刻之后，一点光之火花从发光的地砖中浮出，漂向你，缓缓绕着你的头旋转——房间里的每个人都会获得一枚。
 
-- Relic or Spellbook on one body.
-- A door off its hinges leads into a hallway, straight ahead.
-- Another arched doorway leads to a hallway to the left.
-- Examination of the ceiling reveals it is higher than it should be, with a hole in the center, like the bottom of a refuse chute.
-- From here on out, narrate the bit about the spark if they go into the correct room.
-- If they go into the wrong room, note that the spark is abruptly snuffed out.
-- At the one hour mark, they are no longer able to see anything blue. That means the sky too.
-- Whenever they change rooms, waste time, or backtrack to regain a spark, roll a d6. On a 1, roll on the random encounter table.
+- 一具尸体上有遗物或法术书。
+- 一扇脱了铰链的门通向正前方的走廊。
+- 另一道拱门通向左侧的走廊。
+- 检查天花板会发现它比应有的高度更高，中央有一个洞，像垃圾滑槽的底部。
+- 从此处开始，若他们进入正确的房间，叙述火花相关内容。
+- 若进入错误的房间，注明火花骤然熄灭。
+- 满一小时后，他们再也看不见任何蓝色的东西。天空也是如此。
+- 每当他们更换房间、浪费时间，或折返以重新获得火花时，掷 d6。掷出 1 时，在随机遭遇表上掷骰。
 
-## 2. Antechamber, then hallway
-Through the door is an antechamber before another hall ahead. This one has a similar bowl-like tile in the middle, this time with a number “two” etched into it. It pulses with a soft glow when you enter, and another spark emerges, merging with the one above you into a slightly larger spark.
+## 2. 前厅，随后是走廊 {#2-antechamber-then-hallway}
+穿过门后是一间前厅，前方另有一条走廊。这里中央也有一块类似碗状的地砖，这次蚀刻着数字“二”。你进入时它发出柔和的光脉冲，另一枚火花浮出，与你头顶的那枚融合，变成稍大一些的火花。
 
-Outside the antechamber, you find yourself in a hall stretching to the left and right. Rooms line each side of the hallway, 3 on each side, and off to the right, the hallway continues into some larger room. Even from here, you can see more numbers on the floors of the smaller rooms, but it’s unclear what’s in the larger room down the hall. You can see daylight streaming in from there, and it looks like something might be moving. You hear echoes of birdlike squawking coming from that direction.
+走出前厅，你发现自己身处一条向左右延伸的走廊。走廊两侧各有 3 个房间，右侧走廊继续通向某个更大的房间。即便从这里，你也能看见那些较小房间地板上还有更多数字，但走廊尽头那个较大房间里有什么并不清楚。你能看见日光从那边涌入，而且似乎有什么东西在移动。你听见从那个方向传来鸟类般的鸣叫回声。
 
-## 3. Chamber
-A window on the left looks out from high above the ground. A chain bolted into the sill leads down along the outside of the spire. (**4W**)
+## 3. 房间 {#3-chamber}
+左侧有一扇窗户，从高处俯瞰地面。窗台上用螺栓固定的铁链沿尖塔外侧向下延伸。（**4W**）
 
-## 4. Chamber
-A window on the left looks out from high above the ground. A chain bolted into the sill leads down along the outside of the spire. (**3W**)
+## 4. 房间 {#4-chamber}
+左侧有一扇窗户，从高处俯瞰地面。窗台上用螺栓固定的铁链沿尖塔外侧向下延伸。（**3W**）
 
-## 5. Chamber
-There’s nothing in here but the number “five” on the floor.
+## 5. 房间 {#5-chamber}
+这里除了地板上的数字“五”之外什么都没有。
 
-## 6. Antechamber
-In addition to the number “six” on the floor, there’s a staircase leading up, bending to the right.
+## 6. 前厅 {#6-antechamber}
+除了地板上的数字“六”之外，还有一段向右弯曲的向上楼梯。
 
-## 7. The Fountain Room
-- A large fountain with a statue stands at the center of this room.
-- If they have any sparks, d6 Undines appear and attempt to reclaim them.
-- If they do not have sparks, the Undines may ask them to destroy the altar.
-- A Spellbook or Relic is found in the fountain, along with Plate Armor. Undines will protect them unless the group agrees to destroy the altar.
-- Blue tapestry on left covers a doorway, the hallway behind it receding into darkness,
-- Door on right leads to what seems like another room.
-- Window on far side of the fountain has a chain.
+## 7. 喷泉室 {#7-the-fountain-room}
+- 房间中央立着一座带雕像的大型喷泉。
+- 若他们持有任何火花，d6 个温蒂妮出现并试图收回火花。
+- 若他们没有火花，温蒂妮可能会要求他们摧毁祭坛。
+- 喷泉中有一本法术书或一件遗物，以及板甲。除非队伍同意摧毁祭坛，否则温蒂妮会保护这些物品。
+- 左侧的蓝色挂毯遮住一道门，其后的走廊没入黑暗，
+- 右侧的门通向看似另一间房间的地方。
+- 喷泉远端的窗户上有一条铁链。
 
-### Undines
-13hp 13 STR, 18 DEX, 15 WIL, pressure jet (d8)
-- _Critical damage_: overwhelmed by the wave and pushed far away.
-- Impair any damage against them unless it would freeze/boil water.
+### 温蒂妮 {#undines}
+13 HP, 13 STR, 18 DEX, 15 WIL, 高压水柱（d8）
+- _重伤_：被浪涛淹没并推到远处。
+- 对它们造成的任何伤害均处于_削弱_，除非该伤害能使水冻结或沸腾。
 
-## 8. Room
-- Doorway leads straight out into room with staircase.
-- Doorway leads right down stairway, into room with daylight and sounds of bird squawking.
-- Hallway leads left, ending in a closed door.
+## 8. 房间 {#8-room}
+- 门口径直通向有楼梯的房间。
+- 门口向右沿楼梯向下，进入有日光和鸟类鸣叫声的房间。
+- 走廊向左延伸，尽头是一扇关闭的门。
 
-## 9. Dire Pelicans’ Roost
-This room stinks like a wharf and the floor is covered in mud, sticks, and bird shit. Giant dire pelicans fly in and out through the four windows lining the wall. The lighting through the windows seems odd.
-- The number in the floor (**9**) is hidden beneath refuse.
-- The windows are all on the 2nd floor, facing different directions.
-- Exits lead to the hallway of small chambers, up a flight of stairs to Room 8, and out to another room with a door visible.
+## 9. 恐鹈鹕栖巢 {#9-dire-pelicans-roost}
+这间房散发着码头般的恶臭，地板上覆盖着泥、树枝和鸟粪。巨型恐鹈鹕从沿墙排列的四扇窗户飞进飞出。窗外的光线看起来很古怪。
+- 地板上的数字（**9**）被垃圾遮住。
+- 这些窗户都在二层，朝向不同方向。
+- 出口通往小房间走廊、向上一段楼梯到 8 号房间，以及通往另一间可见门的房间。
 
-### Dire Pelican
-15 HP, 1 Armor, 15 STR, 15 DEX, 3 WIL, beak (d10)
-- Swallow Whole on _critical damage_ to be kept alive in stomach for later feeding to young.
-- Stomach has d4-1 live people inside already.
+### 恐鹈鹕 {#dire-pelican}
+15 HP, 1 Armor, 15 STR, 15 DEX, 3 WIL, 喙（d10）
+- 造成_重伤_时整吞，将目标活着留在胃中，稍后喂给幼鸟。
+- 胃中已有 d4-1 名活人。
 
-## 10. Room
-- Door in doorway leads back to (**8**).
-- Doorway leads down a long hall.
-- Pit trap in the hall will be obvious unless they've been in here for at least an hour, in which case it will be invisible due to blue rug, dropping down through the chute in the ceiling of (**1**).
+## 10. 房间 {#10-room}
+- 门口的门通向返回（**8**）。
+- 门口通向一条长廊。
+- 走廊里的陷坑显而易见，除非他们已经在此处待了至少一个小时——届时蓝色地毯会使其隐形。掉落者会穿过（**1**）天花板上的滑槽落下。
 
-## 11. Room
-- Short hallway leads to (**12**)
+## 11. 房间 {#11-room}
+- 短走廊通向（**12**）
 
-## 12. Room
-- Window with chain in sill looks down from high (**4S**)
+## 12. 房间 {#12-room}
+- 窗台上有铁链的窗户从高处向下望（**4S**）
 
-## 13. Bleak Hall
-This hall has two stairways with a landing in between. Four large statues are arrayed at the corners of the staircase, with offerings at their feet, as if used as idols for prayer. And a person in rusty armor appears to be standing at the top of the staircase, staring blankly off away from you, swaying uneasily.
-- Dead bodies reanimate here. Save STR vs. possession if sleeping here or suffering _critical damage_.
-- **Tintardinal's** spectral mentor will come if they pray. He will urge them to complete **Tintardinal**’s work, to complete the path in order and leave the altar intact.
-- Exits in all directions.
+## 13. 荒凉大厅 {#13-bleak-hall}
+这座大厅有两段楼梯，中间有一处平台。四尊大型雕像排列在楼梯的四角，脚边放着供品，仿佛被当作祈祷的偶像。楼梯顶端似乎有一个身穿锈甲的人，茫然地望向背离你的方向，不安地摇晃着。
+- 死体会在此处复生。若在此睡觉或遭受_重伤_，进行 STR 豁免以对抗附身。
+- 若他们祈祷，**Tintardinal** 的灵体导师就会到来。他会敦促他们完成 **Tintardinal** 的事业，按顺序走完道路，并让祭坛保持完好。
+- 出口通向各个方向。
 
-### Skeleton
-6 HP, 2 Armor, 10 STR, 13 DEX, 12 WIL, sword (d6).
-- Shatters at 0 STR, but reforms next turn unless pieces are kept apart.
-- Falls into a pile of bones if idols are destroyed, but this will summon an angry spectral mentor.
+### 骷髅 {#skeleton}
+6 HP, 2 Armor, 10 STR, 13 DEX, 12 WIL, 剑（d6）。
+- STR 降至 0 时碎裂，但除非将碎块分开保管，否则会在下一轮次重组。
+- 若偶像被摧毁，则会垮成一堆骨头，但这会召唤出愤怒的灵体导师。
 
-### Hungry Spirits (room 13)
+### 饥魂（13 号房间） {#hungry-spirits-room-13}
 6 HP, 5 STR, 12 DEX, 15 WIL
-- Invisible. Save WIL vs. possession when asleep here or suffer _critical damage_.
+- 隐形。在此睡着时进行 WIL 豁免以对抗附身，失败则遭受_重伤_。
 
-### Mentor
-15 HP, 18 WIL, Lightning blast (d6, ignores armor)
-- Immune to physical attacks.
+### 导师 {#mentor}
+15 HP, 18 WIL, 闪电轰击（d6，忽略护甲）
+- 免疫物理攻击。
 
-## 14. Room
-- Stairs leading down to a place with a bad smell wafting up.
-- Stairs leading up to a room with daylight.
+## 14. 房间 {#14-room}
+- 向下的楼梯通向一处有恶臭上涌的地方。
+- 向上的楼梯通向一间有日光的房间。
 
-## 15. Garbage Heap
-- A heap of garbage swarming with muck flies lies at the bottom of a high wall.
-- It looks like the wall leads up a conical shaft, smaller at the top. There are handholds on the wall.
-- There may be giant muck flies here.
-- Climbing up will shrink you. Going down will make you grow.
-- Exit back up the stairs to (**14**).
+## 15. 垃圾堆 {#15-garbage-heap}
+- 高墙底部有一堆垃圾，污秽蝇成群飞舞。
+- 这面墙看上去通向一条锥形竖井，顶部较窄。墙上有抓手。
+- 这里可能有巨型污秽蝇。
+- 向上攀爬会使你缩小。向下则会让你变大。
+- 出口沿楼梯返回（**14**）。
 
-### Muck Flies
-6 HP, 6 STR, 12 DEX, 3 WIL, bite (d6), groups of d6 (_detachment_)
-- Enzymes do d6 DEX damage when pinned until STR save.
+### 污秽蝇 {#muck-flies}
+6 HP, 6 STR, 12 DEX, 3 WIL, 撕咬（d6），d6 只一组（_分队_）
+- 被按住期间，酶液造成 d6 DEX 伤害，直至成功通过 STR 豁免。
 
-## 16-17. Hall of the Giants
-A messy hall with  bones littered about, a large cooking pot over a fire pit in the floor, rough sleeping mats made from hay, and also multiple giants.
--  Exits leading to (**20**), hallway to (**18**), window high above ground (**5W**),blue tapestry covering doorway
--  Giants are hungry and desperate, unable to leave the tower and distressed that their silver horde has shrunk. Still, they may be calmed with a WIL save by the group.
--  6 sacks of silver treasure, including a _Circlet of True-seeing_ (allows the wearer to see through the sky-blindness and spot invisible hungry spirits).
+## 16-17. 巨人厅 {#16-17-hall-of-the-giants}
+一座凌乱的大厅，四处散落着骨头，地面火坑上架着一口大锅，还有用干草铺成的简陋睡垫，以及多名巨人。
+- 出口通向（**20**）、通往（**18**）的走廊、高处俯瞰地面的窗户（**5W**）、遮住门口的蓝色挂毯
+- 巨人们饥饿而绝望，无法离开塔楼，并为自己的银宝藏缩而苦恼。尽管如此，队伍仍可通过一次 WIL 豁免使其平静下来。
+- 6 袋白银财宝，包括一枚_真视头环_（使佩戴者能够看穿盲天，并发现隐形的饥魂）。
 
-## Giants
+## 巨人 {#giants}
 10 HP, 1 Armor, 17 STR, 6 DEX, 12 WIL
-- Faroch is the armored leader. 2 Armor, club (d10).
-- Sossa drinks molten lead. Molten lead spit (d10, ignores armor)
-- Affa & Isso feud with each other. Club (d10).
+- Faroch 是身披盔甲的首领。2 Armor，棍棒（d10）。
+- Sossa 饮用熔铅。喷吐熔铅（d10，忽略护甲）
+- Affa 与 Isso 互相争斗。棍棒（d10）。
 
-## 18. Room
-- Exits on either side to (**17**) and hallway above (**13**)
-- Blue tapestry covering way back to (**1**)
+## 18. 房间 {#18-room}
+- 两侧出口分别通向（**17**）和（**13**）上方的走廊
+- 蓝色挂毯遮住返回（**1**）的路
 
-## 19. Windowed Chamber
-- Windows (**3S**)
-- Exit back to hallway
+## 19. 有窗房间 {#19-windowed-chamber}
+- 窗户（**3S**）
+- 出口返回走廊
 
-## 20. Windowed Chamber
-- Windows (**4N**) with chains bolted to sills
-- Exits to (**16**) and (**18**)
+## 20. 有窗房间 {#20-windowed-chamber}
+- 窗户（**4N**），窗台上用螺栓固定着铁链
+- 出口通向（**16**）和（**18**）
 
-## 21. Windowed Chamber
-- Window with a chain bolted to the sill (**5E**)
-- Must climb out window and down to **4E** to proceed to (**22**)
+## 21. 有窗房间 {#21-windowed-chamber}
+- 窗台上用螺栓固定着铁链的窗户（**5E**）
+- 必须爬出窗户并向下到 **4E**，才能继续前往（**22**）
 
-## 22. Study
-A table covered in scrolls and blueprints, and bookshelves with dozens of tomes in weird languages, notes scribbled in the same handwriting over everything.
-- Window with chain in sill (**4E**).
-- Stairs back down to (**14**).
-- Studying papers reveals many different layouts for a complicated tower design. Notes indicate there is a 24th “altar room” somewhere. It’s not clear how the rooms should be numbered, but you notice at at least one layout seems more consistently repeated across multiple maps, even circled a couple times in places. You could probably take a page with this layout and label it as you go, if you wanted.
+## 22. 书房 {#22-study}
+一张桌子上堆满卷轴和蓝图，书架上有几十本用怪异语言写成的典籍，所有东西上都用同一笔迹潦草写着笔记。
+- 窗台上有铁链的窗户（**4E**）。
+- 楼梯向下返回（**14**）。
+- 研究这些文件会发现一座复杂塔楼的许多种不同布局。笔记表明某处有第 24 间“祭坛室”。房间应如何编号并不清楚，但你会注意到至少有一种布局在多张地图上更为反复出现，甚至有几处被圈了出来。若你愿意，大概可以取下一张带有这种布局的纸，边走边标注。
 
-## 23. Two-window Chamber
-This chamber has two windows in the walls, each with a chain bolted onto its sill. Through the window straight ahead, you can see your rowboat tethered a few floors below. Through the one on the left, you see the lake a good five floors below, and something seems weird about the shadows on the ground compared to the other window.
+## 23. 双窗房间 {#23-two-window-chamber}
+这个房间的墙上有两扇窗户，每扇窗台上都用螺栓固定着一条铁链。透过正前方的窗户，你能看见自己的划艇系在下方几层处。透过左侧那扇，你看见大约五层之下的湖面，而地面上的阴影与另一扇窗户相比似乎有些古怪。
 
-## 24. Rooftop Altar
-Bearing a full-sized spark to the altar completes **Tintardinal's** master spell. Lightning arcs from the lake and strikes the spark-bearer for d10 damage, ignoring armor. If they survive, they are granted a wish. After d3 wishes, the lake spirit and the Undines die, and the lake becomes gray and barren.
+## 24. 屋顶祭坛 {#24-rooftop-altar}
+将一枚完整大小的火花带到祭坛，即可完成 **Tintardinal** 的大师法术。闪电从湖面跃出，击中持火花者，造成 d10 伤害，忽略护甲。若其幸存，便被赐予一个愿望。在 d3 个愿望之后，湖之灵与温蒂妮死去，湖泊变得灰败荒芜。
 
-## Random Encounters
+## 随机遭遇 {#random-encounters}
 
-### Giant
-10 HP, 1 Armor, 17 STR, 6 DEX, 12 WIL, Club (d10)
+### 巨人 {#giant}
+10 HP, 1 Armor, 17 STR, 6 DEX, 12 WIL, 棍棒（d10）
 
-### Skeletal Dire Pelican (possessed)
-15 HP, 2 Armor, 15 STR, 15 DEX, 3 WIL, Beak (d10)
-- Swallow Whole on _critical damage_ to end up in rotting entrails barely held in by ribs.
-- Stomach has d4-1 more skeletons inside already. Reforms if bones are not separated.
+### 骷髅恐鹈鹕（被附身） {#skeletal-dire-pelican-possessed}
+15 HP, 2 Armor, 15 STR, 15 DEX, 3 WIL, 喙（d10）
+- 造成_重伤_时整吞，落入仅靠肋骨勉强裹住的腐烂内脏中。
+- 胃中已另有 d4-1 具骷髅。若骨骸未被分开，则会重组。
 
-### Ricalu Thieves
-12 HP, 8 STR, 12 DEX, 8 WIL, knife or sling (d6)
-- Blue cloaks (1 on thief, 2 at camp) mundane, but invisible.
-- Shaman at camp can also force group to save DEX vs. annoyance or impairment (bug swarm, dust gust, flash-boom).
+### Ricalu 盗贼 {#ricalu-thieves}
+12 HP, 8 STR, 12 DEX, 8 WIL, 小刀或投石索（d6）
+- 蓝色斗篷（盗贼身上 1 件，营地 2 件）为凡物，但隐形。
+- 营地里的萨满还可以迫使队伍进行 DEX 豁免，否则遭受烦扰或_削弱_（虫群、尘暴、闪光爆响）。
