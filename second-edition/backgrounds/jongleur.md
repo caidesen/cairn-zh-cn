@@ -11,7 +11,7 @@ grand_parent: 第二版
 
 ## 姓名
 
-Jax, Selene, Baladria, Ada, Mort, Saylor, Tripp, Lantos, Echo, Jubilo
+贾克斯、塞琳、巴拉德里娅、艾达、莫特、赛勒、特里普、兰托斯、回声、朱比洛
 
 ## 初始装备
 

@@ -11,7 +11,7 @@ grand_parent: 第二版
 
 ## 姓名
 
-Flint, Feather, Crier, Thunder, Falcon, Pluck, Needle, Warsong, Hawk, Cai
+弗林特、费瑟、克莱尔、桑德、法尔肯、普拉克、尼德尔、战争歌、霍克、凯
 
 ## 初始装备
 

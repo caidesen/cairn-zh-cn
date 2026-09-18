@@ -11,7 +11,7 @@ grand_parent: 第二版
 
 ## 姓名
 
-Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye
+希德、特雷什、迪布尔、索、斯托克、哈罗、科布、弗拉克斯、布莱尔、莱伊
 
 ## 初始装备
 

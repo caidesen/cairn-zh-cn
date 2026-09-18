@@ -11,7 +11,7 @@ grand_parent: 第二版
 
 ## 姓名
 
-Gale, Piper, Brook, Adair, Stone, Dale, Wren, Cliff, Rain, Robin
+盖尔、派珀、布鲁克、阿代尔、斯通、戴尔、伦、克利夫、雷恩、罗宾
 
 ## 初始装备
 

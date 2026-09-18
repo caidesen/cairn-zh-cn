@@ -11,7 +11,7 @@ grand_parent: 第二版
 
 ## 姓名
 
-Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Jazia
+赫斯提娅、巴兹尔、鲁恩、普里斯姆、恩伯、昆特丝、阿卢德尔、莫丹特、萨拉曼、贾齐娅
 
 ## 初始装备
 

@@ -11,7 +11,7 @@ grand_parent: 第二版
 
 ## 姓名
 
-Amara, Wulf, Mireille, Soren, Freki, Aster, Gerrik, Boreas, Veda, Matheus
+阿玛拉、伍尔夫、米蕾耶、索伦、弗雷基、阿斯特、格里克、博里阿斯、维达、马修斯
 
 ## 初始装备
 

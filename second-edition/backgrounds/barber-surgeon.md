@@ -11,7 +11,7 @@ grand_parent: 第二版
 
 ## 姓名
 
-Wilmot, Patch, Lancet, Sawbones, Theo, Cutwell, Humor, Landsford, Goodeye, Johanna
+威尔莫特、帕奇、兰瑟特、索恩斯、提奥、卡特威尔、休默、兰兹福德、古德艾、乔安娜
 
 ## 初始装备
 

@@ -11,7 +11,7 @@ grand_parent: 第二版
 
 ## 姓名
 
-Arlo, Lyra, Eamon, Salina, Elara, Freya, Bull, Sparrow, Ivy, Silas
+阿洛、莱拉、伊蒙、萨莉娜、埃拉拉、芙蕾雅、公牛、麻雀、艾薇、西拉斯
 
 ## 初始装备
 

@@ -11,7 +11,7 @@ grand_parent: 第二版
 
 ## 姓名
 
-Drake, Cyra, Keir, Darius, Valen, Rorik, Yara, Rui, Talon, Jory
+德雷克、赛拉、凯尔、达里厄斯、瓦伦、罗里克、雅拉、芮、塔隆、乔里
 
 ## 初始装备
 

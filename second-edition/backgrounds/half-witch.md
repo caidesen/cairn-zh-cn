@@ -11,7 +11,7 @@ grand_parent: 第二版
 
 ## 姓名
 
-Solena, Veles, Bryn, Sabine, Razvan, Rowena, Galen, Nyx, Vex, Iwan
+索莱娜、维勒斯、布林、萨宾、拉兹万、罗威娜、盖伦、尼克斯、维克斯、伊万
 
 ## 初始装备
  

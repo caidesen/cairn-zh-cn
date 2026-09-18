@@ -11,7 +11,7 @@ grand_parent: 第二版
 
 ## 姓名
 
-Lazlo, Stilo, Akshara, Pisa, Ji-Yun, Kalamos, Hugo, Shui, Kalam, Julius
+拉兹洛、斯蒂洛、阿克沙拉、比萨、智允、卡拉莫斯、雨果、舒伊、卡拉姆、尤利乌斯
 
 ## 初始装备
 

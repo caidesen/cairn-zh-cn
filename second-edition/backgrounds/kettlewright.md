@@ -11,7 +11,7 @@ grand_parent: 第二版
 
 ## 姓名
 
-Fergus, Eon, Bram, Idris, Hester, Darragh, Seren, Rónán, Berek, Lorenz
+弗格斯、伊恩、布拉姆、伊德里斯、赫斯特、达拉、塞伦、罗南、贝雷克、洛伦兹
 
 ## 初始装备
 

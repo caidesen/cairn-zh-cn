@@ -11,7 +11,7 @@ grand_parent: 第二版
 
 ## 姓名
 
-Gann, Light, Saoirse, Frost, Thorn, Reed, Dirk, Ragnar, Brie, Aasim
+甘恩、莱特、塞尔莎、弗罗斯特、索恩、里德、德克、拉格纳、布丽、阿西姆
 
 ## 初始装备
 

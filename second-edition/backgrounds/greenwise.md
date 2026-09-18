@@ -11,7 +11,7 @@ grand_parent: 第二版
 
 ## 姓名
 
-Gunther, Moss, Fern, Lichen, Root, Willow, Sage, Yarrow, Rowan, Ash
+冈瑟、莫斯、芬恩、莱肯、鲁特、威洛、塞奇、亚罗、罗文、阿什
 
 ## 初始装备
 

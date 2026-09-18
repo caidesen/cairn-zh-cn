@@ -11,7 +11,7 @@ grand_parent: 第二版
 
 ## 姓名
 
-Rook, Ebon, Moro, Yew, Pall, Leth, Bea, Barnaby, Vesper, Leder
+鲁克、伊本、莫罗、尤、帕尔、莱思、碧娅、巴纳比、维斯珀、莱德
 
 ## 初始装备
 

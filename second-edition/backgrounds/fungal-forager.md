@@ -11,7 +11,7 @@ grand_parent: 第二版
 
 ## 姓名
 
-Unther, Woozy, Hilda, Current, Leif, Ratan, Mourella, Lal, Per, Madrigal
+温瑟、伍齐、希尔达、柯伦特、莱夫、拉坦、穆雷拉、拉尔、佩尔、马德里加尔
 
 ## 初始装备
 

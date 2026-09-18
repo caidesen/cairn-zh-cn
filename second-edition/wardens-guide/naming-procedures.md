@@ -147,7 +147,6 @@ grand_parent: 第二版
 | **50**   | 鬼魅       | **100**  | 和风      |
 
 <a id="terrain"></a>
-<a id="terrain"></a>
 ## 地形同义词 {#terrain-synonyms}
 
 |                |                                                         |
@@ -226,7 +225,7 @@ grand_parent: 第二版
 1. 在下方的[统治者名称公式](#ruler-names-formula)表上掷骰。
 2. 在[形容词](#adjectives)、[名词](#nouns)、[地形](#terrain)和[统治者类型](#ruler-types)表上掷骰，并在适当位置加入“的”或“该”。
 
-| 也可以将任意结果替换为主要地形的同义词，例如：_雾蒙蒙的峭壁_。
+> 也可以将任意结果替换为主要地形的同义词，例如：_雾蒙蒙的峭壁_。
 
 ### 统治者名称公式 {#ruler-names-formula}
 

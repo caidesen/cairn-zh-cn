@@ -11,7 +11,7 @@ grand_parent: 第二版
 
 ## 姓名
 
-Percival, Felix, Isolde, Wolfram, Aldric, Eira, Oswin, Ivor, Brunhilda, Beatrix
+珀西瓦尔、费利克斯、伊索尔德、沃尔弗拉姆、奥尔德里克、艾拉、奥斯温、艾沃、布伦希尔德、碧翠丝
 
 ## 初始装备
 

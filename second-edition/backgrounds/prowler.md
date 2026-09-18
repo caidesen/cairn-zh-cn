@@ -11,7 +11,7 @@ grand_parent: 第二版
 
 ## 姓名
 
-Winda, Brielle, Theron, Chayse, Nuja, Dev, Raven, Arawan, Sable, Baruani
+温达、布里耶尔、瑟伦、蔡斯、努娅、德夫、雷文、阿拉万、塞布尔、巴鲁阿尼
 
 ## 初始装备
 

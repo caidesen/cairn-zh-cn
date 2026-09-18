@@ -11,7 +11,7 @@ grand_parent: 第二版
 
 ## 姓名
 
-Ambrose, Lucius, Beauregard, Cornelius, Aria, Toph, Indigo, Delphine, Solene, Noa
+安布罗斯、卢修斯、博勒加德、科尼利厄斯、阿丽娅、托普、靛蓝、德尔菲娜、索伦、诺娅
 
 ## 初始装备
 

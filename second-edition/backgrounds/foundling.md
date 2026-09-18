@@ -11,7 +11,7 @@ grand_parent: 第二版
 
 ## 姓名
 
-Faunus, Snowdrop, Wisp, Silverdew, Brim, Solstice, Steeleye, Artea, Gossamer, Hazel
+福努斯、斯诺德罗普、威斯普、希尔弗杜、布里姆、索尔斯蒂斯、钢眼、阿尔蒂娅、戈萨默、海泽尔
 
 ## 初始装备
 
