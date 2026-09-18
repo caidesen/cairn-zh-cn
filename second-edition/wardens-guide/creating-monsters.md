@@ -1,295 +1,295 @@
 ---
-title: Creating Monsters
+title: 创建怪物
 layout: default
-parent: Warden's Guide 
-grand_parent: Second Edition
+parent: 守望者指南
+grand_parent: 第二版
 ---
 
-# Creating Monsters
+# 创建怪物
 
-## Overview
+## 概览
 
-To create a unique monster, follow these steps:
-- Roll on the [Monster Appearance](#monster-appearance) table.
-- Roll on the [Monster Traits](#monster-traits) table.
-- Roll on the [Monster Attacks](#monster-attacks) table.
-- Roll on the [Monster Abilities](#monster-abilities) table.
-- Describe the creature's appearance, abilities, and attacks in plain English.
-- Create the creature's stats according to the principles, definitions, and stat block format below.
+要创建独特的怪物，请遵循以下步骤：
+- 在[怪物外观](#monster-appearance)表上掷骰。
+- 在[怪物特征](#monster-traits)表上掷骰。
+- 在[怪物攻击](#monster-attacks)表上掷骰。
+- 在[怪物能力](#monster-abilities)表上掷骰。
+- 用直白的语言描述生物的外观、能力和攻击。
+- 根据下述原则、定义和属性数据块格式创建生物的属性。
 
-## Principles
+## 原则
 
-- Use **Critical Damage** to lean into the threat or strangeness of any aggressive NPC.
-- Use flavor and style to help creatures stand out. Players will remember a pig-faced humanoid looking for his missing sheep more easily than a generic goblin archer.
-- Always adjust creature stats based on what is fun and interesting.
+- 使用**重伤**来突出任何好斗 NPC 的威胁或怪异之处。
+- 用风味和风格让生物脱颖而出。相比一个普通的哥布林弓箭手，玩家更容易记住一个正在寻找失踪绵羊的猪脸类人生物。
+- 始终根据什么最有趣、最有意思来调整生物的属性。
 
-## **Hit Protection**
+## **命中防护**
 
-A creature's ability to avoid danger, whether through toughness, speed, or skill. Give average creatures 3 HP, give hardier ones 6 HP, and and give serious threats 10 or higher.
+生物通过坚韧、速度或技巧躲避危险的能力。普通生物拥有 3 HP，更强韧的生物拥有 6 HP，真正严重的威胁则拥有 10 或更高的 HP。
 
-## Armor
+## 护甲
 
-For some creatures, this represents their natural toughness; for others, it may be from something that is worn or carried. If a creature is able to withstand an attack without moving, raise this number. 
+对某些生物而言，这代表它们天生的坚韧；对另一些生物而言，则可能来自穿戴或携带的物品。如果生物能够站在原地承受攻击而不动，就提高这个数值。
 
-## Ability Score
+## 属性
 
-3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary. 
+3 代表缺陷，6 代表弱小，10 代表平均，14 值得注意，18 则是传奇水平。
 
-## Strength
+## 力量
 
-Tracks overall health, physical power, and resistance to poisons. It is the ability of a creature to survive a direct hit, not its ability to avoid danger! 
+衡量总体健康状况、身体力量和抗毒能力。它代表生物承受直接命中的能力，而不是躲避危险的能力！
 
-## Dexterity
+## 敏捷
 
-Start with **10** as a base, and if the creature is particularly quick, agile, or nimble, increase the number as necessary. If it is slow to respond, bulky, or clumsy, lower the number.
+以 **10** 为基础，如果生物特别迅速、敏捷或灵活，就根据需要提高这个数值。如果它反应迟缓、身形笨重或动作笨拙，就降低这个数值。
 
-## Willpower
+## 意志
 
-Determines a creature's ability to withstand the influence of another, as well as their power over others. It also acts as a measurement of their defense in magical or spiritual matters.
+决定生物抵抗他人影响的能力，以及它对他人的支配力。它也衡量生物在魔法或精神事务上的防御能力。
 
-## Attacks
+## 攻击
 
-Typically an object (e.g. sword or bow) or a natural weapon (e.g. claws or teeth).
+通常是某件物品（例如剑或弓），或某种天然武器（例如爪或牙齿）。
 
-## Abilities
+## 能力
 
-A unique action or power the creature can utilize both in and out of combat.
+生物在战斗内外都能使用的独特行动或力量。
 
-- If an ability can be meaningfully avoided or defended against through traditional means, it is an Attack and interacts with HP.
-- If an ability cannot be meaningfully avoided or defended against through traditional means, it is an Ability.
-- If an ability only affects a single PC, it should generally have an immediate effect with no chance to Save in that round (possibly not at all).
-- If an ability is capable of affecting a group of PCs, it should generally call for an immediate Save.
+- 如果一项能力可以通过传统手段有效地躲避或防御，那么它就是一次攻击，并与 HP 发生互动。
+- 如果一项能力无法通过传统手段有效地躲避或防御，那么它就是一项能力。
+- 如果一项能力只影响单个 PC，那么它通常应该立即生效，并且该回合没有进行豁免的机会（甚至可能完全没有机会）。
+- 如果一项能力能够影响一群 PC，那么它通常应该要求立即进行一次豁免。
 
-## Monster Stat Block Format
+## 怪物属性数据块格式
 
-X HP, X Armor, X STR, X DEX, X WIL, Attack (dX, special items, _qualities_)
-- An engaging descriptor of appearance, demeanor, or living habits.
-- A quirk, tactic, or peculiarity that distinguish this creature.
-- Special effect or consequence of critical damage.
+X HP、X 护甲、X STR、X DEX、X WIL、攻击（dX、特殊物品、_特性_）
+- 一段能够吸引人的外观、举止或生活习性描述。
+- 一项能够区别这种生物的怪癖、战术或特异之处。
+- 重伤的特殊效果或后果。
 
-## Monster Appearance
+## 怪物外观 {#monster-appearance}
 
-Roll 1d20 for each column and combine the results.
+为每一列分别掷 1d20，并将结果组合起来。
 
 |         |              |             |
 | ------- | ------------ | ----------- |
-| **d20** | **Physique** | **Feature** |
-| **1**   | Albino       | Antennae    |
-| **2**   | Black        | Beak        |
-| **3**   | Crystalline  | Carapace    |
-| **4**   | Emaciated    | Claws       |
-| **5**   | Eyeless      | Fangs       |
-| **6**   | Feathered    | Feathers    |
-| **7**   | Gelatinous   | Fur         |
-| **8**   | Glowing      | Gilled      |
-| **9**   | Hardened     | Horns       |
-| **10**  | Headless     | Markings    |
-| **11**  | Horned       | Scales      |
-| **12**  | Hunched      | Shell       |
-| **13**  | Iridescent   | Snout       |
-| **14**  | Polyocular   | Tail        |
-| **15**  | Scaled       | Talons      |
-| **16**  | Segmented    | Tentacles   |
-| **17**  | Skeletal     | Trunk       |
-| **18**  | Slimy        | Tusks       |
-| **19**  | Translucent  | Voice       |
-| **20**  | Twisted      | Wings       |
+| **d20** | **体格** | **特征** |
+| **1**   | 白化         | 触角        |
+| **2**   | 黑色         | 喙          |
+| **3**   | 晶体         | 甲壳        |
+| **4**   | 消瘦         | 爪          |
+| **5**   | 无眼         | 獠牙        |
+| **6**   | 羽毛         | 羽毛        |
+| **7**   | 胶状         | 毛皮        |
+| **8**   | 发光         | 鳃          |
+| **9**   | 硬化         | 角          |
+| **10**  | 无头         | 标记        |
+| **11**  | 有角         | 鳞片        |
+| **12**  | 驼背         | 外壳        |
+| **13**  | 彩虹色       | 口鼻        |
+| **14**  | 多眼         | 尾巴        |
+| **15**  | 有鳞         | 利爪        |
+| **16**  | 分节         | 触手        |
+| **17**  | 骨骼         | 长鼻        |
+| **18**  | 黏滑         | 獠牙        |
+| **19**  | 半透明       | 声音        |
+| **20**  | 扭曲         | 翅膀        |
 
-## Monster Traits
+## 怪物特征 {#monster-traits}
 
-Roll 1d20 for each column and combine the results.
+为每一列分别掷 1d20，并将结果组合起来。
 
 |         |                          |                 |
 | ------- | ------------------------ | --------------- |
-| **d20** | **Quirks**               | **Weakness**    |
-| **1**   | Alters Its Size at Will  | Alcohol         |
-| **2**   | Changes Color at Will    | Cold            |
-| **3**   | Collects Rare Flowers    | Conversation    |
-| **4**   | Collects Trophies        | Flattery        |
-| **5**   | Does Not Die of Old Age  | Games           |
-| **6**   | Draws Symbols            | Gifts           |
-| **7**   | Fascinated by Fire       | Iron            |
-| **8**   | Hoards Books             | Loud Noises     |
-| **9**   | Loves a Specific Color   | Mirrors         |
-| **10**  | Reborn Each Day          | Bright Colors   |
-| **11**  | Loves Shiny Objects      | Moonlight       |
-| **12**  | Mimics Voices            | Music           |
-| **13**  | Moves in a Straight Line | Prepared Meals  |
-| **14**  | Narrates Everything      | Puzzles         |
-| **15**  | Obsessively Cleans       | Religious Icons |
-| **16**  | Plants Grow in Its Wake  | Salt            |
-| **17**  | Sleeps Upside Down       | Silver          |
-| **18**  | Speaks in Rhymes         | Sunlight        |
-| **19**  | Sweats Rare Minerals     | True Name       |
-| **20**  | Reproduces Asexually     | Weak Spot       |
+| **d20** | **怪癖**                 | **弱点**        |
+| **1**   | 随意改变体型             | 酒精           |
+| **2**   | 随意改变颜色             | 寒冷           |
+| **3**   | 收集稀有花朵             | 交谈           |
+| **4**   | 收集战利品               | 奉承           |
+| **5**   | 不会因年老而死           | 游戏           |
+| **6**   | 绘制符号                 | 礼物           |
+| **7**   | 对火着迷                 | 铁             |
+| **8**   | 囤积书籍                 | 巨响           |
+| **9**   | 喜爱某种特定颜色         | 镜子           |
+| **10**  | 每天重生                 | 鲜艳色彩       |
+| **11**  | 喜爱闪亮物品             | 月光           |
+| **12**  | 模仿声音                 | 音乐           |
+| **13**  | 沿直线移动               | 烹制好的餐食   |
+| **14**  | 讲述一切                 | 谜题           |
+| **15**  | 痴迷于清洁               | 宗教圣像       |
+| **16**  | 身后会长出植物           | 盐             |
+| **17**  | 倒挂着睡觉               | 白银           |
+| **18**  | 说话押韵                 | 阳光           |
+| **19**  | 汗液中带有稀有矿物       | 真名           |
+| **20**  | 无性繁殖                 | 弱点           |
 
-## Monster Attacks
+## 怪物攻击 {#monster-attacks}
 
-Roll 1d20 for each column and combine the results.
+为每一列分别掷 1d20，并将结果组合起来。
 
 |         |          |                     |
 | ------- | -------- | ------------------- |
-| **d20** | **Type** | **Critical Damage** |
-| **1**   | Bites    | Asphyxiates         |
-| **2**   | Blunts   | Bleeds              |
-| **3**   | Burns    | Blinds              |
-| **4**   | Freezes  | Breaks              |
-| **5**   | Gases    | Crushes             |
-| **6**   | Kicks    | Decays              |
-| **7**   | Punches  | Dissolves           |
-| **8**   | Shoots   | Ensnares            |
-| **9**   | Slams    | Explodes            |
-| **10**  | Slashes  | Grapples            |
-| **11**  | Slices   | Incapacitates       |
-| **12**  | Smashes  | Lacerates           |
-| **13**  | Sprays   | Liquefies           |
-| **14**  | Squeezes | Paralyzes           |
-| **15**  | Stabs    | Petrifies           |
-| **16**  | Stings   | Poisons             |
-| **17**  | Throws   | Punctures           |
-| **18**  | Touches  | Severs              |
-| **19**  | Whips    | Tramples            |
-| **20**  | Zaps     | Weakens             |
+| **d20** | **类型** | **重伤**             |
+| **1**   | 撕咬     | 窒息                 |
+| **2**   | 钝击     | 流血                 |
+| **3**   | 灼烧     | 致盲                 |
+| **4**   | 冻结     | 折断                 |
+| **5**   | 放气     | 压碎                 |
+| **6**   | 踢击     | 腐烂                 |
+| **7**   | 拳击     | 溶解                 |
+| **8**   | 射击     | 缠住                 |
+| **9**   | 猛击     | 爆炸                 |
+| **10**  | 劈砍     | 擒抱                 |
+| **11**  | 切割     | 失能                 |
+| **12**  | 粉碎     | 撕裂                 |
+| **13**  | 喷射     | 液化                 |
+| **14**  | 挤压     | 麻痹                 |
+| **15**  | 刺击     | 石化                 |
+| **16**  | 螫刺     | 中毒                 |
+| **17**  | 投掷     | 刺穿                 |
+| **18**  | 触碰     | 切断                 |
+| **19**  | 鞭打     | 踩踏                 |
+| **20**  | 电击     | 削弱                 |
 
-## Monster Abilities
+## 怪物能力 {#monster-abilities}
 
-Roll 1d20 for each column and combine the results.
+为每一列分别掷 1d20，并将结果组合起来。
 
 |         |             |              |
 | ------- | ----------- | ------------ |
-| **d20** | **Ability** | **Target**   |
-| **1**   | Absorbs     | Body         |
-| **2**   | Amplifies   | Dreams       |
-| **3**   | Attracts    | Element      |
-| **4**   | Binds       | Emotions     |
-| **5**   | Camouflages | Energy       |
-| **6**   | Conjures    | Health       |
-| **7**   | Controls    | Hearing      |
-| **8**   | Disables    | Illusions    |
-| **9**   | Duplicates  | Light        |
-| **10**  | Grows       | Memory       |
-| **11**  | Manipulates | Metal        |
-| **12**  | Reflects    | Plants       |
-| **13**  | Regenerates | Spirit       |
-| **14**  | Resists     | Stone        |
-| **15**  | Reverses    | Surroundings |
-| **16**  | Shapes      | Time         |
-| **17**  | Shrinks     | Vision       |
-| **18**  | Transforms  | Water        |
-| **19**  | Traps       | Weather      |
-| **20**  | Zaps        | Weakens      |
+| **d20** | **能力**    | **目标**     |
+| **1**   | 吸收        | 身体         |
+| **2**   | 增幅        | 梦境         |
+| **3**   | 吸引        | 元素         |
+| **4**   | 束缚        | 情感         |
+| **5**   | 伪装        | 能量         |
+| **6**   | 召唤        | 健康         |
+| **7**   | 控制        | 听觉         |
+| **8**   | 禁用        | 幻象         |
+| **9**   | 复制        | 光           |
+| **10**  | 生长        | 记忆         |
+| **11**  | 操纵        | 金属         |
+| **12**  | 反射        | 植物         |
+| **13**  | 再生        | 精神         |
+| **14**  | 抵抗        | 石头         |
+| **15**  | 逆转        | 周围环境     |
+| **16**  | 塑形        | 时间         |
+| **17**  | 缩小        | 视觉         |
+| **18**  | 变形        | 水           |
+| **19**  | 设陷        | 天气         |
+| **20**  | 电击        | 削弱         |
 
-## Monster Example
+## 怪物示例
 
-- **Appearance**: _Hunched_ + _Carapace_.
-- **Traits**: _Moves in a straight line_ + _Weak Spot_
-- **Attack**: _Smashes_ + _Grapples_.
-- **Abilities**: _Disables_ + _Hearing_
+- **外观**：_驼背_ + _甲壳_。
+- **特征**：_沿直线移动_ + _弱点_
+- **攻击**：_粉碎_ + _擒抱_。
+- **能力**：_禁用_ + _听觉_
 
-_A snail-like creature with a hard shell. It moves only in straight lines, and has a soft underbelly. It rolls into opponents, pulling them into its wild orbit. The roar of its movement drowns out any other sounds._
+_一种拥有坚硬外壳、类似蜗牛的生物。它只能沿直线移动，腹部柔软。它滚向对手，将对手卷入自己狂野的轨道。移动时发出的轰鸣会淹没其他所有声音。_
 
-This creature is physically tough, with higher than average **STR** and strong armor. It is probably fast but not maneuverable, and likely doesn't rely on skill or dexterity to avoid danger. It is brutish, but it is still a wild beast and only as willful as any creature just looking for its next meal. It attacks by rolling in a straight line and should impact multiple targets.
+这种生物身体坚韧，拥有高于平均水平的 **STR** 和强力护甲。它可能速度很快，但不善于机动，也很可能不依靠技巧或敏捷来躲避危险。它粗野蛮横，但仍是一头野兽，意志力只够支撑它寻找下一顿食物。它通过沿直线滚动发起攻击，并且应该能够影响多个目标。
 
-### Thunder Snail
+### 雷鸣蜗牛
 
-6 HP, 2 Armor, 14 STR, 6 DEX, 4 WIL, smash & roll (d10, _blast_)
+6 HP、2 护甲、14 STR、6 DEX、4 WIL、粉碎与滚动（d10、_爆发_）
 
-- Thick-shelled beasts that attack by rolling over their opponents in a straight line. The noise of their tumbling shells is deafening.
-- **Critical Damage**: Target is pulled into its rolling momentum, losing an additional 1 STR per round until freed (STR save to escape).
+- 外壳厚重的野兽，通过沿直线滚过对手来发动攻击。它们翻滚外壳的声音震耳欲聋。
+- **重伤**：目标被卷入其滚动的势头中，在挣脱前每轮额外失去 1 STR（进行 STR 豁免以逃脱）。
 
-## Converting Monsters
+## 转换怪物
 
-There is no perfect system for converting from other systems. Here are some tips that might help with the process!
+不存在从其他系统转换的完美方法。下面是一些可能对这一过程有所帮助的建议！
 
-- **Hit Protection**: A good rule of thumb is to give the creature +1 HP for every **HD**, on top of a minimum **3 HP** (the average person). I usually think of **HD** as equivalent to a d6, which has a _mean_ of 3.5. Always start with a creature's **HP** _first_, _then_ do their **STR**.
-- **Armor**: Look for phrases like "as leather" and "as plate" in the original stat blocks. When converting from B/X style games like Old School Essentials, ignore THAC0 and use descending AC whenever possible (7 = Leather, 5 = Chainmail, 3 = Plate mail). If only ascending AC is given, you can use (12 = Leather, 14 = Chainmail, 16 = Plate mail). Whichever system you're converting from, the Armor values range from 1-3 only.
-- **Strength**: Look at the creature's **HD** and **HP**. If a creature is difficult to kill but _not_ because they are nimble or skilled, give them more **STR** (but _not_ more **HP**). Start with 10 **STR** (the average) and go up or down from there.
-- **Dexterity**: Start with **10** as a base, and if the creature is particularly quick (often referred to as "speed" or SP), agile, or nimble-fingered, raise the number. If it is slow to respond, bulky, or clumsy, lower the number. See [Saving Throws](#saving-throws) below for more!
-- **Willpower**: **Morale** (**ML**) can be a good guidepost, and it typically ranges between 2-12. The greater the creature's personality, spirit, or presence, the higher the WIL they should have. The following table offers a decent guide on converting **ML** to **WIL**.
+- **命中防护**：一个实用的经验法则是：生物的每个 **HD** 额外提供 +1 HP，最低为 **3 HP**（普通人的数值）。我通常把 **HD** 看作等同于 d6，而 d6 的_均值_是 3.5。始终先确定生物的 **HP**，_然后_再处理它的 **STR**。
+- **护甲**：在原始属性数据块中寻找“如皮甲”和“如板甲”之类的描述。从 Old School Essentials 这类 B/X 风格游戏转换时，忽略 THAC0，并尽可能使用递减式 AC（7 = 皮甲，5 = 链甲，3 = 板甲）。如果只给出了递增式 AC，可以使用（12 = 皮甲，14 = 链甲，16 = 板甲）。无论从哪个系统转换，护甲值都只在 1-3 之间。
+- **力量**：查看生物的 **HD** 和 **HP**。如果生物很难杀死，但_不是_因为它灵活或有技巧，就给它更高的 **STR**（但_不要_提高 **HP**）。从 10 **STR**（平均值）开始，再根据情况上下调整。
+- **敏捷**：以 **10** 为基础，如果生物特别迅速（通常被称为“速度”或 SP）、敏捷或手指灵活，就提高这个数值。如果它反应迟缓、身形笨重或动作笨拙，就降低这个数值。更多内容请见下方的[豁免](#saving-throws)！
+- **意志**：**士气**（**ML**）可以作为很好的参考，其通常介于 2-12 之间。生物的个性、精神或存在感越强，它应有的 WIL 就越高。下表提供了将 **ML** 转换为 **WIL** 的合理参考。
 
 |         |   |    |    |    |
 |---------|---|----|----|----|
 | **ML**  | 4 | 8  | 10 | 12 |
 | **WIL** | 6 | 12 | 15 | 18 |
 
-### Saving Throws
+### 豁免 {#saving-throws}
 
-- You can rely on _saving throws_ to glean more information about a creature's abilities, specifically their ability to avoid death by physical trauma, magic, or poison. 
-- Stat blocks will use a shorthand like (E1) or (F1) (Level 1 Elf or Fighter respectively). These are really helpful for quickly identifying the creature's abilities.
-- Consider adding descriptive tags such as "immune to toxic gas" or "good at dodging" based on the saving throws. The following table should help determine which saving throws should result in an increase in one of the relevant ability scores.
+- 你可以依靠_豁免_来了解更多关于生物能力的信息，特别是它们躲避因身体创伤、魔法或毒素而死亡的能力。
+- 属性数据块会使用类似（E1）或（F1）的简写（分别代表 1 级精灵或战士）。这些简写对于快速识别生物的能力很有帮助。
+- 可以根据豁免添加“免疫毒气”或“擅长闪避”之类的描述性标签。下表应该有助于判断哪些豁免应该提高相关属性值。
 
 |                                |                    |
 | ------------------------------ | ------------------ |
-| **Death or Poison**            | **STR**            |
-| **Wands**                      | **DEX**            |
-| **Paralysis or Petrification** | **WIL** or **STR** |
-| **Breath Attacks**             | **DEX** or **STR** |
-| **Spells, Rods or Staves**     | **WIL**            |
+| **死亡或毒素**                 | **STR**            |
+| **魔杖**                       | **DEX**            |
+| **麻痹或石化**                 | **WIL** 或 **STR** |
+| **吐息攻击**                   | **DEX** 或 **STR** |
+| **法术、权杖或法杖**           | **WIL**            |
 
-### Combat
+### 战斗
 
-- **Damage Die**: Can typically be copied "as is" from most OSR systems, but it's a good idea to check with the weapons listed in the Marketplace first.
-- **Multiple attacks**: Convert to _blast_ or to multiple dice (e.g. d6+d6).
-- **Devastating Attacks**: Consider making the damage _enhanced_, assign the _blast_ tag, or giving the attack multiple dice.
+- **伤害骰**：通常可以从大多数 OSR 系统中“原样”复制，但最好先与市场中列出的武器进行比较。
+- **多重攻击**：转换为_爆发_，或转换为多个骰子（例如 d6+d6）。
+- **毁灭性攻击**：可以考虑将伤害设为_强化_，赋予攻击_爆发_标签，或给攻击多个骰子。
 
-### Abilities
+### 能力
 
-- Sometimes the mechanics of the original system simply _do not translate_. That's OK! Try to focus on what's most interesting about the creature, and write a "version" of their ability more appropriate to Cairn.
-- Abilities can sometimes be made into attacks (with a damage die), leaving Critical Damage to reveal the real impact. 
-- If the monster has an attack that asks the PCs to attempt to dodge or save against some ability, consider making the ability an out-of-combat "trap" that the PCs can trigger. Otherwise, make it succeed automatically. Combat is dangerous, and it is up to the Warden to properly telegraph danger before the fighting begins.
+- 有时，原系统的机制就是_无法转换_。没关系！试着专注于生物最有趣的地方，并写出一个更适合 Cairn 的能力“版本”。
+- 有时可以把能力改成攻击（带有伤害骰），再通过重伤揭示其真正的影响。
+- 如果怪物拥有一项要求 PC 尝试闪避或进行豁免来抵抗某种能力的攻击，可以考虑把这项能力变成 PC 能够触发的战斗外“陷阱”。否则，就让它自动成功。战斗很危险，守望者有责任在战斗开始前恰当地传达危险。
 
-### Magic
+### 魔法
 
-- Magical creatures can "know" a bunch of spells without needing to carry Spellbooks. In this case, make their corpses magical (and dangerous)!
-- Spells are tricky; you can give magic-users Spellbooks, but remember, they might _drop_ them when defeated.
-- Consider making some of the dropped Spellbooks implode (use the Die of Fate to determine which).
+- 魔法生物可以“知道”一大堆法术，而不需要携带法术书。这种情况下，让它们的尸体具有魔法（并且危险）！
+- 法术比较棘手；你可以给施法者法术书，但要记住，他们被击败时可能会把法术书_掉落_。
+- 可以考虑让掉落的法术书中有一些发生内爆（使用命运骰决定哪些法术书会内爆）。
 
-### Use the Fiction
+### 利用虚构
 
-The easiest way to convert a monster from another system is to read the original stat block and any associated text, then write a few sentences about the creature in plain English. Finally, convert what you've written to the Cairn monster stat block.
+从其他系统转换怪物最简单的方法，是先阅读原始属性数据块及其相关文本，然后用直白的语言写几句关于该生物的描述。最后，将你写下的内容转换为 Cairn 怪物属性数据块。
 
-Take for example this creature:
+以这个生物为例：
 
-#### Foxwoman
+#### 狐女
 
-Can take the form of a fox or a 7' tall fox-headed woman. 
-_HD 5, Speed 120', Armor 14, Morale 11, Attack: +4 d8hp (claw, bite or choke)_
-- Defense: Cannot be harmed by metal
-- Special: Can transform into a fox or a maiden with one fox leg hidden (same stats) at will
+可以变成狐狸或 7' 高的狐头女人。
+_HD 5、速度 120'、护甲 14、士气 11、攻击：+4 d8hp（爪、撕咬或窒息）_
+- 防御：不会受到金属伤害
+- 特殊：可以随意变成狐狸，或变成隐藏着一条狐狸腿的少女（属性相同）
 
-_**Using the example above, I can see that she:**_  
-- She appears as a 7-foot tall human woman with the head of a fox.
-- She doesn't have super high HP, and she's quite fast.
-- Her **ML** is pretty high, and she's obviously quite willful.
-- She is agile and lithe.
-- She attacks with teeth and claws (choking her prey if possible).
-- She can transform into a fox at will.
-- She is immune to metal weapons.
+_**通过上面的例子，我可以看出她：**_
+- 她表现为一个 7 英尺高、长着狐狸头的人类女人。
+- 她的 **HP** 不算特别高，但速度很快。
+- 她的 **ML** 相当高，显然很有意志。
+- 她敏捷而苗条。
+- 她用牙齿和爪子攻击（如果可能，还会勒住猎物使其窒息）。
+- 她可以随意变成狐狸。
+- 她免疫金属武器。
 
-_**What can we learn from this?**_
-- She's fast, and probably savvy in a fight. If we start from **3 HP** and add 1 **HP** per **HD**, that means she has **8 HP**.
-- I don't think foxes have protective hides, and she's otherwise human beside her head. **No Armor**.
-- She is decently strong. A normal human has 10 **STR** and she's a little bigger. **12 STR**.
-- I can imagine her hunting prey over the snowy tundra. She's fast. **14 DEX**.
-- Her **ML** is high, and foxes are known for their cunning. **15 WIL**.
-- For her attacks, I'd go with claws (d6+d6) and bite (d8).
+_**我们能从中了解到什么？**_
+- 她速度很快，而且在战斗中可能很老练。如果从 **3 HP** 开始，每个 **HD** 增加 1 **HP**，这意味着她拥有 **8 HP**。
+- 我不认为狐狸有保护性的皮毛，而除了头部外她其他地方都像人类。**没有护甲**。
+- 她相当强壮。普通人有 10 **STR**，而她的体型稍大一些。**12 STR**。
+- 我可以想象她在白雪覆盖的苔原上猎杀猎物。她速度很快。**14 DEX**。
+- 她的 **ML** 很高，而狐狸以狡猾闻名。**15 WIL**。
+- 她的攻击，我会选择爪（d6+d6）和撕咬（d8）。
 
-_**This information leaves us with the following:**_
-8 HP, 12 STR, 14 DEX, 15 WIL, claws (d6+d6), bite (d8)
+_**这些信息最终得出以下结果：**_
+8 HP、12 STR、14 DEX、15 WIL、爪（d6+d6）、撕咬（d8）
 
-_**Now on to her abilities:**_
-This is pretty straightforward. We simply read the fictional stat block we created earlier!
-- She appears as a 7-foot tall human woman with the head of a fox.
-- She can transforms into a fox at will.
-- She is immune to attacks from metal weapons.
-- She chokes her victims into unconsciousness.
+_**接下来是她的能力：**_
+这很简单。我们只需阅读之前创建的虚构属性数据块！
+- 她表现为一个 7 英尺高、长着狐狸头的人类女人。
+- 她可以随意变成狐狸。
+- 她免疫金属武器的攻击。
+- 她会勒住受害者，使其失去意识。
 
-_**The final result**_:
+_**最终结果**_：
 
-#### Foxwoman
+#### 狐女
 
-8 HP, 12 STR, 14 DEX, 15 WIL, claws (d6+d6), bite (d8)
+8 HP、12 STR、14 DEX、15 WIL、爪（d6+d6）、撕咬（d8）
 
-- Can take the form of a fox or a woman with a hidden fox leg.
-- Immune to attacks from metal weapons.
-- **Critical damage**: Victim is choked unconscious.
+- 可以变成狐狸，或变成隐藏着一条狐狸腿的女人。
+- 免疫金属武器的攻击。
+- **重伤**：受害者被勒到失去意识。

@@ -1,36 +1,36 @@
 ---
 layout: default
-title: Creating Backgrounds
-parent: Warden's Guide
-grand_parent: Second Edition
+title: 创建背景
+parent: 守望者指南
+grand_parent: 第二版
 ---
 
-# Creating Backgrounds
+# 创建背景
 
-## Introduction
+## 简介
 
-In Cairn, a PC's Background is the most important element of their character, representing their past as well as their present. Backgrounds can influence a character's knowledge, expertise, their connection with the setting, and much more. Backgrounds are also a filter for interpreting the results of a dice roll, or a reason to not roll at all. A Greenwise doesn't need to save DEX when cutting leaves from a poisonous plant, just as a Scrivener knows how to read the older form of a local tongue. Most importantly, Backgrounds tell a story through the character's starting gear and unique history, connecting the PC to a setting and its themes.
+在 Cairn 中，PC 的背景是角色最重要的要素，既代表他们的过去，也代表他们的现在。背景可以影响角色的知识、专长、与设定的联系，以及更多内容。背景还是解读掷骰结果的一种滤镜，或者干脆不掷骰的理由。例如，绿知者从有毒植物上割取叶片时不需要进行 DEX 豁免，抄写员也知道如何阅读当地语言的古老形式。最重要的是，背景通过角色的初始装备和独特经历讲述一个故事，将 PC 与某个设定及其主题联系起来。
 
-## Principles
+## 原则
 
-- Players should be excited about rolling on the Background tables.
-- Backgrounds can be archetypal and familiar, but leave room for alternative interpretations!
-- Backgrounds should tell the player something about the implied setting.
-- Each table result should be unique, so that characters with the same Background are still distinct from one another.
+- 玩家应该期待在背景表上掷骰。
+- 背景可以是典型且熟悉的，但要为其他解读留下空间！
+- 背景应该向玩家传达一些关于隐含设定的信息。
+- 表格中的每个结果都应该独一无二，确保拥有相同背景的角色仍然彼此不同。
 
-## Anatomy of a Background
+## 背景的构成
 
-### Theme
+### 主题
 
-Prepare a list of common adjectives that describe your new Background. If designing a profession, ask yourself what would lead someone to take on such a career. If writing something more unique (such as the Half-Witch, for example), consider how such a person's strangeness would alienate them from others or bring them closer. And as you write the Background's starting gear and tables, keep in mind how the game world's implied setting, inspirational materials (books, film, etc.), and existing tropes might influence the results.
+准备一份常见形容词列表，用来描述你的新背景。如果你设计的是一种职业，问问自己：是什么促使某人选择这样的职业？如果你写的是更独特的东西（例如半女巫），想想这样一个人的异质感会如何使其疏远他人，或者让其与他人更加亲近。在编写背景的初始装备和表格时，也要记住游戏世界的隐含设定、灵感来源（书籍、电影等）和既有套路可能会如何影响结果。
 
-### Starting Gear
+### 初始装备
 
-Characters in Cairn are largely defined by their inventory, so starting gear should be the first place to start painting a Background's unique canvas. Each Background has:
-- Gold, food, and some kind of light source. These should still be unique; a Background might start with unusual Rations, a candle helmet, and so on.
-- Up to four _unique_ items that reinforce the overarching theme. At least one of these items should be a weapon of some kind.
-- Starting items should occupy no more than seven slots in total, so as to not overburden a character's inventory.
+Cairn 中的角色很大程度上由其物品栏定义，因此初始装备应该是描绘背景独特画布的起点。每个背景都有：
+- 金币、食物和某种光源。这些也应该保持独特；某个背景可能从不寻常的口粮、蜡烛头盔之类的物品开始。
+- 最多四件能够强化整体主题的_独特_物品。其中至少一件应该是某种武器。
+- 初始物品总共不应占用超过七格，以免给角色的物品栏造成过重负担。
 
-### Tables
+### 表格
 
-Tables are where a character's unique story really starts to come together. They also provide a level of diversity so that no two characters are alike. Each Background has a defining question, followed by six rows of answers. The first table question should be tailored around the character's distant or recent past and what experiences led to their present circumstances. The first table should offer the character a unique item, ability, or combination of the two. The second table question focuses on who the character is _today_, and the answers are typically related to a specific item or skill that broadly defines the character.
+表格是角色独特故事真正开始成形的地方。它们也提供了多样性，确保没有两个角色完全相同。每个背景都有一个核心问题，后面跟着六行答案。第一个表格问题应该围绕角色遥远或近期的过去，以及哪些经历导致他们陷入如今的处境来设计。第一个表格应该为角色提供一件独特物品、一项能力，或二者的组合。第二个表格问题聚焦于角色_今天_是什么样的人，答案通常与某件具体物品或某项广泛定义角色的技能有关。

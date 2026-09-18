@@ -1,209 +1,209 @@
 ---
 layout: default
-title: Reliquary
-parent: Warden's Guide 
-grand_parent: Second Edition
+title: 遗物
+parent: 守望者指南
+grand_parent: 第二版
 ---
 
-# Reliquary
+# 遗物
 
-## A Blade Called Hope (d6)
+## 名为希望的刀刃（d6）
 
-  - A thin, curved sword that glows with faint light, visible only in total darkness. When bathed in heavy sunlight, its first attack is _Enhanced_.
+  - 一把发出微光的细弯剑，只有在完全黑暗中才能看见。沐浴在强烈阳光下时，它的第一次攻击处于_强化_。
 
-## Assassin's Goblets
+## 刺客酒杯
 
-  - A pair of fragile wine flutes. Any liquid poured into one is swapped with the other.
+  - 一对易碎的高脚酒杯。倒入其中一个的任何液体都会与另一个中的液体互换。
 
-## Babbleflask, 2 uses
+## 喋喋瓶，2 次使用
 
-  - A foreign language is automatically understood and can be spoken back with fluency, so long as the drinker's native tongue is neither spoken nor heard.
+  - 只要饮用者没有说出或听到自己的母语，就会自动理解一种外语，并能流利地用该语言回应。
 
-## Barbed Epaulets, +1 Armor
+## 荆棘肩章，+1 护甲
 
-  - Spiked shoulder pads that poison anyone that touches them (STR save or lose consciousness).
+  - 带尖刺的护肩，会毒害任何触碰它们的人（STR 豁免，否则失去意识）。
 
-## Betterwand, 2 charges
+## 更好魔杖，2 次充能
 
-  - Vibrates with increased intensity when pointed at the best of a series of objects.
-  - **Recharge**: Willingly accept a poor deal or trade while in possession of the wand.
+  - 指向一系列物品中最好的那个时，会以更强烈的程度振动。
+  - **充能**：持有魔杖时，主动接受一笔糟糕的交易或交换。
 
-## Bloodmap, 1 charge
+## 血图，1 次充能
 
-  - A blank leather parchment that absorbs any blood spilled on its surface before rolling into a tight scroll. Unroll to see a rough map revealing the current location of any remaining blood. The image disappears after a few minutes.
-  - **Recharge**: Pour a pint of your own life essence onto the map, blood for blood. You are _deprived_ until you can rest and eat a Ration.
+  - 一张空白的皮革羊皮纸，会吸收洒在其表面的所有血液，然后卷成紧实的卷轴。展开后可以看到一张粗略地图，显示任何残留血液的当前位置。图像会在几分钟后消失。
+  - **充能**：将一品脱自己的生命精华倒在地图上，以血换血。在休息并吃下一份口粮前，你处于_匮乏_。
 
-## Coin of the Father, 1 charge, _petty_
+## 父亲之币，1 次充能，_轻巧_
 
-  - Flip this worthless-looking hunk of flat metal in the air, and it will transform into d100 gold coins. The illusory coins disappear after one hour.
-  - **Recharge**: Carry the coin for three days without spending or earning any money.
+  - 将这块看起来一文不值的扁平金属块抛向空中，它会变成 d100 枚金币。幻觉般的金币会在一小时后消失。
+  - **充能**：携带硬币三天，期间不得花钱或赚钱。
 
-## Dryad's Tear, 1 use
+## 树妖之泪，1 次使用
 
-  - Shatter this crystal to merge with a tree you can touch. You can perceive the goings-on within whatever forest that tree belongs to.
+  - 击碎这块水晶，与一棵你能触碰到的树融合。你可以感知那棵树所属森林中的一切动静。
 
-## Empathy Rod, 3 charges
+## 共情杖，3 次充能
 
-  - When two creatures touch this wooden pole at the same time, their physical and emotional states become fully intertwined until they let go.
-  - **Recharge**: Give the rod to a former enemy as a gift. This is a one-way transaction.
+  - 当两名生物同时触碰这根木棍时，它们的身体和情绪状态会完全交织，直到双方松手。
+  - **充能**：将法杖作为礼物送给一名前敌人。这是一笔单向交易。
 
-## Eyestone, 3 charges
+## 眼石，3 次充能
 
-  - Choose an object created by living creatures. You can sense the nearest example.
-  - **Recharge**: Place in a bucket of rainwater overnight.
+  - 选择一种由生物创造的物品。你可以感知最近的同类物品。
+  - **充能**：将它放在一桶雨水中，静置一夜。
 
-## Falconstone, 3 charges
+## 隼石，3 次充能
 
-  - Perceive the world through the eyes and ears of a nearby bird of prey. You feel whatever it feels but have no control over it.
-  - **Recharge**: Kill and eat a common quarry, cooking the meat alongside the stone.
+  - 通过附近猛禽的眼睛和耳朵感知世界。你能感受到它的一切感受，但无法控制它。
+  - **充能**：杀死并吃掉一种常见猎物，同时把肉和石头一起烹煮。
 
-## Footpad's Friend
+## 窃贼之友
 
-  - Soft leather shoes that adapt to fit any foot size. Leave behind footprints that scatter and turn in a confusing manner, making tracking nigh-impossible.
+  - 柔软的皮鞋，能够适应任何脚的尺寸。留下的脚印会以令人困惑的方式散开、转向，使追踪几乎不可能。
 
-## Gate Chalk, 1 use, _petty_
+## 门户粉笔，1 次使用，_轻巧_
 
-  - Draw a doorway on any flat surface to open a one-way passage to the Roots. Good luck.
+  - 在任何平面上画出一扇门，打开一条通往根系的一次性通道。祝你好运。
 
-## Golden Wheat Paste, 2 uses
+## 金色小麦糊，2 次使用
 
-  - When mixed with water, this substance chemically bonds any two objects.
+  - 与水混合后，这种物质会通过化学方式粘合任意两件物品。
 
-## Gossip Box, 1 charge
+## 八卦盒，1 次充能
 
-  - Wind the crank to replay any sound made in the past day in your current location. Each crank goes back one hour.
-  - **Recharge**: Successfully spread one falsehood in the presence of the box.
+  - 摇动曲柄，重放过去一天内在当前位置发出的任意声音。每摇动一次，时间就回溯一小时。
+  - **充能**：在盒子旁成功传播一条谎言。
 
-## Harbinger's Bell, 1 charge
+## 预兆之铃，1 次充能
 
-  - Hang at chest height to ring when danger is imminent.
-  - **Recharge**: Melt and reforge. Each time, roll a d6. On a 1-2, it breaks forever.
+  - 悬挂在胸口高度，危险即将来临时会响起。
+  - **充能**：熔化并重新锻造。每次这样做时掷 d6，结果为 1-2 时，它会永久损坏。
 
-## Homunculus Nail, 1 use, _petty_
+## 人造小人钉，1 次使用，_轻巧_
 
-  - Prick a finger with the pointy end and hammer into any small object to form a loyal servant [3 HP, 4 STR, 13 DEX, 5 WIL] completely devoted to you. If not destroyed, it will outlive you.
+  - 用尖端刺破手指，再将它钉入任意小物品，形成一个完全忠于你的忠诚仆从 [3 HP、4 STR、13 DEX、5 WIL]。只要不被摧毁，它就会比你活得更久。
 
-## Honest Earworm, 1 use
+## 诚实耳虫，1 次使用
 
-  - A foul-smelling, pinky-sized worm that feeds on earwax by crawling into the ear canal of a sleeping person. The victim then loses the ability to lie for 1d4 hours.
+  - 一条小指大小、散发恶臭的蠕虫，会爬入熟睡之人的耳道，以耳垢为食。受害者随后会在 1d4 小时内失去说谎的能力。
 
-## Jar of Ants
+## 蚂蚁罐
 
-  - Break to release a colony of fire ants [6 HP, 2 STR, 10 DEX, 1 WIL, bite (d10), _detachment_]. Consumes a ration every two days.
+  - 打破它，释放一群火蚁 [6 HP、2 STR、10 DEX、1 WIL、撕咬（d10）、_分队_]。每两天消耗一份口粮。
 
-## Last Breath (d6), 1 charge
+## 最后一息（d6），1 次充能
 
-  - A chipped short sword of dubious quality. Drive into the earth to form a crystal dome that encircles and immobilizes the wielder. The dome is impenetrable by mundane means, and shatters once the sword is lifted again.
-  - **Recharge**: Deliver a killing blow with the sword, absorbing the dying victim's soul into the blade. There is a cunning intelligence within that speaks to the wielder, forever asking for more souls, more!
+  - 一把品质可疑、已经崩刃的短剑。将它插入大地，形成一座环绕并固定持剑者的水晶穹顶。穹顶无法通过世俗手段穿透，剑再次被拔起后便会碎裂。
+  - **充能**：用剑给予致命一击，将垂死受害者的灵魂吸入剑刃。其中寄宿着一个狡猾的意识，会对持剑者说话，永远索要更多灵魂，更多！
 
-## Lightsucker Candle, 3 uses
+## 吸光蜡烛，3 次使用
 
-  - Once lit, this black tallow wax sheds darkness rather than light, even in the brightest of days.
+  - 点燃后，这根黑色牛脂蜡烛散发的不是光，而是黑暗，即使在最明亮的白天也是如此。
 
-## Lover's Covenant, 1 use
+## 恋人契约，1 次使用
 
-  - A bottle of red-tinted ink, a broken heart emblazoned on the front. Write up a contract of any length. Any who sign are bound to obey by penalty of death.
+  - 一瓶带红色的墨水，正面印着一颗破碎的心。用它写下一份任意长度的契约。任何签名者都必须服从，否则将以死亡为代价。
 
-## Mace of the Kingslayer (d8), 2 charges
+## 弑王锤（d8），2 次充能
 
-  - Hold the weapon aloft and shout an order or declaration. Any who fail a WIL save must obey, against their better judgment.
-  - **Recharge**: Deliver a fatal blow to the leader of a group or faction.
+  - 高举武器，大喊一条命令或宣言。任何 WIL 豁免失败者都必须违背自己的判断服从命令。
+  - **充能**：对某个团体或派系的首领给予致命一击。
 
-## Moth Mirror, _bulky_
+## 飞蛾镜，_笨重_
 
-  - A full-length, double-sided glass mirror. Step into the mirror to be transported to another mirror you know. You come out of the other side as an enormous swarm of buzzing moths, striking those around you with paralysis (WIL save to avoid) as they gaze upon you in horror. You can revert to your normal form at will. The mirror only operates in one direction.
+  - 一面双面全身玻璃镜。走进镜子，就会被传送到另一面你知道的镜子。从另一面出来时，你会变成一大群嗡嗡作响的飞蛾；它们在周围的人惊恐注视下使其麻痹（进行 WIL 豁免以避免）。你可以随意恢复正常形态。这面镜子只能单向运作。
 
-## Muffle Dust, 2 uses
+## 消音尘，2 次使用
 
-  - A pouch of fine dust that muffles all sound in a 40ft radius when scattered.
+  - 一袋细尘，撒出后会压低 40ft 半径内的所有声音。
 
-## Nightstone, 1 use
+## 夜石，1 次使用
 
-  - Rare moon-shaped stones dredged from underwater caves and jungle dolines. Swallow whole to relieve all fatigue and deprivation as if you had a good night's sleep and a good meal. The stone will eventually pass through your system. It isn't fun.
+  - 从水下洞穴和丛林天坑中挖出的稀有月形石头。整颗吞下后，可以消除所有疲劳和匮乏，就像睡了一个好觉、吃了一顿好饭一样。这块石头最终会通过你的身体排出。过程并不愉快。
 
-## Obliteration Scroll, 1 use, _petty_
+## 湮灭卷轴，1 次使用，_轻巧_
 
- - A single-page document filled with gibberish. Sign anywhere on the page to remove any knowledge of your existence from this plane of reality. No one will know or remember you, and any references to your name or lineage will vanish. The scroll disappears in a puff of smoke that smells faintly of sulfur.
+ - 一份写满乱码的单页文件。在页面任意位置签名，就能从这个现实位面抹去一切关于你存在的认知。没有人会知道或记得你，任何提及你的姓名或血统的内容都会消失。卷轴在一团带有淡淡硫磺气味的烟雾中消失。
 
-## Parliament's Promise, +1 Armor
+## 议会之诺，+1 护甲
 
- - A helmet in the form of an owl's head. Its wearer can twist their head around like an owl and can see in darkness with perfect clarity. While wearing the helm, the wearer loses the ability to speak, uttering only the simplest of cooing noises.
+ - 一顶猫头鹰头形状的头盔。佩戴者可以像猫头鹰一样扭转头部，并能在黑暗中看得一清二楚。佩戴头盔时，佩戴者会失去说话能力，只能发出最简单的咕咕声。
 
-## Phoenix Ash, 1 use
+## 凤凰灰，1 次使用
 
-  - Sprinkle over a corpse to resurrect the deceased. They return with full health but no memory of their past life.
+ - 撒在尸体上，使死者复活。他们会以完全健康的状态归来，但没有前世的记忆。
 
-## Ring of the Snake, 1 charge, _petty_
+## 蛇之戒，1 次充能，_轻巧_
 
-  - A wrought-iron serpent ring. Place it on your finger and fall into a sleep so deep that most will think you are dead. If the ring is removed, you will awaken feeling refreshed. Otherwise, the effect will wear off after one month.
-  - **Recharge**: Bury the ring with a corpse. A month later, exhume the corpse and retrieve it.
+ - 一枚锻铁蛇形戒指。把它戴在手指上，陷入深沉的睡眠，大多数人都会以为你已经死了。如果取下戒指，你会醒来并感到神清气爽。否则，效果会在一个月后消失。
+ - **充能**：将戒指与尸体一起埋葬。一个月后，挖出尸体并取回戒指。
 
-## Roc Feather, 1 use
+## 大鹏羽毛，1 次使用
 
-  - Hold while falling to float safely to the ground from any height.
+ - 坠落时握住它，就能从任何高度安全地漂浮到地面。
 
-## Skull Whistle, 3 charges
+## 颅骨哨，3 次充能
 
-  - Produces a chilling scream that forces any who hear it (including the blower) to make a WIL save or become temporarily incapacitated.
-  - **Recharge**: Feed the instrument a clump of human hair pulled from a living skull.
+ - 发出令人胆寒的尖叫，迫使任何听到它的人（包括吹哨者）进行 WIL 豁免，否则暂时失能。
+ - **充能**：将从活人头上拔下的一绺头发喂给这个乐器。
 
-## Soul Clump
+## 灵魂团块
 
-  - A hard, fist-sized ball covered in small bumps. When rolled on a flat surface, it collects any objects smaller than its current mass, which subsequently increases as more items are attached to its surface. Only living creatures are immune.
+ - 一个拳头大小、布满小凸起的坚硬球体。在平面上滚动时，它会收集任何比当前质量更小的物品；随着更多物品附着在其表面，它的质量也会增加。只有活着的生物免疫。
 
-## Spystone, 1 charge
+## 间谍石，1 次充能
 
-  - A smooth, flat stone that is slightly warm to the touch. Squeeze to record audio in a 40ft radius. Squeeze again to play it back, as many times as you like.
-  - **Recharge**: To record a new sound, skip the rock at least three times on a body of water and recover it.
+ - 一块光滑扁平、摸起来略微温暖的石头。挤压它，录下 40ft 半径内的声音。再次挤压即可播放，次数不限。
+ - **充能**：要录制新的声音，先让石头在水面上至少打三次水漂，再把它捞回来。
 
-## Sticky Rope, 1 charge
+## 粘绳，1 次充能
 
-  - A 100ft rope that can stick to any surface.
-  - **Recharge**: Cut off 10ft of rope, which then withers away.
+ - 一根 100ft 长、可以粘在任何表面的绳子。
+ - **充能**：剪下 10ft 绳子，剪下的部分随后会枯萎消失。
 
-## Stone Eater, 1 use
+## 食石虫，1 次使用
 
-  - A rodent-sized centipede that consumes and digests stone, capable of cutting a small tunnel in under an hour. It can be used more than once, but only if you can catch it (DEX 18).
+ - 一条啮齿动物大小的蜈蚣，会吞食并消化石头，能够在一小时内挖出一条小隧道。它可以使用多次，但前提是你能抓住它（DEX 18）。
 
-## Stonewax Gum, 3 uses, _petty_
+## 石蜡口香糖，3 次使用，_轻巧_
 
-  - Chew, then spit. The gum will harden and stretch, making a perfect, unbreakable seal.
+ - 咀嚼，然后吐出。口香糖会硬化并拉伸，形成完美且无法破坏的封条。
 
-## Sponge Army, 1 use
+## 海绵军，1 次使用
 
-  - A dozen miniature soldiers made of carved sea sponges. When splashed with water, they grow to full size [8 HP, 6 STR, 13 DEX, 5 WIL, hardened sponge (d6), _detachment_] and follow the orders of the person they see until they are destroyed or dry out completely (about 10 minutes).
+ - 十二名由雕刻海绵制成的微型士兵。用水泼洒后，它们会长到完整大小 [8 HP、6 STR、13 DEX、5 WIL、硬化海绵（d6）、_分队_]，并服从它们所看到之人的命令，直到被摧毁或完全干燥（约 10 分钟）。
 
-## Tupshead Crown, +1 Armor, _bulky_
+## 图普斯头冠，+1 护甲，_笨重_
 
-  - A beautifully rendered ram's head helm wrought from tough alpine oak. The horns can be used as weapons (d6+d6).
+ - 一顶制作精美的公羊头盔，由坚韧的高山橡木制成。羊角可以作为武器使用（d6+d6）。
 
-## Veilsilk Grip, 1 charge, _petty_
+## 面纱丝手套，1 次充能，_轻巧_
 
-  - A hand wearing this glove can phase through solid objects.
-  - **Recharge**: Snip off one of the fingers.
+ - 戴着这只手套的手可以穿过固体物品。
+ - **充能**：剪掉其中一根手指。
 
-## Voice of the Mountain, 1 use
+## 山之声，1 次使用
 
-  - A rough pebble imbued with the essence of a mountain spirit. Crush to call forth an earthquake or similar natural disaster. Do not expect to be spared.
+ - 一颗注入山之精灵本质的粗糙鹅卵石。捏碎它，召唤地震或类似的自然灾害。不要指望自己能够幸免。
 
-## Ward Stone, 1 use
+## 结界石，1 次使用
 
-  - A flat, unassuming river stone notched with faded symbols. Smash to release a silvery powder in a 20ft radius that pacifies anyone who breathes it.
+ - 一块扁平而不起眼、刻着褪色符号的河石。砸碎它，在 20ft 半径内释放银色粉末，使任何吸入粉末的人平静下来。
 
-## Whispergale, 1 use
+## 低语风，1 次使用
 
-  - A balloon-shaped plant that captures a spoken message and delivers it to a location within a day's walk.
+ - 一种气球形植物，会捕捉说出的讯息，并将其送到一天步行路程内的某个地点。
 
-## Whistle-Rope
+## 哨绳
 
-  - 15ft of highly flexible leather. Swirl in the air to generate a powerful subsonic effect that drives away wildlife. Also works underwater.
+ - 15ft 长的高度柔韧皮革。在空中挥舞它，会产生强大的次声效果，驱赶野生动物。在水下同样有效。
 
-## Wonder Bar, 1 charge
+## 奇迹铁条，1 次充能
 
-  - Pressing the switch on the side of this iron bar freezes it in place, even in midair. Once frozen, it cannot be moved by any force until the switch is depressed.
-  - **Recharge**: Hold the bar with both hands without letting go for one continuous hour (WIL save to succeed). You can make only one attempt each day.
+ - 按下这根铁条侧面的开关，就能将它固定在原地，即使它悬浮在半空中也是如此。一旦固定，除非再次按下开关，否则任何力量都无法移动它。
+ - **充能**：双手握住铁条，连续一小时不松手（进行 WIL 豁免以成功）。每天只能尝试一次。
 
-## Wraith Lantern, 1 charge
+## 幽魂提灯，1 次充能
 
-  - Write someone's name onto its glass, and the name will disappear. The lantern reveals a path to their current location, visible only to the holder (day or night).
-  - **Recharge**: Kill the last person found with the help of the lantern, trapping their spirit inside. The lantern must be nearby when they are killed.
+ - 将某人的名字写在灯罩上，名字会消失。提灯会显示一条通往其当前位置的道路，只有持有者能看见（无论白天黑夜）。
+ - **充能**：杀死提灯帮助你找到的最后一个人，将其灵魂困在灯中。对方被杀时，提灯必须在附近。

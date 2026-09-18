@@ -1,671 +1,671 @@
 ---
 layout: default
-title: Bestiary
-parent: Warden's Guide 
-grand_parent: Second Edition
+title: 生物图鉴
+parent: 守望者指南
+grand_parent: 第二版
 ---
 
-# Bestiary
+# 生物图鉴
 
-## Monster Categories
+## 怪物类别
 
 |         |               |                                                                             |
 | ------- | ------------- | --------------------------------------------------------------------------- |
-| **d20** | **Group**     | **Monsters**                                                                |
-| **1**   | Avian         | Phoenix, Roc, Wyvern                                                        |
-| **2**   | Beast         | Blood Elk, Grizzly Bear, Killer Bees, Night Cat, Viper, Wolf                |
-| **3**   | Behemoth      | Green Dragon, Purple Worm                                                   |
-| **4**   | Construct     | Bone Construct, Cobblehounds, Gargoyle                                      |
-| **5**   | Demon         | Hellhound, Nightmare                                                        |
-| **6**   | Extraplanar   | Eye of Terror, Mind Lasher                                                  |
-| **7**   | Fey           | Boggart, Dryad, Frost Elf, Pixie, Red Cap, Night Hag, Sea Hag, Will-o-Wisp  |
-| **8**   | Giant         | Ettin, Sky Giant, Storm Giant, Titan                                        |
-| **9**   | Goblinoid     | Bugbear, Goblin, Hobgoblin, Ogre, Root Goblin, Troll, Wood Troll            |
-| **10**  | Humanoid      | Acolyte, Bandit, Gnoll, Hooded Men, Triton                                  |
-| **11**  | Hybrid        | Centaur, Manticore, Minotaur, Owlbear                                       |
-| **12**  | Incorporeal   | Invisible Stalker, Shadow                                                   |
-| **13**  | Insectoid     | Aranea, Burrowing Horror, Cave Locust, Giant Scorpion                       |
-| **14**  | Lizard        | Basilisk, Hydra, Kobold, Naga, Reptilian                                    |
-| **15**  | Magical       | Blink Dog, Warp Panther, Water Elemental                                    |
-| **16**  | Mythical      | Banshee, Griffon, Harpy, Hydra, Lamia, Unicorn                              |
-| **17**  | Plant         | Creeping Vines, Root Witch, Shambling Mound, Treant                         |
-| **18**  | Shape Shifter | Swine Thing, Werewolf                                                       |
-| **19**  | Undead        | Crypt Guardian, Ghost, Ghoul, Lich, Mummy, Skeleton, Vampire, Wight, Zombie |
-| **20**  | Unusual       | Gelatinous Ooze, Mimic, Rust Monster, Warrior Snail                         |
+| **d20** | **类别**      | **生物**                                                                    |
+| **1**   | 鸟类          | 凤凰、巨鹰、双足飞龙                                                        |
+| **2**   | 野兽          | 血鹿、灰熊、杀人蜂、夜猫、蝰蛇、狼                                          |
+| **3**   | 巨兽          | 绿龙、紫虫                                                                  |
+| **4**   | 构装体        | 骨骸构装体、碎石猎犬、石像鬼                                                |
+| **5**   | 恶魔          | 地狱犬、梦魇                                                                |
+| **6**   | 异界生物      | 恐惧之眼、心灵鞭笞者                                                        |
+| **7**   | 妖精          | 博格特、树精、冰霜精灵、皮克精、红帽子、夜巫婆、海巫婆、鬼火                |
+| **8**   | 巨人          | 双头巨人、天空巨人、风暴巨人、泰坦                                          |
+| **9**   | 地精类        | 熊地精、地精、大地精、食人魔、根地精、巨魔、木巨魔                          |
+| **10**  | 人形生物      | 侍僧、强盗、豺狼人、蒙面人、崔顿                                            |
+| **11**  | 混种          | 半人马、蝎狮、牛头人、枭熊                                                  |
+| **12**  | 无形生物      | 隐形猎手、阴影                                                              |
+| **13**  | 昆虫类        | 阿拉涅、掘地怪、洞穴蝗虫、巨型蝎子                                          |
+| **14**  | 蜥蜴类        | 蛇怪、多头蛇、狗头人、那伽、爬行人                                          |
+| **15**  | 魔法生物      | 闪现犬、扭曲豹、水元素                                                      |
+| **16**  | 神话生物      | 女妖、狮鹫、鹰身女妖、多头蛇、拉弥亚、独角兽                              |
+| **17**  | 植物          | 匍匐藤蔓、根巫、蹒跚魔、树人                                                |
+| **18**  | 变形生物      | 猪兽、狼人                                                                  |
+| **19**  | 不死生物      | 墓穴守卫、鬼魂、食尸鬼、巫妖、木乃伊、骷髅、吸血鬼、尸妖、僵尸              |
+| **20**  | 异类          | 凝胶软泥、拟形怪、锈蚀怪、战蜗牛                                            |
 
-## Acolyte
+## 侍僧
 
-4 HP, 1 Armor, 8 STR, 11 DEX, 14 WIL, ceremonial dagger (d6)
+4 HP, 1 护甲, 8 STR, 11 DEX, 14 WIL, 仪式匕首 (d6)
 
-- Holy servants bound to a particular deity. Typically travel in groups of four or more.
-- Carry a holy symbol (_Ward_ once per day).
+- 侍奉特定神祇的神圣仆从。通常四人或更多结伴行动。
+- 携带圣徽（每天一次_结界_）。
 
-## Aranea
+## 阿拉涅
 
-6 HP, 13 STR, 12 DEX, 15 WIL, bite (d8)
+6 HP, 13 STR, 12 DEX, 15 WIL, 撕咬 (d8)
 
-- Enormous spiders with greenish-black skin and large brains. Can shape shift into human form at will. 
-- Conduct their magical research in dark, web-filled caverns. Carry the _Charm_ and _Command_ spellbooks at all times.
-- Fire damage against Aranea is _enhanced_.
+- 皮肤青黑、大脑硕大的巨型蜘蛛。可以随意变成人形。
+- 在黑暗、遍布蛛网的洞窟中进行魔法研究。始终携带_魅惑_和_命令_法术书。
+- 针对阿拉涅的火焰伤害会得到_强化_。
 
-## Bandit
+## 强盗
 
-4 HP, 1 Armor, 12 STR, 12 DEX, 9 WIL, short sword (d6) or short bow (d6)
+4 HP, 1 护甲, 12 STR, 12 DEX, 9 WIL, 短剑 (d6) 或短弓 (d6)
 
-- Outlaws who raid settlements, attack ships, or ambush travelers. Groups of four or more are a _detachment_.
-- A detachment always travels with one leader wearing chain mail or similar (2 Armor) and a long sword (d10) or crossbow (d8).
-- **Loyal**: When testing Morale, save using the leader's WIL (13). If the leader dies, the others will flee.
+- 袭击聚落、攻击船只或伏击旅人的法外之徒。四人或更多组成一个_分队_。
+- 一个分队总会有一名首领，身穿锁子甲或类似护甲（2 护甲），装备长剑 (d10) 或弩 (d8)。
+- **忠诚**：进行士气检定时，使用首领的 WIL (13) 进行豁免。如果首领死亡，其他人会逃跑。
 
-## Banshee
+## 女妖
 
-8 HP, 6 STR, 12 DEX, 15 WIL, ghostly touch (d8)
+8 HP, 6 STR, 12 DEX, 15 WIL, 幽灵之触 (d8)
 
-- Incorporeal spirits that linger long after death to haunt the living.
-- Unharmed by cold, heat, or the elements. Iron weapon damage is _enhanced_.
-- **Wail**: Anyone in earshot must make a WIL save or fall unconscious.
+- 死后仍长久徘徊、纠缠活人的无形灵体。
+- 不受寒冷、高温或自然元素伤害。铁制武器造成的伤害会得到_强化_。
+- **哀嚎**：听到哀嚎的所有人都必须进行 WIL 豁免，否则陷入昏迷。
 
-## Basilisk
+## 蛇怪
 
-10 HP, 1 Armor, 12 STR, 13 DEX, 13 WIL, bite (d10)
+10 HP, 1 护甲, 12 STR, 13 DEX, 13 WIL, 撕咬 (d10)
 
-- Long, serpentine lizards that nest deep below the earth or in brambles just underfoot. 
-- Fighting a **Basilisk** without meeting its gaze is difficult. (Attacks facing it are _impaired_.)
-- **Gaze**: A target facing the Basilisk is slowly petrified from the bottom up and completely frozen after three rounds. An antidote can be brewed from the Basilisk's gizzards. The creature's reflection is harmless.
+- 身形修长、如蛇一般的蜥蜴，在地下深处或脚下的荆棘丛中筑巢。
+- 不与**蛇怪**对视就与之战斗，会十分困难。（面向它进行的攻击处于_削弱_。）
+- **凝视**：面向蛇怪的目标会从脚底开始逐渐石化，三轮后完全僵硬。可以用蛇怪的内脏调制解毒剂。这种生物的倒影无害。
 
-## Blink Dog
+## 闪现犬
 
-5 HP, 11 STR, 14 DEX, 5 WIL, bite (d6)
+5 HP, 11 STR, 14 DEX, 5 WIL, 撕咬 (d6)
 
-- Teleporting canines in service of a powerful master.
-- Can phase out of reality at will. Melee attacks against them are _impaired_.
+- 为强大主人效力、能够传送的犬类。
+- 可以随意从现实中暂时脱离。针对它们的近战攻击处于_削弱_。
 
-## Blood Elk
+## 血鹿
 
-4 HP, 12 STR, 13 DEX, 5 WIL, horns (d8)
+4 HP, 12 STR, 13 DEX, 5 WIL, 犄角 (d8)
 
-- Born from violence resulting from a greedy or selfish act.
-- Kill their victims for sustenance, but gains no succor. They are always hungry.
-- **Critical Damage**: Gores its victims by ripping out their entrails.
+- 由贪婪或自私行为引发的暴力中诞生。
+- 杀死受害者以维生，却无法得到满足。它们永远饥饿。
+- **重伤**：用犄角刺穿受害者，扯出其内脏。
 
-## Boggart
+## 博格特
 
 3 HP, 4 STR, 17 DEX, 13 WIL
 
-- Wild, hairy tricksters that prize shiny trinkets above coin.
-- Boggarts have true names that describe their true nature. Knowing these names gives a person control over them.
-- **Magic**: The Boggart can _bring objects to life_,  _sow confusion_, _create magical disguises_, use _telekinesis_, and _teleport_.
+- 野性、毛茸茸的恶作剧者，比起钱币更珍视闪亮的小玩意。
+- 博格特拥有描述其真实本性的真名。知晓这些名字的人可以控制它们。
+- **魔法**：博格特可以_使物品获得生命_、_播撒混乱_、_制造魔法伪装_、使用_心灵遥控_和_传送_。
 
-## Bone Construct
+## 骨骸构装体
 
-8 HP, 3 Armor, 15 STR, 5 DEX, 3 WIL, sharpened arms (d8+d8), _detachment_
+8 HP, 3 护甲, 15 STR, 5 DEX, 3 WIL, 锐利臂刃 (d8+d8), _分队_
 
-- Gigantic, four-armed constructs made of bone and sorcery.
-- Mindless guardians that stand ready to attack any creature other than their creator.
+- 由骨骼与巫术构成的巨大四臂构装体。
+- 没有心智的守卫，随时准备攻击创造者之外的任何生物。
 
-## Bugbear
+## 熊地精
 
-8 HP, 1 Armor, 14 STR, 12 DEX, 11 WIL, club (d8)
+8 HP, 1 护甲, 14 STR, 12 DEX, 11 WIL, 棍棒 (d8)
 
-- Large, goblin-like creatures covered in fur.
-- Prefer stealth and trickery to gain an advantage.
-- Often command parties of like creatures (typically goblins).
+- 身披毛发、体型巨大的哥布林类生物。
+- 偏好用潜行和诡计取得优势。
+- 经常指挥一群同类生物（通常是哥布林）。
 
-## Burrowing Horror
+## 掘地怪
 
-6 HP, 1 Armor, 16 STR, 11 DEX, 4 WIL, bite (d10), acid squirt (d8, _blast_)
+6 HP, 1 护甲, 16 STR, 11 DEX, 4 WIL, 撕咬 (d10), 酸液喷射 (d8, _爆发_)
 
-- Huge insectoids with multiple legs and shiny black eyes. Subsist from dirt, roots, and flesh.
-- Burrow just beneath surfaces to ambush unsuspecting creatures.
-- **Critical Damage**: Target loses a body part. Roll 1d6. 1: Head, 2-4: Leg, 5-6: Arm.
+- 长着多条腿和油亮黑眼睛的巨型昆虫类生物。以泥土、根须和血肉为食。
+- 在地表下方掘行，伏击毫无防备的生物。
+- **重伤**：目标失去一部分身体。掷 1d6。1：头部，2-4：腿，5-6：手臂。
 
-## Cave Locust
+## 洞穴蝗虫
 
-2 HP, 6 STR, 12 DEX, 3 WIL, bite (d6)
+2 HP, 6 STR, 12 DEX, 3 WIL, 撕咬 (d6)
 
-- Giant plant-eating crickets that dwell in caves. Immune to most types of poison.
-- Their natural coloration allows them to blend in with the stone. They emit loud shrieks when threatened.
+- 栖息在洞窟中的巨型食草蟋蟀。对大多数毒素免疫。
+- 天生的颜色让它们可以与岩石融为一体。受到威胁时会发出响亮的尖叫。
 
-## Centaur
+## 半人马
 
-6 HP, 1 Armor, 14 STR, 12 DEX, 14 WIL, spear (d8) or short bow (d6)
+6 HP, 1 护甲, 14 STR, 12 DEX, 14 WIL, 长矛 (d8) 或短弓 (d6)
 
-- Creatures with the lower body and legs of a horse, but a humanoid upper body.
-- Rarely found alone, preferring the company of their own.
+- 下半身和腿是马、上半身是类人的生物。
+- 很少独自行走，更喜欢与同类为伴。
 
-## Cobblehounds
+## 碎石猎犬
 
-12 HP, 2 Armor, 14 STR, 1 DEX, 8 WIL, bite (d10)
+12 HP, 2 护甲, 14 STR, 1 DEX, 8 WIL, 撕咬 (d10)
 
-- Immobile constructs typically used as guardians to great tombs or artifacts.
-- Unaffected by mundane persuasion techniques, but love a good bone.
+- 通常作为大型陵墓或遗物的守卫，无法移动的构装体。
+- 不受世俗劝说技巧影响，但喜欢美味的骨头。
 
-## Creeping Vines
+## 匍匐藤蔓
 
-8 HP, 10 STR, 12 DEX, 2 WIL, vines (d4, _blast_)
+8 HP, 10 STR, 12 DEX, 2 WIL, 藤蔓 (d4, _爆发_)
 
-- Appear as an inert, typical vine. Attacks passing creatures to use their corpses as fertilizer.
-- **Critical Damage**: Target is pulled into the air where they asphyxiate within a few minutes.
+- 看起来只是一条静止的普通藤蔓。它们会攻击路过的生物，把尸体当作肥料。
+- **重伤**：目标被拖到空中，在几分钟内窒息而死。
 
-## Crypt Guardian
+## 墓穴守卫
 
-12 HP, 12 STR, 11 DEX, 14 WIL, ethereal claws (d8+d8)
+12 HP, 12 STR, 11 DEX, 14 WIL, 以太之爪 (d8+d8)
 
-- Animated skeletons clothed in billowing robes. Their eye sockets are hypnotically red. Defend crypts and tombs, but will not attack if left undisturbed.
-- Non-magical attacks against them are _impaired_.
-- Can teleport any target in eyesight to a random room nearby.
+- 身披宽大长袍的活化骷髅，眼窝呈催眠般的红色。它们守卫地窖和陵墓，但只要不受打扰，就不会主动攻击。
+- 针对它们的非魔法攻击处于_削弱_。
+- 可以将视线范围内的任意目标传送到附近的随机房间。
 
-## Dryad
+## 树精
 
-4 HP, 8 STR, 12 DEX, 14 WIL, knotted arms (d6)
+4 HP, 8 STR, 12 DEX, 14 WIL, 盘结的手臂 (d6)
 
-- Shy, protective tree spirits that manifest as beautiful, green-skinned humanoids.
-- Unable to travel far from the tree they are bound to. They perish if the tree is destroyed.
-- **Befuddle**: Target becomes confused, gradually moving further and further away from the host tree. WIL save once per round to break free.
+- 羞怯而具有保护欲的树灵，显现为美丽、绿皮肤的类人形态。
+- 无法远离自己依附的树木。如果树木被摧毁，它们也会死去。
+- **迷乱**：目标变得困惑，逐渐离寄主树木越来越远。每轮进行一次 WIL 豁免以摆脱影响。
 
-## Ettin
+## 双头巨人
 
-10 HP, 16 STR, 8 DEX, 6 WIL, club (d10)
+10 HP, 16 STR, 8 DEX, 6 WIL, 棍棒 (d10)
 
-- The two-headed kin of giants. Prefer caves and underground hovels.
-- Cannot be surprised.
+- 拥有两个脑袋的巨人亲族。偏好洞窟和地下巢穴。
+- 不会被突袭。
 
-## Eye of Terror
+## 恐惧之眼
 
-15 HP, 9 STR, 8 DEX, 16 WIL, bite (d8)
+15 HP, 9 STR, 8 DEX, 16 WIL, 撕咬 (d8)
 
-- Floating spheres with large mouths, enormous eyes, and several small eyes set atop long stalks. 
-- They are highly intelligent, intensely greedy, and completely insane. 
-- Can cast the following spells at will: _Charm, Phobia, Telekinesis, Sleep, Shuffle, Vision_. Magic used against them requires a WIL save or it fizzles out.
+- 漂浮的球体，长着大嘴、巨大的眼睛，以及几只安装在长柄上的小眼睛。
+- 它们极其聪明、贪婪成性，而且彻底疯狂。
+- 可以随意施放以下法术：_魅惑_、_恐惧症_、_心灵遥控_、_睡眠_、_随机移位_、_视界_。针对它们使用魔法时，施法者必须进行 WIL 豁免，否则魔法会失效。
 
-## Frost Elf
+## 冰霜精灵
 
-14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6)
+14 HP, 1 护甲, 8 STR, 13 DEX, 14 WIL, 冰柱匕首 (d6)
 
-- Beautiful, amoral, and long-lived.
-- Resistant to most forms of magic.
-- Can cast the following spells at will: _Sleep_, _Teleport_, _Detect Magic_.
+- 美丽、缺乏道德感且长寿。
+- 抵抗大多数形式的魔法。
+- 可以随意施放以下法术：_睡眠_、_传送_、_探测魔法_。
 
-## Gargoyle
+## 石像鬼
 
-8 HP, 3 Armor, 14 STR, 4 DEX, 12 WIL, claws (d8+d8)
+8 HP, 3 护甲, 14 STR, 4 DEX, 12 WIL, 利爪 (d8+d8)
 
-- Magical, slow-moving statues of monstrous winged creatures, typically employed as guards or watchdogs. 
-- Prowl at nights but fear the day, when the sun's light freezes them in place.
-- Immune to charms and magical sleep.
+- 由怪异飞行生物构成的魔法石像，行动缓慢，通常被用作守卫或看门者。
+- 在夜间巡游，却畏惧白昼；阳光会将它们冻结在原地。
+- 免疫魅惑和魔法造成的睡眠。
 
-## Gelatinous Ooze
+## 凝胶软泥
 
-8 HP, 1 Armor, 15 STR, 6 DEX, 3 WIL, devouring touch (d8)
+8 HP, 1 护甲, 15 STR, 6 DEX, 3 WIL, 吞噬之触 (d8)
 
-- Large shapeless masses of transparent jelly. Mindlessly hunt for food in dungeons and underground caverns.
-- **Critical Damage**: The target is engulfed, losing d6 STR damage per round until they are consumed.
+- 大型、无定形的透明果冻状团块。它们毫无思考地在地城和地下洞窟中搜寻食物。
+- **重伤**：目标被包裹，每轮受到 d6 STR 伤害，直到被消化。
 
-## Ghost
+## 鬼魂
 
-8 HP, 14 STR, 12 DEX, 15 WIL, life drain (d6)
+8 HP, 14 STR, 12 DEX, 15 WIL, 吸取生命 (d6)
 
-- Incorporeal spirits of the restless dead, vulnerable only to magic and specific anointed rites.
-- **Critical Damage**: Target must save WIL or is possessed, acting only on behalf of the ghost's whims.
+- 不安死者的无形灵体，只有魔法和特定的祝圣仪式才能伤害它们。
+- **重伤**：目标必须进行 WIL 豁免，否则被附身，只会按照幽灵的任性行事。
 
-## Ghoul
+## 食尸鬼
 
-6 HP, 14 STR, 8 DEX, 3 WIL, elongated claws (d6+d6)
+6 HP, 14 STR, 8 DEX, 3 WIL, 细长利爪 (d6+d6)
 
-- Grey-skinned man-things wearing shredded clothes that crave only the flesh of the living.
-- **Critical Damage**: Target is _deprived_ from their necrotic wound, dying in d4 days unless treated by a priest or skilled healer. If the body is not burned it later rises as a Ghoul as well.
+- 灰皮肤、穿着破衣烂衫的人形生物，只渴望活人的血肉。
+- **重伤**：目标因死灵伤口而陷入_匮乏_，除非接受祭司或熟练治疗者的救治，否则会在 d4 天内死亡。如果尸体没有被焚烧，之后也会作为食尸鬼复起。
 
-## Giant Scorpion
+## 巨型蝎子
 
-8 HP, 1 Armor, 11 STR, 12 DEX, 4 WIL, claws (d10+d10)
+8 HP, 1 护甲, 11 STR, 12 DEX, 4 WIL, 利爪 (d10+d10)
 
-- Horse-sized arachnids commonly found in dry terrain or caverns.
-- **Critical Damage**: The stinger's poison liquefies the target's insides for an additional d8 STR damage. The STR loss is permanent.
+- 常见于干旱地带或洞窟、马匹大小的蛛形生物。
+- **重伤**：尾刺的毒液会液化目标的内脏，额外造成 d8 STR 伤害。损失的 STR 永久无法恢复。
 
-## Gnoll
+## 豺狼人
 
-6 HP, 1 Armor, 12 STR, 14 DEX, 8 WIL, spear (d8)
+6 HP, 1 护甲, 12 STR, 14 DEX, 8 WIL, 长矛 (d8)
 
-- Ferocious humanoid hyenas spawned from arcane experiments long ago.   
-- Deadly warriors, they attack as a pack (as _detachment_) or on their own.
+- 很久以前由奥术实验制造的凶猛类人鬣狗。
+- 致命的战士，会成群（作为_分队_）或独自攻击。
 
-## Goblin
+## 地精
 
-4 HP, 8 STR, 12 DEX, 8 WIL, dagger (d6) or sling (d6)
+4 HP, 8 STR, 12 DEX, 8 WIL, 匕首 (d6) 或投石索 (d6)
 
-- Small, grotesque humanoids with skin in earthly tones of green, brown, and grey.
-- Avoid combat, only attacking when advantageous, using hit-and-run tactics.
-- Sometimes are found using dire wolves as mounts.
+- 身材矮小、外形怪诞的类人，皮肤呈大地色系的绿色、棕色和灰色。
+- 避免战斗，只在有利时攻击，并使用打了就跑的战术。
+- 有时会骑乘恐狼。
 
-## Green Dragon
+## 绿龙
 
-12 HP, 2 Armor, 14 STR, 15 DEX, 18 WIL, bite (d12), _detachment_
+12 HP, 2 护甲, 14 STR, 15 DEX, 18 WIL, 撕咬 (d12), _分队_
 
-- Forest-dwelling snakes topped with tall green scales. Collect great hoards of treasure.
-- Use intelligence and cunning to manipulate the weak into their service.
-- **Chlorine Gas**: Anyone nearby must make a DEX save to escape its reach or lose 1d4 STR and becomes _deprived_.
+- 栖息在森林中的蛇类，身上覆盖高耸的绿色鳞片。会收集巨大的财宝堆。
+- 用智慧和狡诈操纵弱者，让他们为自己效力。
+- **氯气**：附近所有人都必须进行 DEX 豁免以逃离氯气范围，否则损失 1d4 STR 并陷入_匮乏_。
 
-## Griffon
+## 狮鹫
 
-7 HP, 14 STR, 15 DEX, 12 WIL, claws (d6+d6), _detachment_
+7 HP, 14 STR, 15 DEX, 12 WIL, 利爪 (d6+d6), _分队_
 
-- Ravenous hybrids, with the head and wings of an eagle and the lower body of a lion.
-- Can be used as mounts if taken young and properly trained.
-- Fly and attack at astonishing speeds, diving in to scoop up their prey.
-- **Critical Damage**: Tears flesh and bone from its victim with its razor-sharp beak.
+- 贪婪的混合生物，拥有鹰的头部和翅膀，以及狮子的下半身。
+- 从小捕获并妥善训练后，可以用作坐骑。
+- 以惊人的速度飞行和攻击，俯冲着将猎物抓走。
+- **重伤**：用剃刀般锋利的喙从受害者身上撕下血肉和骨头。
 
-## Grizzly Bear
+## 灰熊
 
-6 HP, 15 STR, 13 DEX, 5 WIL, claws (d8+d8)
+6 HP, 15 STR, 13 DEX, 5 WIL, 利爪 (d8+d8)
 
-- Reddish-brown bears commonly found in mountains, woodlands, and prairies. 
-- Prefer to eat fish and meat, and will attack the rare unfortunate who crosses their path.
-- **Critical Damage**: Bites the victim for an additional d6 STR damage. They bleed out very quickly.
+- 常见于山地、林地和草原的红棕色熊。
+- 偏好鱼和肉，会攻击偶然经过它们领地的倒霉鬼。
+- **重伤**：咬伤受害者，额外造成 d6 STR 伤害。受害者会很快失血过多。
 
-## Harpy
+## 鹰身女妖
 
-8 HP, 7 STR, 12 DEX, 14 WIL, claws (d6+d6)
+8 HP, 7 STR, 12 DEX, 14 WIL, 利爪 (d6+d6)
 
-- Hideous monstrosities with the body of a giant eagle and a humanoid head.
-- Their movements and flight are clumsy due to their disproportionate size. Rely on charmed victims to do anything of note. 
-- **Song**: Anyone nearby must save WIL or be charmed by its voice, following the harpy and defending it from any threat.
+- 外形丑陋的怪物，拥有巨鹰的身体和类人的头部。
+- 由于体型比例失调，它们的移动和飞行都很笨拙。依靠被魅惑的受害者完成任何值得一提的事情。
+- **歌声**：附近所有人都必须进行 WIL 豁免，否则会被它的声音魅惑，跟随鹰身女妖并保护它免受任何威胁。
 
-## Hellhound
+## 地狱犬
 
-8 HP, 12 STR, 15 DEX, 9 WIL, bite (d8), fire breath (d6, _blast_)
+8 HP, 12 STR, 15 DEX, 9 WIL, 撕咬 (d8), 火焰吐息 (d6, _爆发_)
 
-- Monstrous, intelligent dogs that dwell near volcanoes.
-- Immune to fire and heat damage. Hot enough to melt iron simply by biting it.
+- 栖息在火山附近、怪异而聪明的犬类。
+- 免疫火焰和高温伤害。它们的咬合足以让铁熔化。
 
-## Hobgoblin
+## 大地精
 
-6 HP, 2 Armor, 14 STR, 8 DEX, 11 WIL, mace (d8)
+6 HP, 2 护甲, 14 STR, 8 DEX, 11 WIL, 钉头锤 (d8)
 
-- Large and burly relatives of goblins. Dwell in underground fortresses until called for war.
-- Automatically succeed in Morale Saves if a commander is present. 
-- Trained to fight together. Damage dealt is _enhanced_ if an ally is also engaged with the same enemy.
+- 体型高大健壮的哥布林亲族。平时居住在地下堡垒中，直到被召集参战。
+- 如果指挥官在场，自动通过士气豁免。
+- 受过协同作战训练。如果一名盟友也在与同一敌人交战，造成的伤害会得到_强化_。
 
-## Hooded Men
+## 蒙面人
 
-12 HP, 9 STR, 12 DEX, 14 WIL, leystaff (d8)
+12 HP, 9 STR, 12 DEX, 14 WIL, 灵脉法杖 (d8)
 
-- The Watchers of the Wood; a cult that derive their power from leylines, rune stones, and the like.
-- **Critical Damage**: Leech a part of the victim's soul (1d4 WIL damage).
-- Carries two of the following spellbooks: _Charm, Hypnotize, Push/Pull, Shield_.
+- “森林守望者”；从地脉、符文石等事物中汲取力量的邪教。
+- **重伤**：吸取受害者的一部分灵魂（1d4 WIL 伤害）。
+- 携带以下法术书中的两本：_魅惑_、_催眠_、_推/拉_、_盾牌_。
 
-## Hydra
+## 多头蛇
 
-12 HP, 2 Armor, 13 STR, 7 DEX, 12 WIL, bite (d12, _blast_), _detachment_
+12 HP, 2 护甲, 13 STR, 7 DEX, 12 WIL, 撕咬 (d12, _爆发_), _分队_
 
-- Large reptilians with nine serpentine heads. Very difficult to throw off once their quarry is detected.
-- On taking **Critical Damage**, the hydra loses one head. It then continues fighting until no heads remains.
+- 拥有九个蛇形头颅的大型爬行类生物。一旦发现猎物，就很难摆脱。
+- 受到**重伤**时，多头蛇失去一个头颅。随后它会继续战斗，直到不再剩下任何头颅。
 
-## Invisible Stalker
+## 隐形猎手
 
-8 HP, 12 STR, 12 DEX, 15 WIL, fists (d4+d4)
+8 HP, 12 STR, 12 DEX, 15 WIL, 拳击 (d4+d4)
 
-- Intelligent beings shaped into reality by a powerful wizard. Completely invisible and silent.
-- Attacks deal direct STR damage (subtracting Armor).
+- 由强大巫师将形体塑造进现实的智慧生物。完全隐形且寂静无声。
+- 攻击会直接造成 STR 伤害（扣除护甲）。
 
-## Killer Bees
+## 杀人蜂
 
-6 HP, 6 STR, 14 DEX, 8 WIL, sting (d6), _detachment_
+6 HP, 6 STR, 14 DEX, 8 WIL, 螫刺 (d6), _分队_
 
-- Oversized bees that build underground hives. Hyper-aggressive, attack anything that comes near.
-- Produce special honey that heals 1d6 STR. 3 uses.
-- When the bees cause STR damage, the stingers are lodged into the target, dealing d4 damage each round until removed.
+- 在地下蜂巢筑巢的巨型蜜蜂。极度好斗，会攻击任何靠近的东西。
+- 产出可以恢复 1d6 STR 的特殊蜂蜜。3 次使用。
+- 蜜蜂造成 STR 伤害时，毒刺会留在目标体内，每轮造成 d4 伤害，直到被拔出。
 
-## Kobold
+## 狗头人
 
-3 HP, 8 STR, 13 DEX, 4 WIL, bite (d6), spear (d8)
+3 HP, 8 STR, 13 DEX, 4 WIL, 撕咬 (d6), 长矛 (d8)
 
-- Hairless humanoids with canine-like features and scaly skin. Can see perfectly in the dark, but are harmed by direct sunlight. 
-- Use traps and ambush to defeat opponents. Often act in service of a more powerful creatures.
+- 没有毛发、拥有犬类特征和鳞片皮肤的类人。可以在黑暗中清晰视物，但会受到直射阳光伤害。
+- 用陷阱和伏击击败对手。经常为更强大的生物效力。
 
-## Lamia
+## 拉弥亚
 
-6 HP, 11 STR, 12 DEX, 16 WIL, toothy bite (d8)
+6 HP, 11 STR, 12 DEX, 16 WIL, 尖牙撕咬 (d8)
 
-- Centaur-like creatures that prey on the life force of others, seducing their victims through heightened charm and intelligence. Their upper bodies are typically humanoid, the lower half any number of animal hybrids.
-- Inherently magical. Can create illusions, charm creatures, and disguise themselves at will.
-- **Critical Damage**: The target takes d6 WIL damage as their spirit is slowly sapped away. They then become enthralled to the Lamia, obeying its every command while in its presence.
+- 类似半人马的生物，以其他生物的生命力为食，通过增强的魅力和智慧诱惑受害者。上半身通常是人形形态，下半身则可以是各种动物的混合形态。
+- 天生具有魔法力量。可以随意制造幻象、魅惑生物和伪装自己。
+- **重伤**：目标的精神被逐渐吸干，受到 d6 WIL 伤害。随后目标会被拉弥亚迷住，只要身处它面前就会服从它的每一个命令。
 
-## Lich
+## 巫妖
 
-14 HP, 1 Armor, 8 STR, 8 DEX, 18 WIL, soul dagger (d8)
+14 HP, 1 护甲, 8 STR, 8 DEX, 18 WIL, 灵魂匕首 (d8)
 
-- Powerful sorcerers that paid the ultimate price for immortality: their own life. Now their thirst for power knows no bounds.
-- Maintain unlife by binding themselves to an earthly artifact, which is typically protected by at least d6 other undead servants.
-- Carry up to six of the following spellbooks: _Animate Object_, _Arcane Eye_, _Deafen_, _Disassemble_, _Elemental Wall_, _Frenzy_, _Gate_, _Hover_, _Hatred_, _Identify Owner_, _Knock_, _Pacify_, _Raise Dead_, _Raise Spirit_, _Shield_, _Sleep_, _Smoke Form_, _Telekinesis_, _Telepathy_, _Teleport_, _Vision_, _Wizard Mark_.
+- 为了获得永生而付出终极代价——自己的生命——的强大巫师。如今，它们对力量的渴望没有边界。
+- 将自身绑定于尘世遗物，以维持不死之身；该遗物通常由至少 d6 名其他不死仆从守护。
+- 最多携带以下法术书中的六本：_物体活化_、_奥术之眼_、_失聪_、_拆解_、_元素之墙_、_狂乱_、_界门_、_悬浮_、_憎恨_、_辨认主人_、_敲击_、_安抚_、_起死回生_、_召回灵魂_、_盾牌_、_睡眠_、_烟雾形态_、_心灵遥控_、_心灵感应_、_传送_、_视界_、_巫师印记_。
 
-## Manticore
+## 蝎狮
 
-6 HP, 15 STR, 14 DEX, 12 WIL, claws (d6+d6), tail spike (d8)
+6 HP, 15 STR, 14 DEX, 12 WIL, 利爪 (d6+d6), 尾刺 (d8)
 
-- Spiteful monstrosities that wear a humanoid face, a lion's body, wings of a bat, and a scorpion's tail. Dwell in mountainous regions, abandoned castles, and forgotten dungeons.
-- Tail spikes act like darts, regrowing after a few days. A single spike is worth 150gp to a collector.
-- **Critical Damage**: Target is _deprived_ until they get a good night's sleep. Until then, they act boorish, selfish, and cruel (or more so, if that already is their nature).
+- 怀着恶意的怪物，长着类人的脸、狮子的身体、蝙蝠的翅膀和蝎子的尾巴。栖息在山地、废弃城堡和被遗忘的地城中。
+- 尾刺像飞镖一样，几天后会重新长出。一根尾刺对收藏家而言价值 150gp。
+- **重伤**：目标陷入_匮乏_，直到睡个好觉为止。在此之前，目标会表现得粗鲁、自私而残酷（如果这本来就是其本性，则会更加严重）。
 
-## Mimic
+## 拟形怪
 
-9 HP, 2 Armor, 13 STR, 6 DEX, 12 WIL, bite (d8)
+9 HP, 2 护甲, 13 STR, 6 DEX, 12 WIL, 撕咬 (d8)
 
-- Malicious shape shifters that take on the form of inanimate objects commonly found in dungeons.
-- Remain motionless while in disguise, surprising anyone that comes near.
-- The mimic's saliva is extremely sticky and difficult to remove. Alchemists will pay up to 150gp for even the smallest vial.
+- 恶意的变形生物，会伪装成地城中常见的无生命物体。
+- 伪装时一动不动，让靠近的任何人都措手不及。
+- 拟形怪的唾液极其黏稠，难以清除。炼金术士愿意为最小的一瓶也支付 150gp。
 
-## Mind Lasher
+## 心灵鞭笞者
 
-12 HP, 8 STR, 12 DEX, 18 WIL, tentacles (d6, _blast_)
+12 HP, 8 STR, 12 DEX, 18 WIL, 触手 (d6, _爆发_)
 
-- Humanoid creatures with purple skin and squid-like heads. Dwell deep underground or in spacefaring vessels. Feed on the brains of other humanoids, absorbing their memories and life essence. Highly intelligent, but evil beyond belief.
-- **Mind Blast**: Nearby targets must save WIL or lose 1d4 WIL and become paralyzed.
-- **Critical Damage**: A tentacle rips the victim's brain out of their skull.
+- 皮肤紫色、长着鱿鱼般头部的类人。栖息在地下深处或遨游太空的船只中。以其他类人的大脑为食，吸收他们的记忆和生命精华。极其聪明，却邪恶得令人难以置信。
+- **心灵爆破**：附近的目标必须进行 WIL 豁免，否则损失 1d4 WIL 并陷入麻痹。
+- **重伤**：一条触手将受害者的大脑从头骨中扯出。
 
-## Minotaur
+## 牛头人
 
-12 HP, 1 Armor, 16 STR, 12 DEX, 8 WIL, two-handed axe (d10), charge (d12)
+12 HP, 1 护甲, 16 STR, 12 DEX, 8 WIL, 双手斧 (d10), 冲锋 (d12)
 
-- Large humanoids (typically male) with the head of a bull. Dwell in mazes or dungeons.
-- Extraordinary trackers with an excellent sense of smell and navigation skills.
+- 拥有公牛头部的大型类人（通常为雄性）。栖息在迷宫或地城中。
+- 非凡的追踪者，拥有出色的嗅觉和导航能力。
 
-## Mummy
+## 木乃伊
 
-6 HP, 12 STR, 8 DEX, 6 WIL, necrotic touch (d10)
+6 HP, 12 STR, 8 DEX, 6 WIL, 死灵之触 (d10)
 
-- Undead humanoids wrapped in funerary cloth. Found in pyramids, ruins, temples, and tombs.
-- **Critical Damage**: Target is infected with mummy rot, and is unable to recover STR until they are cured by a specialist healer. The target is also _deprived_.
+- 用葬服包裹的不死类人。常见于金字塔、遗迹、神庙和陵墓中。
+- **重伤**：目标感染木乃伊腐烂，在接受专门治疗者救治前无法恢复 STR。目标还会陷入_匮乏_。
 
-## Naga
+## 那伽
 
-6 HP, 1 Armor, 14 STR, 12 DEX, 14 WIL, sword (d6), bite (d10)
+6 HP, 1 护甲, 14 STR, 12 DEX, 14 WIL, 剑 (d6), 撕咬 (d10)
 
-- Humanoids with the lower body, tail, and neck of snakes. Dwell in hot jungles and temples lost to time.
-- Use cunning and hypnosis to capture other creatures to be enslaved.
-- **Gaze**: A target facing the Naga is hypnotized, falling under its will. Its victims cannot be compelled to violence.
+- 下半身、尾巴和脖子都是蛇的类人。栖息在炎热丛林和被时间遗忘的神庙中。
+- 用狡诈和催眠术捕获其他生物，将其变成奴隶。
+- **凝视**：面向那伽的目标会被催眠，落入它的意志之下。它的受害者无法被迫实施暴力。
 
-## Night Cat
+## 夜猫
 
-6 HP, 9 STR, 14 DEX, 5 WIL, claws (d6+d6)
+6 HP, 9 STR, 14 DEX, 5 WIL, 利爪 (d6+d6)
 
-- Intelligent, nocturnal marsupials that make their homes in forests and swamps. Hunt in
-packs.
-- Critical Damage: The Night Cat begins to eat the target (d4 STR damage) while they are
-still alive.
+- 聪明的夜行有袋类动物，在森林和沼泽中筑巢。成群
+  捕猎。
+- **重伤**：夜猫开始啃食目标（造成 d4 STR 伤害），即使目标仍
+  活着也不停下。
 
-## Night Hag
+## 夜巫婆
 
-8 HP, 9 STR, 11 DEX, 16 WIL, talons (d8+d8)
+8 HP, 9 STR, 11 DEX, 16 WIL, 利爪 (d8+d8)
 
-- Hideous old women that dwell in dead forests, swamps, and bogs.
-- Carry three of the following spellbooks: _Arcane Eye_, _Disguise_, _Fog Cloud_, _Identify Owner_, _Smoke Form_.
+- 栖息在死寂森林、沼泽和泥潭中的丑陋老妇。
+- 携带以下法术书中的三本：_奥术之眼_、_伪装_、_雾云术_、_辨认主人_、_烟雾形态_。
 
-## Nightmare
+## 梦魇
 
-8 HP, 15 STR, 12 DEX, 8 WIL, flaming hooves (d8+d8)
+8 HP, 15 STR, 12 DEX, 8 WIL, 烈焰蹄 (d8+d8)
 
-- Intelligent, demonic horses with eyes like burning coals, smoldering nostrils, and flaming hooves.
-- Melee attacks against the Nightmare are _impaired_ due to the thick clouds of smoke it produces.
+- 聪明的恶魔马匹，双眼如燃烧的煤炭，鼻孔冒着烟，蹄子燃烧着火焰。
+- 由于会产生浓密烟雾，针对梦魇的近战攻击处于_削弱_。
 
-## Ogre
+## 食人魔
 
-6 HP, 1 Armor, 16 STR, 8 DEX, 6 WIL, club (d10)
+6 HP, 1 护甲, 16 STR, 8 DEX, 6 WIL, 棍棒 (d10)
 
-- Massive, gluttonous brutes of ill-spirit and low intelligence.
-- Easily impressed by shiny materials, keeping sacks of gold and treasure in their lairs.
+- 庞大、贪食、心性恶劣且智力低下的蛮物。
+- 闪亮的材料很容易让它们印象深刻，并会在巢穴中收藏一袋袋金币和财宝。
 
-## Owlbear
+## 枭熊
 
-9 HP, 16 STR, 12 DEX, 5 WIL, beak (d10), claws (d8+d8)
+9 HP, 16 STR, 12 DEX, 5 WIL, 鸟喙 (d10), 利爪 (d8+d8)
 
-- Bear-like carnivores with the face of an owl. Found in dense forests. Rumored spawn of a magical mishap.
-- **Critical Damage**: A piece of armor is rent and destroyed.
+- 长着猫头鹰脸的熊类食肉动物。生活在茂密的森林中。传闻它们是魔法事故的产物。
+- **重伤**：一件护甲被撕裂并摧毁。
 
-## Phoenix
+## 凤凰
 
-4 HP, 15 STR, 13 DEX, 12 WIL, talons (d10+d10)
+4 HP, 15 STR, 13 DEX, 12 WIL, 利爪 (d10+d10)
 
-- Intelligent, hawk-like spirits of pure flame, found in isolated deserts and high mountains.
-- If killed, they explode in a burst of flames. They are reborn 1d3 days later from the ashes.
-- Their feathers are highly-sought after for their healing properties.
+- 智慧的鹰类纯火灵体，常见于与世隔绝的沙漠和高山。
+- 如果被杀死，它们会在一阵火焰中爆炸。1d3 天后，它们会从灰烬中重生。
+- 它们的羽毛因强大的疗愈性质而价值极高。
 
-## Pixie
+## 皮克精
 
 3 HP, 3 STR, 15 DEX, 13 WIL
 
-- Tiny humanoids with insectoid wings. Naturally invisible.
-- Can cast _Sleep_ and _Masquerade_ at will.
+- 长着昆虫翅膀的微型类人。天生隐形。
+- 可以随意施放_睡眠_和_假面术_。
 
-## Purple Worm
+## 紫虫
 
-18 HP, 1 Armor, 18 STR, 8 DEX, 6 WIL, bite (d12), _detachment_
+18 HP, 1 护甲, 18 STR, 8 DEX, 6 WIL, 撕咬 (d12), _分队_
 
-- Gargantuan worms that lair in enormous burrows deep underground, only coming to the surface to eat. Found in high deserts and hot tundra.
-- **Critical Damage**: The target is devoured, taking d8 STR damage from the acid in the worm's stomach.
+- 巨型蠕虫，在地下深处巨大的洞穴中筑巢，只有为了进食才会来到地表。常见于高地沙漠和炎热苔原。
+- **重伤**：目标被吞食，受到来自蠕虫胃酸的 d8 STR 伤害。
 
-## Red Cap
+## 红帽子
 
-6 HP, 6 STR, 12 DEX, 8 WIL, dual sickles (d6+d6)
+6 HP, 6 STR, 12 DEX, 8 WIL, 双镰刀 (d6+d6)
 
-- Born from blood left to rot in the land of Fairy. Their hats are a deep red from the blood they bathe in.
-- Ignore those with little to live for, as there is no pleasure in their murder.
-- **Critical Damage**: Target is eviscerated, the spray of their blood restoring STR loss suffered by the Red Cap.
+- 由精灵国度中腐烂的血液诞生。它们的帽子因浸泡在血中而呈深红色。
+- 无视那些没有多少活头的人，因为杀死他们毫无乐趣。
+- **重伤**：目标被剖开，喷出的鲜血会恢复红帽子损失的 STR。
 
-## Reptilian
+## 爬行人
 
-5 HP, 1 Armor, 14 STR, 12 DEX, 5 WIL, bone spear (d8)
+5 HP, 1 护甲, 14 STR, 12 DEX, 5 WIL, 骨矛 (d8)
 
-- Amphibian humanoids that live in large tribes near swamps and jungles.
-- Craft their armor and weapons from the bones of their prey. They will eat anything, including humanoids.
+- 生活在沼泽和丛林附近大型部落中的两栖类人。
+- 用猎物的骨头制作护甲和武器。它们什么都吃，包括类人。
 
-## Root Goblin
+## 根地精
 
-4 HP, 8 STR, 14 DEX, 8 WIL, spear (d6)
+4 HP, 8 STR, 14 DEX, 8 WIL, 长矛 (d6)
 
-- Avoid combat unless they have the advantage (such as greater numbers).
-- Guard their stolen goods to the death.
-- Root Goblins prize spellbooks and are always willing to trade.
+- 除非占据优势（例如人数更多），否则避免战斗。
+- 拼死守护偷来的物品。
+- 根地精珍视法术书，并且总是愿意进行交易。
 
-## Root Witch
+## 根巫
 
-8 HP, 9 STR, 16 DEX, 14 WIL, tuber-fingers (d6)
+8 HP, 9 STR, 16 DEX, 14 WIL, 块茎手指 (d6)
 
-- Excellent tunnelers that hide underground near water. Wiggle tiny fronds into the air as lures.
-- Above-ground, appear vaguely humanoid with the face of a rotted tree stump.
-- Will exchange rare minerals for a “fresh corpse” of any kind.
+- 擅长挖掘隧道，在水边的地下藏身。它们会将细小的根须伸向空中作为诱饵。
+- 在地表上，它们的外形模糊地类似类人，脸则像腐烂的树桩。
+- 愿意用稀有矿物交换任何种类的“一具新鲜尸体”。
 
-## Rust Monster
+## 锈蚀怪
 
-5 HP, 16 STR, 13 DEX, 5 WIL, bite (d6)
+5 HP, 16 STR, 13 DEX, 5 WIL, 撕咬 (d6)
 
-- Armadillo-like creatures with club-like tails and long antennae. Feed on iron and rusted metal.
-- Any mundane metals their antennae touch instantly become rust. Can smell metal from a long distance away.
-- **Critical Damage**: Metal armor rusts into useless weight.
+- 外形像犰狳，长着棍棒般的尾巴和长触角。以铁和生锈金属为食。
+- 触角碰到的任何普通金属都会立即生锈。它们能从很远的地方闻到金属气味。
+- **重伤**：金属护甲锈成无用的累赘。
 
-## Sea Hag
+## 海巫婆
 
-6 HP, 11 STR, 15 DEX, 14 WIL, long claws (d6+d6)
+6 HP, 11 STR, 15 DEX, 14 WIL, 长利爪 (d6+d6)
 
-- Ghostly, green-skinned hags that dwell in seaweed forests and warm shallow waters.
-- Immune to magic from spellbooks. 
-- **Hideous Gaze**: A target is overcome with fear (HP drops to 0). WIL save each round to break the spell.
+- 栖息在海藻森林和温暖浅水中的幽灵般绿皮女巫。
+- 免疫法术书中的魔法。
+- **丑陋凝视**：目标被恐惧压倒（HP 降至 0）。每轮进行一次 WIL 豁免以摆脱法术。
 
-## Shadow
+## 阴影
 
-14 HP, 1 STR, 18 DEX, 14 WIL, draining touch (d6, ignores armor) 
+14 HP, 1 STR, 18 DEX, 14 WIL, 吸取之触 (d6, 无视护甲)
 
-- Incorporeal monsters that look like animated shadows. Unharmed by mundane attacks, sleep or mind control.
-- **Critical Damage**: Target loses d4 STR. If reduced to 0 STR, they become a shadow as well.
+- 外形如活化阴影的无形怪物。不受世俗攻击、睡眠或心灵控制影响。
+- **重伤**：目标损失 d4 STR。如果 STR 降至 0，它也会变成阴影。
 
-## Shambling Mound
+## 蹒跚魔
 
-9 HP, 15 STR, 6 DEX, 8 WIL, tendrils (d8+d8), _detachment_
+9 HP, 15 STR, 6 DEX, 8 WIL, 卷须 (d8+d8), _分队_
 
-- Tall humanoids made of slimy vegetation. Dwell in dark swamps and damp undergrounds.
-- **Critical Damage**: Target is swallowed whole and dragged away.
+- 由黏滑植被构成的高大类人。栖息在阴暗沼泽和潮湿的地下环境中。
+- **重伤**：目标被整个吞下并拖走。
 
-## Skeleton
+## 骷髅
 
-5 HP, 1 Armor, 8 STR, 13 DEX, 0 WIL, rusty sword (d6) or bow (d6)
+5 HP, 1 护甲, 8 STR, 13 DEX, 0 WIL, 生锈长剑 (d6) 或弓 (d6)
 
-- Frequently found serving a master or necromancer, often in groups of 3 or more.
-- Found wearing whatever was on them at the time of their death.
-- If a skeleton is killed and its bones are not scattered, it reforms.
+- 经常为主人或死灵法师效力，通常以 3 具或更多一起出现。
+- 身上穿着死前所穿的衣物。
+- 如果骷髅被杀死而骨头没有被打散，它会重新成形。
 
-## Sky Giant
+## 天空巨人
 
-12 HP, 1 Armor, 16 STR, 12 DEX, 14 WIL, mace (d10), _detachment_
+12 HP, 1 护甲, 16 STR, 12 DEX, 14 WIL, 钉头锤 (d10), _分队_
 
-- Towering, white-skinned giants that live in castles high in the mountains.
-- Missile attacks against them are _impaired_ due to the powerful winds surrounding them.
+- 皮肤苍白、身形高耸的巨人，居住在高山上的城堡中。
+- 由于周围强劲的风，针对它们的远程攻击处于_削弱_。
 
-## Sphinx
+## 斯芬克斯
 
-18 HP, 12 STR, 13 DEX, 18 WIL, claws (d8+d8, _blast_), beak (d10)
+18 HP, 12 STR, 13 DEX, 18 WIL, 利爪 (d8+d8, _爆发_), 鸟喙 (d10)
 
-- Mythical beasts with the upper body and head of a human, the wings of an eagle, and the body of a lion. Immune to magic of any kind.
-- Poses riddles to anyone they meet. Failure to answer correctly is usually met with death. They know almost everything worth knowing.
-- **Roar**: Anyone in earshot must save WIL or flee in fear.
+- 神话中的野兽，上半身和头部是人类，翅膀是鹰，身体是狮子。免疫任何形式的魔法。
+- 向遇到的任何人提出谜语。回答错误通常会招致死亡。它们知道几乎所有值得知道的事情。
+- **咆哮**：听到咆哮的所有人都必须进行 WIL 豁免，否则会因恐惧而逃跑。
 
-## Storm Giant
+## 风暴巨人
 
-18 HP, 2 Armor, 18 STR, 16 DEX, 18 WIL, great sword (d12), _detachment_
+18 HP, 2 护甲, 18 STR, 16 DEX, 18 WIL, 巨剑 (d12), _分队_
 
-- Building-sized humanoids with bronze-hued skin and light-colored hair. Live on the highest mountain peaks and rockiest coastlines.
-- Unharmed by lightning, can summon storm clouds at their will. Can fly with the wind as a their chariot.
-- **Thunderclap**: Deals 4 STR damage against a single target. Targets wearing metal armor take double damage.
+- 身形如建筑般高大，皮肤呈青铜色，头发颜色浅淡的类人。生活在最高的山峰和最崎岖的海岸线上。
+- 不受闪电伤害，可以随意召唤风暴云。可以乘风飞行，如同以风为战车。
+- **雷鸣**：对单个目标造成 4 STR 伤害。穿戴金属护甲的目标受到双倍伤害。
 
-## Swine Thing
+## 猪兽
 
-9 HP, 16 STR, 8 DEX, 13 WIL, gore (d6+d6)
+9 HP, 16 STR, 8 DEX, 13 WIL, 撕裂 (d6+d6)
 
-- Obese humanoids that transform into massive porcine monstrosities to feast on human flesh.
-- Prefer to hunt in isolated settlements close to forests and wetlands. Can only shapeshift at night.
-- **Charm**: Target obeys the swine's every command until it is killed. WIL save once per round to break free.
+- 肥胖的类人，会变成巨大的猪形怪物，以人肉为食。
+- 偏好在靠近森林和湿地的偏僻聚落中捕猎。只能在夜间变形。
+- **魅惑**：目标服从猪兽的每一个命令，直到它被杀死。每轮进行一次 WIL 豁免以摆脱影响。
 
-## Titan
+## 泰坦
 
-18 HP, 3 Armor, 16 STR, 15 DEX, 18 WIL, lightning sword (d12), _detachment_
+18 HP, 3 护甲, 16 STR, 15 DEX, 18 WIL, 闪电剑 (d12), _分队_
 
-- Mythical, humanoid giants of radiant beauty and powerfully athletic bodies. Beneficent of character, but prone to megalomania. 
-- Natives of other planes of existence, but sometimes have strongholds in the mortal world.
-- Can levitate, shape shift, and sculpt elements at will.
+- 神话中的类人巨人，拥有光辉美丽的外表和强健有力的身体。性情仁慈，却容易妄自尊大。
+- 来自其他存在位面，但有时会在凡世建立据点。
+- 可以随意悬浮、变形和塑造元素。
 
-## Treant
+## 树人
 
-10 HP, 3 Armor, 15 STR, 3 DEX, 12 WIL, roots (d8+d8, _blast_)
+10 HP, 3 护甲, 15 STR, 3 DEX, 12 WIL, 根须 (d8+d8, _爆发_)
 
-- Sentient, bipedal trees with a vaguely humanoid face on their trunks. Found in the deepest part of the wood.
-- Speak slowly and ponderously, with a deep voice. Timeless, living for thousands of years.
+- 有知觉、用双足行走的树木，树干上长着模糊的类人脸庞。生活在森林最深处。
+- 说话缓慢而沉重，声音低沉。超越时间，能存活数千年。
 
-## Triton
+## 崔顿
 
-6 HP, 12 STR, 15 DEX, 12 WIL, trident (d8)
+6 HP, 12 STR, 15 DEX, 12 WIL, 三叉戟 (d8)
 
-- Aquatic humanoids with silvery skin, blue-green hair, and scaled legs ending in fins. Dwell in warmer waters close to land.
-- Lair in beautiful castles sculpted from sea rock and coral. Command vast schools of fish for both protection and food.
+- 拥有银色皮肤、蓝绿色头发和鳞片腿的水生类人，双腿末端是鳍。栖息在靠近陆地的温暖水域。
+- 在海岩和珊瑚雕刻而成的美丽城堡中筑巢。指挥庞大的鱼群，既用于防护，也用于获取食物。
 
-## Troll
+## 巨魔
 
-14 HP, 1 Armor, 14 STR, 12 DEX, 4 WIL, bite (d10), claws (d8+d8)
+14 HP, 1 护甲, 14 STR, 12 DEX, 4 WIL, 撕咬 (d10), 利爪 (d8+d8)
 
-- Giant, warty humanoids of flesh and bark. Dwell underground or in deep forests, as well as the ruined homes of their former victims. Carnivorous. 
-- When taking **Critical Damage**, a Troll will continue fighting, despite loss of flesh and limb. Only when their STR is 0 are they truly killed. Unless their heads are bathed in acid, fire, or powerful magic, they will fully regenerate within 1d4 days.
+- 由血肉和树皮构成、长满疣的巨型类人。栖息在地下、深林以及曾经受害者的废弃家园中。以肉食为生。
+- 受到**重伤**时，巨魔会无视血肉和肢体的损失继续战斗。只有 STR 降至 0 时，它们才会真正死亡。除非将它们的头颅浸泡在酸液、火焰或强大魔法中，否则它们会在 1d4 天内完全再生。
 
-## Unicorn
+## 独角兽
 
-6 HP, 14 STR, 12 DEX, 14 WIL, horn (d10, ignores armor)
+6 HP, 14 STR, 12 DEX, 14 WIL, 独角 (d10, 无视护甲)
 
-- Magical horses with a single long horn on their foreheads. Timid, but proud and willful, are seen as divine beings.
-- Their hair is worth a small fortune due to its powerful healing properties.
+- 额头上长着一根长角的魔法马匹。它们胆怯，却骄傲而任性，被视为神圣生物。
+- 它们的毛发拥有强大的疗愈性质，价值连城。
 
-## Vampire
+## 吸血鬼
 
-12 HP, 1 Armor, 14 STR, 12 DEX, 16 WIL, bite (d10)
+12 HP, 1 护甲, 14 STR, 12 DEX, 16 WIL, 撕咬 (d10)
 
-- Charming, undead creatures that drink the blood of mortals. Act at night and sleep in a coffin during the day. Can change into a bat at will.
-- **Regeneration**: A damaged vampire regains 6 HP when it bites a target that has blood. If killed, it becomes a cloud of gas and retreats to its coffin, reforming at the next nightfall. Can only be killed if exposed to sunlight or if the coffin is destroyed.
-- **Critical Damage**: The vampire drains the target's essence, dealing d12 damage to WIL. If the target reaches 0 WIL this way, it dies and is raised as a thrall of the vampire.
+- 迷人的不死生物，以凡人的血液为食。夜间活动，白天在棺材中睡眠。可以随意变成蝙蝠。
+- **再生**：吸血鬼咬住有血液的目标时，恢复 6 HP。如果被杀死，它会变成一团气体，逃回棺材，并在下一次日落时重塑身体。只有暴露在阳光下或摧毁棺材，才能杀死它。
+- **重伤**：吸血鬼吸取目标的精华，对 WIL 造成 d12 伤害。如果目标因这种方式降至 0 WIL，它会死亡，并作为吸血鬼的奴仆复活。
 
-## Viper
+## 蝰蛇
 
-3 HP, 5 STR, 12 DEX, 3 WIL, bite (d6)
+3 HP, 5 STR, 12 DEX, 3 WIL, 撕咬 (d6)
 
-- Poisonous snakes often found in caves, pits, and other dark places. An antitoxin can be made from their poison sacs.
-- Use heat and smell to track their victims.
-- **Critical Damage**: Target is poisoned, dying in 1d12 hours without a cure.
+- 常见于洞窟、坑洞和其他黑暗地点的毒蛇。可以用它们的毒囊制作抗毒剂。
+- 利用热量和气味追踪受害者。
+- **重伤**：目标中毒，如果没有解药，会在 1d12 小时内死亡。
 
-## Warp Panther
+## 扭曲豹
 
-8 HP, 13 STR, 16 DEX, 12 WIL, tentacles (d8+d8, _blast_), bite (d10)
+8 HP, 13 STR, 16 DEX, 12 WIL, 触手 (d8+d8, _爆发_), 撕咬 (d10)
 
-- Grotesque panther-like predators with long razored tentacles growing out of their backs.
-- Resistant to magical attacks. Caster must make a WIL save for the intended effect to succeed.
-- Can teleport a short distance away at will. Hate Blink Dogs.
+- 外形像怪异猎豹的捕食者，背部长出细长、如剃刀般锋利的触手。
+- 抵抗魔法攻击。施法者必须进行 WIL 豁免，预期效果才会生效。
+- 可以随意传送到短距离外。憎恨闪现犬。
 
-## Warrior Snail
+## 战蜗牛
 
-4 HP, 2 Armor, 14 STR, 6 DEX, 3 WIL, tentacles (d8+d8)
+4 HP, 2 护甲, 14 STR, 6 DEX, 3 WIL, 触手 (d8+d8)
 
-- Giant armored snails with heavy, club-like tentacles. 
-- Some species have colorful shells that can reflect magical attacks.
+- 拥有厚重棍棒状触手的巨型装甲蜗牛。
+- 有些种类拥有色彩鲜艳的外壳，可以反射魔法攻击。
 
-## Water Elemental
+## 水元素
 
-14 HP, 15 STR, 16 DEX, 4 WIL, spray (d8)
+14 HP, 15 STR, 16 DEX, 4 WIL, 喷射 (d8)
 
-- Rare spirits of lakes, rivers, and seas. 
-- Mundane attacks against the Water Elemental are _impaired_.
-- **Critical Damage**: Target is enveloped by the water and drowns in three rounds.
+- 湖泊、河流和海洋中罕见的灵体。
+- 针对水元素的世俗攻击处于_削弱_。
+- **重伤**：目标被水包裹，三轮后溺水。
 
-## Werewolf
+## 狼人
 
-8 HP, 15 STR, 14 DEX, 6 WIL, claws (d6+d6), bite (d8)
+8 HP, 15 STR, 14 DEX, 6 WIL, 利爪 (d6+d6), 撕咬 (d8)
 
-- Ferocious lycanthropes that can transform into a wolf-shape at will.
-- Mundane attacks are _impaired_ against werewolves, but attacks with weapons made of silver are _enhanced_.
-- **Critical Damage**: Target becomes infected with lycanthropy, transforming into a werewolf by the next full moon.
+- 凶猛的狼人，可以随意变成狼形。
+- 针对狼人的世俗攻击处于_削弱_，但银制武器造成的攻击会得到_强化_。
+- **重伤**：目标感染狼人诅咒，在下一个满月前变成狼人。
 
-## Wight
+## 尸妖
 
-12 HP, 3 Armor, 16 STR, 8 DEX, 12 WIL, long sword (d10)
+12 HP, 3 护甲, 16 STR, 8 DEX, 12 WIL, 长剑 (d10)
 
-- Grotesque, fallen warriors, raised from death for ill purpose. Often astride equally nightmarish steeds, leading lesser undead creatures into battle.
-- **Critical Damage**: On a fail, any STR loss is permanent.
+- 丑陋、堕落的战士，为邪恶目的从死亡中复起。它们经常骑着同样可怕的坐骑，率领低等不死生物投入战斗。
+- **重伤**：如果豁免失败，任何 STR 损失都是永久性的。
 
-## Will-o-Wisp
+## 鬼火
 
 3 HP, 6 STR, 17 DEX, 12 WIL
 
-- Nocturnal spirits of cool flame, commonly found in dense woodlands, marshes, and swamps.
-- Known to lead travelers astray, to a corpse, or back home again.
+- 夜行的冷焰灵体，常见于茂密林地、沼泽和湿地。
+- 以引导旅人误入歧途而闻名：有时带他们走向尸体，有时带他们回家。
 
-## Wolf
+## 狼
 
-6 HP, 12 STR, 14 DEX, 8 WIL, bite (d8)
+6 HP, 12 STR, 14 DEX, 8 WIL, 撕咬 (d8)
 
-- Large canines that dwell primarily in forest or tundra. 
-- Can be trained with effort if captured at a young age.
+- 主要栖息在森林或苔原的大型犬科动物。
+- 如果在幼年捕获，可以付出努力将其驯服。
 
-## Wood Troll
+## 木巨魔
 
-10 HP, 15 STR, 12 DEX, 7 WIL, bite (d8), club (d10)
+10 HP, 15 STR, 12 DEX, 7 WIL, 撕咬 (d8), 棍棒 (d10)
 
-- Large humanoids with elongated arms made of bark or root. They live in forests, sharing a deep connection with the vegetation around them.
-- If killed, they will slowly regenerate unless their corpse is taken out of the forest or burned with fire.
-- **Critical Damage**: Moss and twigs begin growing out of target's wounds.
+- 拥有树皮或根须构成的细长手臂的大型类人。生活在森林中，与周围植被有着深厚联系。
+- 如果被杀死，它们会慢慢再生，除非将尸体带出森林或用火焚烧。
+- **重伤**：苔藓和嫩枝开始从目标的伤口中生长出来。
 
-## Wyvern
+## 双足飞龙
 
-11 HP, 15 STR, 14 DEX, 13 WIL, stinger (d10)
+11 HP, 15 STR, 14 DEX, 13 WIL, 尾刺 (d10)
 
-- Large, intelligent, winged reptiles. Dwell in any terrain, but favor dry cliffs.
-- Shy away from other creatures, preferring to silently stalk their targets from afar.
-- **Critical Damage**: The victim is impaled and held in place. The wyvern then bites their head off.
+- 大型、聪明的有翼爬行类生物。可以栖息在任何地形，但偏好干燥的悬崖。
+- 躲避其他生物，更喜欢从远处悄悄跟踪目标。
+- **重伤**：受害者被刺穿并钉在原地。双足飞龙随后咬掉其头颅。
 
-## Zombie
+## 僵尸
 
-2 HP, 12 STR, 6 DEX, 3 WIL, jagged nails (d6)
+2 HP, 12 STR, 6 DEX, 3 WIL, 锯齿状指甲 (d6)
 
-- Re-animated corpse brought back through necromantic ritual or fell influence. Immune to all mind-influencing effects.
-- If not utterly destroyed (by fire, complete dismemberment, etc.), the Zombie will rise again within a few minutes.
-- **Critical Damage**: Target is infected and becomes _deprived_. Without the services of a specialist or healer, they will become a zombie in 1d4 days.
+- 通过死灵仪式或邪恶影响复活的尸体。免疫所有影响心智的效果。
+- 如果没有被彻底摧毁（例如焚烧、完全肢解等），僵尸会在几分钟内再次站起。
+- **重伤**：目标受到感染并陷入_匮乏_。如果没有专门人士或治疗者的帮助，目标会在 1d4 天内变成僵尸。

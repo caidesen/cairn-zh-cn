@@ -1,677 +1,677 @@
 ---
 layout: default
-title: Setting Seeds
-parent: Warden's Guide 
-grand_parent: Second Edition
+title: 设定种子
+parent: 守望者指南
+grand_parent: 第二版
 ---
 
-# Setting Seeds
+# 设定种子
 
-## Overview
+## 概览
 
-The following procedure is designed to help create the _seed_ of a setting: the unique topography, natural features, people, and paths that an adventuring party may encounter as they travel throughout a region. We'll start by developing the people that live there, their ambitions and resources, and the factions that affect them. Then we'll generate the terrain of your region, followed by its various points of interest, landmarks, roads, trails, and so on. As with any other rule, if you don't like a table result, roll again or tweak as desired!
+以下流程旨在帮助创建一个设定的_种子_：冒险队伍在穿越某个地区时可能遇到的独特地形、自然特征、居民与道路。我们会先塑造居住于此的人们、他们的抱负和资源，以及影响他们的派系。然后生成地区地形，再生成各类兴趣点、地标、道路、小径等等。和其他规则一样，如果你不喜欢某个表格结果，就重新掷骰或按需调整！
 
-## Example
+## 示例
 
-Before you begin please check out this example (click on it):
+开始前，请先查看这个示例（点击图片）：
 
-[![Click Me!](/img/2e/setting-seed-example.webp "Click to embiggen"){:height="60%" width="60%"}](/img/2e/setting-seed-example.webp)
+[![点击我！](/img/2e/setting-seed-example.webp "点击放大"){:height="60%" width="60%"}](/img/2e/setting-seed-example.webp)
 
-## The Realm
+## 国度
 
-A **Realm** is a general term for a related collection of regions, potentially encompassing hundreds of places for the player characters to visit and interact with.
+**国度**是一个泛称，指由相互关联的一组地区组成的整体，其中可能包含数百个供玩家角色游历和互动的地点。
 
-### Materials Required
+### 所需材料
 
-- A sheet of paper and a notebook. Letter/A4 is OK, but the larger the better. Going forward, we will refer to the sheet of paper as the **map**.
-- Pencils and erasers. Colored pencils if you want to make it pretty or want to indicate terrain with color.
-- At least one d6 and one d20, but 6d6 and 2d20 would be ideal.
+- 一张纸和一本笔记本。信纸/A4 大小即可，但越大越好。下文将把这张纸称为**地图**。
+- 铅笔和橡皮。如果想让地图更漂亮，或者想用颜色标示地形，也可以准备彩色铅笔。
+- 至少一枚 d6 和一枚 d20；不过，准备 6d6 和 2d20 最为理想。
 
-## Theme
+## 主题
 
-### People
+### 民众
 
-The most important aspect of a region is its _people_: their character, ambitions, and the resources that tie them to this land. Roll on the [Culture](#culture) and [Resources](#resources) tables, then note the results in your notebook.    
+一个地区最重要的方面是它的_民众_：他们的性格、抱负，以及将他们与这片土地联系在一起的资源。在[文化](#culture)和[资源](#resources)表上掷骰，然后把结果记在笔记本中。
 
-#### Culture
+#### 文化 {#culture}
 
-Roll 1d20 for each column and combine the results.
+为每一列掷 1d20，然后组合结果。
 
 |         |               |                 |
 | ------- | ------------- | --------------- |
-| **d20** | **Character** | **Ambition**    |
-| **1**   | Altruistic    | Bounty          |
-| **2**   | Artistic      | Conquest        |
-| **3**   | Curious       | Control         |
-| **4**   | Devious       | Conversion      |
-| **5**   | Enlightened   | Division        |
-| **6**   | Hardy         | Dominance       |
-| **7**   | Harmonious    | Exploration     |
-| **8**   | Inventive     | Fealty          |
-| **9**   | Mercantile    | Independence    |
-| **10**  | Nomadic       | Knowledge       |
-| **11**  | Reclusive     | Natural Harmony |
-| **12**  | Religious     | Peace           |
-| **13**  | Resilient     | Power           |
-| **14**  | Scholarly     | Purity          |
-| **15**  | Stoic         | Recognition     |
-| **16**  | Struggling    | Return          |
-| **17**  | Traditional   | Security        |
-| **18**  | War-like      | Stability       |
-| **19**  | Wealthy       | Unification     |
-| **20**  | Xenophobic    | Wealth          |
+| **d20** | **性格**      | **抱负**        |
+| **1**   | 利他          | 赏金            |
+| **2**   | 艺术          | 征服            |
+| **3**   | 好奇          | 控制            |
+| **4**   | 狡猾          | 皈依            |
+| **5**   | 开明          | 分裂            |
+| **6**   | 坚韧          | 支配            |
+| **7**   | 和谐          | 探索            |
+| **8**   | 富有创造力    | 效忠            |
+| **9**   | 重商          | 独立            |
+| **10**  | 游牧          | 知识            |
+| **11**  | 隐居          | 自然和谐        |
+| **12**  | 虔诚          | 和平            |
+| **13**  | 坚韧不拔      | 权力            |
+| **14**  | 博学          | 纯洁            |
+| **15**  | 坚忍          | 认可            |
+| **16**  | 艰难求生      | 回归            |
+| **17**  | 传统          | 安全            |
+| **18**  | 好战          | 稳定            |
+| **19**  | 富裕          | 统一            |
+| **20**  | 仇外          | 财富            |
 
-#### Resources
+#### 资源 {#resources}
 
-Roll 1d20 for each column and combine the results.
+为每一列掷 1d20，然后组合结果。
 
 |         |               |               |
 | ------- | ------------- | ------------- |
-| **d20** | **Abundance** | **Scarcity**  |
-| **1**   | Food          | Food          |
-| **2**   | Fuel          | Fuel          |
-| **3**   | Gemstones     | Gemstones     |
-| **4**   | Herbs         | Herbs         |
-| **5**   | Horses        | Horses        |
-| **6**   | Knowledge     | Knowledge     |
-| **7**   | Land          | Land          |
-| **8**   | Livestock     | Livestock     |
-| **9**   | Medicine      | Medicine      |
-| **10**  | Ore           | Ore           |
-| **11**  | Skilled Labor | Skilled Labor |
-| **12**  | Spices        | Spices        |
-| **13**  | Stone         | Stone         |
-| **14**  | Textiles      | Textiles      |
-| **15**  | Tools         | Tools         |
-| **16**  | Trade Goods   | Trade Goods   |
-| **17**  | Vessels       | Vessels       |
-| **18**  | Water         | Water         |
-| **19**  | Weapons       | Weapons       |
-| **20**  | Wood          | Wood          |
+| **d20** | **丰饶**      | **匮乏**      |
+| **1**   | 食物          | 食物          |
+| **2**   | 燃料          | 燃料          |
+| **3**   | 宝石          | 宝石          |
+| **4**   | 草药          | 草药          |
+| **5**   | 马匹          | 马匹          |
+| **6**   | 知识          | 知识          |
+| **7**   | 土地          | 土地          |
+| **8**   | 牲畜          | 牲畜          |
+| **9**   | 药品          | 药品          |
+| **10**  | 矿石          | 矿石          |
+| **11**  | 熟练劳工      | 熟练劳工      |
+| **12**  | 香料          | 香料          |
+| **13**  | 石材          | 石材          |
+| **14**  | 纺织品        | 纺织品        |
+| **15**  | 工具          | 工具          |
+| **16**  | 贸易商品      | 贸易商品      |
+| **17**  | 船只          | 船只          |
+| **18**  | 水            | 水            |
+| **19**  | 武器          | 武器          |
+| **20**  | 木材          | 木材          |
 
-### Factions
+### 派系
 
-A region is typically dominated by one or more factions, each with their own unique **Advantages**, **Agenda**, and **Obstacles**. Each faction should also have one or more representatives, or **Agents**, tasked with helping complete their agenda. Smaller regions with fewer POIs should have 1-2 factions, while larger regions could have as many as 5-6 factions. 
+一个地区通常由一个或多个派系主导，每个派系都有自己独特的**优势**、**议程**和**障碍**。每个派系还应有一名或多名代表，或称**代理人**，负责帮助完成其议程。兴趣点较少的小型地区应有 1-2 个派系，而较大的地区可以有多达 5-6 个派系。
 
-Agents are often in charge of completing one or more of the goals of the Agenda of a faction. Particularly large factions may have additional agents, each in charge of a distinct goal. Agents may have personal motivations that differ from the faction's main agenda, a fact that canny PCs can exploit for their own gain.
+代理人通常负责完成派系议程中的一个或多个目标。特别庞大的派系可能拥有额外的代理人，每名代理人负责一个独立目标。代理人的个人动机可能与派系的主要议程不同，精明的 PC 可以利用这一点为自己谋利。
 
-#### Advantages
+#### 优势
 
-Factions possess advantages that assist them in accomplishing their agenda. Advantages reflect a faction's influence, materials, wealth, and other unique features. Factions leverage their advantages as much as possible when trying to achieve their goals, and at the same time continually work to acquire _more_ advantages.
+派系拥有能帮助自己实现议程的优势。优势体现了派系的影响力、物资、财富以及其他独特特征。派系会在尝试实现目标时尽可能利用自身优势，同时持续努力获取_更多_优势。
 
-#### Agendas
+#### 议程
 
-Factions will work to complete their agendas independently, enlisting the help of PCs only when that would strengthen their agenda. Agendas are defined by a series of 3-5 goals that build toward a clear objective. Goals are _progressive_, building on the previous successes (or failures) of earlier goals. 
+派系会独立完成自己的议程，只有在 PC 的帮助能强化议程时，才会寻求 PC 的协助。议程由 3-5 个目标组成，这些目标逐步指向一个明确目的。目标是_渐进的_，建立在早先目标成功（或失败）的基础之上。
 
-Goals should focus on acquiring a distinct advantage in order to proceed to the next goal. At least one goal should deal with the faction's primary obstacle. This may be the first goal, or the last. All agendas have at least one obstacle that stands in the way of their completion. Additional obstacles can arise through faction Actions (see below) or through developments in the fiction. 
+目标应集中于获得某项明确优势，以便推进到下一个目标。至少有一个目标应处理派系的主要障碍。它可以是第一个目标，也可以是最后一个目标。所有议程至少有一个阻碍其完成的障碍。更多障碍可能通过派系行动（见下文）或虚构情境的发展产生。
 
-Completing a faction's agendas should be a significant event, potentially changing the political or natural landscape of a region.
+完成派系议程应当是一件重大事件，可能改变一个地区的政治或自然景观。
 
-> The region map should continually reflect the impact of factions as they work on completing their agendas and acquiring more advantages.
+> 地区地图应当持续反映派系完成议程并获取更多优势时所产生的影响。
 
-#### Creating factions
+#### 创建派系
 
-Roll one or more times on the [Faction Types](#faction-types), [Faction Traits](#faction-traits), [Faction Advantages](#faction-advantages) and [Faction Agendas](#faction-agendas) tables.
+在[派系类型](#faction-types)、[派系特征](#faction-traits)、[派系优势](#faction-advantages)和[派系议程](#faction-agendas)表上掷一次或多次骰。
 
-#### Faction Types
+#### 派系类型 {#faction-types}
 
-Roll 1d20 for each column and combine the results.
+为每一列掷 1d20，然后组合结果。
 
 |         |                 |             |
 | ------- | --------------- | ----------- |
-| **d20** | **Type**        | **Agent**   |
-| **1**   | Artisans        | Academic    |
-| **2**   | Commoners       | Assassin    |
-| **3**   | Criminals       | Blacksmith  |
-| **4**   | Cultists        | Farmer      |
-| **5**   | Exiles          | General     |
-| **6**   | Explorers       | Gravedigger |
-| **7**   | Industrialists  | Guard       |
-| **8**   | Merchants       | Healer      |
-| **9**   | Military        | Jailer      |
-| **10**  | Nobles          | Laborer     |
-| **11**  | Nomads          | Lord        |
-| **12**  | Pilgrims        | Merchant    |
-| **13**  | Protectors      | Monk        |
-| **14**  | Religious       | Mystic      |
-| **15**  | Revolutionaries | Outlander   |
-| **16**  | Rulers          | Peddler     |
-| **17**  | Scholars        | Politician  |
-| **18**  | Settlers        | Spy         |
-| **19**  | Spies           | Thief       |
-| **20**  | Tribe           | Thug        |
+| **d20** | **类型**        | **代理人**  |
+| **1**   | 工匠            | 学者        |
+| **2**   | 平民            | 刺客        |
+| **3**   | 罪犯            | 铁匠        |
+| **4**   | 邪教徒          | 农夫        |
+| **5**   | 流亡者          | 将军        |
+| **6**   | 探险者          | 掘墓人      |
+| **7**   | 工业家          | 卫兵        |
+| **8**   | 商人            | 医者        |
+| **9**   | 军队            | 狱卒        |
+| **10**  | 贵族            | 劳工        |
+| **11**  | 游牧民          | 领主        |
+| **12**  | 朝圣者          | 商人        |
+| **13**  | 保护者          | 修士        |
+| **14**  | 宗教人士        | 神秘学者    |
+| **15**  | 革命者          | 异乡人      |
+| **16**  | 统治者          | 小贩        |
+| **17**  | 学者            | 政客        |
+| **18**  | 定居者          | 间谍        |
+| **19**  | 间谍            | 小偷        |
+| **20**  | 部落            | 暴徒        |
 
-#### Faction Traits
+#### 派系特征 {#faction-traits}
 
-Roll 1d20 for each column and combine the results.
+为每一列掷 1d20，然后组合结果。
 
 |         |               |               |
 | ------- | ------------- | ------------- |
-| **d20** | **Trait 1**   | **Trait 2**   |
-| **1**   | Cautious      | Adaptable     |
-| **2**   | Connected     | Bankrupt      |
-| **3**   | Decadent      | Brutal        |
-| **4**   | Disciplined   | Collaborative |
-| **5**   | Discreet      | Corrupt       |
-| **6**   | Dogmatic      | Craven        |
-| **7**   | Enigmatic     | Cruel         |
-| **8**   | Fierce        | Cunning       |
-| **9**   | Incorruptible | Cynical       |
-| **10**  | Intellectual  | Deceptive     |
-| **11**  | Judicious     | Generous      |
-| **12**  | Keen          | Incompetent   |
-| **13**  | Loyal         | Manipulative  |
-| **14**  | Meticulous    | Mercurial     |
-| **15**  | Popular       | Repressed     |
-| **16**  | Pragmatic     | Ruthless      |
-| **17**  | Resourceful   | Selfish       |
-| **18**  | Secretive     | Stealthy      |
-| **19**  | Shrewd        | Threatened    |
-| **20**  | Tenacious     | Xenophobic    |
+| **d20** | **特征 1**    | **特征 2**    |
+| **1**   | 谨慎          | 适应性强      |
+| **2**   | 人脉广泛      | 破产          |
+| **3**   | 腐化          | 残暴          |
+| **4**   | 纪律严明      | 协作          |
+| **5**   | 低调          | 腐败          |
+| **6**   | 教条          | 懦弱          |
+| **7**   | 神秘          | 残酷          |
+| **8**   | 凶猛          | 狡猾          |
+| **9**   | 廉洁          | 愤世嫉俗      |
+| **10**  | 理智          | 欺骗性        |
+| **11**  | 明智          | 慷慨          |
+| **12**  | 敏锐          | 无能          |
+| **13**  | 忠诚          | 操纵性        |
+| **14**  | 一丝不苟      | 反复无常      |
+| **15**  | 受欢迎        | 受压抑        |
+| **16**  | 务实          | 无情          |
+| **17**  | 足智多谋      | 自私          |
+| **18**  | 秘密          | 鬼祟          |
+| **19**  | 精明          | 受威胁        |
+| **20**  | 坚韧          | 仇外          |
 
-#### Faction Advantages
+#### 派系优势 {#faction-advantages}
 
-Roll 1d20 to determine the number of advantages the faction has, then roll 1d20 again for each of the corresponding advantages. For example, if a result of “2” was received from the “# of Advantages” column, you would roll on the “Type” column twice, noting each result. Reroll repeated results.
+掷 1d20 以确定派系拥有的优势数量，然后为每项相应优势再次掷 1d20。例如，如果在“优势数量”一栏得到“2”，就要在“类型”一栏掷两次，并记下每个结果。重复的结果需要重掷。
 
 |         |                     |                |
 | ------- | ------------------- | -------------- |
-| **d20** | **# of Advantages** | **Advantage**  |
-| **1**   | 1                   | Alliances      |
-| **2**   | 1                   | Anonymity      |
-| **3**   | 1                   | Apparatus      |
-| **4**   | 1                   | Beliefs        |
-| **5**   | 1                   | Charisma       |
-| **6**   | 1                   | Conviction     |
-| **7**   | 1                   | Fealty         |
-| **8**   | 2                   | Force          |
-| **9**   | 2                   | Information    |
-| **10**  | 2                   | Lineage        |
-| **11**  | 2                   | Magic          |
-| **12**  | 2                   | Members        |
-| **13**  | 3                   | Popularity     |
-| **14**  | 3                   | Position       |
-| **15**  | 3                   | Renown         |
-| **16**  | 3                   | Resources      |
-| **17**  | 3                   | Ruthlessness   |
-| **18**  | 4                   | Specialization |
-| **19**  | 4                   | Subterfuge     |
-| **20**  | 4                   | Wealth         |
+| **d20** | **优势数量**        | **优势**       |
+| **1**   | 1                   | 联盟           |
+| **2**   | 1                   | 匿名           |
+| **3**   | 1                   | 设备           |
+| **4**   | 1                   | 信仰           |
+| **5**   | 1                   | 魅力           |
+| **6**   | 1                   | 信念           |
+| **7**   | 1                   | 效忠           |
+| **8**   | 2                   | 武力           |
+| **9**   | 2                   | 情报           |
+| **10**  | 2                   | 血统           |
+| **11**  | 2                   | 魔法           |
+| **12**  | 2                   | 成员           |
+| **13**  | 3                   | 声望           |
+| **14**  | 3                   | 地位           |
+| **15**  | 3                   | 名望           |
+| **16**  | 3                   | 资源           |
+| **17**  | 3                   | 无情           |
+| **18**  | 4                   | 专业化         |
+| **19**  | 4                   | 阴谋           |
+| **20**  | 4                   | 财富           |
 
-#### Faction Agendas
+#### 派系议程 {#faction-agendas}
 
-Roll 1d20 for each column and combine the results.
+为每一列掷 1d20，然后组合结果。
 
 |         |                            |                                                         |
 | ------- | -------------------------- | ------------------------------------------------------- |
-| **d20** | **Agenda**                 | **Obstacle**                                            |
-| **1**   | Ascend to a Higher Plane   | A geographic barrier or impassable terrain.             |
-| **2**   | Collect Artifacts          | A key piece of information must first be discovered.    |
-| **3**   | Cultivate a Rare Resource  | A particular object or Relic is required.               |
-| **4**   | Defend Something           | A powerful figure or foe must be eliminated.            |
-| **5**   | Destroy Something          | A rare but necessary resource must first be acquired.   |
-| **6**   | Dominate Others            | A serious debt forces the faction to make dire choices. |
-| **7**   | Enrich Themselves          | A well-known prophecy predicts imminent failure.        |
-| **8**   | Establish a Colony         | An alliance with an enemy must first be brokered.       |
-| **9**   | Establish a New Order      | An internal schism threatens to tear the faction apart. |
-| **10**  | Explore Uncharted Lands    | Another faction has the same goal.                      |
-| **11**  | Forge an Alliance          | Another faction stands in opposition.                   |
-| **12**  | Infiltrate Another Faction | Commoners stand openly in opposition.                   |
-| **13**  | Preserve the Status Quo    | Considerable capital is required.                       |
-| **14**  | Protect a Secret           | Contravenes an established code, with a heavy penalty.  |
-| **15**  | Purge the Land             | Hindered by cultural taboos.                            |
-| **16**  | Reveal a Secret            | Many must die, either as a necessity or consequence.    |
-| **17**  | Revenge                    | Must be carried out at a rare or exact moment.          |
-| **18**  | Revive a Former Power      | Must be carried out in absolute secrecy.                |
-| **19**  | Seek New Leadership        | Requires a specialist of an uncommon sort.              |
-| **20**  | Spread a Belief            | The outcome would lead to unavoidable war.              |
+| **d20** | **议程**                   | **障碍**                                                |
+| **1**   | 升入更高位面               | 地理屏障或无法通行的地形。                              |
+| **2**   | 收集遗物                   | 必须先发现一条关键情报。                                |
+| **3**   | 培育稀有资源               | 需要一件特定物品或遗物。                                |
+| **4**   | 保卫某物                   | 必须消灭一名强大人物或敌人。                            |
+| **5**   | 摧毁某物                   | 必须先获得一种稀有但必要的资源。                        |
+| **6**   | 支配他人                   | 严重债务迫使派系做出艰难选择。                          |
+| **7**   | 使自己富足                 | 一个广为人知的预言预示着即将失败。                      |
+| **8**   | 建立殖民地                 | 必须先与敌人促成联盟。                                  |
+| **9**   | 建立新秩序                 | 内部分裂可能将派系撕裂。                                |
+| **10**  | 探索未知之地               | 另一个派系拥有相同目标。                                |
+| **11**  | 缔结联盟                   | 另一个派系站在对立面。                                  |
+| **12**  | 渗透另一个派系             | 平民公开站在对立面。                                    |
+| **13**  | 维持现状                   | 需要大量资金。                                          |
+| **14**  | 保护秘密                   | 违背既定准则，并会受到严厉惩罚。                        |
+| **15**  | 清除这片土地               | 受到文化禁忌的阻碍。                                    |
+| **16**  | 揭示秘密                   | 许多人必须死亡，无论这是必要结果还是附带后果。          |
+| **17**  | 复仇                       | 必须在罕见或准确的时机执行。                            |
+| **18**  | 复兴昔日力量               | 必须绝对秘密地执行。                                    |
+| **19**  | 寻找新的领导者             | 需要某种罕见类型的专家。                                |
+| **20**  | 传播信仰                   | 结果将导致无法避免的战争。                              |
 
-#### Example Faction
+#### 示例派系
 
-#### Type
+#### 类型
 
-- **Academics**: _Royal Cartographer's Guild_. Respected and feared, even by the royal family. 
+- **学者**：_Royal Cartographer's Guild_。即使王室也对其敬畏有加。
 
-### Advantages
+### 优势
 
-- **Apparatus**: A _Map of the Dead_. Legend tells that the map reveals a Gate to the land of the dead.  
-- **Renown**: None would dare defy the _Guild_ publicly. Their voice carries great weight in the Cities.
+- **设备**：一张 _Map of the Dead_。传说这张地图能揭示一扇通往亡者之地的大门。
+- **名望**：没人敢公开违抗这个_ Guild_。他们在诸城中的发言极具分量。
 
-### Agents
+### 代理人
 
-- Horatia Confi, first of her order. Recovered the _Map of the Dead_ for the _Guild_. WIL 15.  
+- Horatia Confi，该组织的第一任成员。她为这个_ Guild_找回了_ Map of the Dead_。WIL 15。
 
-#### Agenda
+#### 议程
 
-- Hire a skilled party to escort Horatia to a location written on the map.
-- Travel through the lands of the dead in search of the _Order_'s original founder.
-- Bring the founder back to the Cities. Overthrow the ruler of the Realm.
+- 雇佣一支熟练队伍护送 Horatia 前往地图上记载的地点。
+- 穿越亡者之地，寻找_ Order_的初代创始人。
+- 将创始人带回诸城。推翻_ Realm_的统治者。
 
-#### Obstacle
+#### 障碍
 
-The _Guild_ has been warned that a well-placed operative moves within their ranks.
+这个_ Guild_已获警告：一名身居要职的内应正在其成员中活动。
 
-#### Faction Rules
+#### 派系规则
 
-- By default, factions operate independent of the player character's actions. If the PCs do nothing, the faction should still act to achieve their aims.
-- The **Warden** should rely on the fiction to determine whether a faction is positioned to advance their agenda. 
-- Some goals may be time-sensitive or depend on explicit circumstances. Other times it might be more appropriate to introduce a new goal after a major event, alliance, or friction between one or more factions, etc.
-- Whenever a faction is positioned to advance a goal in their agenda, roll a **d6** on the [Faction Actions](#faction-actions) table. 
-- If two factions are _opposed_, the faction _most at risk_ makes a WIL save, using the score of its highest-ranking agent. On a fail, the faction does not roll on the Faction Actions table at this time.
+- 默认情况下，派系独立于玩家角色的行动而运作。若 PC 什么都不做，派系仍应采取行动以实现目标。
+- **守望者**应依靠虚构情境来判断某个派系是否具备推进议程的条件。
+- 有些目标可能有时间限制，或取决于明确的情境。其他时候，在重大事件、联盟，或一个或多个派系之间发生摩擦后引入新目标，可能更合适，等等。
+- 每当某个派系具备推进议程中某项目标的条件时，在[派系行动](#faction-actions)表上掷 **d6**。
+- 如果两个派系处于_对立_状态，风险_最高_的派系使用其最高阶代理人的数值进行一次 WIL 豁免。若失败，该派系此时不在派系行动表上掷骰。
 
-#### Faction Actions
+#### 派系行动 {#faction-actions}
 
 |        |                   |                                                                 |
 | ------ | ----------------- | --------------------------------------------------------------- |
-| **d6** | **Consequence**   | **Impact**                                                      |
-| **1**  | **Failure**       | A new **Obstacle** is introduced, and an **Advantage** is lost. |
-| **2**  | **Setback**       | An **Advantage** is lost.                                       |
-| **3**  | **Status Quo**    | Nothing is gained, but nothing is lost.                         |
-| **4**  | **Mixed Success** | A **goal** is achieved,  but an **Advantage** is lost.          |
-| **5**  | **Success**       | A **goal** is achieved, and no **Advantages** are lost.         |
-| **6**  | **Major Success** | A **goal** is achieved, and a new **Advantage** is found.       |
+| **d6** | **后果**          | **影响**                                                        |
+| **1**  | **失败**          | 引入一个新的**障碍**，并失去一个**优势**。                      |
+| **2**  | **挫折**          | 失去一个**优势**。                                              |
+| **3**  | **现状**          | 没有获得任何东西，也没有失去任何东西。                          |
+| **4**  | **混合成功**      | 完成一个**目标**，但失去一个**优势**。                          |
+| **5**  | **成功**          | 完成一个**目标**，且没有失去任何**优势**。                      |
+| **6**  | **重大成功**      | 完成一个**目标**，并发现一个新的**优势**。                      |
 
-> The actions of the PCs can always overrule the necessity for a **faction** action, or in some cases shift the outcome of the roll in a favorable or unfavorable direction. 
+> PC 的行动总能推翻进行一次**派系**行动的必要性，或者在某些情况下，将掷骰结果向有利或不利的方向调整。
 
-### Topography
+### 地形
 
-A region's terrain and natural features are an essential part of any map, affecting the local history, resources, settlements, culture, and more.
+一个地区的地形和自然特征是任何地图不可或缺的一部分，会影响当地的历史、资源、定居点、文化等等。
 
-#### Landmarks 
+#### 地标
 
-**Landmarks** are unique, visible POIs that can also be used as geographic reference points: towers, mountains, tall buildings, and so on. They help orient travelers around the map, and are _especially_ visible from areas with higher elevation or a clear viewpoint. Landmarks are _represented on the map by a triangle_.
+**地标**是独特且醒目的兴趣点，也可以作为地理参照物：高塔、山脉、高大建筑等等。它们帮助旅行者在地图周围辨认方向，并且从海拔较高或视野开阔的区域尤其容易看见。地标在地图上用三角形表示。
 
-#### Draw Terrain
+#### 绘制地形
 
-1. Roll **1d6**, then roll an amount of dice equal to that number on the map. Collect any dice that roll off the page and set them aside.
-2. Note the face-up result for each die, then use the [Terrain Die Drop Table](#terrain-die-drop-table) to mark the terrain type on the map. For example, a die showing a 4 would indicate Tough terrain.
-3. Draw long, curvy lines across the page, carving up the map around each die.
-4. Roll on the appropriate table for each result, writing the terrain and landmark results on the map.
-  - Replace the die with a triangle, writing the landmark result on the map.
-  - Roll any dice that fell off the map page, repeating the last step until none remain.
-  - If there are any empty spaces in need of terrain, roll a die anywhere you like and use the face-up result as before.
+1. 掷 **1d6**，然后在地图上掷出等于该结果数量的骰子。收集任何滚出页面的骰子，将它们放在一边。
+2. 记下每枚骰子朝上的结果，然后使用[地形骰子投放表](#terrain-die-drop-table)在地图上标记地形类型。例如，显示 4 的骰子表示艰难地形。
+3. 在页面上绘制长而弯曲的线，围绕每枚骰子将地图分割开来。
+4. 根据每个结果在相应表格上掷骰，将地形和地标结果写在地图上。
+  - 用三角形替换骰子，并将地标结果写在地图上。
+  - 对滚出地图页面的骰子掷骰，重复上一步，直到没有骰子剩下。
+  - 如果还有空白区域需要添加地形，就在任意位置掷一枚骰子，并像之前一样使用朝上的结果。
 
-### Terrain Die Drop Table
+### 地形骰子投放表 {#terrain-die-drop-table}
 
 |         |                |
 | ------- | -------------- |
-| **d6**  | **Difficulty** |
-| **1-3** | Easy           |
-| **4-5** | Tough          |
-| **6**   | Perilous       |
+| **d6**  | **难度**       |
+| **1-3** | 简单           |
+| **4-5** | 艰难           |
+| **6**   | 危险           |
 
-### Easy
+### 简单
 
-Roll 1d20 for each column and combine the results.
+为每一列掷 1d20，然后组合结果。
 
 |         |             |                    |
 | ------- | ----------- | ------------------ |
-| **d20** | **Terrain** | **Landmark**       |
-| **1**   | Bluffs      | Broken Sundial     |
-| **2**   | Dells       | Circle of Menhirs  |
-| **3**   | Farmlands   | Circular Maze      |
-| **4**   | Fells       | Cloud Stairway     |
-| **5**   | Foothills   | Dead Aqueduct      |
-| **6**   | Glens       | Enormous Footprint |
-| **7**   | Grasslands  | Fallen Column      |
-| **8**   | Gulleys     | False Oasis        |
-| **9**   | Heaths      | Giant's Throne     |
-| **10**  | Lowlands    | Glittering Cascade |
-| **11**  | Meadows     | Golden Bridge      |
-| **12**  | Moors       | Great Stone Face   |
-| **13**  | Pampas      | Great Waterwheel   |
-| **14**  | Pastures    | Heart Tree         |
-| **15**  | Plains      | Opaque Lake        |
-| **16**  | Plateaus    | Petrified Forest   |
-| **17**  | Prairies    | Pit of Cold Fire   |
-| **18**  | Savannas    | Silver Face        |
-| **19**  | Steppes     | Sinkhole           |
-| **20**  | Valleys     | Titanic Gate       |
+| **d20** | **地形**    | **地标**           |
+| **1**   | 悬崖        | 破碎日晷           |
+| **2**   | 幽谷        | 巨石阵             |
+| **3**   | 农田        | 环形迷宫           |
+| **4**   | 山丘        | 云中阶梯           |
+| **5**   | 山麓        | 废弃渡槽           |
+| **6**   | 林间谷地    | 巨大脚印           |
+| **7**   | 草原        | 倒塌石柱           |
+| **8**   | 沟壑        | 虚假绿洲           |
+| **9**   | 荒原        | 巨人王座           |
+| **10**  | 低地        | 闪耀瀑布           |
+| **11**  | 草甸        | 黄金桥             |
+| **12**  | 沼地        | 巨石面孔           |
+| **13**  | 潘帕斯草原  | 巨型水车           |
+| **14**  | 牧场        | 心树               |
+| **15**  | 平原        | 不透明湖           |
+| **16**  | 高原        | 石化森林           |
+| **17**  | 大草原      | 冷火之坑           |
+| **18**  | 稀树草原    | 银色面孔           |
+| **19**  | 草原        | 天坑               |
+| **20**  | 山谷        | 巨人之门           |
 
-### Tough
+### 艰难
 
-Roll 1d20 for each column and combine the results.
+为每一列掷 1d20，然后组合结果。
 
 |         |             |                     |
 | ------- | ----------- | ------------------- |
-| **d20** | **Terrain** | **Landmark**        |
-| **1**   | Barrens     | Algae Falls         |
-| **2**   | Canyons     | Basalt Columns      |
-| **3**   | Chaparral   | Behemoth Graveyard  |
-| **4**   | Coral Reefs | Canyon Bridge       |
-| **5**   | Deserts     | Cinder Cones        |
-| **6**   | Dunes       | Flame Pits          |
-| **7**   | Estuaries   | Forest of Arrows    |
-| **8**   | Fens        | Frozen Waterfall    |
-| **9**   | Forests     | Fungal Forest       |
-| **10**  | Heathlands  | Half-Buried Ark     |
-| **11**  | Hills       | Hanging Valley      |
-| **12**  | Mangroves   | Inverted Lighthouse |
-| **13**  | Marshlands  | Leviathan Bones     |
-| **14**  | Moorlands   | Massive Crater      |
-| **15**  | Rainforests | Massive Dung Ball   |
-| **16**  | Scrublands  | Salt Flat Mirrors   |
-| **17**  | Taiga       | Shrouded Ziggurat   |
-| **18**  | Thickets    | Stalagmite Forest   |
-| **19**  | Tundra      | Sunken Colossus     |
-| **20**  | Woodlands   | Titan's Table       |
+| **d20** | **地形**    | **地标**            |
+| **1**   | 荒地        | 藻类瀑布            |
+| **2**   | 峡谷        | 玄武岩石柱          |
+| **3**   | 灌木草原    | 巨兽墓场            |
+| **4**   | 珊瑚礁      | 峡谷桥              |
+| **5**   | 沙漠        | 火山渣锥            |
+| **6**   | 沙丘        | 火焰坑              |
+| **7**   | 河口        | 箭之森林            |
+| **8**   | 湿地        | 冰冻瀑布            |
+| **9**   | 森林        | 真菌森林            |
+| **10**  | 荒原        | 半埋方舟            |
+| **11**  | 丘陵        | 悬空山谷            |
+| **12**  | 红树林      | 倒置灯塔            |
+| **13**  | 沼泽地      | 利维坦骨骸          |
+| **14**  | 荒沼        | 巨大陨坑            |
+| **15**  | 热带雨林    | 巨大粪球            |
+| **16**  | 灌木地      | 盐滩之镜            |
+| **17**  | 泰加林      | 被阴影笼罩的金字塔  |
+| **18**  | 灌木丛      | 石笋森林            |
+| **19**  | 苔原        | 沉没的巨像          |
+| **20**  | 林地        | 巨人之桌            |
 
-### Perilous
+### 危险
 
-Roll 1d20 for each column and combine the results.
+为每一列掷 1d20，然后组合结果。
 
 |         |                |                     |
 | ------- | -------------- | ------------------- |
-| **d20** | **Terrain**    | **Landmark**        |
-| **1**   | Alpine Meadows | Active Volcano      |
-| **2**   | Bogs           | Ammonia Caves       |
-| **3**   | Boulders       | Bone Mountain       |
-| **4**   | Caverns        | Crystalline Forest  |
-| **5**   | Cliffs         | Dome of Darkness    |
-| **6**   | Craters        | Enormous Hive       |
-| **7**   | Crevasses      | Floating Object     |
-| **8**   | Geysers        | Inactive Automaton  |
-| **9**   | Glaciers       | Land Scar           |
-| **10**  | Gorges         | Large Vents         |
-| **11**  | Hollows        | Magma Sculptures    |
-| **12**  | Ice Fields     | Man on the Mountain |
-| **13**  | Jungles        | Meteor Garden       |
-| **14**  | Lava Fields    | Obsidian Needle     |
-| **15**  | Mountains      | Reverse Waterfall   |
-| **16**  | Peatlands      | River of Sulfur     |
-| **17**  | Quagmires      | Siren Stones        |
-| **18**  | Ravine         | Sky-Root            |
-| **19**  | Swamps         | Titanic Ribcage     |
-| **20**  | Wastelands     | Weeping Bubble      |
+| **d20** | **地形**       | **地标**            |
+| **1**   | 高山草甸       | 活火山              |
+| **2**   | 泥沼           | 氨洞                |
+| **3**   | 巨石           | 骨山                |
+| **4**   | 洞穴           | 水晶森林            |
+| **5**   | 峭壁           | 黑暗穹顶            |
+| **6**   | 陨坑           | 巨大蜂巢            |
+| **7**   | 冰隙           | 漂浮物              |
+| **8**   | 间歇泉         | 休眠的自动机        |
+| **9**   | 冰川           | 大地伤疤            |
+| **10**  | 峡谷           | 巨大喷口            |
+| **11**  | 洼地           | 岩浆雕塑            |
+| **12**  | 冰原           | 山中之人            |
+| **13**  | 丛林           | 陨石花园            |
+| **14**  | 熔岩原         | 黑曜石尖针          |
+| **15**  | 山脉           | 逆流瀑布            |
+| **16**  | 泥炭地         | 硫磺之河            |
+| **17**  | 泥潭           | 塞壬之石            |
+| **18**  | 沟壑           | 天根                |
+| **19**  | 沼泽           | 巨人肋骨            |
+| **20**  | 荒芜之地       | 哭泣气泡            |
 
-#### Rivers, Seas, and Lakes
+#### 河流、海洋与湖泊
 
-Every region should have some kind of water source. Otherwise, where would the locals get their drinking water or receive news from the rest of the realm? 
-- To create waterways, draw a wiggly line from the highest elevation point (e.g. Mountains) to the lowest (e.g. Grassways). 
-- If the river runs through terrain that is higher in elevation, it might terminate in a **lake**. If your map has a sea, it might terminate there. Otherwise, the river can continue on off the map page.
+每个地区都应有某种水源。否则，当地人从哪里获得饮用水，又如何收到国度其他地方的消息？
+- 要创建水道，从海拔最高的点（例如山脉）向最低的点（例如草径）画一条蜿蜒的线。
+- 如果河流流经海拔更高的地形，可能会终止于一座**湖泊**。如果你的地图上有海洋，也可能终止于海洋。否则，河流可以继续流出地图页面。
 
-### Weather
+### 天气
 
-The weather can have a great impact on the people, culture, and terrain of a region. It impacts what kinds of clothes the adventurers need to wear, what sorts of tools they'll have to bring, and how tough the journey might be. To determine the average weather of a region, roll on the [Seasonal Weather](#seasonal-weather) table once for each season. Optionally, you may also roll on the [Unusual Weather](#unusual-weather) table around particular landmarks or terrain.
+天气会极大地影响一个地区的民众、文化和地形。它会影响冒险者需要穿什么衣服、需要携带什么工具，以及旅途可能有多艰难。要确定一个地区的平均天气，每个季节在[季节天气](#seasonal-weather)表上掷一次骰。你也可以选择在特定地标或地形附近的[异常天气](#unusual-weather)表上掷骰。
 
-#### Seasonal Weather
+#### 季节天气 {#seasonal-weather}
 
 |        |                  |                      |                   |                      |
 | ------ | ---------------- | -------------------- | ----------------- | -------------------- |
-| **d6** | **Spring**       | **Summer**           | **Fall**          | **Winter**           |
-| **1**  | Mild and sunny   | Hot and sunny        | Nice and breezy   | Mild and clear       |
-| **2**  | Nice and drizzly | Nice and cloudy      | Mild and windy    | Cool and windy       |
-| **3**  | Cool and breezy  | Mild and rainy       | Cool and foggy    | Cold and raining     |
-| **4**  | Mild and cloudy  | Cool and stormy      | Cold and cloudy   | Frigid and stormy    |
-| **5**  | Cold and windy   | Hot and humid        | Cool and rainy    | Freezing and snowing |
-| **6**  | Cold and rainy   | Sweltering and humid | Chilly and stormy | Freezing and hailing |
+| **d6** | **春季**         | **夏季**             | **秋季**          | **冬季**             |
+| **1**  | 温和晴朗         | 炎热晴朗             | 舒适多风          | 温和晴朗             |
+| **2**  | 舒适细雨         | 舒适多云             | 温和多风          | 凉爽多风             |
+| **3**  | 凉爽微风         | 温和多雨             | 凉爽多雾          | 寒冷下雨             |
+| **4**  | 温和多云         | 凉爽有暴风雨         | 寒冷多云          | 严寒暴风雨           |
+| **5**  | 寒冷多风         | 炎热潮湿             | 凉爽多雨          | 冰冷下雪             |
+| **6**  | 寒冷多雨         | 闷热潮湿             | 阴冷有暴风雨      | 冰冷下冰雹           |
 
-#### Unusual Weather
+#### 异常天气 {#unusual-weather}
 
 |         |                                                                                                             |
 | ------- | ----------------------------------------------------------------------------------------------------------- |
-| **d20** | **Weather**                                                                                                 |
-| **1**   | An annual fog appears randomly, turning metallic surfaces to gold on contact.                               |
-| **2**   | An aurora that is visible even during the day.                                                              |
-| **3**   | Birds fly backwards, yet somehow still move forward.                                                        |
-| **4**   | Days are erratic. The Sun goes backwards for a time, then jumps forward as night rapidly sets in.           |
-| **5**   | Distant chimes instead of thunder. A smoky, sweet wind blows in from the West.                              |
-| **6**   | Enormous, fleshy eyes peer down from the skies, their pupils lighting up the night sky.                     |
-| **7**   | Flashes of movement in the periphery that always amount to nothing.                                         |
-| **8**   | Fog that fills the belly (no need for rations). Tomorrow, vomiting.                                         |
-| **9**   | Lakes and streams evaporate in minutes, filling storm clouds that drench the landscape.                     |
-| **10**  | Periodic rains of small aquatic creatures (tadpoles, frogs, small fish). No one knows where they come from. |
-| **11**  | Rainbows lack most of their colors and occasionally flicker. Raindrops fall in various colors.             |
-| **12**  | Rolling dust clouds that smell of cinnamon. The coughing lasts long after they've moved on.                 |
-| **13**  | Shadows disappear at random. Animals become more reluctant.                                                 |
-| **14**  | The air is thicker than usual, and breathing is difficult.                                                  |
-| **15**  | The clouds are shaped like faces. They appear to be laughing.                                               |
-| **16**  | The moon appears larger and softly hums at night.                                                           |
-| **17**  | The rain glows gently at night. It can be gathered, but the light eventually fades.                         |
-| **18**  | The stars rearrange themselves in intricate patterns, making navigation difficult.                          |
-| **19**  | The winds carry whispers. Some say they tell hints of the future.                                 |
-| **20**  | When it snows, the flakes are warm and dry.                                                                 |
+| **d20** | **天气**                                                                                                    |
+| **1**   | 每年都会随机出现一场雾，金属表面一接触它就会变成黄金。                                                      |
+| **2**   | 即使在白天也能看见的极光。                                                                                |
+| **3**   | 鸟儿倒着飞，却不知为何仍然向前移动。                                                                      |
+| **4**   | 白昼变化无常。太阳会倒退一段时间，然后突然向前跳跃，夜晚迅速降临。                                          |
+| **5**   | 雷声变成遥远的钟声。一阵带着烟雾和甜味的风从西方吹来。                                                      |
+| **6**   | 巨大而多肉的眼睛从天空向下凝视，它们的瞳孔照亮了夜空。                                                      |
+| **7**   | 余光中总有移动的身影一闪而过，却始终什么也没有。                                                          |
+| **8**   | 能填饱肚子的雾（不需要口粮）。明天会呕吐。                                                                |
+| **9**   | 湖泊和溪流在几分钟内蒸发，形成将大地浇透的暴雨云。                                                        |
+| **10**  | 周期性降下小型水生生物（蝌蚪、青蛙、小鱼）。没人知道它们从哪里来。                                          |
+| **11**  | 彩虹缺少大部分颜色，偶尔还会闪烁。雨滴会落下各种颜色。                                                      |
+| **12**  | 翻滚的尘云闻起来像肉桂。尘云离开很久后，咳嗽仍会持续。                                                      |
+| **13**  | 阴影随机消失。动物变得更加不情愿。                                                                        |
+| **14**  | 空气比平时更加浓稠，呼吸困难。                                                                            |
+| **15**  | 云朵呈现出面孔的形状。它们似乎在大笑。                                                                    |
+| **16**  | 月亮在夜间显得更大，并发出轻柔的嗡鸣。                                                                    |
+| **17**  | 雨水在夜间发出柔和的光。光可以被收集起来，但最终会消退。                                                   |
+| **18**  | 星星重新排列成复杂的图案，使导航变得困难。                                                                |
+| **19**  | 风中携带着低语。有人说，那些低语会暗示未来。                                                              |
+| **20**  | 下雪时，雪花温暖而干燥。                                                                                  |
 
-## Points of Interest
+## 兴趣点
 
-Points of Interest on a map (or POIs) are generally divided into the following categories:  
-- **Heart**: The primary settlement in a region. It isn't necessarily the largest or most important place, but it should always be significant to the region's history and people. 
-- **Settlements**: Permanent, largely self-sufficient population centers, typically governed by a political body or faction. 
-- **Waypoints**: A safe place to refill supplies, get a good night's sleep, or get directions.
-- **Curiosities**: A wilderness locale of note, somewhere remarkable or strange. It may indeed be hazardous, but only if the PCs interact with it.
-- **Lairs**: An enemy encampment, hive, or source of heightened monster activity.
-- **Dungeons**: An explicitly dangerous locale, dungeon, or adventure site.
+地图上的兴趣点（或 POI）通常分为以下几类：
+- **核心**：一个地区的主要定居点。它不一定是最大或最重要的地方，但始终应当对该地区的历史和民众具有重要意义。
+- **定居点**：永久存在、基本自给自足的人口聚居地，通常由政治机构或派系治理。
+- **中途点**：补充物资、睡个好觉或获得指引的安全地点。
+- **奇观**：值得注意的荒野地点，某个非凡或奇异之处。只有 PC 与之互动时，它才可能真的具有危险。
+- **巢穴**：敌方营地、蜂巢，或怪物活动增强的源头。
+- **地城**：明确危险的地点、地城或冒险场所。
 
-### Draw Points of Interest
+### 绘制兴趣点
 
-- Draw the letter **H** close to a water source on the map. 
-- Roll 3-8 d6 dice on the map, collecting any dice that roll off the page and setting them aside.
-- Note the face-up result for each die, then use the [POI Die Drop Table](#poi-die-drop-table) to mark the type of POI on the map. For example, a die showing a 4 would indicate a Lair, denoted by the letter "L" on the page.
-- Roll any dice that fell off the map page, repeating the last step until none remain.
-- Starting with the Heart, number each POI on the map.
-- Roll on the relevant tables for each POI, including the Heart (usually a Waypoint or Settlement). Note the results for each in your notebook.
+- 在地图上靠近水源的地方画上字母 **H**。
+- 在地图上掷 3-8 枚 d6，收集滚出页面的骰子并放在一边。
+- 记下每枚骰子朝上的结果，然后使用[兴趣点骰子投放表](#poi-die-drop-table)在地图上标记兴趣点类型。例如，显示 4 的骰子表示巢穴，在页面上用字母“L”表示。
+- 对滚出地图页面的骰子掷骰，重复上一步，直到没有骰子剩下。
+- 从核心开始，为地图上的每个兴趣点编号。
+- 为每个兴趣点（包括核心，通常是中途点或定居点）在相应表格上掷骰。把每个结果记在笔记本中。
 
-> Some POIs may allow the PCs to see more of the world than what appears on their map.
+> 某些兴趣点可能允许 PC 看到地图上没有显示的更多世界。
 
-### POI Die Drop Table
+### 兴趣点骰子投放表 {#poi-die-drop-table}
 
 |         |                        |
 | ------- | ---------------------- |
-| **d6**  | **POI**                |
-| **1**   | Waypoint or Settlement |
-| **2-3** | Curiosity              |
-| **4**   | Lair                   |
-| **5-6** | Dungeon                |
+| **d6**  | **兴趣点**             |
+| **1**   | 中途点或定居点         |
+| **2-3** | 奇观                   |
+| **4**   | 巢穴                   |
+| **5-6** | 地城                   |
  
-### Settlements
+### 定居点
 
-Roll 1d20 for each column and combine the results.
+为每一列掷 1d20，然后组合结果。
 
 |         |                 |                               |
 | ------- | --------------- | ----------------------------- |
-| **d20** | **Settlements** | **Feature**                   |
-| **1**   | Academy         | Built Atop Ruins              |
-| **2**   | Caravan         | Built on Bones of Giants      |
-| **3**   | Citadel         | Center of Learning            |
-| **4**   | City            | Close-Knit                    |
-| **5**   | Commune         | Divided                       |
-| **6**   | Compound        | Emits a Mysterious Hum        |
-| **7**   | Convent         | Famous for its Artisans       |
-| **8**   | Farmstead       | Famous for its Festivals      |
-| **9**   | Fortress        | Guarded by Trained Beasts     |
-| **10**  | Garrison        | Hides a Dangerous Portal      |
-| **11**  | Hamlet          | High Population Density       |
-| **12**  | Keep            | Impregnable                   |
-| **13**  | Monastery       | Integrated with Nature        |
-| **14**  | Outpost         | Known for its Hospitality     |
-| **15**  | Plantation      | Location of a Legendary Forge |
-| **16**  | Prison          | Moves or Revolves             |
-| **17**  | Stronghold      | Protected by a Great Warrior  |
-| **18**  | Town            | Ruled by a Powerful Faction   |
-| **19**  | Villa           | Steeped in Tradition          |
-| **20**  | Village         | Trading Hub                   |
+| **d20** | **定居点**      | **特征**                      |
+| **1**   | 学院            | 建在废墟之上                  |
+| **2**   | 商队            | 建在巨人遗骨上                |
+| **3**   | 城堡            | 学术中心                      |
+| **4**   | 城市            | 关系紧密                      |
+| **5**   | 公社            | 分裂                          |
+| **6**   | 大院            | 发出神秘嗡鸣                  |
+| **7**   | 修道院          | 以工匠闻名                    |
+| **8**   | 农庄            | 以节庆闻名                    |
+| **9**   | 要塞            | 由训练有素的野兽守卫          |
+| **10**  | 驻军地          | 藏有危险的传送门              |
+| **11**  | 小村            | 人口密度高                    |
+| **12**  | 城堡            | 坚不可摧                      |
+| **13**  | 修道院          | 与自然融为一体                |
+| **14**  | 前哨站          | 以好客闻名                    |
+| **15**  | 种植园          | 传说熔炉所在                  |
+| **16**  | 监狱            | 会移动或旋转                  |
+| **17**  | 要塞            | 由伟大战士保护                |
+| **18**  | 城镇            | 由强大派系统治                |
+| **19**  | 别墅            | 浸润于传统                    |
+| **20**  | 村庄            | 贸易枢纽                      |
 
-### Waypoints
+### 中途点
 
-Roll 1d20 for each column and combine the results.
+为每一列掷 1d20，然后组合结果。
 
 |         |               |                                  |
 | ------- | ------------- | -------------------------------- |
-| **d20** | **Waypoints** | **Feature**                      |
-| **1**   | Archive       | A Haven for Outcasts             |
-| **2**   | Asylum        | Built on Sacred Grounds          |
-| **3**   | Bazaar        | Contains a Powerful Artifact     |
-| **4**   | Beacon Tower  | Cursed By Previous Occupants     |
-| **5**   | Bunker        | Decrepit Buildings               |
-| **6**   | Cabin         | Distrustful Occupants            |
-| **7**   | Campground    | Does Not Appear on Any Map       |
-| **8**   | Guildhall     | Front for Illegal Operations     |
-| **9**   | Hospice       | Host to a Renowned Artisan       |
-| **10**  | Hunting Lodge | Known for its Elaborate Defenses |
-| **11**  | Inn           | Occupants Are Lawful to a Fault  |
-| **12**  | Observatory   | Occupants Are Overly Formal      |
-| **13**  | Reservoir     | Outsiders Are Barred             |
-| **14**  | Sanatorium    | Outsiders Cannot Carry Weapons   |
-| **15**  | Sanctuary     | Part of an Illegal Trade Route   |
-| **16**  | Shrine        | Popular Pilgrim Destination      |
-| **17**  | Temple        | Protects a Powerful Object       |
-| **18**  | Trading Post  | Reclusive Occupants              |
-| **19**  | Watchtower    | Sits on Natural Deposits         |
-| **20**  | Work Camp     | Technologically Advanced         |
+| **d20** | **中途点**    | **特征**                         |
+| **1**   | 档案馆        | 流亡者的避风港                   |
+| **2**   | 收容所        | 建在圣地之上                     |
+| **3**   | 集市          | 包含强大的遗物                   |
+| **4**   | 烽火塔        | 被先前的居民诅咒                 |
+| **5**   | 地堡          | 建筑破败                         |
+| **6**   | 小屋          | 居民不信任他人                   |
+| **7**   | 露营地        | 不出现在任何地图上               |
+| **8**   | 行会大厅      | 非法活动的掩护                   |
+| **9**   | 救济院        | 著名工匠的居所                   |
+| **10**  | 猎人小屋      | 以复杂防御闻名                   |
+| **11**  | 旅店          | 居民守法到了过分的程度           |
+| **12**  | 天文台        | 居民过分拘谨                     |
+| **13**  | 水库          | 禁止外来者进入                   |
+| **14**  | 疗养院        | 外来者不得携带武器               |
+| **15**  | 圣所          | 非法贸易路线的一部分             |
+| **16**  | 神龛          | 广受欢迎的朝圣目的地             |
+| **17**  | 神殿          | 保护着一件强大物品               |
+| **18**  | 贸易站        | 居民隐居                         |
+| **19**  | 瞭望塔        | 建在天然矿藏之上                 |
+| **20**  | 劳改营        | 技术先进                         |
 
-### Curiosities
+### 奇观
 
-Roll 1d20 for each column and combine the results.
+为每一列掷 1d20，然后组合结果。
 
 |         |                    |                        |
 | ------- | ------------------ | ---------------------- |
-| **d20** | **Curiosities**    | **Feature**            |
-| **1**   | Ancient Tree       | Abandoned Vessel       |
-| **2**   | Broken Tower       | Ancient Trash Heap     |
-| **3**   | Buried Megalith    | Buried Ley Line        |
-| **4**   | Collapsed Mill     | Buried Library         |
-| **5**   | Cracked Bell       | Carnivorous Plants     |
-| **6**   | Crystal Spire      | Celestial Mirror       |
-| **7**   | Dripping Archway   | Cult Ritual Site       |
-| **8**   | Echoing Fields     | Edible Fungus          |
-| **9**   | Enormous Fist      | Floating Debris        |
-| **10**  | Enormous Footprint | Hidden Market          |
-| **11**  | Floating Island    | Illusory               |
-| **12**  | Frozen Graveyard   | Impossible Music       |
-| **13**  | Hanging Bridges    | Infested With Vermin   |
-| **14**  | Illegible Signpost | Irregular Gravity      |
-| **15**  | Leviathan Skeleton | Isolated Weather       |
-| **16**  | Oddly-Shaped Lake  | Only Appears at Night  |
-| **17**  | Petrified Trees    | Perpetual Mist         |
-| **18**  | Purple Geysers     | Perpetual Shadows      |
-| **19**  | Singing Stones     | Site of Ancient Battle |
-| **20**  | Sunken City        | Unstable Ground        |
+| **d20** | **奇观**           | **特征**               |
+| **1**   | 古树               | 被遗弃的船只           |
+| **2**   | 破塔               | 古代垃圾堆             |
+| **3**   | 埋藏的巨石碑       | 被埋的灵脉             |
+| **4**   | 坍塌的磨坊         | 被埋的图书馆           |
+| **5**   | 裂开的钟           | 食肉植物               |
+| **6**   | 水晶尖塔           | 天界之镜               |
+| **7**   | 滴水拱门           | 邪教仪式地点           |
+| **8**   | 回声原野           | 可食用真菌             |
+| **9**   | 巨大拳头           | 漂浮的残骸             |
+| **10**  | 巨大脚印           | 隐藏集市               |
+| **11**  | 漂浮岛             | 虚幻                   |
+| **12**  | 冰冻墓地           | 不可能的音乐           |
+| **13**  | 悬空桥             | 害虫出没               |
+| **14**  | 无法辨认的路标     | 重力异常               |
+| **15**  | 利维坦骨架         | 孤立的天气             |
+| **16**  | 奇形怪状的湖       | 只在夜间出现           |
+| **17**  | 石化树             | 永恒的薄雾             |
+| **18**  | 紫色间歇泉         | 永恒的阴影             |
+| **19**  | 歌唱之石           | 古代战场遗址           |
+| **20**  | 沉没之城           | 不稳定的地面           |
 
-### Lairs
+### 巢穴
 
-Roll 1d20 for each column and combine the results.
+为每一列掷 1d20，然后组合结果。
 
 |         |                     |                     |
 | ------- | ------------------- | ------------------- |
-| **d20** | **Lair**            | **Feature**         |
-| **1**   | Abandoned Tower     | Abandoned           |
-| **2**   | Ancient Prison      | At Crossroads       |
-| **3**   | Collapsed Mine      | Baited Entrance     |
-| **4**   | Colossal Hive       | Bioluminescence     |
-| **5**   | Crashed Ship        | Constant Screaming  |
-| **6**   | Crumbling Fort      | Entry Forbidden     |
-| **7**   | Dry Aqueduct        | Faction Hideout     |
-| **8**   | Enormous Stump      | Hidden Exit         |
-| **9**   | Forgotten Graveyard | Odd Machinery       |
-| **10**  | Hidden Burrow       | Piles of Bones      |
-| **11**  | Hollow Obelisk      | Previously Occupied |
-| **12**  | Overgrown Garden    | Religious Graffiti  |
-| **13**  | Primeval Menhirs    | Scattered Traps     |
-| **14**  | Primitive Bridge    | Scavengers Prowl    |
-| **15**  | Rotted Mill         | Signs Posted        |
-| **16**  | Ruined Town         | Something Sleeps    |
-| **17**  | Rusted Construct    | Symbiotic Entity    |
-| **18**  | Spiked Cave         | Training Camp       |
-| **19**  | Sunken Grotto       | Underwater          |
-| **20**  | Unruly Copse        | Waste Pit           |
+| **d20** | **巢穴**            | **特征**            |
+| **1**   | 被遗弃的高塔        | 被遗弃              |
+| **2**   | 古代监狱            | 位于十字路口        |
+| **3**   | 坍塌的矿井          | 入口设有诱饵        |
+| **4**   | 巨型蜂巢            | 生物荧光            |
+| **5**   | 坠毁的船            | 持续的尖叫          |
+| **6**   | 破败的堡垒          | 禁止进入            |
+| **7**   | 干涸渡槽            | 派系藏身处          |
+| **8**   | 巨大树桩            | 隐藏出口            |
+| **9**   | 被遗忘的墓地        | 奇怪的机械          |
+| **10**  | 隐藏地穴            | 成堆的骨骸          |
+| **11**  | 中空方尖碑          | 曾有人占据          |
+| **12**  | 杂草丛生的花园      | 宗教涂鸦            |
+| **13**  | 原始巨石阵          | 散布着陷阱          |
+| **14**  | 原始桥梁            | 有拾荒者出没        |
+| **15**  | 腐朽的磨坊          | 张贴着告示          |
+| **16**  | 废墟小镇            | 有东西在沉睡        |
+| **17**  | 生锈构装体          | 共生实体            |
+| **18**  | 布满尖刺的洞穴      | 训练营              |
+| **19**  | 沉没洞穴            | 水下                |
+| **20**  | 杂乱灌木林          | 废物坑              |
 
-### Dungeons
+### 地城
 
-Roll 1d20 for each column and combine the results.
+为每一列掷 1d20，然后组合结果。
 
 |         |               |              |
 | ------- | ------------- | ------------ |
-| **d20** | **Type**      | **Feature**  |
-| **1**   | Burial Ground | Abandoned    |
-| **2**   | Cave          | Buried       |
-| **3**   | Cellar        | Burnt        |
-| **4**   | Crypt         | Clockwork    |
-| **5**   | Den           | Collapsed    |
-| **6**   | Estate        | Crumbling    |
-| **7**   | Fort          | Crystalline  |
-| **8**   | Great Hall    | Floating     |
-| **9**   | Laboratory    | Flooded      |
-| **10**  | Manor         | Fungal       |
-| **11**  | Mine          | Inverted     |
-| **12**  | Outpost       | Isolated     |
-| **13**  | Palace        | Mirrored     |
-| **14**  | Prison        | Otherworldly |
-| **15**  | Ruined City   | Overgrown    |
-| **16**  | Stronghold    | Petrified    |
-| **17**  | Temple        | Remote       |
-| **18**  | Tomb          | Sealed       |
-| **19**  | Tower         | Toxic        |
-| **20**  | Workshop      | Warped       |
+| **d20** | **类型**      | **特征**     |
+| **1**   | 墓地          | 被遗弃       |
+| **2**   | 洞穴          | 被埋         |
+| **3**   | 地窖          | 被烧毁       |
+| **4**   | 地下墓穴      | 发条机械     |
+| **5**   | 巢穴          | 坍塌         |
+| **6**   | 庄园          | 破败         |
+| **7**   | 堡垒          | 水晶         |
+| **8**   | 大厅          | 漂浮         |
+| **9**   | 实验室        | 被水淹没     |
+| **10**  | 庄园宅邸      | 真菌         |
+| **11**  | 矿井          | 倒置         |
+| **12**  | 前哨站        | 孤立         |
+| **13**  | 宫殿          | 镜像         |
+| **14**  | 监狱          | 异界         |
+| **15**  | 废墟之城      | 杂草丛生     |
+| **16**  | 要塞          | 石化         |
+| **17**  | 神殿          | 偏远         |
+| **18**  | 陵墓          | 封闭         |
+| **19**  | 高塔          | 有毒         |
+| **20**  | 工坊          | 扭曲         |
 
-> See the [Dungeon Seeds](/second-edition/wardens-guide/dungeon-seeds) chapter for how to flesh out each Dungeon POI for your setting.
+> 关于如何为设定充实每个地城兴趣点，请参阅[地城种子](/second-edition/wardens-guide/dungeon-seeds)章节。
 
-## Paths
+## 路径
 
-**Paths** act as geographic connectors on the map, ranging from well-traveled roads and trails to rough wilderness routes. Paths should provide compelling choices between POIs, where factors such as safety, speed, and travel difficulty must be weighed. 
+**路径**在地图上充当地理连接，从繁忙的道路和小径到粗糙的荒野路线。路径应当在兴趣点之间提供有吸引力的选择，让人必须权衡安全性、速度和旅行难度等因素。
 
-### Path Types
+### 路径类型
 
-- **Standard** paths are obvious or well-trod routes between two POIs. _Represented by a thick line._
-- **Hidden** paths do not appear on any known maps. Their discovery always requires some kind of cost. _Represented by a dashed line._
-- **Conditional** paths may be blocked or require specialized tools (boats, climbing gear, etc.) to cross. Others may even be impossible to navigate without a map or guide. _Represented by a crossed line._
+- **普通**路径是两个兴趣点之间明显或经常有人通行的路线。_用粗线表示。_
+- **隐藏**路径不会出现在任何已知地图上。发现它总是需要付出某种代价。_用虚线表示。_
+- **有条件**路径可能被阻挡，或需要专门工具（船、攀爬装备等）才能通过。有些路径甚至没有地图或向导就不可能导航。_用交叉线表示。_
 
-### Draw Paths
+### 绘制路径
 
-- Starting with the Heart, create 1-4 paths between each location. 
-  - Create loops, branching paths, dead-ends, and shortcuts between POIs.
-  - Some paths may be parts of a chain and tied to a particular terrain (mountain passes, rivers, etc.).
-  - Some paths are Conditional, represented by a crossed line.
-  - Some paths are Hidden, represented by a dashed line.
-- Designate each path using the number of a POI and its connecting point, e.g. 1 &harr; 3. Indicate this in your notebook under the originating POI or in a separate section.  
-- Decide whether a path represents a road, a trail, or a wilderness route, and write the results in your notebook.
-- Roll on the [Path Features](#path-features) table for each path, writing the results in your notebook. 
-- Determine the path distances between POIs, and note the duration on the map:
-  - A Watch is 8 hours long. Denote days between POIs wherever possible (typically two Watches and one rest per day of travel).
-  - A short distance between POIs takes one Watch to traverse, a medium distance takes two Watches, and a long distance takes three Watches. 
-  - For Trails, add 1 more Watch, and for Wilderness routes, add 2 additional Watches.
+- 从核心开始，在每个地点之间创建 1-4 条路径。
+  - 创建环路、分支路径、死路以及兴趣点之间的捷径。
+  - 有些路径可能属于一条链，并与特定地形相关（山口、河流等）。
+  - 有些路径可能是有条件路径，用交叉线表示。
+  - 有些路径可能是隐藏路径，用虚线表示。
+- 使用兴趣点及其连接点的编号标示每条路径，例如 1 &harr; 3。在起始兴趣点下方的笔记中，或在单独的章节中记录这一点。
+- 确定一条路径代表道路、小径还是荒野路线，然后将结果写在笔记本中。
+- 为每条路径在[路径特征](#path-features)表上掷骰，并把结果写在笔记本中。
+- 确定兴趣点之间的路径距离，并在地图上记下时长：
+  - 一个时段长 8 小时。尽可能在兴趣点之间标注天数（通常每天旅行包含两个时段和一次休息）。
+  - 兴趣点之间的短距离需要一个时段通过，中等距离需要两个时段，长距离需要三个时段。
+  - 对于小径，增加 1 个时段；对于荒野路线，增加 2 个时段。
 
-### Path Features
+### 路径特征 {#path-features}
 
-Roll 1d20 for each column and combine the results.
+为每一列掷 1d20，然后组合结果。
 
 |         |                       |                              |
 | ------- | --------------------- | ---------------------------- |
-| **d20** | **Feature**           | **Condition**                |
-| **1**   | Abandoned Fields      | Bandit Ambushes              |
-| **2**   | Blood-Red             | Blocked by Giant Boulder     |
-| **3**   | Buried Charms         | Collapsed Bridge             |
-| **4**   | Cattle Prints         | Confusing to Navigate        |
-| **5**   | Constant Patrols      | Dense Bramble                |
-| **6**   | Dead Vegetation       | Divided by Political Dispute |
-| **7**   | Disappearing          | Erratic Weather              |
-| **8**   | Diseased Animals      | Frequent Flash Floods        |
-| **9**   | Follows the Stars     | Gets Extremely Cold          |
-| **10**  | Frequent Pilgrims     | Heavy Toll Required          |
-| **11**  | Massive Grooves       | Labyrinthine Canyons         |
-| **12**  | Mile Markers          | Night Predators              |
-| **13**  | Mineral Flecks        | Occasional Stampedes         |
-| **14**  | Newly Made            | Overcrowded                  |
-| **15**  | Overgrown             | Passes over Rapids           |
-| **16**  | Rusted Tools          | Poisonous Fruit              |
-| **17**  | Shriveled Away        | Smoke-filled                 |
-| **18**  | Shredded              | Steep Climb                  |
-| **19**  | Twisted               | Thick Evening Mist           |
-| **20**  | Ubiquitous Footprints | Uneven, Soggy Ground         |
+| **d20** | **特征**              | **状况**                     |
+| **1**   | 被遗弃的田野          | 强盗伏击                     |
+| **2**   | 血红色                | 被巨石阻挡                   |
+| **3**   | 埋藏的护符            | 桥梁坍塌                     |
+| **4**   | 牛蹄印                | 难以导航                     |
+| **5**   | 持续巡逻              | 茂密荆棘                     |
+| **6**   | 枯死植被              | 因政治争端而分裂             |
+| **7**   | 正在消失              | 天气变化无常                 |
+| **8**   | 患病动物              | 频繁发生山洪                 |
+| **9**   | 跟随星辰              | 极度寒冷                     |
+| **10**  | 频繁朝圣者            | 需要缴纳高额通行费           |
+| **11**  | 巨大沟槽              | 迷宫般的峡谷                 |
+| **12**  | 里程标记              | 夜间捕食者                   |
+| **13**  | 矿物斑点              | 偶发兽群狂奔                 |
+| **14**  | 新近形成              | 过度拥挤                     |
+| **15**  | 杂草丛生              | 跨越急流                     |
+| **16**  | 生锈工具              | 有毒水果                     |
+| **17**  | 枯萎消散              | 充满烟雾                     |
+| **18**  | 撕裂                  | 陡峭攀爬                     |
+| **19**  | 扭曲                  | 浓重的夜雾                   |
+| **20**  | 无处不在的脚印        | 不平且泥泞的地面             |
 
-### Put It All Together
+### 汇总一切
 
-Ask yourself the following questions:
+问自己以下问题：
 
-- What would draw people to this region? What keeps them here?
-- How do the people here think of outsiders? How do outsiders think of them?
-- What power do the Factions have over the people who live here?
-- Who or what threatens their agendas?
-- How would a faction interact with any newcomers (e.g. an adventuring party)?
-- How does the region's terrain and weather affect the people that live here? 
+- 什么会吸引人们来到这个地区？什么又让他们留在这里？
+- 这里的人如何看待外来者？外来者又如何看待他们？
+- 派系对生活在这里的人们拥有怎样的权力？
+- 谁或什么在威胁他们的议程？
+- 派系会如何与任何新来者（例如冒险队伍）互动？
+- 这个地区的地形和天气会如何影响生活在这里的人们？
 
-You should now have a sufficient idea about the people and terrain of this region, and your first region is now complete. To expand your realm, repeat the process as many times as you wish.
+现在，你应该已经对这个地区的民众和地形有了足够了解，第一个地区也就完成了。要扩展你的国度，只需根据需要重复这一流程。
 
-For example, if my results described a people that were religious and sought conversion, I'd assume they were a proud folk, prone to religious extremes and proselytizing. And if their primary resource was land, yet spices were rare, I'd assume they grew their own food, but due to a religious prohibition their cuisine was often bland.
+例如，如果我的结果描述了一群虔诚、追求皈依的人，我会假定他们是骄傲的族群，容易走向宗教极端并热衷传教。如果他们的主要资源是土地，但香料稀缺，我会假定他们自己种植食物，但由于宗教禁忌，他们的饮食往往寡淡无味。
 
-Presume that for a faction the result was a group of Nomads, with conviction their primary advantage. I could then assume that their elites were a class of religious chiefs. If the faction's agenda was to cultivate a rare resource, but they were hindered by cultural taboos, I might decide that they had hired the party to take on the task instead. Perhaps the object of their quest was a unique plant, only grown in a distant place, and that the mission must remain a secret!
+假设某个派系的结果是一个游牧群体，而他们的主要优势是信念。我可以进一步假定，他们的精英阶层是由宗教首领组成的。如果该派系的议程是培育一种稀有资源，却受到文化禁忌阻碍，我可能会决定他们雇佣了冒险队伍来完成这项任务。也许他们追寻的对象是一种只在遥远之地生长的独特植物，而且这次任务必须保密！
  
-Finally, the party would meet with one of the faction agents: a spy posing as a peddler. Only she could tell them where the plant grew, and how to cultivate it. I keep in mind that this person should likely appear in an important place such as the region's **Heart**.
+最后，队伍会与派系的一名代理人会面：一名伪装成小贩的间谍。只有她能告诉队伍这种植物生长在哪里，以及如何培育它。我会记住，这个人很可能应该出现在一个重要地点，例如该地区的**核心**。

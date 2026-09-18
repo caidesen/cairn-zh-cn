@@ -1,114 +1,113 @@
 ---
 layout: default
-title: Dungeon Exploration
-parent: Warden's Guide 
-grand_parent: Second Edition
+title: 地城探索
+parent: 守望者指南
+grand_parent: 第二版
 ---
 
-# Dungeon Exploration
+# 地城探索
 
-## Principles
+## 原则
 
-- Always clarify what is about to happen. Does that flaming barrel look stable or like it might explode at any minute? 
-- Regularly restate a character's surroundings, where they are in physical space, and what their senses are detecting. 
-- Describe obvious threats and NPCs first, followed by any distinct and memorable objects in each room. 
-- Do not tell characters how they should feel, and only tell them what's happening right now, before their eyes.
-- Provide hints about what lies beyond the next corridor, including odors, sounds, and elevation.
-- Ensure that the players understand their character's place in the Dungeon Cycle. Remind them who has already moved, who has yet to take an action, and so on. 
-- The cost of dungeon exploration is paid in turns. If the party spends too long in one place, acts without caution, makes noise, or enters a new area, they risk a roll on the Dungeon Events table. Players should always be made aware of the cost.
+- 始终明确接下来会发生什么。那只燃烧的木桶看起来稳固吗，还是随时都可能爆炸？
+- 经常重新说明角色周围的环境、他们在空间中的位置，以及感官正在探测到什么。
+- 先描述明显的威胁和 NPC，然后描述每个房间中独特且令人印象深刻的物体。
+- 不要告诉角色他们应该有什么感受，只告诉他们此刻眼前正在发生什么。
+- 提示下一条走廊之外有什么，包括气味、声音和高度变化。
+- 确保玩家理解自己的角色处于地城探索循环的哪个位置。提醒他们谁已经移动，谁还没有采取行动，等等。
+- 地城探索的代价以轮次支付。如果队伍在一个地方停留太久、行动时不够谨慎、制造声响，或进入新的区域，就可能需要在地城事件表上掷骰。玩家应当始终知道自己付出了什么代价。
 
-## Dungeon Exploration Example
+## 地城探索示例
 
-Wolfram, Lucius, and Freya have entered the first level of **Ein Eyton**, a forest temple once rumored to house an infamous death cult. Each character has a torch, but only **Wolfram** has one lit. There are no light sources here beyond the Moon in the night sky. The first room is presented as follows:
+Wolfram、Lucius 和 Freya 进入了**艾因·伊顿**的第一层。这是一座森林神庙，传闻中曾经供奉着臭名昭著的死亡教派。每名角色都有一支火炬，但只有 **Wolfram** 点燃了自己的火炬。除了夜空中的月亮，这里没有其他光源。第一个房间如下所示：
 
-### The Courtyard
+### 庭院
 
-A wide courtyard exposed to the **open air**. The **ground** is sandy and rough. **Rubble** is piled near the center of the room. A full-sized **statue** holding a bident is placed in the exact center. A wooden **doorway** to the East is locked with an iron chain. An open stone archway leads towards the West.
+一座暴露在**露天**中的宽阔庭院。**地面**沙质粗糙。**碎石**堆在房间中央附近。正中央立着一座手持双叉戟的全尺寸**雕像**。东面的木制**门道**用铁链锁住。一座敞开的石拱门通向西面。
 
-- **Air**: The roof has collapsed, letting exterior lighting illuminate the room. 
-- **Ground**: Glitters in the light. A cursory investigation will reveal that the "sand" is actually pulverized bones.  
-- **Rubble**: Stone chunks from statues resembling people. 
-  - A red jewel glints within a tight stone fist.
-- **Statue**: One eye socket is empty, in the other is a red jewel.
-  - The cult's Death Goddess, marred by time. If the remaining eye is removed, the statue comes to life, slicing the bident in an arc for d6 STR damage. Contact with the bident turns the victim to stone.
-  - If the jewel from the nearby rubble is inserted into the statue, nothing happens. If it is removed again, the statue responds accordingly.
-- **Doorway**: The door to the Storeroom has nearly rotted away, leaving cracks in the wood. The iron chain is clearly rusted.
+- **空气**：屋顶已经坍塌，外界的光线因此照亮了房间。
+- **地面**：在光线下闪闪发光。粗略调查便会发现，这些“沙子”其实是磨碎的骨头。
+- **碎石**：形似人形雕像的石块。
+  - 一颗红宝石在一只紧握的石拳中闪烁。
+- **雕像**：一只眼窝空空如也，另一只眼窝中嵌着一颗红宝石。
+  - 这是教派的死亡女神，只是已经饱经岁月摧残。如果取出剩下的那只眼睛，雕像会活过来，挥动双叉戟横扫，造成 d6 点 STR 伤害。接触双叉戟会使受害者变成石头。
+  - 如果把附近碎石中的宝石嵌入雕像，什么也不会发生。如果再次取出宝石，雕像会作出相应反应。
+- **门道**：通往储藏室的门几乎已经腐烂殆尽，木板上留下了缝隙。铁链明显已经生锈。
 
-**Warden** "_Warden: "You enter a wide courtyard illuminated by moonlight drifting through the collapsed roof. The ground is sandy and sparkles chalk-white in the moonlight. Near the center, rubble piles around a statue of a woman wielding a bident. To the East, a wooden door is closed and chained, while an open archway leads Westward into a dark tunnel. What do you do?"_
+**守望者**：_“你们进入一座宽阔的庭院，坍塌的屋顶让月光洒落进来。地面沙质粗糙，在月光下闪烁着粉笔般的白色光芒。中央附近，碎石堆围绕着一座手持双叉戟的女性雕像。东面，一扇木门紧闭并用铁链锁住；西面，一座敞开的拱门通向黑暗的隧道。你们要做什么？”_
 
-> **The characters then declare their intended actions.**
+> **接着，角色声明自己打算采取的行动。**
 
-**Wolfram**: _"I'll search the room for clues about its purpose, starting with that glittery ground."_ 
-**Lucius**: _"I'll check out the wooden **door**, to see if I can figure out what's on the other side."_ 
-**Freya**: "_I'm going to get a better look at that **statue**. What can I learn without actually getting too close?"_ 
+**Wolfram**：_“我会搜索房间，寻找它用途的线索，就从那片闪闪发光的地面开始。”_
+**Lucius**：_“我去看看那扇木制**门**，看能不能弄清楚另一边有什么。”_
+**Freya**：_“我要仔细看看那座**雕像**。在不实际靠得太近的情况下，我能了解到什么？”_
 
-**Warden**: _"Alright, let's start with **Wolfram**. The sand is white, grainy, and clearly not from any beach 'round these parts. Starting at a small lump in the ground, you recognize a half-decayed human skull, meaning that this 'sand' is actually bone! What do you do now?"_
+**守望者**：_“好，我们先从 **Wolfram** 开始。沙子呈白色，颗粒粗糙，显然不是这附近任何一片海滩上的沙子。从地面上的一小块凸起开始，你认出那是一颗半腐烂的人类头骨，也就是说，这些‘沙子’其实是骨头！你现在要做什么？”_
 
-**Wolfram**: _"Gross. I'm gonna poke at it a bit with my sword. Is there is anything hidden in the dust? Something valuable, maybe?"_
+**Wolfram**：_“真恶心。我用剑拨弄一下。尘土里有没有藏着什么？比如值钱的东西？”_
 
-**Warden**: _"No. But you're at least convinced the ground is safe. And that's the end of your turn!"_
+**守望者**：_“没有。不过至少你确信地面是安全的。你的轮次就到此为止！”_
 
-> **The Warden then moves to describe another character's actions, as they are happening simultaneously.**
+> **接着，守望者转而描述另一名角色的行动，因为这些行动是同时发生的。**
 
-**Warden**: _"Let's see what **Lucius** is up to."_
+**守望者**：_“让我们看看 **Lucius** 在做什么。”_
 
-**Warden**: _"**Lucius**, the **door** is locked, ancient, and partly rotted away. It bears a rusted iron lock. What do you do now?"_
+**守望者**：_“**Lucius**，这扇**门**上着锁，年代久远，而且已经部分腐烂。门上有一把生锈的铁锁。你现在要做什么？”_
 
-**Lucius**: _"As I have no lockpick, I think I'll put my ear to the door to see what's on the other side."_ 
+**Lucius**：_“我没有开锁工具，所以我想把耳朵贴到门上，听听另一边有什么。”_
 
-**Warden**: _"You place an ear on the door, but hear only a faint rustling on the other side._"
+**守望者**：_“你把耳朵贴在门上，但只能听见另一边传来微弱的窸窣声。”_
 
-**Lucius**: _"How busted is the keyhole? Could I see through it? What about the door itself? You said it was rotted._"
+**Lucius**：_“锁孔坏得有多严重？我能从里面看过去吗？门本身呢？你说它已经腐烂了。”_
 
-**Warden**: _"The keyhole is intact, and too dark to look through. You could shine a light through it, or you could use one of the gaps in the door."_
+**守望者**：_“锁孔完好无损，但里面太暗，无法直接看过去。你可以用光照进去，也可以利用门上的缝隙。”_
 
-**Lucius**: _"That works. I light my **torch** and hold it aloft so that I can see through."_
+**Lucius**：_“这样就行。我点燃**火炬**并把它举高，借此看过去。”_
 
-**Warden**: _"**Lucius**, Through the cracks, you can see a gray cement floor. Something gleams on the ground, flickering in the torchlight. It looks like a large, wet footprint!"_
+**守望者**：_“**Lucius**，透过缝隙，你能看见灰色的水泥地面。地上有东西在闪光，在火炬光下明灭不定。看起来像一个巨大的湿脚印！”_
 
-**Lucius**: _"Eek! I let the others know."_
+**Lucius**：_“呃！我告诉其他人。”_
 
-**Warden**: _"Got it. Now let's see what **Freya** can find out about that statue."_
+**守望者**：_“知道了。现在让我们看看 **Freya** 能从那座雕像上发现什么。”_
 
-**Freya**: _"Right, remember that I'd like to take a look, but I don't want to get too close."_
+**Freya**：_“好，记住，我想看看它，但不想靠得太近。”_
 
-**Warden**: _"You approach until you are about five feet away from the statue. The face looks chipped away, and one of the eyes is missing entirely. However, embedded in the other is a beautiful red jewel! The statue holds a white bident in its hands. Do you interact with the statue further or move along?"_
+**守望者**：_“你靠近到距离雕像大约五英尺的位置。它的脸看起来已经剥落，一只眼睛完全缺失。不过，另一只眼睛里嵌着一颗美丽的红宝石！雕像手中握着一把白色双叉戟。你要继续与雕像互动，还是离开？”_
 
-**Freya**: _"That's just creepy! I want no part in this, at least not until we learn more about what this room was for. I'd like to investigate that rubble you mentioned before."_ 
+**Freya**：_“真诡异！我不想碰它，至少在我们进一步了解这个房间的用途之前不想。我想调查你刚才提到的碎石。”_
 
-**Warden**: _"Alright, you move to the rubble adjacent to the statue. It looks extremely heavy and difficult to move. In the light from **Wolfram's** torch, you can see something red and shiny glinting in the cracks of the pile. What do you do?"_
+**守望者**：_“好，你走到雕像旁边的碎石处。它看起来非常沉重，很难搬动。借着 **Wolfram** 火炬的光，你能看见有什么红色且闪亮的东西在碎石堆的缝隙中闪烁。你要做什么？”_
 
-**Freya**: _"I investigate further, of course!"_
+**Freya**：_“当然是继续调查！”_
 
-**Warden**: _"You take a closer look, and spy a red jewel enclosed in a large stone fist. It looks valuable, at least 75gp. It also looks large enough to take up an entire slot!"_
+**守望者**：_“你仔细一看，发现一颗红宝石被一只巨大的石拳紧紧包住。它看起来很值钱，至少价值 75gp。而且它大到足以占用整整一个物品栏格！”_
 
-**Freya**: _"I want it. Can I dig it out easily?"_
+**Freya**：_“我想要它。我能轻松把它挖出来吗？”_
 
-**Warden**: _"The fingers are wrapped around it quite tightly; you'll need to work hard to get it loose or spend an extra turn to extract it quietly. Either choice will likely trigger a dungeon event roll."_
+**守望者**：_“手指把它握得很紧；你需要费一番力气才能把它弄松，或者额外花费一个轮次，安静地把它取出来。无论选择哪一种，都很可能触发一次地城事件掷骰。”_
 
-**Freya**: _"Damn. Fine, I'll do it as quickly as possible, using the edge of my dagger and a block of rubble to pop it out. Noise be damned!_"
+**Freya**：_“该死。好吧，我尽快行动，用匕首的边缘和一块碎石把它撬出来。管它会不会发出声音！”_
 
-**Warden**: _"Alright, let's see how loud you are..."_
+**守望者**：_“好，让我们看看你会弄出多大的声音……”_
 
-> **The Warden then rolls on the Dungeon Events table: Environment.**
+> **守望者随后在地城事件表上掷骰：环境。**
 
-**Warden**: _"**Freya's** clanging labor echoes against the exposed walls of the courtyard. The silence is broken by a shingle falling from the east wall, clattering onto the stone floor. Lucius, you hear rustling noises drawing nearer from behind the door! At that exact moment, the jewel comes loose."_ 
+**守望者**：_“**Freya** 敲击撬动的声音在庭院裸露的墙壁间回荡。一片屋瓦从东墙上掉落，哐啷一声砸在石地板上，打破了寂静。Lucius，你听见门后传来的窸窣声越来越近！就在这一刻，宝石松脱了。”_
 
-**Warden**: _"And with that, this cycle is over. What do you all do next?"_
+**守望者**：_“这样一来，这个循环就结束了。你们接下来要做什么？”_
 
-**Lucius**: _"Um, something's coming. Can we please leave, NOW?"_ 
+**Lucius**：_“呃，有东西要来了。我们现在能不能赶紧离开？”_
 
-**Freya**: _"I'll quickly put the jewel in my backpack_."
+**Freya**：_“我迅速把宝石放进背包。”_
 
-**Wolfram**: _"I think we should head down that stone archway to the West. We can always circle back to this room on our way out._"
+**Wolfram**：_“我觉得我们应该沿着西面的石拱门走。离开时总能绕回来。”_
 
-**Freya**: _"Hang on, what about this jewel I discovered? It looks like it could go in that statue's eye..."_
+**Freya**：_“等等，那我发现的宝石怎么办？它看起来似乎能放进那座雕像的眼睛里……”_
 
-**Lucius**: _"What are you, nuts? For all we know that statue will come to life and attack!"_
+**Lucius**：_“你疯了吗？谁知道那座雕像会不会活过来攻击我们！”_
 
-**Freya**: _"Or maybe it'll open a secret door?_"
+**Freya**：_“也许它会打开一扇秘密门？”_
 
-**Wolfram**: _"Enough, let's just move on for now. There is something on the other side of that door, and I do NOT want to find out what!"_
+**Wolfram**：_“够了，我们先继续前进。那扇门的另一边有东西，我可一点都不想知道那是什么！”_
 
-> **The party moves on to the adjoining hall and the adventure continues.**
-
+> **队伍继续前往相邻的大厅，冒险仍在继续。**
