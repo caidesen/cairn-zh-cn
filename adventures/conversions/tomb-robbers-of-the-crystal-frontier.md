@@ -46,13 +46,13 @@ title: 水晶边疆的盗墓者
 #### 岩缚木乃伊 {#lith-mummy}
 6 HP, 12 STR, 8 DEX, 6 WIL, 撕裂 (d8)
 * 结晶化血肉：普通武器的所有攻击视为_削弱_。
-* **重伤**：战斗结束后承受一层墓晶中毒（见[附录 A](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#appendix-a---occuliths)）。
+* **重伤**：战斗结束后承受一层墓晶中毒（见[附录 A](/adventures/conversions/tomb-robbers-of-the-crystal-frontier#appendix-a---occuliths)）。
 
 #### 岩缚僵尸 {#lith-zombies}
 6 HP, 10 STR, 6 DEX, 3 WIL, 锤击 (d6)
 * 晶体包覆：总是最后行动。
 * 无心智：免疫所有影响心智的效果，包括士气。
-* **重伤**：战斗结束后承受一层墓晶中毒（见[附录 A](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#appendix-a---occuliths)）。
+* **重伤**：战斗结束后承受一层墓晶中毒（见[附录 A](/adventures/conversions/tomb-robbers-of-the-crystal-frontier#appendix-a---occuliths)）。
 
 #### 柱居者之眼 {#stylite's-eyes}
 3 HP, 3 STR, 14 DEX, 12 WIL, 燃烧凝视 (d6)
@@ -72,7 +72,7 @@ title: 水晶边疆的盗墓者
 #### 祭司之子 {#priest's-children}
 6 HP, 2 Armor, 12 STR, 8 DEX, 6 WIL, 弯刀 (d8)
 * 坚韧：除非 HP 降至 0 或面对压倒性的力量，否则祭司之子不会进行士气检定（WIL 豁免）
-* **重伤**：战斗结束后承受一层墓晶中毒（见[附录 A](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#appendix-a---occuliths)）。
+* **重伤**：战斗结束后承受一层墓晶中毒（见[附录 A](/adventures/conversions/tomb-robbers-of-the-crystal-frontier#appendix-a---occuliths)）。
 
 ### Murkvey 岩外观 {#exterior-of-murkveys-rock}
 * 麻袋布覆盖的洞：掷一枚命运骰，以决定熊鸮是否在场（1-3：在场，4-6：不在场）。
@@ -85,7 +85,7 @@ title: 水晶边疆的盗墓者
 |                  |                               |
 | ---------------- | ----------------------------- |
 | 目睹的事件 | 长时间观看的效果 |
-| **2** 一位加冕之王与他的维齐尔巡视天然晶洞，维齐尔打着手势，国王则冷笑。 | 观看者脑海中浮现若干关于晶体结构形态的模糊想法，获得墓晶切面的「训练」（见[附录 A](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#appendix-a---occuliths)）。 |
+| **2** 一位加冕之王与他的维齐尔巡视天然晶洞，维齐尔打着手势，国王则冷笑。 | 观看者脑海中浮现若干关于晶体结构形态的模糊想法，获得墓晶切面的「训练」（见[附录 A](/adventures/conversions/tomb-robbers-of-the-crystal-frontier#appendix-a---occuliths)）。 |
 | **3** 工人在精疲力竭的边缘劳作。他们雕刻王座，并将其连接到正在安装于墙壁与地板中的机械。 | 工人们回过头来，眼中充满仇恨。岩缚木乃伊、岩缚灵与岩缚僵尸视为其*反应*掷出了敌对，并试图立即杀死观看者。 |
 | **4** 一名身着破损铠甲的贵族跪在加冕之王面前。国王震怒。他握住王座，墙壁中射出的燃烧射线将贵族熔化。 | 一股暴怒诅咒在体内沸腾，使观看者渴求残酷的战斗。观看者将不再使用远程武器，且必须进行 WIL 豁免才能退出战斗。 |
 | **5** 一群贵族将他们中的一员强行塞进一套烧得通红的镀金铠甲。他尖叫、哀求。一名戴着锁链的悲伤女子在旁观看。 | 交感魔法在观看者身上灼烧沸腾。他们受到 d6 STR 伤害，身上布满丑陋水疱与疹子，如同被自身体内的火焰烹煮。 |
@@ -99,13 +99,13 @@ title: 水晶边疆的盗墓者
 
 ### 4) 歌唱晶体 {#4-singing-crystals}
 * 晶体柱：成功通过 DEX 豁免即可避开晶体。失败则因痛苦的颤鸣受到 d6 DEX 伤害；若声音加剧时仍未立即离开房间，须进行 STR 豁免，失败则陷入昏迷，并在 10 分钟结束时死亡。
-* 两具尸体：见**附录 C**中的[苍穹甲胄](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#empyrean-panoply-2-armor)。
+* 两具尸体：见**附录 C**中的[苍穹甲胄](/adventures/conversions/tomb-robbers-of-the-crystal-frontier#empyrean-panoply-2-armor)。
 
 ### 5) Murkvey 营地 {#5-murkveys-camp}
 * 帆布捆：因队伍出现在营地中，将 Murkvey 及其手下的**反应**降低 1 档。
 
 **Murkvey**
-* 数据同[祭司之子](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#priest's-children)
+* 数据同[祭司之子](/adventures/conversions/tomb-robbers-of-the-crystal-frontier#priest's-children)
 
 ### 6) 包囊之兽 {#6-encysted-beast}
 
@@ -114,7 +114,7 @@ title: 水晶边疆的盗墓者
 * 赴死之心：反应与士气皆不适用于此怪物。
 * 晶体护甲：普通武器的所有攻击受到_削弱_，除非玩家明确瞄准面部。
 * 韧性：怪物每回合再生 2 STR，即使已经死亡或被打成碎片。若被杀死，它能以 6 STR 再次投入战斗。只有将其溶解于炼金酒精中才能永久消灭。
-* 剧毒：击打怪物会产生墓晶尘埃云与晶体碎片喷溅。任何攻击过该怪物的战斗结束后（无论是否造成伤害），当时同处一地的所有人必须进行 STR 豁免，否则承受一层墓晶中毒（见[附录 A](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#appendix-a---occuliths)）。
+* 剧毒：击打怪物会产生墓晶尘埃云与晶体碎片喷溅。任何攻击过该怪物的战斗结束后（无论是否造成伤害），当时同处一地的所有人必须进行 STR 豁免，否则承受一层墓晶中毒（见[附录 A](/adventures/conversions/tomb-robbers-of-the-crystal-frontier#appendix-a---occuliths)）。
 * **重伤**：怪物不可阻挡地碾碎受害者，血肉残骸被吸收进它癌变般的躯体。它恢复 6 STR，且其下一轮次的攻击视为_强化_。
 
 ### 7) 隔室大厅 {#7-chambered-hall}
@@ -135,7 +135,7 @@ title: 水晶边疆的盗墓者
 * DEX 豁免，否则 PC 被灼热光束烧成灰烬。
 
 #### 红球之 Thuvia {#thuvia-of-the-red-sphere}
-10 HP, 2 Armor, 16 WIL, 恶咒 (d8+d8) 或 (d8, _爆发_)，红卷（见[附录 C](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#red-tome)）
+10 HP, 2 Armor, 16 WIL, 恶咒 (d8+d8) 或 (d8, _爆发_)，红卷（见[附录 C](/adventures/conversions/tomb-robbers-of-the-crystal-frontier#red-tome)）
 * 高阶巫术：免疫普通投射物与造成伤害的魔法效果。
 * _沉睡之沙_：至多 3 个目标必须进行 WIL 豁免，否则入睡。
 * _晶体编织_：至多 3 个目标必须进行 STR 豁免，否则被定在原地。
@@ -155,7 +155,7 @@ title: 水晶边疆的盗墓者
 ### 10) 晶洞坟墓 {#10-geode-grave}
 * 只要谨慎移动，PC 无需进行豁免；但若无足够装备或训练便下到地面，则须进行 DEX 豁免。
 * 若不在战斗中，拥有充足时间、工具与技能的 PC 约需 10 个战斗回合撬开锁。成功通过 DEX 豁免可缩短至 5 回合，但过程中有折断撬锁工具的风险。
-* 见[岩缚僵尸](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#lith-zombies)
+* 见[岩缚僵尸](/adventures/conversions/tomb-robbers-of-the-crystal-frontier#lith-zombies)
 
 ### 11) 壁画大厅 {#11-muraled-hall}
 * 预示危险：任何缓慢移动并仔细检查房间的人都应被告知天花板上钻出的孔洞。
@@ -312,7 +312,7 @@ title: 水晶边疆的盗墓者
 | 5 | **折射。** 所有宝藏与贵重物品转化为无价值的墓晶。 |
 | 6 | **禁锢。** 一名随机旅行者迷失于映照之所，但仍可能被找回。 |
 
-* **岩缚死灵术（2500 GP）**：使墓晶在一具尸体中绽放生长，将其转化为[岩缚僵尸](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#lith-zombies)。它会侍奉施法者直至下一次日出，此后成为不辨敌我的人肉吞噬者。
+* **岩缚死灵术（2500 GP）**：使墓晶在一具尸体中绽放生长，将其转化为[岩缚僵尸](/adventures/conversions/tomb-robbers-of-the-crystal-frontier#lith-zombies)。它会侍奉施法者直至下一次日出，此后成为不辨敌我的人肉吞噬者。
 
 * **幻影猎手（3000 GP）**：从另一次元召唤一个隐形恐怖，它将无情地猎杀单一敌人。完成此法术的仪式需要三小时，并使施法者陷入_匮乏_。仪式结束时施法者必须进行 WIL 豁免，失败则意味着该生物在返回其领域前有了第二个目标：施法者。
 
@@ -357,7 +357,7 @@ title: 水晶边疆的盗墓者
 5 HP, 15 STR, WIL 14, 剑/斧/锤 (d8), 弩 (d8, _笨重_)
 
 #### Graf {#graf}
-9 HP, 2 Armor, 16 STR, 13 DEX, 16 WIL, [饮血短剑 (d8)](/adventures/conversions/tomb-robbers-of-the-crystal-frontier/#blood-drinking-smallsword-d8), 匕首 (d6)
+9 HP, 2 Armor, 16 STR, 13 DEX, 16 WIL, [饮血短剑 (d8)](/adventures/conversions/tomb-robbers-of-the-crystal-frontier#blood-drinking-smallsword-d8), 匕首 (d6)
 * 浪荡剑客：Graf 是训练有素的决斗者，在单挑中对任何人类体型对手的攻击得到_强化_。
 
 #### 邪教狂热者 {#cult-fanatic}

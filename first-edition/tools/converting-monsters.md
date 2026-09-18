@@ -16,7 +16,7 @@ redirect_from: /tools/converting-monsters/
 请查看 [SRD](https://cairnrpg.com/cairn-srd/#creating-monsters) 中的说明。需要牢记以下几点：
 - OSE（或 B/X）拥有非常优秀的 stat blocks，可以轻松删减，用于快速转换。更多信息请参见此[页面](https://oldschoolessentials.necroticgnome.com/srd/index.php/General)和此 [PDF](https://necroticgnome.com/products/old-school-essentials-adaptation-guidelines)。
 - Dungeon World 有一些很棒的怪物“moves”，转换为 Critical Damage 时效果很好，因此在该系统中寻找等价的生物会很有帮助！示例见[这里](http://codex.dungeon-world.com/monster/5698559156420608)。
-- 有时无法直接逐项转换 stats。没关系！这里有一种[方法](/resources/tools/converting-monsters/#use-the-fiction)！
+- 有时无法直接逐项转换 stats。没关系！这里有一种[方法](#use-the-fiction)！
 
 ### Health、Armor 与 Abilities
 
@@ -35,7 +35,7 @@ redirect_from: /tools/converting-monsters/
 
 ### Combat
 
-- 来自 OSE（或 B / X）等游戏的攻击 **damage** 很容易处理；通常直接照抄即可。如果不确定，请对照[武器表](/cairn-srd/#weapons)。
+- 来自 OSE（或 B / X）等游戏的攻击 **damage** 很容易处理；通常直接照抄即可。如果不确定，请对照[武器表](/cairn-srd#weapons)。
 - 多重攻击（例如 2 x claw、1 x sting）通常转换为 [_Blast_](/cairn-srd#Blast) 和/或“两件武器”规则（例如 d6+d6 就是掷 2d6，取最高值）。
 - 如果不确定，想想该生物应该造成多少严重伤害。记住，与其提高一档攻击伤害，不如考虑让它在特定情况下变得 _enhanced_，或使用 _Blast_ 和“两件武器”规则。
 

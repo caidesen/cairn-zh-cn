@@ -12,12 +12,12 @@ nav_order: 1
 <a id="introduction"></a>
 ## 导言
 下面是一些针对 Cairn 新玩家最常提出的问题的回答。\
-阅读以下内容时，请参考 [SRD](/cairn-srd/)，尤其是关于 [**saves**](/cairn-srd/#saves) 和 [**combat**](/cairn-srd/#combat) 的部分。
+阅读以下内容时，请参考 [SRD](/cairn-srd)，尤其是关于 [**saves**](/cairn-srd#saves) 和 [**combat**](/cairn-srd#combat) 的部分。
 
 **阅读示例文本时请牢记以下事项！**\
 - **Esther** 扮演一名曾是 **Herbalist** 的角色。
 - **Barry** 扮演一名曾是 **Hunter** 的角色。
-- 这些 PC 正在寻找一件强大的 [**Relic**](/cairn-srd/#relics)，据说它拥有恢复力量。
+- 这些 PC 正在寻找一件强大的 [**Relic**](/cairn-srd#relics)，据说它拥有恢复力量。
 - 不久前，队伍发现了一张写有该物品真实位置的羊皮纸，位置在 **Geunant Forest** 最东侧的某处。这片森林以巨大的古树闻名，树叶庞大得几乎不透光。
 
 你也可以在[这里](/resources/example-of-play)阅读完整的 **Example of Play** 单页版本。
@@ -57,7 +57,7 @@ nav_order: 1
 
  **如果没有任何 PC 拥有相关经验或专长呢？**
  - 如果没有 PC 拥有 **Herbalist** 背景，Warden 很可能会判定 PC 不知道这种植物的特性；而玩家（希望如此）会通过提问和尝试来了解更多。
- - 如果某个 PC 只有 _间接相关_ 的背景（例如 **Hunter**），Warden 可以让 [Fates 决定](/cairn-srd/#die-of-fate)，并掷 1d6。结果越高，该 PC 越可能知道某些相关或有用的信息。
+ - 如果某个 PC 只有 _间接相关_ 的背景（例如 **Hunter**），Warden 可以让 [Fates 决定](/cairn-srd#die-of-fate)，并掷 1d6。结果越高，该 PC 越可能知道某些相关或有用的信息。
 
 </details>
 
@@ -139,7 +139,7 @@ nav_order: 1
 PC 或 NPC 仅在满足以下一个或多个条件时才应该 **save**：
 - 行动的结果不确定时。
 - 某些东西处于风险之中时（生命、威胁性危险等）。
-- 在[**combat**](/cairn-srd/#critical-damage)中进行 critical damage save 时。
+- 在[**combat**](/cairn-srd#critical-damage)中进行 critical damage save 时。
 
 **Saves** 可以在战斗内外发生。PC 或 NPC 受到攻击时，几乎_从来不_需要 **save**，因为攻击会自动命中。不过，有些情形下，剧情事实可能决定攻击自动失败或根本不可能成功。
 
@@ -150,7 +150,7 @@ PC 或 NPC 仅在满足以下一个或多个条件时才应该 **save**：
 
  **Esther**: _"我们知道这只生物的什么信息？"_
 
- **Warden**: _"知道——它是 [**Blood Elk**](/resources/monsters/blood-elk/)，一种由极度贪婪或嫉妒诞生的杀人鹿。按你们听说的情况，它相当强大。"_
+ **Warden**: _"知道——它是 [**Blood Elk**](/resources/monsters/blood-elk)，一种由极度贪婪或嫉妒诞生的杀人鹿。按你们听说的情况，它相当强大。"_
 
  **Esther**: _"真吓人！那我想用我的行动把同伴拖离路线，也许拖到你刚才提到的那棵橡树旁。"_
 
@@ -253,7 +253,7 @@ PC 或 NPC 仅在满足以下一个或多个条件时才应该 **save**：
 - 如果 PC 的精神、意志或决心受到影响，就从 **WIL** 中扣除。这在魔法伤害或表面伤害中尤其有用。例如，灵魂被奥术能量灼伤的 PC，可能需要进行 **WIL** save 才能阅读 Spellbooks。
 
 一些注意事项：
-- 一种伤势可能包含多个方面：例如，中毒造成 **STR** 损失时，可能还会伴随 [**Deprivation**](/cairn-srd/#deprivation--fatigue)。同时也要提供一个解决疾病的方法。
+- 一种伤势可能包含多个方面：例如，中毒造成 **STR** 损失时，可能还会伴随 [**Deprivation**](/cairn-srd#deprivation--fatigue)。同时也要提供一个解决疾病的方法。
 - 伤害应当是未能通过 **save** 的后果。不要在事后再让玩家 **save**。
 - 剧情中的伤势和直接的机制伤害一样有力。**DEX** 损失会影响角色的反应和速度，但断腿可能会让角色完全无法移动！
 
@@ -304,7 +304,7 @@ PC 或 NPC 仅在满足以下一个或多个条件时才应该 **save**：
 
 <a id="how-do-pcs-advance-without-things-like-levels-or-xp"></a>
 ## 没有等级或 XP 之类的东西，PC 如何成长？
-在 **Cairn** 中，角色的_成长_优于_提升_。这意味着，虽然 PC _会_发生变化，但他们不一定会随着时间变得_更好_。成长既可以通过机制手段（例如 [**Scars**](/cairn-srd/#scars)）实现，也可以通过完全发生在剧情中的事件实现。
+在 **Cairn** 中，角色的_成长_优于_提升_。这意味着，虽然 PC _会_发生变化，但他们不一定会随着时间变得_更好_。成长既可以通过机制手段（例如 [**Scars**](/cairn-srd#scars)）实现，也可以通过完全发生在剧情中的事件实现。
 
 **Warden 在给予 PC 非机制成长时，应考虑以下事项：**
 - 成长应当与剧情中发生的_具体_经历相关。

@@ -48,8 +48,8 @@ title: Prison of the Hated Pretender
 - 篡位者魔法书分成四本法术书，分别对应其原本的法术。
     - _魅惑人类_：参见 [_魅惑_](/cairn-srd#charm)：一个你能看见的生物会把你当作朋友。
     - _保持门户_：门、闸、窗或其他门户会被魔法关牢。
-    - _光_：参见 [_照明_](/cairn-srd/#illuminate)：浮动的光源会按照你的命令移动。
-    - _漂浮_：参见 [_液态空气_](/cairn-srd/#liquid-air)：你周围的空气变得可以游泳通过。
+    - _光_：参见 [_照明_](/cairn-srd#illuminate)：浮动的光源会按照你的命令移动。
+    - _漂浮_：参见 [_液态空气_](/cairn-srd#liquid-air)：你周围的空气变得可以游泳通过。
 
 ### 银制鱼鳞甲 {#silver-fishscale-armor}
 - 2 armor，笨重。魔法效果照原文保留。

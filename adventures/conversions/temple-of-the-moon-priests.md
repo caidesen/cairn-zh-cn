@@ -20,7 +20,7 @@ redirect_from: /resources/adventure-conversions/temple-of-the-moon-priests/
 
 ### Knucklebone 普通成员 {#common-knucklebone-member}
 4 HP, 1 Armor, 战斧 (d8) 或短弓 (d6)
-- 从[远征装备表](/cairn-srd/#expeditionary-gear)中随机携带一件物品。
+- 从[远征装备表](/cairn-srd#expeditionary-gear)中随机携带一件物品。
 
 ### Knucklebone 病弱巫师 {#knucklebone-sick-wizard}
 4 HP, 法杖 (d6)

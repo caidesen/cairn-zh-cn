@@ -198,7 +198,7 @@ grand_parent: Adventures
 - **埋葬壁龛**：进行 STR 豁免，以免移动时发出恐怖的摩擦声。
 
 ### 地精 {#goblins-2}
-参见[上文](/adventures/conversions/the-black-wyrm-of-brandonsford/#goblins)
+参见[上文](/adventures/conversions/the-black-wyrm-of-brandonsford#goblins)
 
 ### 灰色软泥 {#gray-ooze}
 
@@ -249,7 +249,7 @@ grand_parent: Adventures
 
 ### Sir Myrddin 的墓穴 {#crypt-of-sir-myrddin}
 #### 符文石 {#rune-stones}
-参见下表获取随机神职法术。各法术的详细信息请参见 [More Spellbooks](/resources/more-spellbooks/)。
+参见下表获取随机神职法术。各法术的详细信息请参见 [More Spellbooks](/resources/more-spellbooks)。
 
 |         |                      |
 | ------- | -------------------- |

@@ -79,7 +79,7 @@ redirect_from: /resources/adventure-conversions/winters-daughter/
 #### 松动的地砖 {#a-loose-flagstone}
 - 仔细搜索一定会发现松动的地砖。
 - 毒针陷阱：受到 1d4 STR 伤害，并昏迷 1d12 分钟。
-- _定身术：_目标陷入麻痹，直到 WIL 豁免成功。不死生物_不受_影响。参见 [SRD](/cairn-srd/#magic) 中关于卷轴的规则。
+- _定身术：_目标陷入麻痹，直到 WIL 豁免成功。不死生物_不受_影响。参见 [SRD](/cairn-srd#magic) 中关于卷轴的规则。
 - 圣饼：吃下一块的人会感到极度的幸福与平和。吃下三块或更多会使人陷入深度睡眠，持续 1d4 小时。
 
 ### 11. 持武器的雕像 {#11-statues-with-weapons}
@@ -102,7 +102,7 @@ redirect_from: /resources/adventure-conversions/winters-daughter/
 - 能力按原文执行。
 
 ### 石棺 {#stone-coffer}
-- 参见[灵魂束缚戒指](/adventures/conversions/winters-daughter/#ring-of-soul-binding)。
+- 参见[灵魂束缚戒指](/adventures/conversions/winters-daughter#ring-of-soul-binding)。
 
 ### 14. 设防水池 {#14-warded-pool}
 - 按原文执行。
@@ -111,10 +111,10 @@ redirect_from: /resources/adventure-conversions/winters-daughter/
 
 ### 随机事件 {#random-events-2}
 #### 霜精灵骑士
-- 参见[霜精灵骑士](/adventures/conversions/winters-daughter/#frost-elf-guards-and-knights)。
+- 参见[霜精灵骑士](/adventures/conversions/winters-daughter#frost-elf-guards-and-knights)。
 
 #### 地精雪橇骑手
-- 参见[多尔门伍德地精](/adventures/conversions/winters-daughter/#dolmenwood-goblin)。
+- 参见[多尔门伍德地精](/adventures/conversions/winters-daughter#dolmenwood-goblin)。
 
 #### 冬狼 {#winter-wolves}
 5 HP, 14 STR, 12 DEX, 撕咬（d8）
