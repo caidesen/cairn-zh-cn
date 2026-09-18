@@ -236,6 +236,7 @@
 - 2026-09-18：第十六、十七批共 21 个冒险转换文件已对照 `../cairn-zh-cn-main` worktree 抽查标题层级、表格和若干规则句，并已提交为 `751a7aa1`；`adventures/conversions/` 的 61 个正文文件到此全部译完。
 - 2026-09-18：对翻译后产生的内部链接路径进行全局校正，提交为 `c0e23fe3`；随后由 Grok 修复 Pages workflow 的 YAML 构建命令并加入 `_config.pages.yml`，提交为 `dde2a6d2`，再固定 Ruby/Bundler 版本并显式安装 gems，提交为 `6cc54f66`。
 - 2026-09-18：对 61 个冒险转换文件完成标题、代码围栏和站内链接数量复核；修正一处作者链接遗漏和末尾空标题占位符，并清理最后一批文件的行尾空格。
+- 2026-09-18：补回第一版 SRD“100 个法术”的显式 `#100-spells` 锚点，恢复转换冒险中的既有跳转。
 - 2026-09-18：构建子 agent 确认系统 Ruby 2.6 无法满足 `Gemfile.lock` 要求的 Bundler 2.5.22；在临时 Ruby 3.3.7 环境中已完成 Bundler 2.5.22 与 97 个 gem 的安装并通过 `bundle check`，但 Jekyll 3.9/Liquid 4.0.3 在 Ruby 3.3+ 遇到 `tainted?` 兼容错误，Ruby 3.4 还额外缺少 `csv`/`bigdecimal`。建议使用 Ruby 3.1.x + Bundler 2.5.22；全站构建仍需在兼容运行时复验，远程主题下载还受当前 SSL/网络环境影响。
 
 ### 备注
