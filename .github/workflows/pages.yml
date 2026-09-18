@@ -16,20 +16,26 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.1"
-          bundler-cache: true
+          ruby-version: "3.1.7"
+          bundler: "2.5.22"
+          bundler-cache: false
 
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+
+      - name: Install gems
+        run: bundle install --jobs 4
+        env:
+          BUNDLE_FORCE_RUBY_PLATFORM: "true"
 
       - name: Build with Jekyll
         run: >
