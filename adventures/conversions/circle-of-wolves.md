@@ -6,56 +6,56 @@ grand_parent: Adventures
 redirect_from: /resources/adventure-conversions/circle-of-wolves/
 ---
 
-# Circle of Wolves
+# 狼之环 {#circle-of-wolves}
 
-- Original system-neutral [adventure](http://blog.trilemma.com/2014/07/the-circle-of-wolves.html) by Michael Prescott. Updated version [available](https://www.drivethrurpg.com/product/286792/Trilemma-Adventures-Compendium-Volume-I).   
+- Michael Prescott 创作的原系统中立[冒险](http://blog.trilemma.com/2014/07/the-circle-of-wolves.html)。更新版本可在[此处获取](https://www.drivethrurpg.com/product/286792/Trilemma-Adventures-Compendium-Volume-I)。
 
-### Wyrtung the Mad
-3 HP, 15 WIL, fists (d4)
-- Bears the wolf mark.
+### 疯子 Wyrtung {#wyrtung-the-mad}
+3 HP, 15 WIL, 拳击 (d4)
+- 身负狼印。
 
-### Vinteralf Warrior
-5 HP, 1 Armor, 14 STR, 9 DEX, 8 WIL, axe or spear (d8)
-- Highly resistant to cold.
+### Vinteralf 战士 {#vinteralf-warrior}
+5 HP, 1 Armor, 14 STR, 9 DEX, 8 WIL, 斧或长矛 (d8)
+- 对寒冷有很强的抵抗力。
 
-### Vinteralf Confessor
-3 HP, 11 STR, 8 DEX, 13 WIL, staff (d6+d6)
-- Junior star-seers able to see three heartbeats into the future.
-- Cannot be surprised: always goes before PCs on the first round.
+### Vinteralf 告解师 {#vinteralf-confessor}
+3 HP, 11 STR, 8 DEX, 13 WIL, 手杖 (d6+d6)
+- 能看到未来三次心跳的年轻观星者。
+- 不会被突袭：第一轮总是在 PC 之前行动。
 
-## Vinteralf Star-Priests
-### Bregna
-9 HP, 2 Armor, 12 STR, 14 DEX, 11 WIL, vorpal blade (d8)
-- Wears star-metal armor.
+## Vinteralf 星之牧师 {#vinteralf-star-priests}
+### Bregna {#bregna}
+9 HP, 2 Armor, 12 STR, 14 DEX, 11 WIL, 斩首刃 (d8)
+- 穿着星铁护甲。
 
-### Zau
-6 HP, 2 Armor, 14 STR, 9 DEX, 13 WIL, dual maces (d8+d8)
-- Wears hydra-skin armor.
+### Zau {#zau}
+6 HP, 2 Armor, 14 STR, 9 DEX, 13 WIL, 双钉头锤 (d8+d8)
+- 穿着九头蛇皮护甲。
 
-### Syareen
-5 HP, 11 STR, 12 DEX, 12 WIL, scarab of extortion (d8, star metal)
-- Scarab can transform into a living metal creature once (causes fatigue).
+### Syareen {#syareen}
+5 HP, 11 STR, 12 DEX, 12 WIL, 敲诈圣甲虫 (d8, 星铁)
+- 圣甲虫可以变成活体金属生物一次（会造成疲劳）。
 
-### Piobaan
-8 HP, 10 STR, 15 DEX, 9 WIL, sling staff (d6+d6, silver bullets)
-- Wears a cloak of invisibility.
+### Piobaan {#piobaan}
+8 HP, 10 STR, 15 DEX, 9 WIL, 投石索杖 (d6+d6, 银弹)
+- 穿着隐形斗篷。
 
-### Nurmin
-4 HP, 11 STR, 8 DEX, 13 WIL, trained fists (d6)
-- A confessor-acolyte, is starblind but sees three heartbeats into the future.
-- She fights unarmed, but alarmingly well.
+### Nurmin {#nurmin}
+4 HP, 11 STR, 8 DEX, 13 WIL, 训练有素的拳头 (d6)
+- 告解师侍僧，虽是星盲，却能看到未来三次心跳。
+- 她赤手空拳战斗，却强得惊人。
 
-### Hyngran of the Leádstæf (wolf form)
-12 HP, 15 STR, 16 DEX, 6 WIL, claws or bite (d8+d8)
-- Critical damage: target bears the _wolf mark_ and is seriously injured/out of combat.
-- If _Hyngran_ is defeated in wolf form the spirit is expelled; the victim awakens with their injuries.
-- A killing blow with a silver weapon _or_ immersion in lava will destroy the spirit forever, as well as its victim.
+### Leádstæf 的 Hyngran（狼形态） {#hyngran-of-the-leadstaf-wolf-form}
+12 HP, 15 STR, 16 DEX, 6 WIL, 利爪或撕咬 (d8+d8)
+- 重伤：目标身负_狼印_，并受到重伤/退出战斗。
+- 如果 _Hyngran_ 在狼形态下被击败，精魂会被驱逐；受害者带着伤势醒来。
+- 用银制武器给予致命一击，或将其浸入熔岩中，会永久摧毁精魂及其受害者。
 
-## Treasure
-### Blazing Fissure (Corpse)
-- Scale mail (3 Armor)
-- Silver buckle (50gp)
-- Star metal bastard sword (d8, two-handed: d10, bulky).
+## 宝藏 {#treasure}
+### 炽热裂隙（尸体） {#blazing-fissure-corpse}
+- 鳞甲（3 Armor）
+- 银扣（50gp）
+- 星铁双手剑（d8，双手持用：d10，笨重）。
 
-### Hermit's Cave (Wrapped in Bedroll)
-- Vinteralf dagger made of star metal (d6 ignores non-metal armor)
+### 隐士洞穴（裹在睡袋中） {#hermits-cave-wrapped-in-bedroll}
+- 星铁制 Vinteralf 匕首 (d6，忽略非金属 Armor)

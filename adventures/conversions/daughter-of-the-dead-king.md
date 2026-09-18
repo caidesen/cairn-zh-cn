@@ -5,114 +5,114 @@ grand_parent: Adventures
 title: Daughter of the Dead King
 ---
 
-# Daughter of the Dead King
+# 亡王之女 {#daughter-of-the-dead-king}
 
-- Converted from the original [adventure](https://www.exaltedfuneral.com/products/daughter-of-the-dead-king-pdf) by [Jesse Davenport](https://exlibrisrpg.com/tags/jesse-davenport).
-- Credit to Kevin Hopf.
+- 改编自 [Jesse Davenport](https://exlibrisrpg.com/tags/jesse-davenport) 创作的[原冒险](https://www.exaltedfuneral.com/products/daughter-of-the-dead-king-pdf)。
+- 致谢 Kevin Hopf。
 
-## Mordekaiser the Merchant
+## 商人 Mordekaiser {#mordekaiser-the-merchant}
 
-#### Bouquet of red swamp hemlock
-STR save to heal 1d4 HP if consumed.
+#### 红沼铁杉花束 {#bouquet-of-red-swamp-hemlock}
+食用后进行 STR 豁免，成功则恢复 1d4 HP。
 
-#### Finger bone said to be Saint Orthanc's.
-50% chance if invoked to give +2 on a single save, then crumbles to dust.
+#### 据说属于 Saint Orthanc 的指骨 {#finger-bone-said-to-be-saint-orthancs}
+唤起时有 50% 的概率使一次豁免获得 +2，随后化为尘土。
 
-#### Ornately filgreed silver brooch with a strange black gem.
-At night, +1 to start-of-combat DEX saves.
+#### 饰有繁复银丝、镶嵌奇异黑宝石的银胸针 {#ornately-filgreed-silver-brooch-with-a-strange-black-gem}
+夜间，战斗开始时的 DEX 豁免获得 +1。
 
-### All other wares as described.
+### 其他所有商品按描述处理。 {#all-other-wares-as-described}
 
-## Demonic Possession and You!
-### Possessed Villager
-3 HP, 15 STR, 10 DEX, 18 WIL, unnatural strength (d6)
-- On failing a STR save against critical damage, 50% chance to avoid critical damage.
+## 恶魔附身与你！ {#demonic-possession-and-you}
+### 被附身的村民 {#possessed-villager}
+3 HP, 15 STR, 10 DEX, 18 WIL, 非自然力量 (d6)
+- STR 豁免失败而受到重伤时，有 50% 的概率避免重伤。
 
-### The Soggy Bottom Inn
-Hagstooth Mead - If consumed, the drinker has advantage on WIL saves for an hour, after which they have disadvantage on WIL saves for two hours.
+### 湿漉漉的下层酒馆 {#the-soggy-bottom-inn}
+Hagstooth 蜂蜜酒——饮用后，饮者在一小时内进行 WIL 豁免时具有优势，之后两小时内进行 WIL 豁免时具有劣势。
 
-### The Blacksmith
-#### Black Wyrm Bone Dust Enhancement
-- Enhanced weapon becomes slightly magical. If enhanced weapon brings a target's HP to zero, they must succeed in a STR save or take critical damage.
+### 铁匠 {#the-blacksmith}
+#### 黑色巨龙骨粉强化 {#black-wyrm-bone-dust-enhancement}
+- 被强化的武器会变得略带魔力。如果强化武器将目标的 HP 降至 0，目标必须成功进行 STR 豁免，否则受到重伤。
 
-## Ethril's Shack
-### Ethril's Body
-3 HP, 15 STR, 10 DEX, 18 WIL, unnatural strength (d6)
-- On failing a STR save against critical damage, 50% chance to avoid critical damage.
+## Ethril 的小屋 {#ethrils-shack}
+### Ethril 的尸体 {#ethrils-body}
+3 HP, 15 STR, 10 DEX, 18 WIL, 非自然力量 (d6)
+- STR 豁免失败而受到重伤时，有 50% 的概率避免重伤。
 
-## The Wild Swamp
-### Poison Gas Bubble
-- Small bubbles begin to rise to the surface of the swamp. If characters continue to disturb the muck, the bubbles will continue growing until they burst, belching toxic gas and dealing 1d6 blast damage.
+## 荒野沼泽 {#the-wild-swamp}
+### 毒气泡 {#poison-gas-bubble}
+- 小气泡开始浮出沼泽表面。如果角色继续搅动淤泥，气泡会不断变大，直至破裂，喷出有毒气体并造成 1d6 爆发伤害。
 
-### Fungal Bug
-5 HP, 2 Armor, 10 STR, 12 DEX, 1 WIL, slicing pincers (d8), crushing legs (d6+d6)
-- Critical Damage: Fungal Cloud - Lets loose a vicious spray of fungus spores. Make a WIL save or become infected by the Levanian cordyceps, losing 1 WIL per day. When an infected character reaches 1 WIL, they become insane, attacking anything that moves and dealing Fungal Cloud as critical damage. Consuming any hallucinogenic substance kills the cordyceps, ending the effect.
+### 真菌虫 {#fungal-bug}
+5 HP, 2 Armor, 10 STR, 12 DEX, 1 WIL, 切割钳 (d8)，粉碎腿 (d6+d6)
+- 重伤：真菌云——释放一阵凶猛的真菌孢子。进行 WIL 豁免，否则感染 Levanian 虫草，每天失去 1 WIL。被感染角色的 WIL 降至 1 时会发疯，攻击任何移动的东西，并将真菌云作为重伤效果。食用任何致幻物质都会杀死虫草，终止此效果。
 
-### Spore Field
-- A wide patch of fungi stretches out before the party. Disturbing the fungi releases clouds of toxic spores. The first inhalation of these spores reduces characters' HP to zero. Subsequent inhalations deal 1d4 damage to DEX. Going around the fungi increases travel time by one travel turn. Attempting to run through the fungi with no protection will require each character to make a WIL save to hold their breath.
+### 孢子地 {#spore-field}
+- 一大片真菌在队伍前方延伸开来。扰动真菌会释放有毒孢子云。第一次吸入孢子会将角色的 HP 降至 0；之后每次吸入都会对 DEX 造成 1d4 伤害。绕过真菌会使行程时间增加一个旅行轮次。若没有防护而试图跑过真菌地，每名角色都必须进行 WIL 豁免来屏住呼吸。
 
-### Snakes of Large Size
-3 HP, 1 Armor, 10 STR, 12 DEX, 5 WIL, bite (d4 and poisoned)
-- Poisoned characters take 1d4 damage each round for 1d4 rounds
+### 巨型蛇 {#snakes-of-large-size}
+3 HP, 1 Armor, 10 STR, 12 DEX, 5 WIL, 撕咬 (d4，中毒)
+- 中毒角色每轮受到 1d4 伤害，持续 1d4 轮。
 
-### Three-Headed Giant Snake
-5 HP, 2 Armor, 15 STR, 11 DEX, 5 WIL, bite (d8+d8+d8)
-- Critical damage - Target is swallowed whole. Swallowed characters take 1d4 damage per turn until dead or cut free.
+### 三头巨蛇 {#three-headed-giant-snake}
+5 HP, 2 Armor, 15 STR, 11 DEX, 5 WIL, 撕咬 (d8+d8+d8)
+- 重伤——目标被整个吞下。被吞下的角色每轮受到 1d4 伤害，直到死亡或被剖开救出。
 
-### Bog Body
-- The bog body is lying facedown. If it is holding a weapon, the weapon deals +1 damage on all attack rolls. The weapon is covered in a green, acrid smelling swamp slime that will burn characters' hands for 1d4 STR damage if wielded in battle without rinsing it off.
+### 沼泽尸体 {#bog-body}
+- 沼泽尸体面朝下躺着。如果它握着武器，该武器的所有攻击掷骰都造成 +1 伤害。武器上覆盖着绿色、带有刺鼻气味的沼泽黏液；如果未冲洗就拿着它战斗，会灼伤角色的手，造成 1d4 STR 伤害。
 
-### Trading with Grix
-Grix will trade items for:
-- Coins (2d10x10)
-- Blood (d6 STR damage)
-- Dreams (2 Fatigue, lasts 1d4 days regardless of rest)
-- HP Potion: Heals 1d6 STR (not above maximum).
-- Magical Beans: Fruit heals 1d6 STR and removes a Fatigue.
-- The Demon Box: Requires a WIL save to bind the demon.
+### 与 Grix 交易 {#trading-with-grix}
+Grix 会用物品交换以下东西：
+- 硬币 (2d10x10)
+- 血液（d6 STR 伤害）
+- 梦境（2 疲劳，无论休息与否，持续 1d4 天）
+- HP 药水：恢复 1d6 STR（不超过最大值）。
+- 魔法豆：果实恢复 1d6 STR，并消除一点疲劳。
+- 恶魔之盒：需要 WIL 豁免才能束缚恶魔。
 
-## Dangers in the Shadows
-### 5. Unnatural Fatigue
-Eat a ration or take a -1 on all saves until you do.
+## 阴影中的危险 {#dangers-in-the-shadows}
+### 5. 非自然疲劳 {#5-unnatural-fatigue}
+吃下一份口粮，否则所有豁免获得 -1，直到你这么做为止。
 
-### 7.
-Footsteps begin to sound hollow, and the ground sinks and sways slightly under each step. If players continue without precaution, they will plunge through the roof of a sunken structure. Characters who fall take d6 STR damage and their wounds become infected, preventing STR recovery until they see a healer or use a recovery method other than resting.
+### 7. {#7}
+脚步声开始变得空洞，地面在每一步下都略微下沉和摇晃。如果玩家毫无防备地继续前进，他们会穿过一座下沉建筑的屋顶坠落。坠落的角色受到 d6 STR 伤害，伤口会感染，无法恢复 STR，直到他们见到治疗者或使用休息以外的恢复方式。
 
-### 8. Shade
-2 HP, 8 STR, 14 DEX, 8 WIL, corrupting claws (d4)
+### 8. 阴影 {#8-shade}
+2 HP, 8 STR, 14 DEX, 8 WIL, 腐化之爪 (d4)
 
-### 9. Grasping Pool
-A murky, perfectly still pool. A light pulses faintly from the depths. If players disturb the surface, long spidery arms reach out to grab them. Characters who are pulled in take 1d4 damage and must make a STR save to free themselves. Failing this save once results in the character's weapon being stolen and dragged down into the depths. Subsequent failures deal 1d4 damage as the character chokes on the icy water.
+### 9. 抓握池 {#9-grasping-pool}
+一个浑浊、完全静止的水池。微弱的光从深处传来。如果玩家扰动水面，长着蜘蛛般手臂的肢体会伸出来抓住他们。被拖入水中的角色受到 1d4 伤害，并必须进行 STR 豁免才能挣脱。第一次豁免失败会使角色的武器被夺走并拖入深处。之后每次失败都会造成 1d4 伤害，因为角色在冰冷的水中窒息。
 
-### 11. The Consumer
-4 HP, 1 Armor, 13 STR, 5 DEX, 7 WIL, claws (d6+d6)
--Critical Damage: Devours target, killing them instantly and gaining 1d4 STR.
+### 11. 吞食者 {#11-the-consumer}
+4 HP, 1 Armor, 13 STR, 5 DEX, 7 WIL, 利爪 (d6+d6)
+-**重伤**：吞食目标，立即杀死目标，并获得 1d4 STR。
 
-### 12. Figment of the Thing
-4 HP, 1 Armor, 12 STR, 15 DEX, 18 WIL, corrupt touch (d6)
-- Takes half damage from non-silvered weapons.
+### 12. 那东西的幻象 {#12-figment-of-the-thing}
+4 HP, 1 Armor, 12 STR, 15 DEX, 18 WIL, 腐化之触 (d6)
+- 受到非银制武器的伤害减半。
 
-### The Defiled Sanctuary
-### Reverent Corpse
-1 HP, 5 STR, 12 DEX, 4 WIL, slam (d4)
+### 被亵渎的圣所 {#the-defiled-sanctuary}
+### 虔敬尸体 {#reverent-corpse}
+1 HP, 5 STR, 12 DEX, 4 WIL, 猛击 (d4)
 
-### Sealed Relic Room
-The chains can be broken in three strikes by a d10 weapon or in 4 strikes by a d8 weapon. After each strike, roll that weapon's damage die. On a roll of 6 or higher, the nearby figures are roused from their stupor and attack!
+### 封印遗物室 {#sealed-relic-room}
+用 d10 武器攻击三次，或用 d8 武器攻击 4 次，便可破坏锁链。每次攻击后，掷该武器的伤害骰。掷出 6 或更高时，附近的身影会从昏迷中苏醒并发动攻击！
 
-#### Treasures in the room:
-- Silvered Morningstar (d10+1)
-- **Silver vial of liquid**: Drink to heal 1d6 STR (not above maximum)
+#### 房间内的宝藏： {#treasures-in-the-room}
+- 镀银晨星 (d10+1)
+- **银色液体小瓶**：饮用后恢复 1d6 STR（不超过最大值）。
 
-## Corruption
-### The THING
-6 HP, X STR, 18 DEX, 18 WIL, claws (d6+d6)
+## 腐化 {#corruption}
+### The THING {#the-thing}
+6 HP, X STR, 18 DEX, 18 WIL, 利爪 (d6+d6)
 - STR = Paranoia x 3 + 3
-- Normal weapons do half damage, silvered or magical weapons deal full.
-- The THING also can perform the following special attacks. Each special attack can be used only once and then cannot be used again until it is recharged.
+- 普通武器造成的伤害减半，镀银或魔法武器造成全额伤害。
+- The THING 还可以发动以下特殊攻击。每种特殊攻击只能使用一次，之后必须重新充能才能再次使用。
 
-### Consumed by Corruption
-Target has -2 on all rolls. Target can make a WIL save to rid themselves of the corruption, but failing the save causes them to fall into a stupor for 1d4 rounds.
-- **Mirrored Image:** Takes on the image of a party member, sowing confusion. Lasts until the THING is hit. Recharges on a roll of 5 on any d6 roll.
-- **Ripples in the Void:** 1d6 blast damage. Recharge on a roll of 6 on any d6 roll.
-- **Banish the THING**: If the Orphan is not present, or if she is dead or incapacitated, the THING will target the party member that appears to be the weakest.
-- Grix's box takes three turns to use. On the second turn, the user may make a WIL save to complete the ritual a turn early. On a failure, the box lashes out at the user's mind, dealing 1d4 WIL damage, and the ritual must be started from the beginning.
+### 被腐化吞噬 {#consumed-by-corruption}
+目标所有掷骰获得 -2。目标可以进行 WIL 豁免来摆脱腐化，但豁免失败会使其陷入昏迷 1d4 轮。
+- **镜像**：变成队伍成员的样子，播撒混乱。持续到 The THING 被击中为止。在任意 d6 掷骰中掷出 5 时重新充能。
+- **虚空涟漪**：1d6 爆发伤害。在任意 d6 掷骰中掷出 6 时重新充能。
+- **放逐 The THING**：如果 Orphan 不在场，或者她已死亡或失去行动能力，The THING 会将队伍中看起来最弱的成员作为目标。
+- Grix 的盒子需要三轮才能使用。第二轮时，使用者可以进行 WIL 豁免，将仪式提前一轮完成。失败时，盒子会反噬使用者的心智，造成 1d4 WIL 伤害，仪式必须从头开始。

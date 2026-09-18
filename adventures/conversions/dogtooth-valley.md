@@ -5,126 +5,126 @@ grand_parent: Adventures
 title: Dogtooth Valley
 ---
 
-# Dogtooth Valley
-- Converted from the [original work by Nate Treme](https://natetreme.com).
-- Conversion by **bilingo**.
+# 犬牙谷 {#dogtooth-valley}
+- 改编自 Nate Treme 的[原作](https://natetreme.com)。
+- **bilingo** 改编。
 
-## Bestiary (P. 21-22)
+## 怪物图鉴（第 21-22 页） {#bestiary-p-21-22}
 
-### Bartlebee the undead turtle
-7 HP, 2 Armor 13 STR, 4 DEX, 3 WIL, bite (d10)
-- Ornery zombie turtle used to being treated like a king.
-- On max damage breaks bone
+### 不死海龟 Bartlebee {#bartlebee-the-undead-turtle}
+7 HP, 2 Armor, 13 STR, 4 DEX, 3 WIL, 撕咬 (d10)
+- 习惯了被当作国王对待的暴躁僵尸海龟。
+- 造成最大伤害时会折断骨头。
 
-### Batpig
-4 HP, 10 STR, 10 DEX, 6 WIL, bite (1d6)
-- Undead pig with batwings Frankensteined to its back
-- They can fly
+### 蝠猪 {#batpig}
+4 HP, 10 STR, 10 DEX, 6 WIL, 撕咬 (1d6)
+- 背上像弗兰肯斯坦造物一样缝着蝙蝠翅膀的不死猪。
+- 它们会飞。
 
-### Coyote Soldier
-5 HP, 12 STR, 10 DEX, 8 WIL, bite and stab (d6+d8)
-- Humanoid Coyotes, quick and wily. They love games and rarely back down from a dare.
+### 郊狼士兵 {#coyote-soldier}
+5 HP, 12 STR, 10 DEX, 8 WIL, 撕咬与刺击 (d6+d8)
+- 类人郊狼，敏捷而狡猾。他们喜欢游戏，很少会拒绝挑战。
 
-### Gator
-6 HP, 1 Armor, 11 STR, 7 DEX, 6 WIL, bite (d8)
-- max damage goes directly to STR
+### 短吻鳄 {#gator}
+6 HP, 1 Armor, 11 STR, 7 DEX, 6 WIL, 撕咬 (d8)
+- 最大伤害直接扣除 STR。
 
-### Ghosts
-6 HP, 10 STR, 10 DEX, 15 WIL, freezing touch (d6)
-- Spirits of the dead usually preoccupied with an obsession from their time alive.
-- Immune to most forms of damage, only suscetible to magic and holy water.
-- Posession: One target must save WIL or be posessed, being controlled by the ghost until it's somehow driven off (this add is from cairn srd)
+### 鬼魂 {#ghosts}
+6 HP, 10 STR, 10 DEX, 15 WIL, 冻结之触 (d6)
+- 死者的精魂，通常仍被生前的某种执念占据。
+- 免疫大多数形式的伤害，只会受到魔法和圣水的影响。
+- 附身：一个目标必须进行 WIL 豁免，否则会被附身，并由鬼魂控制，直到鬼魂以某种方式被驱逐（此项来自 Cairn SRD）。
 
-### Giant Beetle
-7 HP, 2 Armor, STR 12, 10 DEX, 10 WIL, bite (d8)
-- A hardshell insect used as a beast of burden
+### 巨型甲虫 {#giant-beetle}
+7 HP, 2 Armor, STR 12, 10 DEX, 10 WIL, 撕咬 (d8)
+- 被用作驮兽的硬壳昆虫。
 
-### Giant crow
-9 HP, 10 STR, 12 DEX, 10 WIL, peck and talons (d8+d6)
-- Known to steal small cattle, their primary prey is the valley's tartoises. There are tales of ancient peoples using them as steeds
+### 巨鸦 {#giant-crow}
+9 HP, 10 STR, 12 DEX, 10 WIL, 啄击与利爪 (d8+d6)
+- 以偷走小型牲畜闻名，主要猎物是谷地的 Tartoise。传说古代人曾用它们作为坐骑。
 
-### Fly
-- Attracted to shiny things
+### 苍蝇 {#fly}
+- 会被闪亮的东西吸引。
 
-### Goblin
-4 HP, 8 STR, 12 DEX, 8 WIL, dagger (d6) or sling (d4)
-- Small, grotesque humanoids with skin in earthly tones of green, brown, and grey.
-- Avoids combat, only attacking when in advantage, using hit-and-run tactics.
-- Sometimes are found using dire wolves as mounts
+### 地精 {#goblin}
+4 HP, 8 STR, 12 DEX, 8 WIL, 匕首 (d6) 或投石索 (d4)
+- 身材矮小、形貌丑陋的类人，皮肤呈大地色系的绿色、棕色和灰色。
+- 避免战斗，只在占据优势时发动攻击，并采用打了就跑的战术。
+- 有时会骑着恐狼。
 
-### Mud Dragon
-HP 12 , 14 STR, 11 DEX, 15 WIL Armor 1, detachment, bite (d12) or 2 claws (d8+d8)
-- Rare, amphibious, leathery-skinned mud wyrms. As cruel and clever as their more repitlian relatives.
-- Steam Breath: The dragon breathes a massive cone of steaming air dealing 12 damage (no roll) to all caught, the flame ignores and destroys any mundane armor. It needs a short rest before being able to do this again
-- If PC takes STR damage from steam breath and survives, his skins harden becomes resistant to high temperature
+### 泥龙 {#mud-dragon}
+HP 12, 14 STR, 11 DEX, 15 WIL, Armor 1, 分队，撕咬 (d12) 或双爪 (d8+d8)
+- 稀有的两栖、皮肤如皮革般的泥蛟。像它们更具爬虫特征的亲族一样残酷而聪明。
+- 蒸汽吐息：龙吐出巨大的蒸汽锥，对所有被击中的目标造成 12 点伤害（无需掷骰）；火焰会忽略并摧毁任何普通 Armor。使用后需要短暂休息才能再次发动。
+- 如果 PC 受到蒸汽吐息造成的 STR 伤害并幸存下来，其皮肤会硬化，变得耐受高温。
  
-### Myconids
-HP 5, 10 STR, 10 DEX, 12 WIL, spear (d6)
-- Mysterious humanoid mushrooms
-- They communicate with each other telepathically
-- Spore cloud: 1d4 damage and causes coughing for 1 turn
+### 菌人 {#myconids}
+HP 5, 10 STR, 10 DEX, 12 WIL, 长矛 (d6)
+- 神秘的类人蘑菇。
+- 通过心灵感应彼此交流。
+- 孢子云：造成 1d4 伤害，并引发持续 1 轮的咳嗽。
 
-### Orangutan
-5 HP, 12 STR, 10 DEX, 10 WIL, 2 fist (d8+d8)
+### 猩猩 {#orangutan}
+5 HP, 12 STR, 10 DEX, 10 WIL, 双拳 (d8+d8)
 
-### Skeeters
-4 HP, STR 10, DEX 10, WIL 10, bite (d6)
-- Large bloodsucking insects
-- Fly
+### 吸血蚊 {#skeeters}
+4 HP, STR 10, DEX 10, WIL 10, 撕咬 (d6)
+- 大型吸血昆虫。
+- 会飞。
 
-### Skeleton
-5 HP, 10 STR, 13 DEX, 10 WIL, stab (1d6)
-- Piercing and slashing weapon attacks against it are _impaired_
+### 骷髅 {#skeleton}
+5 HP, 10 STR, 13 DEX, 10 WIL, 刺击 (1d6)
+- 对其进行的穿刺和挥砍武器攻击受到_削弱_。
 
-### Spiders
-5 HP, STR 11, DEX 11, WIL 10, bite (d6)
-- Climb walls
-- Web: DEX save or get stuck in a web
-- Silent: if not spotted they surprise the party
+### 蜘蛛 {#spiders}
+5 HP, STR 11, DEX 11, WIL 10, 撕咬 (d6)
+- 能攀爬墙壁。
+- 蛛网：DEX 豁免失败则被蛛网粘住。
+- 无声：如果没有被发现，它们会突袭队伍。
 
-### Stone ogre
-8 HP, 2 Armor, 10 STR, 6 DEX, 10 WIL, 2 fist (d6+d6)
-- Large cave-dwelling creatures with rock-like skin, attracted to heat and repelled by the cold
-- Fire/heat attacks are _impaired_
-- Ice/cold attack are _enhanced_
+### 石巨魔 {#stone-ogre}
+8 HP, 2 Armor, 10 STR, 6 DEX, 10 WIL, 双拳 (d6+d6)
+- 居住在洞穴中的大型生物，拥有岩石般的皮肤，会被热量吸引并被寒冷驱赶。
+- 火焰/热量攻击受到_削弱_。
+- 冰/寒冷攻击得到_强化_。
 
-### Tartoise
-5 HP, 2 Armor, STR 10, DEX 4, WIL 12, bite (d10)
-- Roam the valley, grazing on various flora
-- Sufficiently large to ride but very slow and too stubborn to tame
+### Tartoise {#tartoise}
+5 HP, 2 Armor, STR 10, DEX 4, WIL 12, 撕咬 (d10)
+- 在谷地中游荡，以各种植物为食。
+- 大到足以骑乘，但速度极慢，也太过顽固，无法驯服。
 
-### Wild dog
-3 HP, 10 STR, 12 DEX, 10 WIL, bite (d6)
-- Roam the valley in packs
-- Allegedly related to coyotes
+### 野狗 {#wild-dog}
+3 HP, 10 STR, 12 DEX, 10 WIL, 撕咬 (d6)
+- 成群在谷地中游荡。
+- 据说与郊狼有关。
 
-## NPCs (p. 22)
+## NPC（第 22 页） {#npcs-p-22}
 
-### Bulwark the repellant
-5 HP, 8 STR, 12 DEX, 8 WIL, bite (1d6) or Rot Blast (d6)
-- A goblin who got into necromancy making pacts with dead gods
-- Loves painting despite not being very good at it
-- Spells: *Create unlife* (spell n. 212), *Speak with dead* (Bulwark can speak with dead bodies)
+### 排斥者 Bulwark {#bulwark-the-repellant}
+5 HP, 8 STR, 12 DEX, 8 WIL, 撕咬 (1d6) 或腐烂爆发 (d6)
+- 与死神签订契约、涉足死灵法术的地精。
+- 喜欢绘画，尽管画得并不好。
+- 法术：*创造亡灵*（法术编号 212）、*与死者交谈*（Bulwark 可以与尸体交谈）。
 
-### Vastion the Vampire
-12 HP, 1 Armor, 14 STR, 12 DEX, 16 WIL, bite (d6) or stab (d8)
-- Vastion was passing through the valley many years ago and stayed after falling in love with a beau­tiful rare flower. Devoted to gardening and wish they could feel the sun again, like their beloved flowers.
-- Regeneration: A damaged vampire regains 6 HP when it bites a target that has blood. If killed, it becomes a cloud of gas and retreats to its coffin, reforming at the next nightfall. Can only be killed if exposed to sunlight or if the coffin is destroyed.
-- **Critical Damage**: The vampire drains the target's essence, dealing d12 damage to WIL. If the target reaches 0 WIL this way, it dies and is raised as a thrall of the vampire
-- Can turn into a bat
-- Spells: *Charm, Passive Invisibility* (spell n. 451)
+### 吸血鬼 Vastion {#vastion-the-vampire}
+12 HP, 1 Armor, 14 STR, 12 DEX, 16 WIL, 撕咬 (d6) 或刺击 (d8)
+- 多年前 Vastion 路过谷地，爱上一朵美丽而罕见的花后便留了下来。他专心园艺，希望能像心爱的花朵一样再次感受阳光。
+- 再生：受伤的吸血鬼在咬到有血液的目标时恢复 6 HP。被杀死后，它会化作一团气体，退回自己的棺材，并在下一个黄昏重新成形。只有暴露在阳光下或摧毁棺材才能杀死它。
+- **重伤**：吸血鬼吸取目标的精华，对 WIL 造成 d12 伤害。如果目标因此 WIL 降至 0，它会死亡并被复活为吸血鬼的奴仆。
+- 能变成蝙蝠。
+- 法术：*魅惑*、*被动隐形*（法术编号 451）。
 
-### Sunclair Dirtfin
-6 HP, 12 STR, 10 DEX, 8 WIL, bite and stab (d6+d8)
-- The Coyote Soldiers' Lead­er. He fears the Outpost will lead to law in the valley. He (and his soldiers) base their traveler robbing oper­ation out of an old aban­doned keep.
+### Sunclair Dirtfin {#sunclair-dirtfin}
+6 HP, 12 STR, 10 DEX, 8 WIL, 撕咬与刺击 (d6+d8)
+- 郊狼士兵的首领。他害怕前哨会给谷地带来法律。他（以及他的士兵）以一座废弃的旧要塞为基地，开展抢劫旅行者的行动。
 
-### Ratzin the Fairy
-10 HP, STR 10, DEX 10, WIL 10, 1 shock+1 bite (d6+d6)
-- A trickster from the fae world that Sunclair trapped using magical items he found in the old Keep
-- Ratzin, like most fae, seemingly delights mostly in pranks and chaos
-- Spells: *Passive Invisibility* (spell n. 451), *Teleport, Telekinesis*
+### 妖精 Ratzin {#ratzin-the-fairy}
+10 HP, STR 10, DEX 10, WIL 10, 1 次电击+1 次撕咬 (d6+d6)
+- Sunclair 在旧要塞中找到魔法物品后，用它们困住的妖精世界恶作剧者。
+- Ratzin 和大多数妖精一样，似乎最喜欢恶作剧与混乱。
+- 法术：*被动隐形*（法术编号 451）、*传送*、*心灵遥控*。
 
-### Sassafras The Witch Toad
-5 HP, STR 10, DEX 10, WIL 10, bite (d6)
-- She keeps to herself in the swamp but sells visitors potions
-- Spells: *Sleep, Teleport*
+### 巫蛙 Sassafras {#sassafras-the-witch-toad}
+5 HP, STR 10, DEX 10, WIL 10, 撕咬 (d6)
+- 她独居在沼泽中，但会向访客出售药水。
+- 法术：*睡眠*、*传送*。

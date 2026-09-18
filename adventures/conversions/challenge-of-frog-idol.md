@@ -5,272 +5,270 @@ grand_parent: Adventures
 title: Challenge of the Frog Idol
 ---
 
-- Get the original [here](https://rpgcharacters.files.wordpress.com/2011/06/dyson-logos-challenge-of-the-frog-idol.pdf)!
-- Conversion by Sam Wallace
+- 原作见[此处](https://rpgcharacters.files.wordpress.com/2011/06/dyson-logos-challenge-of-the-frog-idol.pdf)！
+- Sam Wallace 改编。
 
-# Monsters
+# 怪物 {#monsters}
 
-## Living Statue, Alabaster
+## 活化雕像，雪花石膏 {#living-statue-alabaster}
 
-2 Armor, 4 HP, 10 STR, 6 DEX, 6 WIL, Fists (d8 + d8), a Spellbook (choose: Blessing, Curse Unlife, Light Show)
+2 Armor, 4 HP, 10 STR, 6 DEX, 6 WIL, 拳击 (d8 + d8)，一本法术书（选择：祝福、诅咒亡灵、灯光秀）
 
- - Living statues made of alabaster
- - attended to by lizard men
- - can cast some spells
+ - 由雪花石膏制成的活化雕像。
+ - 有蜥蜴人照料。
+ - 能施放一些法术。
 
-# Causeway Encounters
+# 堤道遭遇 {#causeway-encounters}
 
-## Bandits
+## 强盗 {#bandits}
 
-(As from Cairn Bestiary)
+（按《Cairn 怪物图鉴》处理）
 
-4 HP, 11 STR, 14 DEX, 12 WIL, dagger (d6)
+4 HP, 11 STR, 14 DEX, 12 WIL, 匕首 (d6)
 
- - Thieves who value wealth over all else.
- - Use disguises, stealth, and trickery to surprise victims.
+ - 将财富置于一切之上的窃贼。
+ - 使用伪装、潜行和诡计来突袭受害者。
 
 
-## Troglodytes
+## 卓尔格 {#troglodytes}
 
-(As from Cairn Bestiary)
+（按《Cairn 怪物图鉴》处理）
 
-4 HP, 12 DEX, claws (d6+d6)
+4 HP, 12 DEX, 利爪 (d6+d6)
 
- -  Intelligent, reptilian humanoids with agile hands, long legs, short tails, and spiky combs on their heads and arms.
- -  Can change color to match their surroundings. Lurk by rock walls and await victims.
- -  Emits an oil with a nauseating stench from its pores.
+ - 聪明的爬行类人形生物，拥有灵活的双手、长腿、短尾，以及长在头部和手臂上的尖刺状冠毛。
+ - 能改变颜色以匹配周围环境。潜伏在岩壁旁等待受害者。
+ - 会从毛孔中分泌带有令人作呕恶臭的油液。
 
  
-## Lizard Men
+## 蜥蜴人 {#lizard-men}
 
-(As from Cairn Bestiary)
+（按《Cairn 怪物图鉴》处理）
 
-4 HP, 1 Armor, 14 STR, 12 DEX, bone spear (d8)
+4 HP, 1 Armor, 14 STR, 12 DEX, 骨矛 (d8)
 
- - Primitive, tribal, aquatic humanoids with reptilian heads and tails. Dwell in jungles nearby bodies of water.
- - Craft their Armors and weapons from the bones of their prey.
- - Carnivorous, hunt other humanoids, whose flesh they regard as a delicacy.
-
-
-## Zombie
-
-(As from Cairn Bestiary)
-
-2 HP, 14 STR, 6 DEX, 3 WIL, weapon (d8)
-
- - Slow, mindless humanoid corpses, reanimated as guardians by powerful clerics or wizards.
- - Attack anything that comes nearby.
- - Immune to mind altering effects.
+ - 原始的部落水生类人，拥有爬虫状的头部和尾巴。栖居在水体附近的丛林中。
+ - 用猎物的骨头制作护甲和武器。
+ - 食肉，以其他类人为猎物，并把他们的肉视为美味佳肴。
 
 
-# Swamp Encounters
+## 僵尸 {#zombie}
+
+（按《Cairn 怪物图鉴》处理）
+
+2 HP, 14 STR, 6 DEX, 3 WIL, 武器 (d8)
+
+ - 缓慢而无心智的类人尸体，被强大的牧师或法师复活为守卫。
+ - 攻击任何接近的东西。
+ - 免疫影响心智的效果。
 
 
-## Dryad
+# 沼泽遭遇 {#swamp-encounters}
 
-(As from Cairn Bestiary)
 
-4 HP, 14 WIL, unarmed (d4)
+## 树精 {#dryad}
 
- - Shy, peaceful tree spirits whose manifest in a beautiful female form.
- - Spiritually bound with a tree, may disappear by joining with the tree again. Can’t go too far away from it and dies if the tree is destroyed.
- - Charm strangers that come near. Charmed creatures mindlessly walk into the tree, disappearing forever if not rescued quickly.
+（按《Cairn 怪物图鉴》处理）
 
-## Large Crocodile
+4 HP, 14 WIL, 徒手 (d4)
 
-(As from Cairn Bestiary)
+ - 羞怯、和平的树木精魂，以美丽女性的形态显现。
+ - 与一棵树建立精神联系，可以重新融入树中而消失。不能离树太远；如果树被摧毁，它也会死亡。
+ - 魅惑接近的陌生人。被魅惑的生物会无意识地走入树中，如果不迅速救出，就会永远消失。
 
-6 HP, 1 Armor, 14 STR, 8 DEX, bite (d8)
+## 大鳄鱼 {#large-crocodile}
 
- -  20’ long, may attack small boats and canoes.
- -  Attracted to the scent of blood or heavy movement in the water.
- -  Swim silently just under the surface to ambush victims.
+（按《Cairn 怪物图鉴》处理）
 
-## Insect Swarms
+6 HP, 1 Armor, 14 STR, 8 DEX, 撕咬 (d8)
 
-2 HP, 4 STR, 11 DEX, 3 WIL, bite (d4)
+ - 长 20ft，可能会攻击小船和独木舟。
+ - 会被血腥味或水中剧烈的动静吸引。
+ - 静静地在水面下游动，伏击受害者。
 
- - a huge cloud of bugs
- - surrounds a single person or a closely knit group
+## 昆虫群 {#insect-swarms}
+
+2 HP, 4 STR, 11 DEX, 3 WIL, 撕咬 (d4)
+
+ - 一大片虫群组成的云团。
+ - 包围一个人或一小群紧密聚集的人。
  
-## Giant Leeches
+## 巨型水蛭 {#giant-leeches}
 
-2 HP, 14 STR, 14 Dex, 5 WIL, Blood drain (d6)
+2 HP, 14 STR, 14 Dex, 5 WIL, 吸血 (d6)
 
- - A big blood-sucking worm thing
- - latches onto a person and doesn't let go
+ - 巨大的吸血蠕虫状生物。
+ - 会吸附在人身上，不肯松开。
  
-## Lizard Men
+## 蜥蜴人 {#lizard-men-swamp}
 
-(As above)
+（如上）
 
-## Giant Catfish
+## 巨型鲶鱼 {#giant-catfish}
 
-(As from Cairn Bestiary)
+（按《Cairn 怪物图鉴》处理）
 
-8 HP, 14 STR, 10 DEX, 10 WIL, bite (d8+d8)
+8 HP, 14 STR, 10 DEX, 10 WIL, 撕咬 (d8+d8)
 
-- Pale, 15’ long fish that lurk in the mud at the bottom of lakes and rivers.
-- Attack creatures that swim above their hiding spot.
+- 苍白、长 15ft 的鱼，潜伏在湖泊和河流底部的泥中。
+- 攻击游过其藏身处上方的生物。
  
-## Troglodytes
+## 卓尔格 {#troglodytes-swamp}
 
-(As above)
-
-
-## Crocodiles
-
-(From Cairn Bestiary)
-
-6 HP, 1 Armor, 14 STR, 8 DEX, bite (d8)
-
- - 20' long, may attack small boats and canoes
- - Attracted to the scent of blood or heavy movement in the water
- - Swim silently just under the surface to ambush victims
- 
- 
-## Trolls
-
-(From Cairn Bestiary)
-
-6 HP, 1 Armor, 14 STR, 12 DEX, 10 WIL, talons (d6+d6) or bite (d8)
-
- - Wicked, 8' tall humanoids with rubbery bodies. Consume the flesh of other humanoids. Dwell underground, in the barren wilderness, and in the ruined homes of former victims.
- - Fire and acid damage received is enhanced, and stop's a troll regeneration. When attacked with either of those, the troll fails all morale checks.
- - Regains 3 HP per round, and even severed limbs are reattached. If killed, will regenerate and fight again in 2d6 minutes.
- 
-## Draco Lizards
-
-4 HP, 1 Armor, 12 STR, 14 DEX, 10 WIL, bite (d10)
-
- - oversized dog-like lizards
- - covered in sharp scales
- 
-## Treant
-
-(From Cairn Bestiary)
-
-8 HP, 1 Armor, 15 STR, 8 DEX, 10 WIL, fists (d6+d6)
-
- - Giant humanoids made of tree bark and foliage. Dwell in forests. Are concerned only with protecting the plants of their home.
- - Hate fire, and attack anyone who wields it.
- - Surprise victims by standing still and passing for a normal tree.
+（如上）
 
 
-# The Zombie Float
+## 鳄鱼 {#crocodiles}
 
-## Zombie Master
+（来自《Cairn 怪物图鉴》）
 
-8 HP, 1 Armor, 14 STR, 8 DEX, 12 WIL, bone staff (d6+d6)
+6 HP, 1 Armor, 14 STR, 8 DEX, 撕咬 (d8)
 
- - defends the zombie float from atop it
- - Can cast the following 1/day: Create Unlife, Befuddle, Necrotic Touch, Fish Lung, Conquer Gravity, Magic Seal
- - looks more zombie than human
- 
-
-# The Undead Dungeon
-
-## Wolf Ghoul
-
-6 HP, 11 STR, 14 DEX, 3 WIL, elongated claws (d6), jagged teeth (d8)
-
- - something between a corpse and a canine
- - Will howl to alert others
+ - 长 20ft，可能会攻击小船和独木舟。
+ - 会被血腥味或水中剧烈的动静吸引。
+ - 静静地在水面下游动，伏击受害者。
  
  
-## Wight
+## 巨魔 {#trolls}
 
-5 HP, 12 STR, 13 DEX, 9 WIL, life drain (d8)
+（来自《Cairn 怪物图鉴》）
 
- - vengeful undead
- - intent on their order: guard the iron rose
+6 HP, 1 Armor, 14 STR, 12 DEX, 10 WIL, 利爪 (d6+d6) 或撕咬 (d8)
+
+ - 邪恶的 8ft 高类人，身体富有弹性。以其他类人的血肉为食。栖居于地下、荒芜的荒野，以及受害者废弃的家园中。
+ - 受到的火焰和酸性伤害得到强化，并会停止巨魔的再生。受到这两种攻击时，巨魔自动无法通过所有士气检定。
+ - 每轮恢复 3 HP，甚至被砍断的肢体也会重新接上。被杀死后，会在 2d6 分钟内再生并重新战斗。
+ 
+## 龙蜥 {#draco-lizards}
+
+4 HP, 1 Armor, 12 STR, 14 DEX, 10 WIL, 撕咬 (d10)
+
+ - 体型过大的犬状蜥蜴。
+ - 覆盖着尖锐的鳞片。
+
+## 树人 {#treant}
+
+（来自《Cairn 怪物图鉴》）
+
+8 HP, 1 Armor, 15 STR, 8 DEX, 10 WIL, 拳击 (d6+d6)
+
+ - 由树皮和树叶构成的巨型类人。栖居在森林中，只关心保护家园里的植物。
+ - 憎恨火焰，会攻击任何持有火焰的人。
+ - 通过静止不动、伪装成普通树木来伏击受害者。
+
+
+# 僵尸浮筏 {#the-zombie-float}
+
+## 僵尸大师 {#zombie-master}
+
+8 HP, 1 Armor, 14 STR, 8 DEX, 12 WIL, 骨杖 (d6+d6)
+
+ - 从浮筏上方守卫僵尸浮筏。
+ - 可以施放以下法术，每天 1 次：创造亡灵、迷乱、死灵之触、鱼肺、征服重力、魔法封印。
+ - 看起来更像僵尸，而不是人类。
+ 
+
+# 不死地城 {#the-undead-dungeon}
+
+## 狼食尸鬼 {#wolf-ghoul}
+
+6 HP, 11 STR, 14 DEX, 3 WIL, 长利爪 (d6)，锯齿状牙齿 (d8)
+
+ - 某种介于尸体与犬类之间的东西。
+ - 会嚎叫以警告其他同类。
  
  
-## Giant Catfish Zombies
+## 缚灵 {#wight}
 
-10 HP, 16 STR, 10 DEX, 5 WIL, bite (d8+d8)
+5 HP, 12 STR, 13 DEX, 9 WIL, 吸取生命 (d8)
 
- - created by the zombie master
- - go beserk without their creator
+ - 复仇的不死生物。
+ - 一心执行命令：守护铁玫瑰。
  
-# Nixie Pool
-
-## Nixie
-
-3 HP, 8 STR, 12 DEX, 16 WIL, slap (d4)
-
- - humanoid shape-shifting water spirits
- - can summon *Giant Bass* 1/nixie
- - 10 nixies can cast *Charm* once per round against one target
  
-## Giant Bass
+## 巨型鲶鱼僵尸 {#giant-catfish-zombies}
 
-3 HP, 10 STR, 12 DEX, 10 WIL, bite (1d6)
+10 HP, 16 STR, 10 DEX, 5 WIL, 撕咬 (d8+d8)
 
- - 10' long with a large mouth
+ - 由僵尸大师创造。
+ - 离开创造者后会陷入狂暴。
+ 
+# 水妖精水池 {#nixie-pool}
+
+## 水妖精 {#nixie}
+
+3 HP, 8 STR, 12 DEX, 16 WIL, 掌掴 (d4)
+
+ - 能变换人形的水之精魂。
+ - 每个水妖精可以召唤一次*巨鲈* (1/nixie)。
+ - 10 个水妖精每轮可以对一个目标施放一次*魅惑*。
+ 
+## 巨鲈 {#giant-bass}
+
+3 HP, 10 STR, 12 DEX, 10 WIL, 撕咬 (1d6)
+
+ - 长 10ft，拥有一张大嘴。
  - 
 
  
-# Labyrinth of the Rains
+# 雨之迷宫 {#labyrinth-of-the-rains}
 
-## Throgrin
+## Throgrin {#throgrin}
 
-6 HP, 2 Armor, 14 STR, 12 DEX, 10 WIL, javelin (d6)
+6 HP, 2 Armor, 14 STR, 12 DEX, 10 WIL, 标枪 (d6)
 
- - wandering the Labyrinth
- - carries six javelins, can be thrown
+ - 在迷宫中游荡。
+ - 携带六支标枪，可以投掷。
  
  
-# Fruum Attack
+# Fruum 袭击 {#fruum-attack}
 
-3 HP, 15 STR, 12 DEX, 16 WIL, tentacle (1d6)
+3 HP, 15 STR, 12 DEX, 16 WIL, 触手 (1d6)
 
- - A bulbous disgusting lump of flesh with tentacles
- - Can attack up to 9 targets
- - Once it hits, it can constrict on next turn, ignoring up to 1 armor
+ - 一团长满触手、臃肿恶心的血肉。
+ - 最多可以攻击 9 个目标。
+ - 命中后，它可以在下一轮发动缠绕，最多忽略 1 点 Armor。
  
  
-# Fortress on the Ironflow
+# Ironflow 上的堡垒 {#fortress-on-the-ironflow}
 
-## Ogre (Use for Durgal and Rock)
+## 食人魔（用于 Durgal 和 Rock） {#ogre-use-for-durgal-and-rock}
 
-(As from Cairn Bestiary)
+（按《Cairn 怪物图鉴》处理）
 
-6 HP, 1 Armor, 15 STR, 8 DEX, 8 WIL, club (d10)
+6 HP, 1 Armor, 15 STR, 8 DEX, 8 WIL, 木棒 (d10)
 
- - 10’ tall brute humanoids dressed in animal hides. Mostly dwell in caves.
- - Carry sacks full of gold and riches with them.
+ - 身高 10ft、穿着兽皮的野蛮类人，主要栖居在洞穴中。
+ - 随身携带装满黄金和财富的袋子。
 
+## 蜥蜴人 {#lizard-men-fortress}
 
-## Lizard Men
+（如上）
 
-(As above)
+## 巨型壁虎蜥蜴 {#giant-gecko-lizards}
 
-## Giant Gecko Lizards
+4 HP, 10 STR, 14 DEX, 8 WIL, 撕咬 (d8)
 
-4 HP, 10 STR, 14 DEX, 8 WIL, bite (d8)
-
- - 10' long pale lizard
- - sticks to the walls
+ - 长 10ft 的苍白蜥蜴。
+ - 能贴在墙上。
  
-## Horned Chameleon Lizard
+## 角冠变色龙蜥 {#horned-chameleon-lizard}
 
-5 HP, 1 Armor, 14 STR, 10 DEX, 8 WIL, bite (d4+d4)
+5 HP, 1 Armor, 14 STR, 10 DEX, 8 WIL, 撕咬 (d4+d4)
 
- - Big lizard that can change color
- - moves slowly as not to be seen
+ - 能够改变颜色的大型蜥蜴。
+ - 为了不被发现而缓慢移动。
  
-## Giant Oil Beetles
+## 巨型油甲虫 {#giant-oil-beetles}
 
-5 HP, 2 Armor, 10 STR, 10 DEX, 12 WIL, pincers (d6)
+5 HP, 2 Armor, 10 STR, 10 DEX, 12 WIL, 钳爪 (d6)
 
- - Pony-sized beetle with a tough carapace
- - can spray a sticky oil
+ - 具有坚硬甲壳、矮马大小的甲虫。
+ - 能喷出黏性油液。
  
-## Giant Bat
+## 巨型蝙蝠 {#giant-bat}
 
-3 HP, 10 STR, 14 DEX, 10 WIL, bite (d4)
+3 HP, 10 STR, 14 DEX, 10 WIL, 撕咬 (d4)
 
- - a bat with the wingspan of an eagle
- - drops lots of guano
-
+ - 翼展如鹰的蝙蝠。
+ - 会掉下大量蝙蝠粪。

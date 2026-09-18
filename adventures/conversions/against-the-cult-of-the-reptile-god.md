@@ -5,274 +5,274 @@ grand_parent: Adventures
 title: Against the cult of the Reptile God
 ---
 
-# Against the cult of the Reptile God
+# 对抗爬虫神教 {#against-the-cult-of-the-reptile-god}
 
-- Based on the [original adventure](https://www.drivethrurpg.com/en/product/17056/n1-against-the-cult-of-the-reptile-god-1e) by Douglas Niles.
-- Conversion by [Sketchy Van RPG](https://sketchyvanrpg.com/2025/10/29/cairn-2e-conversion-n1-against-the-reptile-god/) (reproduced with permission).
+- 改编自 Douglas Niles 创作的[原冒险](https://www.drivethrurpg.com/en/product/17056/n1-against-the-cult-of-the-reptile-god-1e)。
+- 由 [Sketchy Van RPG](https://sketchyvanrpg.com/2025/10/29/cairn-2e-conversion-n1-against-the-reptile-god/) 改编（经许可转载）。
 
-## NPCs
+## NPC {#npcs}
 
-## Village of Orlane 
+## Orlane 村 {#village-of-orlane}
 
-### Constable Grover Ruskadal
-4 HP, 2 Armor, 12 STR, 12 DEX, 13 WIL, Spear (d6) or Longsword (d10)
+### Constable Grover Ruskadal {#constable-grover-ruskadal}
+4 HP, 2 Armor, 12 STR, 12 DEX, 13 WIL, 长矛 (d6) 或长剑 (d10)
 
-Loyal: When testing Morale, use Graf's WIL. If Graf dies, the others will flee
+忠诚：进行士气检定时，使用 Graf 的 WIL。如果 Graf 死亡，其他人会逃跑。
 
-### Donavan and Hulbar
-Constable's deputies. Use the Bandit statblock:
-4 HP, 1 Armor, 12 STR, 12 DEX, 9 WIL, short sword (d6) or short bow (d6)
+### Donavan 与 Hulbar {#donavan-and-hulbar}
+治安官的副手。使用强盗的属性数据：
+4 HP, 1 Armor, 12 STR, 12 DEX, 9 WIL, 短剑 (d6) 或短弓 (d6)
 
-- Outlaws who raid settlements, attack ships, or ambush travelers. Groups of four or more are a _detachment_.
-- A detachment always travels with one leader wearing chain mail or similar (2 Armor) and a long sword (d10) or crossbow (d8).
-- **Loyal**: When testing Morale, save using the leader’s WIL (13). If the leader dies, the others will flee.
+- 袭击聚落、攻击船只或伏击旅行者的亡命徒。四人或以上的团体称为一个_分队_。
+- 分队总会有一名首领随行，穿着锁子甲或类似护具（2 Armor），使用长剑（d10）或弩（d8）。
+- **忠诚**：进行士气检定时，使用首领的 WIL（13）进行豁免。如果首领死亡，其他人会逃跑。
 
-### Moneychangers Guards
-As Bandits with Erroll as Leader:
-4 HP, 1 Armor, 12 STR, 12 DEX, 9 WIL, short sword (d6) or short bow (d6)
+### 货币兑换商守卫 {#moneychangers-guards}
+以 Erroll 为首领的强盗：
+4 HP, 1 Armor, 12 STR, 12 DEX, 9 WIL, 短剑 (d6) 或短弓 (d6)
 
-- Outlaws who raid settlements, attack ships, or ambush travelers. Groups of four or more are a _detachment_.
-- A detachment always travels with one leader wearing chain mail or similar (2 Armor) and a long sword (d10) or crossbow (d8).
-- **Loyal**: When testing Morale, save using the leader’s WIL (13). If the leader dies, the others will flee.
+- 袭击聚落、攻击船只或伏击旅行者的亡命徒。四人或以上的团体称为一个_分队_。
+- 分队总会有一名首领随行，穿着锁子甲或类似护具（2 Armor），使用长剑（d10）或弩（d8）。
+- **忠诚**：进行士气检定时，使用首领的 WIL（13）进行豁免。如果首领死亡，其他人会逃跑。
 
-### Dorian the Elf Mage 
-8 HP, 2 Armor, 14 STR, 18 DEX, 13 WIL, Longsword (d10, bulky) or Longbow (d6, bulky)
+### Dorian，精灵法师 {#dorian-the-elf-mage}
+8 HP, 2 Armor, 14 STR, 18 DEX, 13 WIL, 长剑 (d10, 笨重) 或长弓 (d6, 笨重)
 
-**Spellbooks**: Arcane Arrow*, Web
+**法术书**：奥术箭*、蛛网
 
-### Llywillan the Elf Rogue
-6 HP, 2 Armor, 12 STR, 16 DEX, 12 WIL, Longsword (d10 bulky) or Longbow (d6, bulky)
+### Llywillan，精灵盗贼 {#llywillan-the-elf-rogue}
+6 HP, 2 Armor, 12 STR, 16 DEX, 12 WIL, 长剑 (d10, 笨重) 或长弓 (d6, 笨重)
 
-### Mayor Ormond
-4 HP, 3 Armor (when armed, else 0), 14 STR, 10 DEX, 14 WIL, Longsword +1 (d10+1)
+### Ormond 镇长 {#mayor-ormond}
+4 HP, 3 Armor（装备武器时，否则为 0）, 14 STR, 10 DEX, 14 WIL, +1 长剑 (d10+1)
 
-### Mayor Ormands's Two Sons and Bodyguard Traver
-As Bandits, Bodyguard Traver as Bandit leader
+### Ormands 镇长的两个儿子与保镖 Traver {#mayor-ormands-two-sons-and-bodyguard-traver}
+以保镖 Traver 为强盗首领的强盗。
 
-### The Smith & Sons 
-Smith: 4 HP, 1 Armor, 18 STR, 10 DEX, 8 WIL, forge-hammer (d4+3)
-Sons: 4 HP, 1 Armor, 12 STR, 12 DEX, 9 WIL, short sword (d6)
+### 铁匠与儿子们 {#the-smith-and-sons}
+铁匠：4 HP, 1 Armor, 18 STR, 10 DEX, 8 WIL, 锻锤 (d4+3)
+儿子们：4 HP, 1 Armor, 12 STR, 12 DEX, 9 WIL, 短剑 (d6)
 
-### Farmer Alan Clayborn
-4 HP, 2 Armor, 16 STR, 12 DEX, 14 WIL, Sword +2 (d8+2) or Bow (d6 bulky)
+### 农夫 Alan Clayborn {#farmer-alan-clayborn}
+4 HP, 2 Armor, 16 STR, 12 DEX, 14 WIL, +2 长剑 (d8+2) 或弓 (d6, 笨重)
 
-### Farmer Marieka 
-6 HP, 3 Armor, 14 STR, 16 DEX, 14 WIL, Longsword (d10, bulky) or Spear (d8)
+### 农夫 Marieka {#farmer-marieka}
+6 HP, 3 Armor, 14 STR, 16 DEX, 14 WIL, 长剑 (d10, 笨重) 或长矛 (d8)
 
-### Ramne
-3 HP, 8 STR, 6 DEX, 16 WIL, Old-man Staff (d4)
-**Spellbooks**: Illuminate, Become Unseen*, Cinderflesh*
+### Ramne {#ramne}
+3 HP, 8 STR, 6 DEX, 16 WIL, 老人手杖 (d4)
+**法术书**：照明、隐匿*、烬肤*
 
-### Whiskers the Rat
-8 HP, 3 STR, 11 DEX, 13 WIL, Bite (d6)
+### Whiskers the Rat {#whiskers-the-rat}
+8 HP, 3 STR, 11 DEX, 13 WIL, 撕咬 (d6)
 
-## Golden Grain Inn
+## Golden Grain Inn {#golden-grain-inn}
 
-### Snigrot Dogroot
-6 HP, 10 STR, 16 DEX, 10 WIL, Dagger (d6, poisoned)
+### Snigrot Dogroot {#snigrot-dogroot}
+6 HP, 10 STR, 16 DEX, 10 WIL, 匕首 (d6, 涂毒)
 
-- **Poisoned Drink**: Impaired for d20 hours, WIL Save or fall unconcious for d6+4 hours
-- **Critical Damage**: The poison on the dagger causes target to be Impaired until cured. WIL Save or fall unconscious for d6+4 hours
+- **毒酒**：在 d20 小时内处于削弱状态；WIL 豁免失败则昏迷 d6+4 小时。
+- **重伤**：匕首上的毒药会使目标处于削弱状态，直到治愈。WIL 豁免失败则昏迷 d6+4 小时。
 
-### Derek Desleigh
-6 HP, 2 Armor, 14 STR, 16 DEX, 10 WIL, Sword (d8)
+### Derek Desleigh {#derek-desleigh}
+6 HP, 2 Armor, 14 STR, 16 DEX, 10 WIL, 剑 (d8)
 
-- Sadist; likes to cause maximum suffering
-- **Deception**: Convincingly pretends to be a charmed Cultist
-- **Gas Cloud**: If Deiter drops to 0 HP, he smashes a potion of Gaseous Form on the ground, disappearing as a cloud of noxious smoke
-- **Critical Damage**: Poisoned. Target will die in d12 days w/o a cure
+- 施虐者；喜欢造成最大的痛苦。
+- **欺骗**：能令人信服地伪装成受到魅惑的教徒。
+- **毒气云**：如果 Deiter 的 HP 降至 0，他会把一瓶气化形态药剂砸在地上，化作一团有毒烟雾消失。
+- **重伤**：中毒。目标若没有解药，会在 d12 天内死亡。
 
-### Cult Members - Goons
-4 HP, 1 Armor, 8 STR, 11 DEX, 14 WIL, sword (d6) 
+### 教徒——喽啰 {#cult-members-goons}
+4 HP, 1 Armor, 8 STR, 11 DEX, 14 WIL, 剑 (d6)
 
-- Early converts to the cult
-- Dark coal-like smudges around their sunken eyes and sickly pale skin
-- **Manic**: Filled with terrifying maniacal glee
-- **Obedient**: Enthusiastically follow orders from higher ranked cult members
-- **Leader**: Groups of 4+ have one leader with 2 Armor and a crossbow (d8)
+- 教团的早期皈依者。
+- 凹陷的眼睛周围有煤炭般的黑色污痕，皮肤病态地苍白。
+- **狂热**：充满令人恐惧的疯狂喜悦。
+- **服从**：热切地听从等级更高的教徒的命令。
+- **首领**：四人或以上的团体中有一名首领，拥有 2 Armor 和一把弩 (d8)。
 
-### Iggy Olivero
-4 HP, 8 STR, 10 DEX, 12 WIL, dagger (d6)
+### Iggy Olivero {#iggy-olivero}
+4 HP, 8 STR, 10 DEX, 12 WIL, 匕首 (d6)
 
-## Temple of Merikka 
+## Merikka 神殿 {#temple-of-merikka}
 
-### Misha Devi the Evil Cleric
-6 HP, 3 Armor (if wearing chain + shield), 12 STR, 10 DEX, 14 WIL, Mace (d8)
+### 邪恶牧师 Misha Devi {#misha-devi-the-evil-cleric}
+6 HP, 3 Armor（穿锁子甲并持盾时）, 12 STR, 10 DEX, 14 WIL, 钉头锤 (d8)
 
-- **Spells**: Night Sphere (Darkness 30ft), Ensorcelled* (hold person)
-- **Gear**: Chainmail +, Ring of Protection (+1 to all saves, sunder to negate 1 attack)
+- **法术**：黑夜球（黑暗 30ft）、魅惑*（定身人类）
+- **装备**：锁子甲+、防护戒指（所有豁免 +1，可碎裂以抵消 1 次攻击）
 
-### Evil Monks - as Acolytes
-4 HP, 1 Armor, 8 STR, 11 DEX, 14 WIL, ceremonial dagger (d6)
+### 邪恶僧侣——按侍僧处理 {#evil-monks-as-acolytes}
+4 HP, 1 Armor, 8 STR, 11 DEX, 14 WIL, 仪式匕首 (d6)
 
-- Holy servants bound to a particular deity. Typically travel in groups of four or more.
-- Carry a holy symbol (*Ward* once per day)
+- 隶属于某位特定神祇的神圣仆从，通常四人或更多结伴行动。
+- 携带圣徽（每天可使用一次_结界_）。
 
-### Abramo the Converted
-6 HP, 3 Armor, 13 STR, 14 DEX, 16 WIL, Mace (d8)
+### 改宗者 Abramo {#abramo-the-converted}
+6 HP, 3 Armor, 13 STR, 14 DEX, 16 WIL, 钉头锤 (d8)
 
-- **Spells**: Blessing* (targets attacks = enhanced, attacks against them = impaired), Anti-magic Globe* (thin shell of magic protection, +1 fatigue for every minute)
-- **Undetectable Lie**: Once per day, tell one completely undetectable lie
+- **法术**：祝福*（目标的攻击得到强化，对目标的攻击受到削弱）、反魔法球体*（薄薄的魔法护壳，每分钟增加一点疲劳）
+- **不可察觉的谎言**：每天一次，说出一个完全无法察觉的谎言。
 
-### Cirilli Finla
-4 HP, 8 STR, 10 DEX, 16 WIL 
+### Cirilli Finla {#cirilli-finla}
+4 HP, 8 STR, 10 DEX, 16 WIL
 
-- Daughter of the shopkeeper
-- Kidnapped but resisted Dominatica's Charm
-- Personal prisoner of Ibrahim the Converted
+- 店主的女儿。
+- 被绑架，但抵抗住了 Dominatica 的魅惑。
+- Ibrahim the Converted 的私人囚徒。
 
-## Naga Lair Dungeon 
+## Naga 巢穴地城 {#naga-lair-dungeon}
 
-### Cult Members
-4 HP, 1 Armor, 8 STR, 11 DEX, 14 WIL, sword (d6) 
+### 教徒 {#cult-members}
+4 HP, 1 Armor, 8 STR, 11 DEX, 14 WIL, 剑 (d6)
 
-- Early converts to the cult
-- Dark coal-like smudges around their sunken eyes and sickly pale skin
-- **Manic**: Filled with terrifying maniacal glee
-- **Obedient**: Enthusiastically follow orders from higher ranked cult members
-- **Leader**: Groups of 4+ have one leader with 2 Armor and a crossbow (d8)
+- 教团的早期皈依者。
+- 凹陷的眼睛周围有煤炭般的黑色污痕，皮肤病态地苍白。
+- **狂热**：充满令人恐惧的疯狂喜悦。
+- **服从**：热切地听从等级更高的教徒的命令。
+- **首领**：四人或以上的团体中有一名首领，拥有 2 Armor 和一把弩 (d8)。
 
-### Lieutenants
-- **Leader Jarvis** - 6 HP, 2 Armor, 12 STR, 12 DEX, 13 WIL, sword (d8)
-- **Blayze** - 4 HP, 1 Armor, 12 STR, 12 DEX, 9 WIL, shortsword (d6) or bow (d6)
-- **Benn** - 4 HP, 1 Armor, 12 STR, 12 DEX, 9 WIL, shortsword +1/+2 (d6+1/+2 vs Scaly)
+### 副官 {#lieutenants}
+- **首领 Jarvis**——6 HP, 2 Armor, 12 STR, 12 DEX, 13 WIL, 剑 (d8)
+- **Blayze**——4 HP, 1 Armor, 12 STR, 12 DEX, 9 WIL, 短剑 (d6) 或弓 (d6)
+- **Benn**——4 HP, 1 Armor, 12 STR, 12 DEX, 9 WIL, +1/+2 短剑 (d6+1/+2，对 Scaly 时)
 
-### Garath Primo
-4HP, 2 Armor, 10 STR, 10 DEX, 16 WIL, snakehammer (d4+1)
+### Garath Primo {#garath-primo}
+4HP, 2 Armor, 10 STR, 10 DEX, 16 WIL, 蛇锤 (d4+1)
 
-- **Immune** to fire damage
-- **Spells**: Nightsphere, Cure Wounds, Ensorcelled, Animate Dead 
+- **免疫**火焰伤害。
+- **法术**：黑夜球、疗伤术、魅惑、唤起死灵
 
-### Garath's Assistant - Modified Wight 
-8 HP, 3 Armor, 12 STR, 8 DEX, 12 WIL, longsword (d10)
+### Garath 的助手——改造缚灵 {#garaths-assistant-modified-wight}
+8 HP, 3 Armor, 12 STR, 8 DEX, 12 WIL, 长剑 (d10)
 
-- Grotesque, fallen warriors, raised from death for ill purpose. Often astride equally nightmarish steeds, leading lesser undead creatures into battle.
-- **Critical Damage**: On a fail, any STR loss is permanent.
+- **怪诞**：腐朽的战士尸体，为邪恶目的从死亡中复生。他们经常骑着同样梦魇般的坐骑，带领低等不死生物投入战斗。
+- **重伤**：豁免失败时，任何 STR 损失都是永久的。
 
-### Dominatica Destructus
-6 HP, 1 Armor, 12 STR, 12 DEX, 16 WIL, Bite (d4)
+### Dominatica Destructus {#dominatica-destructus}
+6 HP, 1 Armor, 12 STR, 12 DEX, 16 WIL, 撕咬 (d4)
 
-- **Gaze**: Target facing Naga is Hypnotized. It cannot be compelled to violence
-- **Critical Damage**: Target is Poisoned. Will die in 1d12 days without a cure
+- **凝视**：面向 Naga 的目标会被催眠，无法被迫进行暴力行为。
+- **重伤**：目标中毒。若没有解药，会在 1d12 天内死亡。
 
-## Monsters
+## 怪物 {#monsters}
 
-### Bonesnapper
-6 HP, 1 Armor, 12 STR, 12 DEX, 8 WIL, bite (d8) or tail-whip (d6+d6 blast)
+### 碎骨兽 {#bonesnapper}
+6 HP, 1 Armor, 12 STR, 12 DEX, 8 WIL, 撕咬 (d8) 或尾鞭 (d6+d6 爆发)
 
-- 5ft tall, dinosaur-like reptile with a large head full of teeth
-- Will roar and thrash menacingly at any creature that threatens it or its nest
-- Ferocious hunters, attacking the most threatening foe first.
+- 身高 5ft、头部硕大且长满牙齿的恐龙状爬兽。
+- 任何生物威胁它或它的巢穴时，它会咆哮并威吓般地挥动身体。
+- 凶猛的猎手，会优先攻击最具威胁的敌人。
 
-### Carcass Crawler (by csdip)
-5 HP, 1 Armor, 14 STR, 11 DEX, Tentacles (Paralysis, blast)
+### 腐肉爬虫（作者：csdip） {#carcass-crawler-by-csdip}
+5 HP, 1 Armor, 14 STR, 11 DEX, 触手（麻痹，爆发）
 
-- 9’ Long, 3’ high, many-legged, segmented worms with a ring of 2’ long tentacles around their mouths.
-- **Paralysis**: A hit by a tentacle causes paralysis for 2d4 turns (WIL save); paralysed victims will be devoured, if the crawler is left in peace.
-- Can walk on walls and ceilings
+- 长 9ft、高 3ft 的多足分节蠕虫，嘴边环绕着一圈 2ft 长的触手。
+- **麻痹**：触手命中会造成 2d4 轮麻痹（WIL 豁免）；如果不受打扰，爬虫会吞食被麻痹的受害者。
+- 能在墙壁和天花板上行走。
 
-### Coffer Corpse 
-4 HP, 1 Armor, 14 STR, 8 DEX, 14 WIL, claws (d4)
+### 棺中尸 {#coffer-corpse}
+4 HP, 1 Armor, 14 STR, 8 DEX, 14 WIL, 利爪 (d4)
 
-- **False Life**: When Coffer Corpse drops to or below 0 HP, it falls to the ground as if dead (its not). On its next turn it reanimates and continues its attack. Any person witnessing the reanimation must make a WIL Save or become afraid (as per Fear Spell) for d6 rounds. 
-- **Critical Damage**: Coffer Corpse grabs target by the throat with its strong hands, STR Save or take d4 choking damage per round. Dropping Coffer Corpse does not stop its Deathgrip
+- **假死**：棺中尸的 HP 降至 0 或更低时，会仿佛死去一般倒在地上（其实并没有死）。它会在下一轮重新活动并继续攻击。任何目睹复生的人都必须进行 WIL 豁免，否则会像受到恐惧法术影响一样恐惧 d6 轮。
+- **重伤**：棺中尸会用强壮的双手扼住目标的喉咙；目标进行 STR 豁免，否则每轮受到 d4 窒息伤害。放下棺中尸并不能解除它的死亡之握。
 
-### Constrictor Snake 
-6 HP, 6 STR, 12 DEX, 3 WIL, Bite (d6, constrict)
+### 巨蟒 {#constrictor-snake}
+6 HP, 6 STR, 12 DEX, 3 WIL, 撕咬 (d6, 缠绕)
 
-- **Critical Damage**: Snake wraps around target and squeezes. Inflicts d4 damage at the start of the targets turn. Target or allies may make a STR Save to break free.
+- **重伤**：巨蟒缠住目标并收紧身体，在目标轮次开始时造成 d4 伤害。目标或其盟友可以进行 STR 豁免以挣脱。
 
-### Crocodile 
-4 HP, 2 Armor, 12 STR, 10 DEX, 8 WIL, bite (d4+d4, deathroll) or tail (d10)
+### 鳄鱼 {#crocodile}
+4 HP, 2 Armor, 12 STR, 10 DEX, 8 WIL, 撕咬 (d4+d4, 死亡翻滚) 或尾击 (d10)
 
-- **Critical Damage**: Croc bites, drags target into water and deathrolls dealing d6+d6 per round
+- **重伤**：鳄鱼咬住目标，将其拖入水中并进行死亡翻滚，每轮造成 d6+d6 伤害。
 
-### Cult Members
-4 HP, 1 Armor, 8 STR, 11 DEX, 14 WIL, sword (d8) 
+### 教徒 {#cult-members-monsters}
+4 HP, 1 Armor, 8 STR, 11 DEX, 14 WIL, 剑 (d8)
 
-- Early converts to the cult
-- Dark coal-like smudges around their sunken eyes and sickly pale skin
-- **Manic**: Filled with terrifying maniacal glee
-- **Obedient**: Enthusiastically follow orders from higher ranked cult members
-- **Leader**: Groups of 4+ have one leader with 2 Armor and a crossbow (d8)
+- 教团的早期皈依者。
+- 凹陷的眼睛周围有煤炭般的黑色污痕，皮肤病态地苍白。
+- **狂热**：充满令人恐惧的疯狂喜悦。
+- **服从**：热切地听从等级更高的教徒的命令。
+- **首领**：四人或以上的团体中有一名首领，拥有 2 Armor 和一把弩 (d8)。
 
-### Giant Centipede
-5 HP, 6 STR, 13 DEX, 3 WIL, sting (d6)
+### 巨型蜈蚣 {#giant-centipede}
+5 HP, 6 STR, 13 DEX, 3 WIL, 螫刺 (d6)
 
-- Dog-sized centipedes that live in damp, underground places. They prefer to avoid combat if possible.
-- **Critical Damage**: Venom renders the target *deprived*. Save STR once per day to recover.
+- 居住在潮湿地下处、狗一样大的蜈蚣。可能的话，它们更愿意避开战斗。
+- **重伤**：毒液使目标陷入_匮乏_。每天进行一次 STR 豁免以恢复。
 
-### Giant Frog
-5 HP, 1 Armor, 8 STR, 14 DEX, 6 WIL, bite (d4, swallow)
+### 巨蛙 {#giant-frog}
+5 HP, 1 Armor, 8 STR, 14 DEX, 6 WIL, 撕咬 (d4, 吞噬)
 
-- **Leap**: Jump up to 100ft
-- **Critical Damage**: Target is swallowed whole. They will suffocate and die in 3 rounds if not removed
+- **跳跃**：最多跳跃 100ft。
+- **重伤**：目标被整个吞下。如果不将其取出，目标会在 3 轮内窒息死亡。
 
-### Giant Spider
-4 HP, 13 STR, 8 DEX, 4 WIL, bite (d8)
+### 巨型蜘蛛 {#giant-spider}
+4 HP, 13 STR, 8 DEX, 4 WIL, 撕咬 (d8)
 
-- **Critical Damage**: Paralyzes their target, dealing an additional d4 DEX damage.
+- **重伤**：使目标麻痹，并额外造成 d4 DEX 伤害。
 
-### Green Slime 
-4 HP, 14 STR, 3 DEX, 3 WIL, dissolve flesh
+### 绿泥 {#green-slime}
+4 HP, 14 STR, 3 DEX, 3 WIL, 溶解血肉
 
-- **Weakness** to Cure Disease - kills Green Slime 
-- **Immune** to mundane weapons
-- **Dissolve Flesh**: Any flesh exposed to the sticky slime will dissolve into another Green Slime within d4 rounds
+- **弱点**：治病术会杀死绿泥。
+- **免疫**：普通武器。
+- **溶解血肉**：任何暴露在黏性绿泥中的血肉都会在 d4 轮内溶解，并变成另一团绿泥。
 
-### Mudviper
-6 HP, 1 Armor, 10 STR, 12 DEX, 6 WIL, bite (d3, poison)
+### 泥蝰 {#mudviper}
+6 HP, 1 Armor, 10 STR, 12 DEX, 6 WIL, 撕咬 (d3, 毒)
 
-- Giant 12-18 feet long venomous snake
-- Uses heat and smell to track victims
-- **Critical Damage**: Target is poisoned, dying in 1d12 hours without a cure
+- 长 12-18ft 的巨型毒蛇。
+- 利用热量与气味追踪受害者。
+- **重伤**：目标中毒，若没有解药，会在 1d12 小时内死亡。
 
-### Shrieker 
-4 HP, 1 Armor, 10 STR, 6 DEX, 18 WIL, No attacks
+### 尖啸怪 {#shrieker}
+4 HP, 1 Armor, 10 STR, 6 DEX, 18 WIL, 无攻击
 
-- **Shriek**: If perceives nearby light or movement, emits piercing shriek for d3 rounds that alerts all creatures nearby.  If no nearby monsters present, roll on the wandering monster table
+- **尖啸**：如果察觉到附近的光或动静，会发出刺耳的尖啸，持续 d3 轮，警告附近的所有生物。如果附近没有怪物，则在游荡怪物表上掷骰。
 
-### Troglodyte 
-4 HP, 1 Armor, 8 STR, 10 DEX, 12 WIL, Claws (d4, Blast) or Bite (d4)
+### 卓尔格 {#troglodyte}
+4 HP, 1 Armor, 8 STR, 10 DEX, 12 WIL, 利爪 (d4, 爆发) 或撕咬 (d4)
 
-- **Aggressive**: Hostile on sight
-- **Camouflage**: Natural ability to blend into rock, stone or mud. If hidden, Trogs will always attack first
-- **Horrific Stench**: Emit a putrid odor that nauseates people. Melee attacks against Trogs are Impaired
+- **好斗**：一见面就敌对。
+- **伪装**：能自然融入岩石、石头或泥土。如果藏匿起来，卓尔格总会先发动攻击。
+- **恶臭**：散发令人恶心的腐臭气味。对卓尔格进行的近战攻击受到削弱。
 
-## Wandering Monster Tables
+## 游荡怪物表 {#wandering-monster-tables}
 
-### Dim Forest
+### 暗林 {#dim-forest}
 
-1. 2d4 **Goblins** - 4 HP, 8 STR, 12 DEX, 8 WIL, dagger (d6) or sling (d6)
-2. **Wild Boar** - 4 HP, 2 Armor, 12 STR, 8 DEX, 6 WIL, tusks (d8)
-3. d4 **Troglodytes** - 4 HP, 1 Armor, 8 STR, 10 DEX, 12 WIL, Claws (d4, Blast) or Bite (d4)
-4. **Ogre** - 6 HP, 1 Armor, 16 STR, 8 DEX, 6 WIL, club (d10)
-5. d6 **Zombies** - 2 HP, 12 STR, 6 DEX, 3 WIL, jagged nails (d6
-6. d4 **Wolves** - 6 HP, 12 STR, 14 DEX, 8 WIL, bite (d8)
-7. **Black Bear** - 6 HP, 14 STR, 12 DEX, 6 WIL, claws (d6+d6) Critical: d6 STR dmg 
-8. 2d4 **Skeletons** - 5 HP, 1 Armor, 8 STR, 13 DEX, 0 WIL, rusty sword (d6) or bow (d6)
+1. 2d4 **地精**——4 HP, 8 STR, 12 DEX, 8 WIL, 匕首 (d6) 或投石索 (d6)
+2. **野猪**——4 HP, 2 Armor, 12 STR, 8 DEX, 6 WIL, 獠牙 (d8)
+3. d4 **卓尔格**——4 HP, 1 Armor, 8 STR, 10 DEX, 12 WIL, 利爪 (d4, 爆发) 或撕咬 (d4)
+4. **食人魔**——6 HP, 1 Armor, 16 STR, 8 DEX, 6 WIL, 木棒 (d10)
+5. d6 **僵尸**——2 HP, 12 STR, 6 DEX, 3 WIL, 锯齿状指甲 (d6
+6. d4 **狼**——6 HP, 12 STR, 14 DEX, 8 WIL, 撕咬 (d8)
+7. **黑熊**——6 HP, 14 STR, 12 DEX, 6 WIL, 利爪 (d6+d6)；重伤：d6 STR 伤害
+8. 2d4 **骷髅**——5 HP, 1 Armor, 8 STR, 13 DEX, 0 WIL, 生锈的剑 (d6) 或弓 (d6)
 
-### Rushmoors
+### Rushmoors {#rushmoors}
 
-1. d4 **Giant Leeches** - 4 HP, 8 STR, 8 DEX, 6 WIL, drink (d4, anesthetic)
-2. d6 **Stirges** - 2 HP, 4 STR, 8 DEX, 4 WIL, bite (d3, blood suck d4, swarm)
-3. d4 **Troglodytes** - 4 HP, 1 Armor, 8 STR, 10 DEX, 12 WIL, Claws (d4, Blast) or Bite (d4)
-4. **Giant Snapping Turtle** - 8 HP, 3 Armor, 14 STR, 4 DEX, 8 WIL, snap (d10, blast)
+1. d4 **巨型水蛭**——4 HP, 8 STR, 8 DEX, 6 WIL, 吸血 (d4, 麻醉)
+2. d6 **吸血蝇**——2 HP, 4 STR, 8 DEX, 4 WIL, 撕咬 (d3, 吸血 d4, 蜂群)
+3. d4 **卓尔格**——4 HP, 1 Armor, 8 STR, 10 DEX, 12 WIL, 利爪 (d4, 爆发) 或撕咬 (d4)
+4. **巨型鳄龟**——8 HP, 3 Armor, 14 STR, 4 DEX, 8 WIL, 啮咬 (d10, 爆发)
 
-### Dungeon Level 1
+### 地城第 1 层 {#dungeon-level-1}
 
-1. 2d4 **Giant Rats** - 3 HP, 6 STR, 10 DEX, 6 WIL, bite (d6, disease) or claws (d4+d4)
-2. **Giant Lizard** - 6 HP, 6 STR, 18 DEX, 6 WIL, bite (d8)
-3. **Viper** - 3 HP, 5 STR, 12 DEX, 3 WIL, bite (d6) poison
-4. **Constrictor Snake** - 3 HP, 10 STR, 12 DEX, 3 WIL, bite (d6, constrict)
-5. d4 **Troglodytes** - 4 HP, 1 Armor, 8 STR, 10 DEX, 12 WIL, Claws (d4, Blast) or Bite (d4)
-6. **Giant Weasel** - 8 HP, 8 STR, 14 DEX, 10 WIL, bite (d6, blood drain) 
+1. 2d4 **巨鼠**——3 HP, 6 STR, 10 DEX, 6 WIL, 撕咬 (d6, 疾病) 或利爪 (d4+d4)
+2. **巨蜥**——6 HP, 6 STR, 18 DEX, 6 WIL, 撕咬 (d8)
+3. **蝰蛇**——3 HP, 5 STR, 12 DEX, 3 WIL, 撕咬 (d6)，毒
+4. **巨蟒**——3 HP, 10 STR, 12 DEX, 3 WIL, 撕咬 (d6, 缠绕)
+5. d4 **卓尔格**——4 HP, 1 Armor, 8 STR, 10 DEX, 12 WIL, 利爪 (d4, 爆发) 或撕咬 (d4)
+6. **巨鼬**——8 HP, 8 STR, 14 DEX, 10 WIL, 撕咬 (d6, 吸血)
 
-### Dungeon Level 2 
+### 地城第 2 层 {#dungeon-level-2}
 
-1. d4 **Large Spiders** - 4 HP, 13 STR, 8 DEX, 4 WIL, bite (d8) Critical: d4 DEX dmg poison
-2. d4+2 **Troglodytes** - 4 HP, 1 Armor, 8 STR, 10 DEX, 12 WIL, Claws (d4, Blast) or Bite (d4)
-3. 3d4 **Giant Rats** - 3 HP, 6 STR, 10 DEX, 6 WIL, bite (d6, disease) or claws (d4+d4)
-4. d6 **Zombies** - 2 HP, 12 STR, 6 DEX, 3 WIL, jagged nails (d6), disease
-5. d4 **Ghouls** - 6 HP, 14 STR, 8 DEX, 3 WIL, elongated claws (d6+d6), necrotic wound
-6. **Carrion Crawler** - 5 HP, 1 Armor, 14 STR, 11 DEX, Tentacles (Paralysis, blast) WIL Save - 2d4 turns
+1. d4 **大型蜘蛛**——4 HP, 13 STR, 8 DEX, 4 WIL, 撕咬 (d8)；重伤：d4 DEX 伤害，毒
+2. d4+2 **卓尔格**——4 HP, 1 Armor, 8 STR, 10 DEX, 12 WIL, 利爪 (d4, 爆发) 或撕咬 (d4)
+3. 3d4 **巨鼠**——3 HP, 6 STR, 10 DEX, 6 WIL, 撕咬 (d6, 疾病) 或利爪 (d4+d4)
+4. d6 **僵尸**——2 HP, 12 STR, 6 DEX, 3 WIL, 锯齿状指甲 (d6)，疾病
+5. d4 **食尸鬼**——6 HP, 14 STR, 8 DEX, 3 WIL, 长利爪 (d6+d6)，死灵创伤
+6. **腐肉爬虫**——5 HP, 1 Armor, 14 STR, 11 DEX, 触手（麻痹，爆发）；WIL 豁免——2d4 轮

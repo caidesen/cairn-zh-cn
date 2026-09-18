@@ -2,36 +2,36 @@
 layout: default
 parent: Conversions
 grand_parent: Adventures
-title: A Man on the Road
+title: 路上的男人
 ---
 
-# A Man on the Road
+# 路上的男人
 
-- Based on the original [work by Ian Yusem](https://ian-yusem.itch.io/a-man-on-the-road).
-- Thanks to Kevin Hopf for this conversion.
+- 改编自 [Ian Yusem 的原作](https://ian-yusem.itch.io/a-man-on-the-road)。
+- 感谢 Kevin Hopf 完成本次转换。
 
-## The Man
+## 男人
 7 HP, 3 Armor, 18 STR, 16 DEX, 18 WIL
-- Hard to Kill: Falls unconscious for 1d6 rounds upon receiving critical damage, then rises with 5 less STR than his previous maximum (surprising anyone looting his corpse) unless finished off (see **Executions Confounded**).
+- 难以杀死：受到重伤后昏迷 1d6 回合，随后以比先前最大值低 5 点的 STR 起身（会吓到任何搜刮他尸体的人），除非有人彻底杀死他（见**混乱的处决**）。
 
-### His Horse
+### 他的马
 7 HP, 1 Armor, 12 STR, 10 DEX, 10 WIL, hooves (d8+d8)
 
-### His Weapon of Choice
-1. Saber (1d8, 60 ft. charge doubles damage)
-2. Greatsword (1d10)
-    - Foes entering melee take 1d4 STR damage
-3. Long Knife (1d6, ignores armor) & Buckler (1d2, poisoned)
-   - Poison: Slow death in 1d4 days.
-4. Barbed-Bolt Crossbow (1d6, 1d4 and bleeding when bolt removed)
-   - Bleeding - 1d3 STR damage each turn until stopped.
-5. Flaming Oil Flasks (1d8, burning)
-   - Burning: 1d8 STR damage over two rounds.
-6. Ceremonial Sword (1d8, shatters on a 1)
-   - Shatter: 1d4 blast damage
-7. Daggers (d4+d4+d4)
-8. Unarmed - (1d4)
-   - Critical damage: Make a STR save or die.
+### 他的武器选择
+1. 马刀（1d8，60 英尺冲锋时伤害翻倍）
+2. 巨剑（1d10）
+    - 进入近战范围的敌人受到 1d4 STR 伤害。
+3. 长刀（1d6，无视护甲）与小圆盾（1d2，带毒）
+   - 毒：1d4 天后缓慢死亡。
+4. 倒钩弩（1d6，拔出弩矢时造成 1d4 伤害并流血）
+   - 流血：每轮造成 1d3 STR 伤害，直到止血。
+5. 火焰油瓶（1d8，燃烧）
+   - 燃烧：两回合内造成 1d8 STR 伤害。
+6. 仪式剑（1d8，掷出 1 时碎裂）
+   - 碎裂：1d4 爆发伤害。
+7. 匕首（d4+d4+d4）
+8. 徒手（1d4）
+   - 重伤：进行 STR 豁免，否则死亡。
 
-### His Underhanded Tactics (#6)
-Targets eyes, throat, groin. Bites with canine ferocity (d6, as extra attack).
+### 他的卑劣战术（#6）
+攻击眼睛、喉咙和腹股沟。以犬类般的凶猛撕咬（d6，作为额外攻击）。

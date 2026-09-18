@@ -5,96 +5,95 @@ grand_parent: Adventures
 title: Broken Bastion
 ---
 
-# Broken Bastion
+# 破碎堡垒 {#broken-bastion}
 
-- Converted from the [original work by Gus L./Ratking Productions](https://www.drivethrurpg.com/product/340122/Broken-Bastion).
-- Converted by **Naeolin**
+- 改编自 [Gus L./Ratking Productions](https://www.drivethrurpg.com/product/340122/Broken-Bastion) 的原作。
+- 改编者：**Naeolin**
 
-#### War Automata
+#### 战争自动机 {#war-automata}
 
-18 HP, 3 Armor, 18 STR, 5 DEX, 18 WIL, pincers (d10+d10) and heat ray (d12, ignores armor)
-* Magenta Shield: The Automata’s HP is derived from a translucent, glowing magenta orb that surrounds it at all times. It regenerates 2 HP per turn.
-* Heat Ray: At the beginning of the Automata’s turn, it may target any character in sight with its heat ray.  
-* **Critical Damage:** If dealt with pincers, roll a Die of Fate to determine what appendage is lost (4-6: arm or leg 1-3: head). If dealt with the heat ray, the victim's body and all non-magical equipment are reduced to cinders. 
+18 HP, 3 Armor, 18 STR, 5 DEX, 18 WIL, 钳爪 (d10+d10) 和热射线 (d12, 忽略 Armor)
+* 品红护盾：自动机的 HP 来自一个始终环绕它的半透明发光品红色球体。它每轮恢复 2 HP。
+* 热射线：在自动机轮次开始时，它可以用热射线指定视线内的任意角色。
+* **重伤**：如果受到钳爪攻击，掷命运骰来决定失去哪一处附肢（4-6：手臂或腿；1-3：头部）。如果受到热射线攻击，受害者的身体和所有非魔法装备都会化为灰烬。
 
-#### Lith Wights, Greater
+#### 大型岩缚灵 {#lith-wights-greater}
 
-6 HP, 12 STR, 6 DEX, 15 WIL, rend (d6)
-* Mad, rotting bodies heavily encrusted with Tomb Crystal that is shot through with greenish black veins.
-* Crystalized Body: The wight is immune to damage from normal weapons. 
-* Critical Damage: Suffer a level of Tomb Crystal Poisoning after the battle is over (see Appendix).
+6 HP, 12 STR, 6 DEX, 15 WIL, 撕裂 (d6)
+* 疯狂、腐烂的尸体，体内遍布带有绿黑色静脉的墓晶。
+* 结晶化身体：缚灵免疫普通武器造成的伤害。
+* 重伤：战斗结束后承受一层墓晶中毒（见附录）。
 
-#### Glass Spiders
+#### 玻璃蜘蛛 {#glass-spiders}
 
-6 HP, 3 STR, 10 DEX, 6 WIL, bite (d6)
-* Will almost always attack, but will often retreat after one or more characters suffers Critical Damage.  They will return later with the intention of feasting on anyone left behind.
-* Tenacious: Glass spiders do not check Morale (WIL save) unless reduced to 0 HP or faced with overwhelming force.  
-* Critical Damage: target suffers from spasmodic violence and attacks (*enhanced* damage) the nearest creature, then falls into a coma. They die in 1d6/2 days, or recover in 2d6 if hydrated and cared for. 
+6 HP, 3 STR, 10 DEX, 6 WIL, 撕咬 (d6)
+* 几乎总会发动攻击，但在一名或多名角色受到重伤后，通常会撤退。它们稍后会回来，打算享用任何被留下的人。
+* 坚韧：除非 HP 降至 0 或面对压倒性的力量，否则玻璃蜘蛛不会进行士气检定（WIL 豁免）。
+* 重伤：目标陷入痉挛性暴力，攻击最近的生物（伤害得到_强化_），然后陷入昏迷。他们会在 1d6/2 天内死亡；如果补充水分并得到照料，则会在 2d6 天内恢复。
 
-### 3) Optics Station
+### 3. 光学站 {#3-optics-station}
 
-Glass spiders that are undetected in this room will ambush characters, resulting in *enhanced* damage for the first round of combat.
+在此房间内未被发现的玻璃蜘蛛会伏击角色，使战斗第一轮的伤害得到_强化_。
 
-### 8) Target Control
+### 8. 目标控制 {#8-target-control}
 
-#### Lith Wights, Armored Greater
+#### 装甲大型岩缚灵 {#lith-wights-armored-greater}
 
-6 HP, 2 Armor 12 STR, 6 DEX, 15 WIL, rend (d6)
-* Crystalized Body: The wight is immune to damage from normal weapons. 
-* **Critical Damage**: Suffer a level of Tomb Crystal Poisoning after the battle is over (see Appendix). 
+6 HP, 2 Armor, 12 STR, 6 DEX, 15 WIL, 撕裂 (d6)
+* 结晶化身体：缚灵免疫普通武器造成的伤害。
+* **重伤**：战斗结束后承受一层墓晶中毒（见附录）。
 
-### 9) Command Center
+### 9. 指挥中心 {#9-command-center}
 
-Throne: Successful WIL Save or enter a state of shock for 1d6 Turns.
+王座：WIL 豁免成功，否则陷入休克状态 1d6 轮。
 
-Crystal Orb: 1d6 STR damage unless some sort of magical protection is utilized.
+晶体球：受到 1d6 STR 伤害，除非使用某种魔法防护。
 
-### 12) Automata Control
+### 12. 自动机控制室 {#12-automata-control}
 
-#### Maintenance Automata
+#### 维护自动机 {#maintenance-automata}
 
-6 HP, 3 Armor, 12 STR, 15 DEX, 18 WIL, pincers (d8+d8)
-* Mechanized Body: The automata's metal construction and mechanical nature ensures that all attacks with non-bludgeoning weapons are *impaired* and that it is immune to mind-influencing effects.
+6 HP, 3 Armor, 12 STR, 15 DEX, 18 WIL, 钳爪 (d8+d8)
+* 机械化身体：自动机的金属构造和机械本质确保所有非钝击武器的攻击受到_削弱_，并使它免疫影响心智的效果。
 
-### 13) Mechanarium 
+### 13. 机械馆 {#13-mechanarium}
 
-Gigantic Tanks: Anyone too close to a ruptured tank immediately takes 1d6 STR damage.  Those some distance away may make a DEX Save to make it to a place of safety in time.
+巨大罐体：距离破裂的罐体过近的人会立即受到 1d6 STR 伤害。距离较远的人可以进行 DEX 豁免，及时抵达安全地点。
 
  
-## Appendix
+## 附录 {#appendix}
 
-#### Commander's Emblem, 8 Charges
+#### 指挥官徽章，8 次充能 {#commanders-emblem-8-charges}
 
-* Unlocks all normal Empyrean doors with the expenditure of 1 charge. High security doors require a WIL save as well, and use 1d6 charges in the process.
-* **Recharge**: Unknown. 
+* 消耗 1 次充能即可解锁所有普通天穹门。高安保门还需要一次 WIL 豁免，并会在此过程中消耗 1d6 次充能。
+* **充能**：未知。
 
-#### Void Armor
+#### 虚空护甲 {#void-armor}
 
-* As Chainmail (2 Armor), but also allows the wearer to operate in airless environments (for 12 Turns, if using Turn procedures).
-* Wearers always act last during combat.
+* 等同于锁子甲（2 Armor），但还允许穿戴者在无空气环境中行动（若使用轮次流程，则持续 12 轮）。
+* 穿戴者在战斗中总是最后行动。
 
-**Converter's Note**: With the author's permission I have added information on Tomb Crystal Poisoning and Occulith Size and Effect from *Tomb Robbers of the Crystal Frontier*.  
+**改编者注**：经作者许可，我从《水晶边疆的盗墓者》中加入了关于墓晶中毒以及 Occulith 尺寸和效果的信息。
 
-
-### Occulith Size and Effect 
+### Occulith 尺寸与效果 {#occulith-size-and-effect}
 
 |          |          |          |
 | -------- | -------- | -------- |
-| **Name** | **Value** | **Effect** |
-| Spark | 100 GP | Allows possessor to cast a spell without adding Fatigue, or restores 1 charge to a relic. |
-| Ember | 500 GP | Allows the possessor to cast a spell without adding Fatigue, restore 2 charges to a relic, or enhance a spell quickly without consequence. |
-| Carbuncle | 1000 GP | Allows the possessor to cast a spell without adding Fatigue and enhance it quickly without consequence, or restore 4 charges to a relic. |
-| Orb | 10,000 GP | Allows the possessor to cast a spell without adding Fatigue and enhance it quickly without consequence, restore all charges to a relic, or perform a greater work of sorcery if given sufficient time and additional resources. 
+| **名称** | **价值** | **效果** |
+| 火花 | 100 GP | 允许持有者施放法术而不增加疲劳，或为一件遗物恢复 1 次充能。 |
+| 余烬 | 500 GP | 允许持有者施放法术而不增加疲劳、为一件遗物恢复 2 次充能，或迅速强化法术而不产生后果。 |
+| 红玉 | 1000 GP | 允许持有者施放法术而不增加疲劳并迅速强化法术而不产生后果，或为一件遗物恢复 4 次充能。 |
+| 球体 | 10,000 GP | 允许持有者施放法术而不增加疲劳并迅速强化法术而不产生后果、恢复一件遗物的所有充能，或在给予足够时间和额外资源后完成更高等的魔法工作。 |
 
-### Crystal Poisioning Infection Stage & Effect
+### 墓晶中毒感染阶段与效果 {#crystal-poisioning-infection-stage-effect}
 
 |           |            |
 | --------- | ---------- | 
-| **Stage** | **Effect** |
-| I | Bodily excretions turn to glittering pastel Tomb Crystal. Most notably, sweat will harden into fragile sheets, and tiny crystal tears must occasionally be picked out of one's eyes. **Suffer one Fatigue upon reaching this stage. No other negative effects**. | 
-| II | Patches of crystal build up on bone, hair, and skin. They result in random bruises, stiff joints, and frequent aching pains.**-1 permanent DEX loss.** | 
-| III | Eyes cloud and craze with tiny growths, while shoots of crystal push out through flesh. The poisoned character's immune system begins to break down. ** -2 permanent loss to both STR and DEX.** | 
-| IV | A crystal lattice thickens the blood. The heart pumps sluggishly, Crystals forming in the throat make eating and drinking difficult. Pain is constant at this stage, and sleep is never restful. **STR, DEX, and WIL all suffer 1d6 points of permanent loss. If any Ability Score is reduced below 3, the character is Deprived. Below 0, the victim dies, advances to stage VI, and rises as a Lith Wight**. | 
-| V | Growths erupt through flesh as spires of Tomb Crystal grow all over the body. Pain becomes deadened at this stage as tiny crystal deposits in the brain dramatically decrease cognition, wit, and coordination. **DEX and WIL reduced to 3, maximum HP is halved, but the sufferer now heals 1 STR per turn as crystal growths replace their body's functions. If the character suffers Critical Damage at this stage, automatically advance them to Infection Stage VI.** | 
-| VI | Entire limbs are now replaced with veined, blood filled Tomb Crystal. Death occurs, and the infected transforms into a Lith Wight. **The character becomes an NPC under the control of the Warden, but largely retains their strongest personality features and goals. They might remain with the party as a henchperson**. | 
-| VII | Complete immobilization. Those limbs that are not transformed are completely encysted. The unfortunates who reach this stage lose any remaining vestige of identity. There is no cure at this point, only endless mineral pain. | 
+| **阶段** | **效果** |
+| I | 身体排泄物变成闪闪发光的柔和彩色墓晶。最明显的是，汗水会硬化成易碎的薄片，细小的晶泪必须偶尔从眼睛里挑出来。**进入此阶段时承受一点疲劳；没有其他负面效果**。 |
+| II | 骨骼、头发和皮肤上积聚晶体斑块，导致不明原因的瘀伤、关节僵硬和频繁的疼痛。**永久失去 1 点 DEX**。 |
+| III | 眼睛变得浑浊，细小的晶体增生使其出现裂纹；同时晶体枝条从血肉中长出。中毒角色的免疫系统开始崩溃。**STR 和 DEX 各永久失去 2 点**。 |
+| IV | 晶体网格使血液变稠。心脏缓慢地跳动，喉咙中形成的晶体使进食和饮水变得困难。此阶段疼痛不止，睡眠也从不得到充分休息。**STR、DEX 和 WIL 各永久失去 1d6 点。如果任一属性值降至 3 以下，角色陷入匮乏；降至 0 以下时，受害者死亡，进入第 VI 阶段，并作为岩缚灵复起**。 |
+| V | 增生物穿破血肉，墓晶尖塔长遍全身。此阶段疼痛变得麻木，因为脑内细小的晶体沉积会大幅降低认知、机敏和协调能力。**DEX 和 WIL 降至 3，最大 HP 减半，但随着晶体增生取代身体功能，患者现在每轮恢复 1 STR。如果角色在此阶段受到重伤，则自动进入感染第 VI 阶段**。 |
+| VI | 整条肢体都被带有静脉、充满血液的墓晶取代。角色死亡并变成岩缚灵。**角色成为由守望者控制的 NPC，但大体保留其最强烈的性格特征和目标。他们可能会作为随从继续留在队伍中**。 |
+| VII | 完全无法行动。尚未转化的肢体也完全被囊肿包裹。达到此阶段的不幸者会失去仅存的身份痕迹。此时已经无药可救，只有无尽的矿物质疼痛。 |
