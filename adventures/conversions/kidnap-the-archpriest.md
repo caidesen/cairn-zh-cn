@@ -5,25 +5,25 @@ grand_parent: Adventures
 title: Kidnap the Archpriest
 ---
 
-# Kidnap the Archpriest
+# 绑架大主教 {#kidnap-the-archpriest}
 
-- Converted from the  [original work](https://www.drivethrurpg.com/product/233069/Kidnap-the-Archpriest) by [Skerples](https://coinsandscrolls.blogspot.com/) 
-- Conversion by [Pelle](https://pellep.itch.io/).
+- 根据 [Skerples](https://coinsandscrolls.blogspot.com/) 的[原作](https://www.drivethrurpg.com/product/233069/Kidnap-the-Archpriest)转换。
+- 转换： [Pelle](https://pellep.itch.io/)。
 
-## NPC Stats (p. 32)
+## NPC 数据（第 32 页） {#npc-stats-p-32}
 
-### Servant
+### 仆人 {#servant}
 2 HP, 8 STR, 10 DEX, 7 WIL, improvised weapon (d4) or if actual weapon (d6)
-- Gertrude the Laundress has 6 HP
+- 洗衣女工 Gertrude 有 6 HP。
 
-### Gate Guard
-6 HP, 1 Armor, 12 STR, 10 DEX, 12 WIL, axes, spears, swords or pikes (d6)
-- Leather armor
+### 门卫 {#gate-guard}
+6 HP, 1 Armor, 12 STR, 10 DEX, 12 WIL, 斧、长矛、剑或长枪 (d6)
+- 皮甲
 
-### Noble
-4 HP, (1 Armor), 8 STR, 10 DEX, 12 WIL, dagger/sword (d6)
-- Possibly concealed leather armor
+### 贵族 {#noble}
+4 HP, (1 Armor), 8 STR, 10 DEX, 12 WIL, 匕首/剑 (d6)
+- 可能藏有皮甲
 
-### Black Endoguard
-10 HP, 3 Armor, 15 STR, 12 DEX, 17 WIL, punch (d6) or sword/axe (d8) or two-handed axe strike (d10)
-- Black plate armor
+### 黑色内廷卫士 {#black-endoguard}
+10 HP, 3 Armor, 15 STR, 12 DEX, 17 WIL, 拳击 (d6) 或剑/斧 (d8) 或双手斧击 (d10)
+- 黑色板甲

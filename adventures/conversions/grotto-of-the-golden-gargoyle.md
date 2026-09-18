@@ -5,130 +5,130 @@ grand_parent: Adventures
 title: Grotto of Golden Gargoyle
 ---
 
-# Grotto of Golden Gargoyle
+# 黄金石像鬼洞窟 {#grotto-of-golden-gargoyle}
 
-- [Grotto of Golden Gargoyle](https://pocket-sized-perils.itch.io/grotto-of) by [Brendan Barnett](https://dexsave.blogspot.com)
-- Conversion by Yochai Gal
+- [《Grotto of Golden Gargoyle》](https://pocket-sized-perils.itch.io/grotto-of)：Brendan Barnett 创作
+- 转换：Yochai Gal
 
-## Notes
+## 说明 {#notes}
 
-- Treat "turns" as dungeon cycles, as each PC has only one turn per cycle.
-- **Petrification Curse**: Victim slowly turns to stone. 
-  - Each day the player rolls 1d6 to determine which body part turns to stone (reroll duplicates):  
-  - 1: Nose, 2: Fingers, 3: Ears, 4: Toes, 5: Forehead, 6: Lips. 
-  - After a week they are fully petrified.
+- 将“轮”视为地城循环，因为每名 PC 每个循环只有一次行动。
+- **石化诅咒**：受害者会逐渐变成石头。
+  - 每天掷 1d6，以确定哪个身体部位变成石头（重复结果重掷）：
+  - 1：鼻子，2：手指，3：耳朵，4：脚趾，5：额头，6：嘴唇。
+  - 一周后，受害者会完全石化。
 
-## Rooms
+## 房间 {#rooms}
 
-### 1. The Spiked Chamber
+### 1. 尖刺房间 {#1-the-spiked-chamber}
 
-- Save DEX or get impaled and take d6 STR damage. Falling to the floor causes d4 STR damage.
+- DEX 豁免失败则会被刺穿，承受 d6 STR 伤害。摔到地面会造成 d4 STR 伤害。
 
-### 2. The Fungal Cave
+### 2. 真菌洞穴 {#2-the-fungal-cave}
 
-#### Fungi
+#### 真菌 {#fungi}
 
-- **Blood Fungus**: Roll 1d6. On a **1-2** the character acquires the _petrification curse_.
-- **Reapers**: 1d4 STR damage, then deals increased damage die (1d6 > 1d8 > 1d10 > 1d12 > 1d20) every 3 dungeon cycles, after which it abates.
+- **血真菌**：掷 1d6。结果为 **1-2** 时，角色获得_石化诅咒_。
+- **收割者**：造成 1d4 STR 伤害，之后每 3 个地城循环提升一次伤害骰（1d6 > 1d8 > 1d10 > 1d12 > 1d20），随后效果消退。
 
-### 3. Bat Saddlery
+### 3. 蝙蝠马具室 {#3-bat-saddlery}
 
-- As written.
+- 按原文。
 
-### 4. Shrine of the Golden Gargoyle
+### 4. 黄金石像鬼圣龛 {#4-shrine-of-the-golden-gargoyle}
 
-- 160sp can be converted to 16gp.
-- See bestiary below.
+- 160sp 可以兑换为 16gp。
+- 见下方生物图鉴。
 
-### 5. The Crypts
+### 5. 地下墓室 {#5-the-crypts}
 
-- Swap out the "spell book" spells for the "Spell Book" entry in [Treasure](#treasure).
+- 将“法术书”中的法术替换为[宝藏](#treasure)中“法术书”条目的内容。
 
-### 6. The Cooking Cave
+### 6. 烹饪洞穴 {#6-the-cooking-cave}
 
-- As written.
+- 按原文。
 
-### 7. The Pit
+### 7. 深坑 {#7-the-pit}
 
-- As written.
+- 按原文。
 
-### 8. Tomb of Karthras the Cold
+### 8. 寒冷的 Karthras 之墓 {#8-tomb-of-karthras-the-cold}
 
-- As written.
+- 按原文。
 
-### Inside the Sarcophagus
+### 石棺内部 {#inside-the-sarcophagus}
 
-- As written.
+- 按原文。
 
-## Treasure
+## 宝藏 {#treasure}
 
-If an item isn't on this list, treat its abilities and value as written.
+如果物品不在此列表中，则按原文处理其能力和价值。
 
-- **Batwing Potion**: Grow wings and fly for 30 minutes. _Curse_: Roll 1d6. On a 1 the character acquires the _petrification curse_.
-- **Vampire Knight Armor**: 1 Armor per set (max total of 3 Armor when completed), _bulky_. Six pieces total (1 head, 1 torso, 2 arms, 2 legs). _Scythe Gauntlet_ (d8, _blast_). STR save to wrest control from the armor if activated.
-- **Horned Crown**: Same.
-- **Thirst**: d8, on critical damage (death) heal STR damage dealt. WIL save or _Raise Dead_ (as written in the 2e Warden's Guide). 
-- **Black Mail**: 2 Armor.
-- **Spell Book**:
-  - _Talk With Dead_: Use the _Raise Spirit_ Spellbook.
-  - _Neutralize Poison_: A nearby poisonous substance becomes inert.
-  - _Summon A Cockroach Sized Demon_: Summons a tiny demonic being onto your plane. It doesn't care about you.
+- **蝙蝠翼药水**：长出翅膀并飞行 30 分钟。_诅咒_：掷 1d6。结果为 1 时，角色获得_石化诅咒_。
+- **吸血骑士铠甲**：每套提供 1 Armor（完成后总计最多 3 Armor），_笨重_。总共六个部件（1 个头部、1 个躯干、2 个手臂、2 条腿）。_镰刃臂铠_ (d8, _爆发_)。铠甲激活后，进行 STR 豁免以夺回控制权。
+- **角冠**：同上。
+- **Thirst**：d8，造成重伤（死亡）时，恢复所造成的 STR 伤害。WIL 豁免失败则触发 _Raise Dead_（按《2e 守望者指南》中的描述）。
+- **黑色锁子甲**：2 Armor。
+- **法术书**：
+  - _Talk With Dead_：使用 _Raise Spirit_ 法术书。
+  - _Neutralize Poison_：附近的有毒物质变得无害。
+  - _Summon A Cockroach Sized Demon_：将一个微小的恶魔生物召唤到你的位面。它并不在乎你。
 
-## Monsters and NPCs
+## 怪物和 NPC {#monsters-and-npcs}
 
-### Giant Carnivorous Snail
+### 巨型食肉蜗牛 {#giant-carnivorous-snail}
 
-6 HP, 2 Armor, 16 STR, 6 DEX, 12 WIL, bite (d10)
+6 HP, 2 Armor, 16 STR, 6 DEX, 12 WIL, 撕咬 (d10)
 
-### Goblin
+### 地精 {#goblin}
 
-4 HP, 8 STR, 12 DEX, 8 WIL, dagger (d6) or sling (d6)
+4 HP, 8 STR, 12 DEX, 8 WIL, 匕首 (d6) 或投石索 (d6)
 
-- Optionally choose: bow (d6), club (d6), or spear (d8)  
-- Roll 1d6: on a 1-3 they carry a **batwing potion**.
+- 可选择：弓 (d6)、棍棒 (d6) 或长矛 (d8)。
+- 掷 1d6：结果为 1-3 时，他们携带一瓶**蝙蝠翼药水**。
 
-### Ghostly Knight
+### 幽灵骑士 {#ghostly-knight}
 
-- As written.
+- 按原文。
 
-### Kathras the Cold (Spirit)
+### 寒冷的 Karthras（灵体） {#kathras-the-cold-spirit}
 
-- As written.
+- 按原文。
 
-### Lizard Tail
+### 蜥蜴尾 {#lizard-tail}
 
-4 HP, 1 Armor, 8 STR, 12 DEX, 8 WIL, arms (d6+d6)
-- Recovers 1d4 STR at the start of each round. 
-- When he takes critical damage with a blade, regrow his limbs (d4):    
-  - [1.] Club (d8)
-  - [2.] Regular arm.
-  - [3.] x Bat wings (needs 2 to fly)
-  - [4.] 2 limbs (gain the _blast_ property)
-- **Cocked**: As written. 
+4 HP, 1 Armor, 8 STR, 12 DEX, 8 WIL, 手臂 (d6+d6)
+- 每轮开始时恢复 1d4 STR。
+- 他受到刀刃造成的重伤时，重新长出肢体 (d4)：
+  - [1.] 棍棒 (d8)
+  - [2.] 普通手臂。
+  - [3.] x 蝙蝠翼（需要 2 个才能飞行）
+  - [4.] 2 条肢体（获得_爆发_属性）
+- **上膛**：按原文。
 
-### Noggin "the Alchemist"
+### “炼金术士” Noggin {#noggin-the-alchemist}
 
-4 HP, 6/14 STR, 8 DEX, 11 WIL, Shiv (d6)
-- Shiv: Covered in **Reaper Fungus**
+4 HP, 6/14 STR, 8 DEX, 11 WIL, 刀片 (d6)
+- 刀片：覆盖着**收割者真菌**。
 
-### Servants of Karthras
+### Karthras 的仆从 {#servants-of-karthras}
 
-3 HP, 6 STR, 12 DEX, 5 WIL, dagger (d6)
+3 HP, 6 STR, 12 DEX, 5 WIL, 匕首 (d6)
 
-- **Mist Form**: Temporarily convert a creature's body into living mist - must close your eyes and chant to maintain it.
+- **雾形态**：暂时将生物的身体变成活雾；必须闭上眼睛并吟唱才能维持。
 
-### Seriph
+### Seriph {#seriph}
 
-4 HP, 11 STR, 14 DEX, 10 WIL, dagger (d6)
+4 HP, 11 STR, 14 DEX, 10 WIL, 匕首 (d6)
 
-- **Ice Dagger**: Ranged attack (d6 damage to STR). Once per combat.   
+- **冰匕首**：远程攻击（对 STR 造成 d6 伤害）。每场战斗一次。
 
-### Stone-Toes
+### 石趾 {#stone-toes}
 
-2 HP, 2 Armor, 10 STR, 6 DEX, 14 WIL, dual scimitars (d8+d8)
+2 HP, 2 Armor, 10 STR, 6 DEX, 14 WIL, 双弯刀 (d8+d8)
 
-- Has 12 HP while flying.
+- 飞行时有 12 HP。
 
-### Vampire Knight Armor
+### 吸血骑士铠甲 {#vampire-knight-armor}
 
-- 8 HP, 3 Armor, 16 STR, 10 DEX, 1 WIL, scythe gauntlet (d10)
+- 8 HP, 3 Armor, 16 STR, 10 DEX, 1 WIL, 镰刃臂铠 (d10)

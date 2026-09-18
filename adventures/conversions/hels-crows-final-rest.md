@@ -5,64 +5,64 @@ grand_parent: Adventures
 title: Hel's Crow's Final Rest
 ---
 
-# Hel's Crow's Final Rest
+# Hel's Crow's Final Rest：海尔之鸦的终眠 {#hels-crows-final-rest}
 
-- Based on the [original work](https://www.drivethrurpg.com/product/377007/Hels-Crows-Final-Rest) by [Gus L.](https://alldeadgenerations.blogspot.com/).
-- Conversion by [Sam Wallace](https://rpgs.quajzen.page)
+- 改编自 [Gus L.](https://alldeadgenerations.blogspot.com/) 创作的[原作](https://www.drivethrurpg.com/product/377007/Hels-Crows-Final-Rest)。
+- 转换： [Sam Wallace](https://rpgs.quajzen.page)
 
-## General Notes
-  - The original is free, so grab a copy!
-  - The Sea Shrine's dedication as a place of divine power gives enhanced and/or boosted abilities to divine powers players may wield. Turgies' and his minions' attacks are impaired here.
+## 总体说明 {#general-notes}
+  - 原作免费，拿一份来看看吧！
+  - 海洋圣龛作为神圣力量之地的奉献，使玩家可能使用的神圣力量获得强化和/或增强。Turgies 及其爪牙在此处的攻击会受到削弱。
 
-## Monsters or NPCs
+## 怪物或 NPC {#monsters-or-npcs}
 
-### Sea Nakki
+### 海纳基 {#sea-nakki}
 4 HP, 12 STR, 14 DEX, 14 WIL, spiny hand (d8+d8)
-- Immune to attacks by undead with less than 8 STR, and immune to non-magical and non-silvered weapons
-- Any target in the water within 20 feet of the Nakki takes d6 damage if the Nakki attacks.
-- Can summon 2d6 Giant Crabs outdoors
+- 免疫 STR 低于 8 的不死生物的攻击，也免疫非魔法且非银制武器的攻击。
+- 如果纳基发起攻击，距离纳基 20 英尺内水中的任何目标都会承受 d6 伤害。
+- 在户外可以召唤 2d6 只巨型螃蟹。
 
-### Giant Crab
-6 HP, 2 Armor, 16 STR, 8 DEX, 4 WIL, claw (d10+d10)
- - These are holy beasts (and thus can damage undead), but could be influenced by diabolic powers.
- - Critical Damage: crab-like carapace begins to form on a limb
+### 巨型螃蟹 {#giant-crab}
+6 HP, 2 Armor, 16 STR, 8 DEX, 4 WIL, 利爪 (d10+d10)
+ - 这些是圣兽（因此可以伤害不死生物），但可能受到邪魔力量的影响。
+ - 重伤：肢体上开始形成螃蟹般的甲壳。
  
-### Thanes
-4 HP, 2 Armor, 8 DEX, 8 WIL, sword (d8)
- - **Heleg** (in area F3) has the sword **Tooth Breaker,** which does d10 damage.
+### 领主侍从 {#thanes}
+4 HP, 2 Armor, 8 DEX, 8 WIL, 长剑 (d8)
+ - **Heleg**（在 F3 区域）拥有长剑 **Tooth Breaker**，造成 d10 伤害。
  
-### Bui (Priest)
+### Bui（牧师） {#bui-priest}
 3 HP, 8 STR, 8 DEX, 12 WIL
- - Can heal minor wounds (recover 1 STR).
+ - 可以治疗轻伤（恢复 1 STR）。
  
-### Turgies Hel's Crow
+### Turgies，Hel's Crow {#turgies-hels-crow}
 8 HP, 3 Armor, 18 STR, 14 DEX, 14 WIL, longsword (d10)
-  - Can cast the following spells (all listed in SRD) without a spellbook:
+  - 不需要法术书即可施放以下法术（全部列于 SRD 中）：
 	- *Command*
 	- *Mirror Image*
 	- *Shield*
- - Can manifest the following additional magical effects:
-  - Can minorly manipulate flames and fire
-  - Can turn into a crow
+ - 可以显现以下额外魔法效果：
+  - 可以轻微操纵火焰与火。
+  - 可以变成乌鸦。
   
-### Draugur Reavers
-2 HP, 1 Armor, 13 STR, 8 DEX, 4 WIL, sword (d8)
- - immune to non-magical and non-silvered weapons
- - obedient to Turgies, and if Turgies dies they all crumble to dust. 
+### Draugur 劫掠者 {#draugur-reavers}
+2 HP, 1 Armor, 13 STR, 8 DEX, 4 WIL, 长剑 (d8)
+ - 免疫非魔法且非银制武器。
+ - 服从 Turgies；如果 Turgies 死亡，它们都会化为尘土。
 
 
-### Survivors of Aski
+### Aski 的幸存者 {#survivors-of-aski}
 0 HP, 4 STR
-  - very scared of the strangers (the PCs)
-  - Currently damaged but can be healed.
+  - 非常害怕陌生人（PC）。
+  - 目前受了伤，但可以得到治疗。
 
-## Items
+## 物品 {#items}
 
-### Meadhorn of the Sea Horn
- - Upon drinking from the horn, the drinker has a prophetic vision and after a night's rest recovers d10 lost STR.
+### 海角蜜酒之角 {#meadhorn-of-the-sea-horn}
+ - 从角中饮酒后，饮用者会看到预言幻象，并在一夜休息后恢复失去的 d10 STR。
 
-### Magical Coral War Ax (d8)
- - the first two strikes per day causes the opponent's lungs to fill with sea water. They take d4 damage immediately, and must make a STR save or spend d4 rounds of combat coughing up the water.
+### 魔法珊瑚战斧 (d8) {#magical-coral-war-ax-d8}
+ - 每天前两次命中都会使对手的肺部充满海水。他们立即承受 d4 伤害，并必须进行 STR 豁免，否则要花费 d4 轮战斗咳出海水。
  
-### Ensorcelled Copper Ringmail
-  - Gives 2 armor
+### 受魔铜制锁子甲 {#ensorcelled-copper-ringmail}
+  - 提供 2 Armor。

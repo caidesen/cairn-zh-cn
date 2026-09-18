@@ -5,104 +5,104 @@ grand_parent: Adventures
 title: Green Water, Crimson Stag
 ---
 
-# Green Water, Crimson Stag (Solo adventure)
-- Converted for Cairn from the [original](https://redruinpublishing.itch.io/green-water-crimson-stag) work by David M Donachie.
-- Conversion by Le Panda du Mal 
+# 绿水，绯红雄鹿（单人冒险） {#green-water-crimson-stag-solo-adventure}
+- 根据 David M Donachie 的[原作](https://redruinpublishing.itch.io/green-water-crimson-stag)转换为 Cairn。
+- 转换：Le Panda du Mal
 
-### Note
-The conversions made for this adventure have mostly to do with combat and saves. In many situations a save can be waived if your character has a high enough score in the relevant ability or a relevant background. Players are encouraged to put Warden caps on here and rule fairly to determine if certain peculiar traits of their character can give advantages not explicitly allowed by the text. The same goes for magic and special items- if you have spellbooks, scrolls, or items that you think would be useful in a given situation, even if the text does not account for it, envision how this would work and apply any mechanics that fit. 
+### 注意 {#note}
+本冒险的转换主要涉及战斗和豁免。在许多情况下，如果角色的相关属性足够高，或拥有相关背景，可以免除豁免。建议玩家在此处交由守望者裁量，并公平判断角色的某些特殊特质是否能带来文本未明确允许的优势。魔法和特殊物品也是如此——如果你拥有法术书、卷轴或认为在特定情况下有用的物品，即使文本没有对此做出说明，也可以设想其效果，并采用合适的机制。
 
 
-As far as currency goes, gold crowns = gp, florins = sp, pennies = cp
+货币方面，金币冠（gold crowns）= gp，弗罗林（florins）= sp，便士（pennies）= cp。
 
 
 ### 2
-If you have DEX of 10 or higher you jump back to safety; otherwise make a DEX save. 
+如果你的 DEX 为 10 或更高，则可以跳回安全处；否则进行 DEX 豁免。
 
 
 ### 14 
-#### Crimson Stag
+#### 绯红雄鹿 {#crimson-stag}
 15 HP, 2 Armor, 18 STR, 16 DEX, 14 WIL, hooves (d8), butt (d10)
-- The stag has a 50% chance each turn of using its magical breath instead of attacking (it will only use it once); this will impair your attack (1d4) for the remainder of the fight. 
+- 雄鹿每轮有 50% 的概率使用魔法吐息而非攻击（只会使用一次）；这会使你在战斗剩余时间内的攻击受到削弱 (1d4)。
 
 
 ### 16
-Left out in the air, the stag’s corpse dissipates in a red mist and leaves behind a spellbook. Roll on the Cairn spell table to determine which it is. 
+雄鹿的尸体暴露在空气中后会消散为红雾，并留下一本法术书。在 Cairn 法术表上掷骰，以确定那是什么法术书。
 
 ### 20
-The crows may also be bribed with a shiny object from your inventory, or coins (15 coins per bribe, any denomination).
+也可以用物品栏中的闪亮物品或硬币贿赂乌鸦（每次贿赂需要 15 枚硬币，面额不限）。
 
 
 ### 26
-The Draugr inflicts 2d6 damage; however if you are wearing a holy symbol (e.g. a medallion with a cross) it does not pursue you or attack as you flee. 
+Draugr 造成 2d6 伤害；但如果你佩戴着圣徽（例如带十字架的徽章），它不会追赶你，也不会在你逃跑时攻击。
 
 
 ### 28 
-If your DEX is 13 or higher you succeed in climbing. 
+如果你的 DEX 为 13 或更高，则攀爬成功。
 
 
 ### 37
-Make a DEX save to avoid the dart. If it hits you, the dart deals 1d4 damage and impairs your attack (reduces it to 1d4) if you fight the goblin. You have the option of fleeing combat with a DEX save. 
+进行 DEX 豁免以躲避飞镖。若被击中，飞镖造成 1d4 伤害；如果你与地精战斗，你的攻击会受到削弱（降至 1d4）。你可以通过 DEX 豁免选择逃离战斗。
 
 
-#### Goblin
-4 HP, 1 Armor, 8 STR, 12 DEX, 8 WIL, ice sword (d8)
+#### 地精 {#goblin}
+4 HP, 1 Armor, 8 STR, 12 DEX, 8 WIL, 冰剑 (d8)
 
 
 ### 40
-The crows may also be bribed with a shiny object from your inventory, or coins (105 coins per bribe, any denomination).
+也可以用物品栏中的闪亮物品或硬币贿赂乌鸦（每次贿赂需要 105 枚硬币，面额不限）。
 
 
 ### 52
-If you fight the Draugr, bearing a holy symbol visibly on your person (e.g. a medallion with a cross) will impair its attack (1d4 damage) for the first round. If you flee the Draugr, such a visible symbol will prevent the Draugr pursuing you. 
+如果你与 Draugr 战斗，明显佩戴圣徽（例如带十字架的徽章）会使它在第一轮的攻击受到削弱（1d4 伤害）。如果你逃离 Draugr，这样明显佩戴的圣徽会阻止 Draugr 追赶你。
 
 
-#### Draugr
+#### Draugr {#draugr}
 12 HP, 2 Armor, 15 STR, 9 DEX, 13 WIL, silver axe (d8)
 
 
 ### 55
-Instead of a perception check, characters with sylvan backgrounds (hunter, ranger, etc.) or significant tracking experience will see the trail. Otherwise go to 25. 
+无需进行感知检定；拥有森林相关背景（猎人、游侠等）或丰富追踪经验的角色会看到踪迹。否则前往 25。
 
 ### 56 
-If you have 14 STR or higher, or a background in boating, you succeed; otherwise make an STR save to prevail against the current. 
+如果你的 STR 为 14 或更高，或拥有航海背景，则自动成功；否则进行 STR 豁免以战胜水流。
 
 
 ### 61
-If you have no rations, follow the rules for DEPRIVATION. If you have hunter, herbalist, or other background related to gathering food in the woods, you can make a WIL save to find a ration. 
+如果你没有口粮，遵循 DEPRIVATION 规则。如果你拥有猎人、草药师或其他与在森林中搜集食物有关的背景，可以进行 WIL 豁免来寻找一份口粮。
 
 ### 62 
-#### Pukka 
+#### Pukka {#pukka}
 10 HP, 3 Armor, 15 STR, 12 DEX, 12 WIL, 2 claws (d6) 
-- If you surprised the Pukka you get first action and enhanced damage (d12) on your first attack. 
-- If you have the creepy twig doll, Pukka’s HP is 5; if you have the stag shield, its claw attack becomes d4; if you have a silver axe or sword, or a faerie weapon, Pukka’s armor is 1 and your damage goes up 1 die (d4->d6->d8->d10->d12); if you have the medallion with a cross, Pukka only gets 1 claw attack. 
+- 如果你突袭 Pukka，则获得先手，并在第一次攻击时造成_强化_伤害 (d12)。
+- 如果你拥有诡异的树枝娃娃，Pukka 的 HP 为 5；如果你拥有雄鹿盾牌，它的利爪攻击变为 d4；如果你拥有银斧或银剑，或仙灵武器，Pukka 的 Armor 为 1，且你的伤害提升 1 个骰子 (d4->d6->d8->d10->d12)；如果你拥有带十字架的徽章，Pukka 只能进行 1 次利爪攻击。
 
 
 ### 64
-The silver sword does 1d8 damage. The healing potion will heal 1d6 STR or 1d3 STR if you drink half. 
+银剑造成 1d8 伤害。治疗药水可以恢复 1d6 STR；如果只喝一半，则恢复 1d3 STR。
 
 
 ### 65 
-Instead of the perception check, characters with hunter or ranger backgrounds, or other experience in tracking, will succeed and turn to 97. Otherwise make a WIL save to find your way. 
+无需进行感知检定；拥有猎人或游侠背景，或有其他追踪经验的角色会成功并转到 97。否则进行 WIL 豁免来找到方向。
 
 ### 69
-If your DEX is 15 or above you automatically succeed in the jump and gain surprise; otherwise make a DEX save.
+如果你的 DEX 为 15 或更高，则跳跃自动成功并获得突袭机会；否则进行 DEX 豁免。
 
 
 ### 71 
-The Pukka throwing you off does 1 damage to your STR but you don’t need to make a critical damage save.  
-- If you have no rations, follow the rules for DEPRIVATION. If you have hunter, herbalist, or other background related to gathering food in the woods, you can make a WIL save to find a ration. 
+Pukka 将你甩下时会对你的 STR 造成 1 点伤害，但你不需要进行重伤豁免。
+- 如果你没有口粮，遵循 DEPRIVATION 规则。如果你拥有猎人、草药师或其他与在森林中搜集食物有关的背景，可以进行 WIL 豁免来寻找一份口粮。
 
 ### 81
-Left out in the air, the stag’s corpse dissipates in a red mist and leaves behind a spellbook. Roll on the Cairn spell table to determine which it is. 
+雄鹿的尸体暴露在空气中后会消散为红雾，并留下一本法术书。在 Cairn 法术表上掷骰，以确定那是什么法术书。
 
 ### 91
-Characters with backgrounds dealing with ghosts (e.g. gravedigger, cleric) will stand their ground. Otherwise make a WIL save to avoid fleeing. 
+拥有与鬼魂打交道相关背景（例如掘墓人、牧师）的角色会坚守原地。否则进行 WIL 豁免以避免逃跑。
 
 ### 101
-#### Milgwyn 
-5 HP, 1 Armor, 8 STR, 8 WIL, ghostly bite (d4 +2)
-- Remember the rule for multiple attackers- roll all damage dice and keep the single highest result; also remember to roll the Milgwyn’s morale (WIL save) each time you slay one. 
+#### Milgwyn {#milgwyn}
+5 HP, 1 Armor, 8 STR, 8 WIL, 幽灵撕咬 (d4 +2)
+- 记得多名攻击者规则——掷出所有伤害骰并保留其中单个最高结果；每次杀死一只 Milgwyn 时，也要记得为它的士气（WIL 豁免）掷骰。
 
 ### 107
-Make an STR save and turn to 42 on a fail and 106 on a success.
+进行 STR 豁免；失败则转到 42，成功则转到 106。
