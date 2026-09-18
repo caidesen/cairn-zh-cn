@@ -152,6 +152,10 @@
 - [x] `adventures/conversions/hels-crows-final-rest.md`
 - [x] `adventures/conversions/kidnap-the-archpriest.md`
 - [x] `adventures/conversions/lair-of-the-lamb.md`
+- [x] `adventures/conversions/the-bruja-the-beast-and-the-burrow.md`
+- [x] `adventures/conversions/the-burial-mound-of-gilliard-wolfclan.md`
+- [x] `adventures/conversions/the-coming-of-sorg.md`
+- [x] `adventures/conversions/the-full-dark-stone.md`
 - [ ] `adventures/conversions/` 下的其余正文
 
 ## 批次记录
@@ -171,6 +175,7 @@
 | 10 | 第一版：工具与无障碍页面 | 已完成 | 已检查 | `52638bb3` |
 | 11 | 冒险转换：第一批 12 个正文文件 | 已完成 | 已检查 | `6f2d6291` |
 | 12 | 冒险转换：第二批 8 个正文文件 | 已完成 | 已检查 | `febbcf92` |
+| 13 | 冒险转换：本地小批 4 个正文文件 | 已完成 | 已检查 | `80cf5ba6` |
 
 ## 验证记录
 
@@ -181,6 +186,7 @@
 - 2026-09-18：第八、九批共 10 个文件通过 `git diff --check`；复核了标题、表格、列表、链接、锚点和数字/骰子表达式。
 - 2026-09-18：第十批 5 个第一版工具/无障碍文件，以及第十一批 12 个冒险转换文件通过 `git diff --check` 和结构检查。
 - 2026-09-18：第十二批 8 个冒险转换文件通过 `git diff --check` 和结构检查。
+- 2026-09-18：第十三批 4 个冒险转换文件通过 `git diff --check` 和结构检查。
 - 2026-09-18：构建子 agent 确认系统 Ruby 2.6 无法满足 `Gemfile.lock` 要求的 Bundler 2.5.22；在临时 Ruby 3.3.7 环境中已完成 Bundler 2.5.22 与 97 个 gem 的安装并通过 `bundle check`，但 Jekyll 3.9/Liquid 4.0.3 在 Ruby 3.3+ 遇到 `tainted?` 兼容错误，Ruby 3.4 还额外缺少 `csv`/`bigdecimal`。建议使用 Ruby 3.1.x + Bundler 2.5.22；全站构建仍需在兼容运行时复验，远程主题下载还受当前 SSL/网络环境影响。
 
 ### 备注
