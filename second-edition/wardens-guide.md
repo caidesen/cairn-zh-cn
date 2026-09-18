@@ -36,7 +36,7 @@ has_toc: false
 
 - [创建背景](creating-backgrounds)
 - [点状探索](pointcrawls)
-- _常见问题_
+- *常见问题*
   - [示例队伍说明](about-the-example-party)
   - [地城探索](dungeon-exploration)
   - [分队](detachments)
@@ -46,7 +46,7 @@ has_toc: false
   - [豁免](saves)
   - [可变难度](variable-difficulty)
   - [战斗](combat)
-- _瓦尔德设定_
+- *瓦尔德设定*
   - [瓦尔德](vald)
   - [NPC 表](npc-tables)
 - [参考书目](bibliography)
