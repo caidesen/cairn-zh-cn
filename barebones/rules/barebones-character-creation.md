@@ -1,5 +1,5 @@
 ---
-layout: defaul
+layout: default
 title: 精简版角色创建
 parent: 规则
 grand_parent: 精简版

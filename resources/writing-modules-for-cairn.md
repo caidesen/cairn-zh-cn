@@ -1,5 +1,5 @@
 ---
-layout: defaul
+layout: default
 title: Writing Modules for Cairn
 parent: 资源
 nav_order: 16

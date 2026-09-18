@@ -1,5 +1,5 @@
 ---
-layout: defaul
+layout: default
 parent: 怪物
 grand_parent: 资源
 ---
