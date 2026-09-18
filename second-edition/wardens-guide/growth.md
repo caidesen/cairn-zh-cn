@@ -1,108 +1,110 @@
 ---
 layout: default
-title: Growth
-parent: Warden's Guide 
-grand_parent: Second Edition
+title: 成长
+parent: 守望者指南
+grand_parent: 第二版
 ---
 
-# Growth
+# 成长
 
-## Introduction
+## 引言
 
-Unlike other roleplaying games, Cairn does not reward player characters for killing monsters, looting treasure, or exploring new places. Instead, it is a character's unique experience in the game world that has the potential to alter their health, abilities, beliefs, bonds, and even their minds.
+与其他角色扮演游戏不同，Cairn 不会因为玩家角色杀死怪物、掠夺宝藏或探索新地点而给予奖励。相反，角色在游戏世界中的独特经历，才可能改变他们的健康、能力、信念、纽带，甚至心智。
 
-Just as the in-game world continues to grow and change, so do the player characters. The events, experiences, and encounters of a play session can greatly impact a PC, sometimes in undesirable ways! Keep in mind however that with some notable exceptions (such as _Scars_), growth should always stem from a character's experiences in the game world. Character growth can also depend on the results of Downtime procedures that help a character focus on training or specialization, research, and faction relationships.
+正如游戏世界持续成长和变化，玩家角色也会如此。一次游戏场次中的事件、经历和遭遇都可能对 PC 产生巨大影响，有时甚至会带来不受欢迎的结果！不过请记住，除了某些显著的例外（例如_创伤_）之外，成长总应源自角色在游戏世界中的经历。角色的成长也可能取决于**休整**流程的结果，这些流程帮助角色专注于训练或专精、研究以及派系关系。
 
-## Principles for Growth
+## 成长原则
+
 ****
-- Growth is never arbitrary, but is tied to a specific experience happening in the fiction.
-- It is more important for a character to become more interesting than to become more skilled or capable.
-- Characters experience growth not simply because they've had a new experience but because that experience has affected them a significant way.
-- Place opportunities for growth in as many places as possible.
-- Characters grow as often during a play session as they do during Downtime.
-- Growth should foster further interaction with the game world and its challenges.
-- Growth is not a reward but the logical result of a character's actions.
-- Growth happens most often when a character interacts with something they do not understand or something they were not _meant_ to understand.
-- Characters may change in a way that they don't like or may gain new abilities at a cost.
-- Relics, treasure, factions, monsters, and important NPCs are all excellent potential triggers for growth.
-- Characters can change slowly over time or by amassing significant, cumulative experiences around a single type of growth. 
 
-## Triggers: a Framework for Growth
+- 成长从来不是任意的，而是与虚构情境中发生的特定经历相联系。
+- 让角色变得更有趣，比让他们变得更熟练或更强大更重要。
+- 角色并不是因为有了新经历就会成长，而是因为那段经历以重要的方式影响了他们。
+- 尽可能在更多地方放置成长机会。
+- 角色在一次游戏场次中成长的频率，不应低于他们在休整期间成长的频率。
+- 成长应当推动角色进一步与游戏世界及其挑战互动。
+- 成长不是奖励，而是角色行动所产生的合理结果。
+- 当角色与自己不理解，或_本不该_理解的事物互动时，成长最容易发生。
+- 角色可能以自己不喜欢的方式改变，也可能付出代价后获得新能力。
+- 遗物、宝藏、派系、怪物和重要 NPC 都是触发成长的绝佳因素。
+- 角色可以随着时间缓慢改变，也可以围绕某一种成长积累大量、连续的经历后发生改变。
 
-As characters engage with the game world, they must increasingly adapt to new realities in the fiction. Some of these adaptations are minor and rarely revisited again. Others are cumulative, representing a collection of related experiences. And some experiences are so powerful that their impact is immediate and unparalleled. For each of these it can be helpful to assign _Triggers_, or opportunities for growth. These represent significant turning points in a character's life and should be met with a permanent and related change! Good triggers depend on characters engaging in at least two of the following:
+## 触发点：成长框架
 
-- A focused, consistent pattern of behavior around a single objective or course of action.
-- Taking an obvious risk with potentially serious consequences, especially when the outcome is unknown. 
-- Interacting with a unique item, creature, or entity.
+随着角色投入游戏世界，他们必须越来越多地适应虚构情境中的新现实。有些适应很细微，之后很少再被提及；另一些则会累积，代表一系列相关经历；还有些经历力量强大，其影响立即发生且无可比拟。针对这些情况，可以设定_触发点_，也就是成长的机会。它们代表角色生命中的重要转折点，应当带来永久且相关的改变！好的触发点要求角色至少参与以下两项：
 
-## Example of Triggers & Growth
+- 围绕单一目标或行动路线，形成专注而持续的行为模式。
+- 承担具有潜在严重后果的明显风险，尤其是在结果未知时。
+- 与独特的物品、生物或存在互动。
 
-### Interacting With Something (Or Someone) They Do Not Understand
+## 触发点与成长示例
 
-_Esme and her comrades were tasked with rescuing a merchant and his daughter that had disappeared into the Moon Hill Woods. On the way, Esme stumbled upon a fallen tree, struck by lightning. Daring to climb inside, she discovered a glowing, egg-shaped object: a Heartseed. Recognizing its value (but not its purpose), she took the seed, ignoring the mumblings of her friends. Over the next few days, Esme noticed crows wherever she went: in the boughs, in the sky, on the trail. Late one night, she had a vision of a terrifying creature built from grass and twigs gazing deep into her soul. She awoke frightened, but kept the visions to herself. She decided to keep the Heartseed, no matter what. Over the coming days, her visions increased in severity and regularity, as did the crows, which now appeared even in town, perched on roofs and doorways. Resolute, she ground the seed into bits with a hammer, then swallowed the resulting mess with water. Only then did the visions cease and the crows disappear. The following day, her skin began to turn green, and small twigs were sprouting from her elbows and chin. Seeking advice from a Bog Witch she'd met in an earlier encounter, she was told that by consuming the Heartseed she had committed herself to the Wood, and that she would soon be bound to the forest forever. She would no longer consume rations, only sunlight and water. She would hear the words of the Wood, as well as the plants and animals that live there. But the witch said that there was a way out, and all that she required was a drop of Esme's blood..._
+### 与自己不理解的事物（或某个人）互动
 
-In this scenario Esme made a series of decisions that quickly spiraled out of control: the choice to take the Heartseed despite her friend's warnings,  ignoring the crows,  disregarding the visions pleading with her to return it, and then finally the decision to ingest the seed itself. 
+_Esme 和她的同伴接到任务，要营救一名消失在月丘森林中的商人和他的女儿。途中，Esme 偶然发现一棵被雷劈倒的树。她大胆地爬进树干内部，发现了一个发光的蛋形物体：一枚心种。她意识到心种的价值（却不知道它的用途），无视朋友们的嘀咕，拿走了它。接下来的几天里，无论 Esme 去哪里，都能看到乌鸦：在树枝上、天空中和小径上。一天深夜，她梦见一只由草与树枝组成的可怕生物，正凝视着她的灵魂。她惊恐地醒来，却把幻象藏在心里。无论如何，她决定留下心种。接下来几天，她的幻象变得越来越严重、越来越频繁，乌鸦也越来越多；它们甚至出现在城镇里，栖息在屋顶和门口。Esme 下定决心，用锤子把心种碾碎，然后把碎屑和水一起吞下。幻象和乌鸦这才消失。第二天，她的皮肤开始变绿，肘部和下巴上长出了细小的树枝。她向一次早先遭遇中认识的沼泽女巫寻求建议，对方告诉她，吞食心种让她归属于森林，而且她很快就会永远被森林束缚。她不再需要吃口粮，只需要阳光和水。她会听见森林的话语，也会听见其中植物和动物的声音。但女巫说还有一个办法可以摆脱这一切，而她需要的只有一滴 Esme 的血……_
 
-### Long-Term Exposure or Manipulation of a Spellbook or Relic
+在这个情境中，Esme 做出了一连串迅速失控的决定：无视朋友的警告拿走心种；忽略乌鸦；不理会那些请求她归还心种的幻象；最后，决定亲自吞下心种。
 
-_Throughout her adventures, Hazel made frequent use of a Control Plants Spellbook she'd "borrowed" from the abbey where she grew up. Often she would attempt to enhance its power, making WIL saves each time to expand its reach. Of course, not every attempt was successful, and occasionally she paid a heavy price. On one occasion, she and her companions were exploring a jungle temple and stumbled upon a horrific creature made entirely of plant matter. Seeing an opportunity to use the creature's strengths against it, Hazel's allies gathered around her while as she read from the Spellbook. The Warden then asked for a WIL save, as she was trying to cast the spell quickly and under duress. A success! The Warden declared that going forward, she would be able to read from her Spellbook while under duress or time pressure **without** first making a successful WIL save._ 
+### 长期接触或操纵法术书与遗物
 
-Hazel had previously made multiple attempts to bend the Spellbook to her will with mixed results. She also took a major risk when she tried to cast the spell quickly, and as Spellbooks are unique items of great power, this made her success despite that risk all the more impactful. 
+_在冒险过程中，Hazel 经常使用一本从自己长大的修道院里“借来”的控制植物法术书。她经常尝试增强它的力量，每次都进行 WIL 豁免，以扩大法术的范围。当然，并非每次尝试都成功，她偶尔也会付出惨重代价。有一次，她和同伴正在探索一座丛林神殿，遇到了一只完全由植物构成的恐怖生物。Hazel 的盟友聚到她身边，她则念诵法术书，试图利用生物自身的力量对付它。守望者要求她进行 WIL 豁免，因为她是在压力下快速施法。成功！守望者宣布，从今以后，即使处于压力或时间限制下，她也能阅读法术书，**无需先通过 WIL 豁免**。_
 
-### Forging a Relationship With a Being of Great Power
+Hazel 之前已经多次尝试让法术书服从自己的意志，结果好坏参半。她快速施法时也承担了重大风险；而法术书是独特且力量强大的物品，因此，她在承担风险后取得的成功就更有影响力。
 
-_Aster and his comrades came upon a shrine deep hidden in a forest cave. After some research and experimentation (spearheaded by Aster), they were able to free the nearly-mad river god trapped within. As thanks, the deity offered its unknowable essence to anyone willing to receive it. Aster stepped forward and was bound to the god, forgoing his old life and adopting a new religion. A few days later, gills sprouted from Aster's neck after an impromptu dive in a raging river._
+### 与强大存在建立关系
 
-Through his attempts to interact with the statue and determine its true purpose, Aster revealed a distinct pattern of behavior, and although the results were uncertain, he still took a serious risk by prostrating himself to an entity he did not know or understand.  
+_Aster 和他的同伴在一处森林洞穴深处发现了一座神龛。经过研究和实验（主要由 Aster 推动），他们成功释放了被困在其中、几近疯狂的河神。作为感谢，这位神祇向任何愿意接受的人提供它不可知的本质。Aster 走上前去，与河神缔结联系，放弃旧有生活，接受了一种新宗教。几天后，他在汹涌的河流中即兴潜水，颈部便长出了鳃。_
 
-### Overcoming a Long-time Woe, Misdeed, or Foe
+Aster 尝试与雕像互动并判断其真正用途，从而展现出一种明确的行为模式。尽管结果并不确定，他仍然冒着重大风险，向一个自己并不认识也不理解的存在俯身致敬。
 
-_At long last, Oxrable Kinter (or Ox) had finally defeated the serial murderer Tibor Heimshern. But instead of killing him, Ox used the Spirit Siphon to pull the prone man's consciousness straight out of his body. Then to the surprise of everyone at the table, Ox proceeded to drink the man's spirit. The Warden called for a WIL save to overcome Tibor's powerful essence: a success! The Warden then asked the player to reroll Ox's Willpower attribute, saying he could keep the results if they were higher. And they were! However, the Warden also ruled that if at any point Ox had another enemy weak and at his mercy, a WIL save would be required to overcome the murderer's dormant tendencies within his psyche._
+### 克服长期困扰、不当行为或敌人
 
-Through the dogged pursuit of his powerful enemy, Ox demonstrated a distinct pattern of behavior. Drinking the spirit of Tibor represented a clear risk to Ox, and even though the Spirit Siphon was a known Relic, its ability to move souls between hosts was an obvious case of interacting with an object not fully understood. 
+_Oxrable Kinter（简称 Ox）终于击败了连环杀手 Tibor Heimshern。但 Ox 没有杀死他，而是使用灵魂虹吸，把倒地男子的意识从身体中直接抽出。令桌边所有人惊讶的是，Ox 接着喝下了那个人的灵魂。守望者要求他进行 WIL 豁免，以克服 Tibor 强大的本质：成功！随后，守望者要求玩家重掷 Ox 的意志属性，并说如果结果更高，就可以保留新结果。结果确实更高！不过，守望者还裁定：如果 Ox 之后再次让某个敌人陷入虚弱、任其宰割的状态，他就必须进行 WIL 豁免，以压制潜藏在心灵中的杀手倾向。_
 
-### Injury or Contamination
+Ox 对强大敌人的执着追击展现出明确的行为模式。喝下 Tibor 的灵魂对 Ox 来说是明显的风险；尽管灵魂虹吸是一件已知的遗物，但它能在宿主之间转移灵魂，显然属于与尚未完全理解的物品互动。
 
-_After days of searching, Madrigal the Fungal Forager had finally found the source of bellowing sickness that had stricken an impoverished village: a Liverbracket infestation at the bottom of the town's well. It took many hours of diligent work to uproot the fungi network, but in the end, Madrigal left the town in good spirits, his pockets heavy with gold. He then embarked on a ten-day journey across the Lava Flats in search of a Gate he'd heard about. A week later, he noticed a strange discoloration on his canteen, and cutting it, open he discovered that he'd been drinking Liverbracket-tainted water! Strangely, he'd been unaffected by the side-effects common to ingesting the fungus. The Warden explained that this was likely because its effects were being counteracted by Madrigal's overcautious intake of Clustermelon Flower, a potent form of heat resistance, useful when crossing the Lava Flats. He spent a few hours fashioning a new canteen, then set out again. Two days later, Madrigal noticed series of small bumps on his skin, along with a familiar discoloration. Stranger yet, he'd completely lost his appetite for Rations. The Warden ruled that going forward Madrigal would no longer need to eat typical food but instead could subsist only on decomposed plants and animals. However, if he would ever be drenched in water, he must take a Fatigue, expelling spores the following day._  
+### 受伤或污染
 
-This example involved only a minor risk, but the interaction between two unique items (the fungus and the flower)  were powerful enough to justify a sort of _passive_ growth experience. However, it was Madrigal's thoughtful (albeit potentially unnecessary) decision to ingest Clustermelon Flower that acted as the true Trigger in this instance.
+_经过数日搜寻，采菌人 Madrigal 终于找到了困扰贫困村庄的咆哮病源头：镇上水井底部的肝托菌群。经过数小时勤勉工作，他拔除了真菌网络，最后心满意足地离开村子，口袋里装满了金币。随后，他踏上十天旅程，穿越熔岩平原，寻找听闻中的一座界门。一周后，他发现水壶上有一处奇怪的变色；切开水壶后，他发现自己一直在饮用被肝托菌污染的水！奇怪的是，他没有受到摄入这种真菌常见副作用的影响。守望者解释说，这可能是因为 Madrigal 过于谨慎地服用了簇瓜花，一种强力的耐热药剂，在穿越熔岩平原时很有用，抵消了真菌的影响。他花了几个小时制作一个新水壶，然后再次出发。两天后，Madrigal 注意到皮肤上出现一系列小肿块，同时还有熟悉的变色。更奇怪的是，他完全失去了吃口粮的欲望。守望者裁定，从今以后 Madrigal 不再需要吃普通食物，只靠腐烂的植物和动物就能维生。但如果他浑身被水淋湿，就必须增加一点疲劳，并在第二天排出孢子。_
 
-### Learning Through Trial And Error 
+这个例子只涉及轻微风险，但两件独特物品（真菌和花朵）之间的互动足以构成一种_被动_成长经历。不过，真正的触发点是 Madrigal 深思熟虑（尽管可能并无必要）地决定服用簇瓜花。
 
-_Julius was bookish, nervous, and not particularly strong or dexterous. Over months of adventuring, he had developed a strategy to avoid direct confrontation in combat, which involved throwing a weighted net onto an opponent. While the target was prone and defenseless, Julius, without adequate protection from his allies, would be at high risk, especially when facing multiple opponents. Each time Julius attempted this, his player would need to explain exactly how he approached his target, and if the obvious risks weren't mitigated, the Warden would require a DEX save to succeed. After a particularly risky attempt failed, all of the players (including the Warden) were so impressed by the care and strategy that went into the attempt that the Warden ruled that going forward, Julius would no longer need to make a save when throwing the net in combat. Instead, it would succeed automatically, as Julius had clearly learned how to capture targets in his net safely._
+### 通过反复试错学习
 
-In this example, we can see that although Julius had occasionally failed in his repeated attempts to avoid direct combat by employing a unique battle strategy, the thought and preparation that went into each attempt and the character's insistence to "get it right" were sufficient to grant that character a new ability. Remember that in a typical combat scenario, the PCs have already rolled DEX saves at the beginning of combat, so future DEX saves are really only required when a character puts themselves at further risk through an act of bravery, tries to flee combat, etc. A save isn't necessarily required from the target of an action either, as only the character _most at risk_ saves. 
+_Julius 博学、紧张，力量和敏捷也不算出众。经过数月冒险，他发展出一套避免战斗正面冲突的策略：把加重网扔到对手身上。目标倒地且毫无防备时，如果没有盟友提供充分保护，Julius 会处于极高风险，尤其是在面对多个敌人时。每次 Julius 尝试这样做，玩家都必须准确解释他如何接近目标；如果没有规避显而易见的风险，守望者就会要求进行 DEX 豁免。一次特别危险的尝试失败后，所有玩家（包括守望者）都对这次行动中的谨慎与策略印象深刻，于是守望者裁定，从今以后 Julius 在战斗中投网不再需要豁免。相反，由于 Julius 已经清楚地学会了如何安全地用网捕获目标，这个行动会自动成功。_
 
-### Success or Failure Despite a Natural Talent or Ability
+在这个例子中，Julius 虽然曾多次尝试使用独特战术避免正面战斗，也偶尔失败，但每次尝试中的思考与准备，以及角色坚持“把事情做对”，足以让他获得新能力。记住，在典型的战斗场景中，PC 已经在战斗开始时进行过 DEX 豁免，因此之后只有在角色通过勇敢行动进一步让自己承担风险、试图逃离战斗等情况下，才需要再次进行 DEX 豁免。行动的目标不一定需要进行豁免，因为只有_风险最高_的角色才进行豁免。
 
-_Harrow and his comrades were pursuing a group of brigands led by a notorious werewolf. They'd followed the criminals back to their hideout, approaching at dawn when the outlaws would hopefully still be sleeping off the previous night's activities. Harrow led the party carefully alongside the camp, hoping to slip in silently. This proved to be more difficult than anticipated, as the brigands had posted guards at four separate outposts. The Warden ruled that as Harrow was leading the group **and** had the worst natural ability (his player had rolled a measly 5 DEX), he should make the save the party required to sneak in undetected. He succeeded, and the Warden declared that going forward, the Warden would no longer require Harrow to save DEX in similar situations, due to his character clearly having a natural affinity for sneaking._
+### 无视天赋或能力仍然成功或失败
 
-Here is a clear example of a character working against type. The Warden deemed that despite Harrow's relatively low DEX, his decision to lead the party coupled with his ultimate triumph were sufficient triggers for growth. 
+_Harrow 和他的同伴正在追捕一群由臭名昭著的狼人带领的强盗。他们跟踪罪犯回到藏身处，并在黎明时靠近，希望那些歹徒还在消解前一晚的疲惫。Harrow 小心地带队沿营地前进，希望悄无声息地潜入。但事情比预想更难，因为强盗在四个不同的哨点布置了守卫。守望者裁定，Harrow 既然在带队，**而且**拥有最差的天赋（玩家只掷出了可怜的 5 DEX），就应该进行队伍潜入时所需的豁免。他成功了，于是守望者宣布，以后在类似情况下不再要求 Harrow 进行 DEX 豁免，因为他的角色显然天生适合潜行。_
 
-### Faction Advancement
+这是一个角色逆着自身类型行动的清晰例子。尽管 Harrow 的 DEX 相对较低，守望者仍认为，他决定带队并最终取得成功，足以构成成长触发点。
 
- _Three weeks ago, Rui was tasked by the **Order of the Helm** with locating a Gate in the Wyskat Forest. She returned earlier than expected, having completed her mission with great aplomb. Her employers were so impressed with her work that she was formally invited to join The Order as an **Initiate**. The Warden explained that the position had no distinct requirements but paid a regular stipend and came with some fraternal benefits. The only requirement would be that she complete occasional tasks on behalf of the Order in pursuit of its cause. If she were to later pursue a higher-level rank, she would be required to formally pledge allegiance to the Order and take their Oath. Rui agrees to join as an Initiate for now, and the Warden describes the Downtime **Milestones** that track Rui's relationship with The Order:_
+### 派系晋升
 
-  - [ ] Complete one mission on behalf of the order.
-  - [ ] Complete two missions on behalf of the order.
-  - [ ] Complete three missions on behalf of the order.
-  - [ ] Train with a **Protector**.
-  - [ ] Take the Oath.
+_三周前，Rui 受**头盔教团**委托，在 Wyskat 森林寻找一座界门。她比预期更早回来，并出色地完成了任务。雇主对她的工作印象深刻，于是正式邀请她加入教团，成为一名**新人**。守望者解释说，这个职位没有具体要求，但会提供固定津贴和一些兄弟会福利。唯一的要求是，她必须代表教团追寻其事业，偶尔完成教团交办的任务。如果她之后追求更高的等级，就必须正式宣誓效忠教团并立下誓言。Rui 暂时同意以新人身份加入，守望者描述了追踪 Rui 与教团关系的休整**里程碑**：_
 
- _The Warden explains that Rui would be provided with a uniform, a shield (+1 Armor), and a fine short sword (d6). Along with the support she would receive at any faction outpost, she would also receive a stipend of 5gp per day while working on faction-related business. She would also be required to check in with a local **Precept** whenever possible. A few sessions later, The Order asks Rui for her assistance with an escort through the **Falal Swamps**. The entire party joins the mission, and despite a near-fatal encounter with a bog demon, the mission is completed successfully. Rui's player marks off the second **Milestone**, as she'd already completed the first prior to joining the faction._ 
- 
- _Months go by, and Rui completes two more missions and trains with a Master from The Order. She learns both focus and swordsmanship, increasing her HP and the damage she delivers with a sword. She also learns the faction's true objective and decides their cause is just. She dons an iron helm (+1 Armor, petty) and takes their Oath, accepting that she can never again reveal her face to any living creature so long as she lives. The Warden explains that although Rui still required food, water, and sleep, she no longer becomes deprived from that lack of them._
+- [ ] 代表教团完成一项任务。
+- [ ] 代表教团完成两项任务。
+- [ ] 代表教团完成三项任务。
+- [ ] 与一名**护卫**训练。
+- [ ] 立下誓言。
 
-This example relies on activities that occur both in the game and between sessions, utilizing two separate Downtime procedures (_Strengthening Ties_ and _Training_). The **Protector** that Rui trained with acted as Master, and although we don't describe it here, there was likely a second tier of **Milestones** included in that aspect of her journey.
+_守望者解释说，教团会为 Rui 提供制服、盾牌（+1 护甲）和一把精制短剑（d6）。除了在教团哨站获得支持外，她在处理派系事务时每天还会获得 5gp 津贴。她还应尽可能向当地的**教阶**报到。几场游戏后，教团请求 Rui 协助护送队伍穿过**法拉尔沼泽**。整个队伍都加入了任务；尽管差点遭遇沼泽恶魔，任务仍成功完成。Rui 的玩家勾掉第二个**里程碑**，因为她在加入派系前就已经完成了第一个。_
 
-### Resolution of a Bond or Omen
+_几个月过去，Rui 又完成了两项任务，并与教团的一名大师训练。她学会了专注与剑术，提高了 HP 和用剑造成的伤害。她还了解了派系的真正目标，并认为其事业正义。她戴上铁盔（+1 护甲，轻巧）并立下教团誓言，接受了只要活着就不能再向任何活物露出面容的约束。守望者解释说，Rui 仍然需要食物、水和睡眠，但她不再会因缺少这些东西而陷入匮乏。_
 
-_Cursed with a Stone Heart after running afoul of a pack of forest druids, Cobb was desperate for a cure. After months of adventuring, it had grown quite heavy, and so his player asked the Warden if he could spend a Downtime action researching a potential cure. The Warden provided the following **Milestones**:_
+这个例子依赖发生在游戏内和游戏场次之间的活动，使用了两个不同的休整流程（_加深关系_和_训练_）。Rui 训练过的**护卫**担任了大师；虽然这里没有详细描述，但她的旅程中很可能还包含了第二层**里程碑**。
 
-- [ ] Find a Master. Typically that would be a witch, scholar, healer, or powerful spirit.
-- [ ] Search out the Master and ask their requirements.
-- [ ] Complete these requirements to cure the Stone Heart.
+### 化解纽带或预兆
 
-_Cobb spent a few days between adventures talking to local healers and scholars to no avail. Eventually he with met a local tracker they'd hired who admitted she'd once seen a Woodwose deep in the forest nearby. In her story, she had tracked a large boar to a silver pool beneath a waterfall. It was there she saw it leap into the water and disappear. Moments later it rose again, but now it had taken the shape of a large man covered in thick green hair. She dropped her weapons and bag, placing them in front of her. The creature stepped from the water, then took some of her dried jerky and left. She said the next day she noticed that an old injury she'd been nursing had completely healed and that it was the Woodwose that had done it. The tracker offered to, for a price, take Cobb and his friends to the pond. He agreed, and the following day they set out to find the Woodwose from her tale (and his player marked off a **Milestone**). In the coming weeks, Cobb and his friends found the creature and won its favor, completing various tasks throughout the Wood. In the end, the Woodwose offered each character a Boon, and Cobb was able to finally rid himself of the curse._
+_Cobb 得罪了一群森林德鲁伊，被他们用石心诅咒，因此急于寻找解药。经过数月冒险，石心变得越来越重，于是他的玩家询问守望者，能否花费一次休整行动研究潜在的解药。守望者提供了以下**里程碑**：_
 
-Cobb's player had rolled a **15** on the Bonds table during character creation, which reads: _You crossed a creature of the Wood, and it cursed you with a Stone Heart (1 Armor). With each passing month, the stone grows heavier by one slot. Until your debt is lifted, you cannot truly die._ In order to cure this illness, he must research the location of a Master, then engage them in a bargain. Fortunately he'd made connections with a hireling the party had utilized in past woodland jaunts, who was more familiar with the nearby Wood and its denizens. 
+- [ ] 找到一位大师。通常可以是女巫、学者、治疗者或强大的灵体。
+- [ ] 找到大师并询问其要求。
+- [ ] 完成这些要求，治愈石心。
+
+_Cobb 在冒险之间花了几天时间与当地治疗者和学者交谈，却一无所获。最终，他遇到了队伍雇佣的一位当地追踪者；对方承认，自己曾在附近森林深处见过一个森林野人。她说，自己曾追踪一头大野猪，来到瀑布下方的银色水池。她在那里看到野猪跳进水中消失。片刻后，它再次浮出水面，却已经变成一个身披浓密绿毛的高大男子。她放下武器和包，将它们摆在面前。生物从水中走出，拿走她的一些风干肉，然后离开。她说，第二天醒来时，自己一直忍受的旧伤完全愈合了，而治好它的正是森林野人。追踪者提出收取报酬，带 Cobb 和他的朋友去那个池塘。他同意了，第二天他们便启程寻找故事中的森林野人（玩家勾掉了一个**里程碑**）。接下来几周，Cobb 和朋友们找到了这个生物，并赢得它的好感，在森林各处完成了各种任务。最后，森林野人向每个角色提供了一项恩赐，Cobb 终于摆脱了诅咒。_
+
+Cobb 的玩家在角色创建时于纽带表上掷出了 **15**，结果是：_你得罪了森林中的某个生物，对方用石心（1 护甲）诅咒了你。每过一个月，石心就会变重一格。在你偿清债务之前，你无法真正死去。_ 为了治愈这种疾病，他必须研究大师所在的位置，然后与大师讨价还价。幸运的是，他与队伍过去在森林探险中雇佣过的一名雇工建立了联系；那名雇工比他更熟悉附近的森林及其居民。
