@@ -21,13 +21,13 @@ grand_parent: 第二版
 | **1**   | [奥术工匠](/second-edition/backgrounds/aurifex)           | **11** | [半女巫](/second-edition/backgrounds/half-witch)    |
 | **2**   | [外科医生](/second-edition/backgrounds/barber-surgeon) | **12** | [猎巫人](/second-edition/backgrounds/hexenbane)    |
 | **3**   | [驯兽师](/second-edition/backgrounds/beast-handler)    | **13** | [巡回艺人](/second-edition/backgrounds/jongleur)   |
-| **4**   | [守墓人](/second-edition/backgrounds/bonekeeper)       | **14** | [锅匠](/second-edition/backgrounds/kettlewright)  |
+| **4**   | [守墓人](/second-edition/backgrounds/bonekeeper)       | **14** | [铁匠](/second-edition/backgrounds/kettlewright)  |
 | **5**   | [扒手](/second-edition/backgrounds/cutpurse)          | **15** | [边境守卫](/second-edition/backgrounds/marchguard)  |
 | **6**   | [农田守卫](/second-edition/backgrounds/fieldwarden)   | **16** | [江湖骗子](/second-edition/backgrounds/mountebank)  |
 | **7**   | [弓箭手](/second-edition/backgrounds/fletchwind)       | **17** | [骑马护卫](/second-edition/backgrounds/outrider)    |
 | **8**   | [弃儿](/second-edition/backgrounds/foundling)         | **18** | [潜行者](/second-edition/backgrounds/prowler)      |
-| **9**   | [采菌人](/second-edition/backgrounds/fungal-forager)   | **19** | [河湖旅人](/second-edition/backgrounds/rill-runner) |
-| **10**  | [森林学者](/second-edition/backgrounds/greenwise)       | **20** | [抄写员](/second-edition/backgrounds/scrivener)    |
+| **9**   | [采菌人](/second-edition/backgrounds/fungal-forager)   | **19** | [旅者](/second-edition/backgrounds/rill-runner) |
+| **10**  | [森林学者](/second-edition/backgrounds/greenwise)       | **20** | [文书](/second-edition/backgrounds/scrivener)    |
 
 ## 属性、命中防护与特征
 
