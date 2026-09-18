@@ -120,14 +120,39 @@
 - [x] `first-edition/example-of-play.md`
 - [x] `first-edition/frequently-asked-questions.md`
 - [x] `first-edition/tools.md`
-- [ ] `first-edition/tools/` 下的工具页面
+- [x] `first-edition/tools/build-an-adventure-site.md`
+- [x] `first-edition/tools/converting-monsters.md`
+- [x] `first-edition/accessibility.md`
+- [x] `first-edition/accessibility/ebook.md`
+- [x] `first-edition/accessibility/read-aloud.md`
+- [ ] `first-edition/tools/` 下的其余工具页面
 - [ ] `first-edition/accessibility/` 与其他直接服务于规则使用的页面
 
 ### 冒险
 
 - [ ] `adventures/first-party/`
 - [ ] `adventures/originals/`
-- [ ] `adventures/conversions/`
+- [x] `adventures/conversions/a-gathering-of-blades.md`
+- [x] `adventures/conversions/a-man-on-the-road.md`
+- [x] `adventures/conversions/aberrant-reflections.md`
+- [x] `adventures/conversions/against-the-cult-of-the-reptile-god.md`
+- [x] `adventures/conversions/barrow-of-the-elf-king.md`
+- [x] `adventures/conversions/beyond-the-burning-teeth.md`
+- [x] `adventures/conversions/broken-bastion.md`
+- [x] `adventures/conversions/challenge-of-frog-idol.md`
+- [x] `adventures/conversions/circle-of-wolves.md`
+- [x] `adventures/conversions/daughter-of-the-dead-king.md`
+- [x] `adventures/conversions/dogtooth-valley.md`
+- [x] `adventures/conversions/falkrest-abbey.md`
+- [x] `adventures/conversions/feast.md`
+- [x] `adventures/conversions/fever-swamp.md`
+- [x] `adventures/conversions/grave-of-the-green-flame.md`
+- [x] `adventures/conversions/green-water-crimson-stag.md`
+- [x] `adventures/conversions/grotto-of-the-golden-gargoyle.md`
+- [x] `adventures/conversions/hels-crows-final-rest.md`
+- [x] `adventures/conversions/kidnap-the-archpriest.md`
+- [x] `adventures/conversions/lair-of-the-lamb.md`
+- [ ] `adventures/conversions/` 下的其余正文
 
 ## 批次记录
 
@@ -143,6 +168,9 @@
 | 7 | 守望者指南：成长 | 已完成 | 已检查 | `92539964` |
 | 8 | 第二版：森林种子、命名流程、瓦尔德、工具与游戏文件 | 已完成 | 已检查 | `7b7f1845` |
 | 9 | 第一版：SRD、示例游戏、FAQ、工具入口 | 已完成 | 已检查 | `fa34e709` |
+| 10 | 第一版：工具与无障碍页面 | 已完成 | 已检查 | `52638bb3` |
+| 11 | 冒险转换：第一批 12 个正文文件 | 已完成 | 已检查 | `6f2d6291` |
+| 12 | 冒险转换：第二批 8 个正文文件 | 已完成 | 已检查 | `febbcf92` |
 
 ## 验证记录
 
@@ -151,6 +179,8 @@
 - 2026-09-18：第五、六批的 12 个文件通过 `git diff --check`；复核了标题、表格、链接和内部锚点，补回中文标题对应的英文锚点。
 - 2026-09-18：第七批的 `growth.md` 通过 `git diff --check` 与标题结构检查。
 - 2026-09-18：第八、九批共 10 个文件通过 `git diff --check`；复核了标题、表格、列表、链接、锚点和数字/骰子表达式。
+- 2026-09-18：第十批 5 个第一版工具/无障碍文件，以及第十一批 12 个冒险转换文件通过 `git diff --check` 和结构检查。
+- 2026-09-18：第十二批 8 个冒险转换文件通过 `git diff --check` 和结构检查。
 - 2026-09-18：构建子 agent 确认系统 Ruby 2.6 无法满足 `Gemfile.lock` 要求的 Bundler 2.5.22；在临时 Ruby 3.3.7 环境中已完成 Bundler 2.5.22 与 97 个 gem 的安装并通过 `bundle check`，但 Jekyll 3.9/Liquid 4.0.3 在 Ruby 3.3+ 遇到 `tainted?` 兼容错误，Ruby 3.4 还额外缺少 `csv`/`bigdecimal`。建议使用 Ruby 3.1.x + Bundler 2.5.22；全站构建仍需在兼容运行时复验，远程主题下载还受当前 SSL/网络环境影响。
 
 ### 备注
