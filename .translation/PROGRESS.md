@@ -156,6 +156,22 @@
 - [x] `adventures/conversions/the-burial-mound-of-gilliard-wolfclan.md`
 - [x] `adventures/conversions/the-coming-of-sorg.md`
 - [x] `adventures/conversions/the-full-dark-stone.md`
+- [x] `adventures/conversions/library-beneath-the-sands.md`
+- [x] `adventures/conversions/lorn-song-of-the-bachelor.md`
+- [x] `adventures/conversions/neverland.md`
+- [x] `adventures/conversions/night-of-blood-cairn.md`
+- [x] `adventures/conversions/nightmare-over-ragged-hollow.md`
+- [x] `adventures/conversions/now-you-see-it.md`
+- [x] `adventures/conversions/prison-of-the-hated-pretender.md`
+- [x] `adventures/conversions/raiders-of-wolfsea.md`
+- [x] `adventures/conversions/rot-kings-sanctum.md`
+- [x] `adventures/conversions/operation-unfathomable.md`
+- [x] `adventures/conversions/secret-of-the-black-crag.md`
+- [x] `adventures/conversions/something-stinks-in-stilton.md`
+- [x] `adventures/conversions/star-spire.md`
+- [x] `adventures/conversions/stellarium-of-the-vinteralf.md`
+- [x] `adventures/conversions/temple-of-1000-swords.md`
+- [x] `adventures/conversions/temple-of-the-bat-serpent.md`
 - [ ] `adventures/conversions/` 下的其余正文
 
 ## 批次记录
@@ -176,6 +192,8 @@
 | 11 | 冒险转换：第一批 12 个正文文件 | 已完成 | 已检查 | `6f2d6291` |
 | 12 | 冒险转换：第二批 8 个正文文件 | 已完成 | 已检查 | `febbcf92` |
 | 13 | 冒险转换：本地小批 4 个正文文件 | 已完成 | 已检查 | `80cf5ba6` |
+| 14 | 冒险转换：第三批 7 个正文文件 | 已完成 | 已检查 | `5b7e4e3f` |
+| 15 | 冒险转换：第四批 9 个正文文件 | 已完成 | 已检查 | `47595414` |
 
 ## 验证记录
 
@@ -187,6 +205,7 @@
 - 2026-09-18：第十批 5 个第一版工具/无障碍文件，以及第十一批 12 个冒险转换文件通过 `git diff --check` 和结构检查。
 - 2026-09-18：第十二批 8 个冒险转换文件通过 `git diff --check` 和结构检查。
 - 2026-09-18：第十三批 4 个冒险转换文件通过 `git diff --check` 和结构检查。
+- 2026-09-18：第十四、十五批共 16 个冒险转换文件通过 `git diff --check` 和结构检查，并补回遗漏的 SRD 链接。
 - 2026-09-18：构建子 agent 确认系统 Ruby 2.6 无法满足 `Gemfile.lock` 要求的 Bundler 2.5.22；在临时 Ruby 3.3.7 环境中已完成 Bundler 2.5.22 与 97 个 gem 的安装并通过 `bundle check`，但 Jekyll 3.9/Liquid 4.0.3 在 Ruby 3.3+ 遇到 `tainted?` 兼容错误，Ruby 3.4 还额外缺少 `csv`/`bigdecimal`。建议使用 Ruby 3.1.x + Bundler 2.5.22；全站构建仍需在兼容运行时复验，远程主题下载还受当前 SSL/网络环境影响。
 
 ### 备注
