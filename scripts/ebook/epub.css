@@ -43,10 +43,10 @@
 body {
   text-align: left;
 
-  font-family: "Alegreya", serif;
+  font-family: "Alegreya", "Noto Serif SC", "Noto Serif CJK SC", "Source Han Serif SC", "Songti SC", "STSong", "SimSun", serif;
 
   font-size: 1em;
-  line-height: 1.5em;
+  line-height: 1.7em;
 
   font-kerning: normal;
   font-variant: common-ligatures;
@@ -85,7 +85,7 @@ h4 {
   margin: 1rem 0;
 
   max-width: fit-content;
-  font-family: "Alegreya";
+  font-family: "Alegreya", "Noto Serif SC", "Noto Serif CJK SC", "Source Han Serif SC", "Songti SC", "STSong", "SimSun", serif;
 }
 
 h1 {

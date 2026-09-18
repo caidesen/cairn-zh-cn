@@ -4,6 +4,8 @@
   --text-color: #c9d1d9;
   --link-color: #f2c488;
   --visited-color: #26252b;
+  --font-reading: 'Alegreya', 'Noto Serif SC', 'Noto Serif CJK SC', 'Source Han Serif SC', 'Songti SC', 'STSong', 'SimSun', serif;
+  --font-ui: 'Alegreya', 'Noto Sans SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'PingFang SC', 'Microsoft YaHei', sans-serif;
 }
 
 @font-face {
@@ -32,18 +34,21 @@
 
 
 body {
-  font-family: 'Alegreya', Georgia, serif;
+  font-family: var(--font-reading);
   background-color: var(--background-color);
   color: var(--text-color);
   font-size: 1.25rem; /* 20px */
+  line-height: 1.75;
+  letter-spacing: 0.01em;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: inherit;
+  font-family: var(--font-reading);
   color: var(--heading-color);
-  font-weight: 600;
+  font-weight: 700;
+  line-height: 1.3;
 }
 
 a {
@@ -98,5 +103,6 @@ img {
 .side-bar .nav-list-item, 
 .side-bar .nav-list-link {
   font-size: 1.25rem; /* 20px */
-  font-family: 'Alegreya', Georgia, serif;
+  font-family: var(--font-ui);
+  line-height: 1.5;
 }
