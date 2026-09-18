@@ -18,13 +18,13 @@ grand_parent: 第二版
 |         |                                                     |        |                                                 |
 | ------- | --------------------------------------------------- | ------ | ----------------------------------------------- |
 | **d20** | **角色过往**                                              |        |                                                 |
-| **1**   | [奥术工匠](/second-edition/backgrounds/aurifex)           | **11** | [半女巫](/second-edition/backgrounds/half-witch)    |
+| **1**   | [奥术工匠](/second-edition/backgrounds/aurifex)           | **11** | [混血女巫](/second-edition/backgrounds/half-witch)    |
 | **2**   | [外科医生](/second-edition/backgrounds/barber-surgeon) | **12** | [猎巫人](/second-edition/backgrounds/hexenbane)    |
 | **3**   | [驯兽师](/second-edition/backgrounds/beast-handler)    | **13** | [巡回艺人](/second-edition/backgrounds/jongleur)   |
 | **4**   | [守墓人](/second-edition/backgrounds/bonekeeper)       | **14** | [铁匠](/second-edition/backgrounds/kettlewright)  |
 | **5**   | [扒手](/second-edition/backgrounds/cutpurse)          | **15** | [边境守卫](/second-edition/backgrounds/marchguard)  |
 | **6**   | [农田守卫](/second-edition/backgrounds/fieldwarden)   | **16** | [江湖骗子](/second-edition/backgrounds/mountebank)  |
-| **7**   | [弓箭手](/second-edition/backgrounds/fletchwind)       | **17** | [骑马护卫](/second-edition/backgrounds/outrider)    |
+| **7**   | [弓箭手](/second-edition/backgrounds/fletchwind)       | **17** | [佣兵](/second-edition/backgrounds/outrider)    |
 | **8**   | [弃儿](/second-edition/backgrounds/foundling)         | **18** | [潜行者](/second-edition/backgrounds/prowler)      |
 | **9**   | [采菌人](/second-edition/backgrounds/fungal-forager)   | **19** | [旅者](/second-edition/backgrounds/rill-runner) |
 | **10**  | [森林学者](/second-edition/backgrounds/greenwise)       | **20** | [文书](/second-edition/backgrounds/scrivener)    |
@@ -43,7 +43,7 @@ grand_parent: 第二版
 
 ## 命中防护
 
-- 掷 1d6，决定玩家角色的初始**命中防护**（HP）。它代表角色在战斗中避免受伤的能力，并不表示角色的健康或体魄，而且通常不会长时间损失。参阅[治疗与恢复](/second-edition/players-guide/core-rules#healing--recovery)。
+- 掷 1d6，决定玩家角色的初始**命中防护**（HP）。它代表角色在战斗中避免受伤的能力，而不是角色的健康或体魄；通常也不会造成长期损失。参阅[治疗与恢复](/second-edition/players-guide/core-rules#healing--recovery)。
 - 如果一次攻击会使玩家角色的 HP 恰好降至 0，玩家必须在[**创伤**](/second-edition/players-guide/core-rules#scars)表上掷骰。
 
 ## 物品栏 {#inventory}
