@@ -240,4 +240,4 @@
 
 ### 备注
 
-- `first-edition/game-files.md`、`second-edition/print-copies.md` 以及 `adventures/first-party/`、`adventures/originals/` 下仅包含外部跳转的页面，按“网站周边内容无需翻译”暂不处理。
+- `first-edition/game-files.md`、`first-edition/print-copies.md`、`second-edition/print-copies.md`、`second-edition/wardens-guide/bibliography.md` 以及 `adventures/first-party/`、`adventures/originals/` 下的页面属于外部跳转、购买、书目等网站周边内容，按“网站周边内容无需翻译”暂不处理。
