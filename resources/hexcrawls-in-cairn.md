@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hexcrawls in Cairn
-parent: Resources
+parent: 资源
 nav_order: 15
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Portuguese
-parent: First Edition
-grand_parent: Localization
+parent: 第一版
+grand_parent: 本地化
 ---
 
 # Documento de Referência do Sistema Cairn (v.1.0)

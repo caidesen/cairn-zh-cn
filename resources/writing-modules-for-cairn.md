@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: defaul
 title: Writing Modules for Cairn
-parent: Resources
+parent: 资源
 nav_order: 16
 ---
 
@@ -15,7 +15,7 @@ Writing adventures for Cairn is very similar to writing for other OSR systems, w
 
 ## Turns and the Dungeon Exploration Cycle
 
-Exploring dungeons in Cairn is much like any other old school system, with extant procedures and a distinct culture of play. But there are a few differences I felt worth pointing out here.  
+Exploring dungeons in Cairn is much like any other old school system, with extant procedures and a distinct culture of play. But there are a few differences I felt worth pointing out here.
 First, make sure you've thoroughly read through [the rules](https://cairnrpg.com/second-edition/players-guide/procedures/#dungeon-exploration) and procedures for dungeon exploration in Cairn.
 
 **Turns** in Cairn are when a character moves (around 40ft) and performs one action. Turns happen contemporaneously, and can stack. When describing how long it takes to _do_ something on a character's turn, think in terms of _effort_, not time.
@@ -37,12 +37,12 @@ In Cairn 2e, the standard exploration procedure for dungeons invokes a **Dungeon
 
 These triggers are already present in the Player's Guide, so you don't necessarily have to highlight that the dungeon event die is rolled if they occur! If a trap makes a loud noise, it should be obvious to the reader that it triggers an event.
 
-Some have found the terms "area, level, or zone" confusing; this is understandable. I will say this definitively here: a dungeon event roll is not triggered by the party walking into a new room. 
+Some have found the terms "area, level, or zone" confusing; this is understandable. I will say this definitively here: a dungeon event roll is not triggered by the party walking into a new room.
 
 Here is a quick primer on the differences:
-- **Area**: A fundamentally new place. If the PCs enter a portal that drops them in a cave, for example. 
+- **Area**: A fundamentally new place. If the PCs enter a portal that drops them in a cave, for example.
 - **Level**: This is in regards to elevation. Floor 1, Basement, etc. This one is pretty obvious.
-- **Zone**: A zone is a marker for a part of a single dungeon floor. Each zone might have a unique faction, weather system, magic rules, and so on. 
+- **Zone**: A zone is a marker for a part of a single dungeon floor. Each zone might have a unique faction, weather system, magic rules, and so on.
 
 Try to give your dungeon a little more flavor by adding unique **Encounter**, **Signs**, **Loss**, and **Environment** results! This can really bring out the uniqueness of your location while also helping Wardens to come up with "What happens on a roll?"
 
@@ -78,7 +78,7 @@ A narrow stone chamber ends in a heavy oak door bound in black iron. The air her
 - **Door**: Locked. The bitter smell is from a poison gas trap hidden in the lock.
 	- If the trap is not disarmed, tampering with the lock releases a cloud of poison gas dealing d6 DEX damage to anyone in the room, and the person nearest to the door cannot avoid the gas.
 
-You'll note that there is only one roll in this example. We are only interested in the danger facing the PCs. It is _assumed_ that given proper tools, skill, and time the PC will succeed. 
+You'll note that there is only one roll in this example. We are only interested in the danger facing the PCs. It is _assumed_ that given proper tools, skill, and time the PC will succeed.
 
 You also don't always need to tell the Warden which Attribute (or mechanic) the PCs will need. You can simply allow the Warden (and players) to come up with the best ruling to avoid the danger at hand.
 
@@ -96,7 +96,7 @@ There are no Wisdom, Perception or Intelligence checks in Cairn. That means you 
 
 ### Traps
 
-Traps should present the PCs with an interesting decision to make, and punishing PCs for simply stepping into a room doesn't make for interesting play. All traps should have a "tell" that indicates their existence, even if it isn't immediately obvious. 
+Traps should present the PCs with an interesting decision to make, and punishing PCs for simply stepping into a room doesn't make for interesting play. All traps should have a "tell" that indicates their existence, even if it isn't immediately obvious.
 
 ## Chance
 
@@ -119,11 +119,11 @@ Bonds are mini stories written in the second person that tie a character's histo
 
 _As a child, you found a strange book in an alley. The language is alien, and thus far none have been able to read it. Sometimes, the pages rearrange themselves. Recently, some of the symbols have become more clear. They are a warning._
 
-The PC would add "Strange Book" to their inventory, and it's up to the PC (and probably, the GM) to figure out how to use that in the future. 
+The PC would add "Strange Book" to their inventory, and it's up to the PC (and probably, the GM) to figure out how to use that in the future.
 
 And another with no starting items attached:
 
 _You created a potion to destroy the memory of something important. You do not remember what is was, or why you did it. You are left with only a feeling of dread._
 
 ## Omens
-Omens are much like Bonds but are less specifically tied to an individual. They are written in the third person, and always bode ill for _someone_, whether an individual, a town, the Wood, the entire setting.  They often feature natural elements (stars, livestock, insects, and so on), but only hint and something terrible happening in the future. 
+Omens are much like Bonds but are less specifically tied to an individual. They are written in the third person, and always bode ill for _someone_, whether an individual, a town, the Wood, the entire setting.  They often feature natural elements (stars, livestock, insects, and so on), but only hint and something terrible happening in the future.

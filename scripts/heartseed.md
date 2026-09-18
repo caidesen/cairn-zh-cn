@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Heartseed
-parent: Scripts
+parent: 脚本
 has_children: false
 nav_order: 1
 ---

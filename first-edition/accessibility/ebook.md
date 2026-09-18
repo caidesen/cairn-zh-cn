@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Ebook
-parent: Accessibility
-grand_parent: First Edition
+parent: 无障碍
+grand_parent: 第一版
 ---
 
 # 电子书

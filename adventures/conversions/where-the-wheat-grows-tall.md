@@ -1,7 +1,7 @@
 ---
 layout: default
-parent: Conversions
-grand_parent: Adventures
+parent: 冒险转换
+grand_parent: 冒险
 title: 麦子长得高
 redirect_from: /resources/adventure-conversions/where-the-wheat-grows-tall/
 ---

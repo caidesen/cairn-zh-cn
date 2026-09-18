@@ -1,7 +1,7 @@
 ---
 title: A Fistful of Feathers
-parent: Originals
+parent: 原创冒险
 layout: default
-grand_parent: Adventures
+grand_parent: 冒险
 redirect_to: https://pointlessmonument.itch.io/a-fistful-of-feathers
 ---

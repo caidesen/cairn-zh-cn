@@ -1,7 +1,7 @@
 ---
 layout: default
-parent: Conversions
-grand_parent: Adventures
+parent: 冒险转换
+grand_parent: 冒险
 title: Grave of the Green Flame
 redirect_from: /resources/adventure-conversions/grave-of-the-green-flame/
 ---

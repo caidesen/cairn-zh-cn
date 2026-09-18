@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Example of Play
-parent: First Edition
+parent: 第一版
 nav_order: 2
 ---
 

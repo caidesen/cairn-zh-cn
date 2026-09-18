@@ -1,7 +1,7 @@
 ---
 layout: default
 title: GLOG Magic
-parent: Hacks
+parent: 魔改
 nav_order: 1
 ---
 

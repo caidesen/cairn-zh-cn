@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Print Copies
-parent: First Edition
+parent: 第一版
 redirect_from: /print/
 nav_order: 3
 ---

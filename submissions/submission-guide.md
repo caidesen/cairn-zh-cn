@@ -2,7 +2,7 @@
 layout: default
 title: Submission Guide
 navorder: 1
-parent: Submissions
+parent: 投稿
 ---
 
 # Submission Guide

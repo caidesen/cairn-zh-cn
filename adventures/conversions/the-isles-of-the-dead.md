@@ -1,7 +1,7 @@
 ---
 layout: default
-parent: Conversions
-grand_parent: Adventures
+parent: 冒险转换
+grand_parent: 冒险
 title: The Isles of the Dead
 redirect_from: /resources/adventure-conversions/the-isles-of-the-dead/
 ---

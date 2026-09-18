@@ -2,7 +2,7 @@
 layout: default
 title: Localization Guide
 nav_order: 3
-parent: Localization
+parent: 本地化
 ---
 
 # Localization Guide

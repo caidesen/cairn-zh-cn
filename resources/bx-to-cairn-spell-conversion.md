@@ -2,7 +2,7 @@
 layout: default
 title: B/X to Cairn Spell Conversion
 nav_order: 14
-parent: Resources
+parent: 资源
 ---
 
 # B/X to Cairn Spell Conversion

@@ -1,7 +1,7 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: 怪物
+grand_parent: 资源
 ---
 
 # Catoblepas
@@ -10,4 +10,3 @@ grand_parent: Resources
 
 - A chimeric monstrosity bearing traits of buffalo, lizard, and boar. Its enormous head is always pointing towards the ground.
 - **Paralyze**: A single target is turned to stone. Moonlight reverses the effect.   
-

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Bibliography
-parent: Warden's Guide 
-grand_parent: Second Edition
+title: 参考书目
+parent: 守望者指南
+grand_parent: 第二版
 ---
 
 # Bibliography

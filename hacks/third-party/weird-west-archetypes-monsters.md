@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Weird West Archetypes & Monsters
-parent: Third Party
-grand_parent: Hacks
+parent: 第三方
+grand_parent: 魔改
 ---
 
 # Weird West Archetypes & Monsters

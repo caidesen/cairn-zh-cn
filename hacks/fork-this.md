@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fork This
-parent: Hacks
+parent: 魔改
 nav_order: 9
 ---
 

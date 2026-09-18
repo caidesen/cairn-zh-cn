@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 5e Notes
-parent: Resources
+parent: 资源
 ---
 
 # 5e Notes

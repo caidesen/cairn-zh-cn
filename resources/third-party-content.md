@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Third-Party Content
-parent: Resources
+parent: 资源
 nav_order: 14
 ---
 
@@ -16,4 +16,3 @@ The game is released under [**Creative Commons Attribution-ShareAlike 4.0 (CC-BY
 
 ### Do I need permission to publish an adventure or supplement?
 No.
-

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FAQs
-parent: First Edition
+parent: 第一版
 nav_order: 1
 ---
 

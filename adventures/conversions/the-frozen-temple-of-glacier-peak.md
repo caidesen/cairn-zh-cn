@@ -1,7 +1,7 @@
 ---
 layout: default
-parent: Conversions
-grand_parent: Adventures
+parent: 冒险转换
+grand_parent: 冒险
 title: 冰河峰冰封神殿
 redirect_from: /resources/adventure-conversions/the-frozen-temple-of-glacier-peak/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
-parent: Conversions
-grand_parent: Adventures
+parent: 冒险转换
+grand_parent: 冒险
 title: 柳比厅的苏醒
 redirect_from: /resources/adventure-conversions/the-waking-of-willowby-hall/
 ---

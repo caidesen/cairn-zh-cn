@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hirelings, Mounts, and Vehicles Sheets
-parent: Resources
+parent: 资源
 nav_order: 13
 ---
 
@@ -19,4 +19,3 @@ Grab them from:
 - [Itch.io](https://yochaigal.itch.io/hirelings-mounts-and-vehicles-sheets)
 - [DTRPG](https://www.drivethrurpg.com/en/product/569787/)
 - [Google Drive](https://drive.google.com/drive/folders/1bBgtmWSbcqA_6Swlx0kk-ctOkOLEBLRg?usp=sharing)
-

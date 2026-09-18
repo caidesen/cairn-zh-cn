@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hirelings
-parent: Resources
+parent: 资源
 nav_order: 11
 ---
 

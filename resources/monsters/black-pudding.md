@@ -1,7 +1,7 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: 怪物
+grand_parent: 资源
 ---
 
 # Black Pudding
@@ -12,4 +12,3 @@ grand_parent: Resources
 - Moves along walls and across ceilings. Squeeze through holes and cracks with ease.
 - Immune to mundane attacks, save fire. Normal attacks splits the Black Pudding. creating two Puddings that share HP and STR.   
 - **Critical Damage**: Targets wearing non-metallic armor lose 1 point of Armor, and any STR loss to unarmored targets is _permanent_.  
-

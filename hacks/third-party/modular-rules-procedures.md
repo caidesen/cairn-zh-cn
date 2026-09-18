@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Modular Rules & Procedures
-grand_parent: Hacks
-parent: Third Party
+grand_parent: 魔改
+parent: 第三方
 ---
 
 -  Adapted from the  [Cairn Adventurer’s Guide](https://adamhensley.itch.io/cairn-adventurers-guide)  Adam Hensley, used with permission.

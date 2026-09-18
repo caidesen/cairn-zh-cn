@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Logos
-parent: Resources
+parent: 资源
 nav_order: 13
 ---
 

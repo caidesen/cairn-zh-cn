@@ -2,7 +2,7 @@
 layout: default
 title: Third-Party Resources
 nav_order: 9
-parent: Resources
+parent: 资源
 ---
 
 # Third-party Resources

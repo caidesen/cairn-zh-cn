@@ -1,7 +1,7 @@
 ---
 layout: default
-parent: Conversions
-grand_parent: Adventures
+parent: 冒险转换
+grand_parent: 冒险
 title: 蛇王之墓
 redirect_from: /resources/adventure-conversions/tomb-of-the-serpent-kings/
 ---

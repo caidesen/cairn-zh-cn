@@ -1,8 +1,8 @@
 ---
 layout: default
 title: 吉利亚德·狼族的墓丘
-parent: Conversions
-grand_parent: Adventures
+parent: 冒险转换
+grand_parent: 冒险
 redirect_from: /resources/adventure-conversions/the-burial-mound-of-gilliard-wolfclan/
 ---
 

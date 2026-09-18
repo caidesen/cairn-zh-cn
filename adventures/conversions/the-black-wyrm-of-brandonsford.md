@@ -1,8 +1,8 @@
 ---
 layout: default
 title: The Black Wyrm of Brandonsford
-parent: Conversions
-grand_parent: Adventures
+parent: 冒险转换
+grand_parent: 冒险
 ---
 
 # Brandonsford 的黑龙 {#the-black-wyrm-of-brandonsford}

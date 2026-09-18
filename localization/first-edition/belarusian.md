@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Belarusian
-parent: First Edition
-grand_parent: Localization
+parent: 第一版
+grand_parent: 本地化
 redirect_to: https://be.cairnrpg.com
 ---

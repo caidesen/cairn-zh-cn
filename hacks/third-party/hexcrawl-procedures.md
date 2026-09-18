@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Hexcrawl Procedures
-grand_parent: Hacks
-parent: Third Party
+grand_parent: 魔改
+parent: 第三方
 ---
 
 # Yet Another Hexcrawl Procedure

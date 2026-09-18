@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Even More Third Party Hacks
-parent: Third Party
-grand_parent: Hacks
+parent: 第三方
+grand_parent: 魔改
 nav_order: 20
 ---
 

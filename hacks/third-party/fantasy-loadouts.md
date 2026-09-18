@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Fantasy Loadouts
-parent: Third Party
-grand_parent: Hacks
+parent: 第三方
+grand_parent: 魔改
 redirect_from: /more-content/fantasy-loadouts/
 ---
 

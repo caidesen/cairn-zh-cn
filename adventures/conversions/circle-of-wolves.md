@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Circle of Wolves
-parent: Conversions
-grand_parent: Adventures
+parent: 冒险转换
+grand_parent: 冒险
 redirect_from: /resources/adventure-conversions/circle-of-wolves/
 ---
 

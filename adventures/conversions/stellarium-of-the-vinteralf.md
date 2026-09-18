@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Stellarium of the Vinteralf
-parent: Conversions
-grand_parent: Adventures
+parent: 冒险转换
+grand_parent: 冒险
 ---
 
 # Vinteralf 星象馆 {#stellarium-of-the-vinteralf}

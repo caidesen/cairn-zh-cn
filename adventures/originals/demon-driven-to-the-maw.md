@@ -1,7 +1,7 @@
 ---
 title: Demon Driven to the Maw
-parent: Originals
+parent: 原创冒险
 layout: default
-grand_parent: Adventures
+grand_parent: 冒险
 redirect_to: https://brad-kerr.itch.io/demon-driven-to-the-maw
 ---

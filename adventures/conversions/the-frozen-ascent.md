@@ -1,8 +1,8 @@
 ---
 layout: default
 title: The Frozen Ascent
-parent: Conversions
-grand_parent: Adventures
+parent: 冒险转换
+grand_parent: 冒险
 ---
 
 # 冰封攀登 {#the-frozen-ascent}

@@ -1,7 +1,7 @@
 ---
 title: Welcome to Wrongwood
-parent: Originals
+parent: 原创冒险
 layout: default
-grand_parent: Adventures
+grand_parent: 冒险
 redirect_to: https://davidblandy.itch.io/welcome-to-wrongwood
 ---

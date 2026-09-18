@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Character Generator
-parent: Tools
-grand_parent: First Edition
+parent: 工具
+grand_parent: 第一版
 ---
 
 {% include generator.html %}

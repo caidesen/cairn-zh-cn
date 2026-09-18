@@ -1,7 +1,7 @@
 ---
 layout: default
 title: More Relics
-parent: Resources
+parent: 资源
 nav_order: 4
 redirect_from: /resources/relics/
 ---
@@ -590,5 +590,4 @@ This ornate pull-out scroll made of whale bone, has a silver foil sheet inscribe
 - Once donned, the ring can only be removed by the death of the wielder.
 - The wielder no longer ages, and is able to kill any immortal being if they're able to deliver a mortal wound to such being. 
 - Any immortal beings in the same world can feel when the ring is donned, by whom, and it's capabilities.
-
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Spanish
-parent: Second Edition
-grand_parent: Localization
+parent: 第二版
+grand_parent: 本地化
 redirect_to: https://laesquinadelrol.itch.io/guia-del-jugador
 ---

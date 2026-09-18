@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Store
+title: 商店
 nav_order: 6
 ---

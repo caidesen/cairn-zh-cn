@@ -1,7 +1,7 @@
 ---
 title: "CAS-2: Rise of the Blood Olms" 
-parent: First Party
+parent: 官方冒险
 layout: default
-grand_parent: Adventures
+grand_parent: 冒险
 redirect_to: https://yochaigal.itch.io/rise-of-the-blood-olms
 ---

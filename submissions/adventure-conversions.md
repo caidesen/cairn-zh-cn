@@ -2,7 +2,7 @@
 layout: default
 title: Adventure Conversions
 nav_order: 3
-parent: Submissions
+parent: 投稿
 ---
 
 # Adventure Conversions

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Build An Adventure Site
-parent: Tools
-grand_parent: First Edition
+parent: 工具
+grand_parent: 第一版
 redirect_from: /tools/build-an-adventure-site/
 ---
 

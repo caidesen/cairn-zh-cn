@@ -1,8 +1,8 @@
 ---
 layout: default
 title: 索格降临
-parent: Conversions
-grand_parent: Adventures
+parent: 冒险转换
+grand_parent: 冒险
 redirect_from: /resources/adventure-conversions/the-coming-of-sorg/
 ---
 
