@@ -41,7 +41,7 @@ has_toc: false
   - [地城探索](dungeon-exploration)
   - [分队](detachments)
   - [荒野探索](wilderness-exploration)
-  - [纽带与预兆](bonds-and-omens)
+  - [羁绊与预兆](bonds-and-omens)
   - [知识与感知](knowledge-and-perception)
   - [豁免](saves)
   - [可变难度](variable-difficulty)
