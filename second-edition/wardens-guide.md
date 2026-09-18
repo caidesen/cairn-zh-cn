@@ -36,7 +36,7 @@ has_toc: false
 
 - [创建角色过往](creating-backgrounds)
 - [点状探索](pointcrawls)
-- *常见问题*
+- *规则与示例*
   - [示例队伍说明](about-the-example-party)
   - [地城探索](dungeon-exploration)
   - [分队](detachments)
