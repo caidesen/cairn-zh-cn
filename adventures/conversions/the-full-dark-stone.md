@@ -1,37 +1,37 @@
 ---
 layout: default
-title: The Full-Dark Stone
+title: 全暗之石
 parent: Conversions
 grand_parent: Adventures
 redirect_from: /resources/adventure-conversions/the-full-dark-stone/
 ---
 
-# The Full-Dark Stone
+# 全暗之石
 
-- Original system-neutral [adventure](https://blog.trilemma.com/2015/09/the-full-dark-stone.html) by Michael Prescott. Updated version [available](https://www.drivethrurpg.com/product/286792/Trilemma-Adventures-Compendium-Volume-I).
-- Original conversion by [Kyle Maxwell](https://technoskald.itch.io/twcb).  
-- Adapted with permission.
+- Michael Prescott 创作的原系统无关[冒险](https://blog.trilemma.com/2015/09/the-full-dark-stone.html)。更新版见[此处](https://www.drivethrurpg.com/product/286792/Trilemma-Adventures-Compendium-Volume-I)。
+- 原始转换： [Kyle Maxwell](https://technoskald.itch.io/twcb)。
+- 经许可改编。
 
-## Encounters
+## 遭遇
 
-### Vault Servant
+### Vault 仆从
 3 HP, Armor 1, STR 14, DEX 8, WIL 18
-- DEX 14 with jackal- skull
-- Driven to serve
-- Working implements do d6 damage
-- Weapon arms do d8 damage or d6 harpoon 1 time
+- 有胡狼头骨时 DEX 14。
+- 被驱使着服侍。
+- 工作工具造成 d6 伤害。
+- 武器手臂造成 d8 伤害，或发射一次 d6 鱼叉。
 
-### Storm Seal Adolescent
+### 风暴海豹幼体
 2 HP, STR 12
-- Driven to hunt and torment
-- d6 bite
+- 被驱使着猎杀和折磨。
+- d6 撕咬。
 
-### Korm the Adept
+### 学徒科姆
 8 HP, STR 16, WIL 14
-- Driven to reanimate Orlug
-- d8 neck twist
-- Recovers d4 STR per hour from enchanted blood
+- 被驱使着复活奥卢格。
+- d8 扭断脖子。
+- 从附魔血液中每小时恢复 d4 STR。
 
-## Treasure
-### Wizard Flowers
-- Roll for a random [spell from the SRD](/cairn-srd#100-spells) or regular arcana (Into the Odd)
+## 宝藏
+### 巫师之花
+- 为随机的 [SRD 法术](/cairn-srd#100-spells)或普通奥术（Into the Odd）掷骰。

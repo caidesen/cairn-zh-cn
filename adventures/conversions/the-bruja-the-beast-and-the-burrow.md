@@ -2,59 +2,59 @@
 layout: default
 parent: Conversions
 grand_parent: Adventures
-title: The Bruja, the Beast, and the Barrow
+title: 女巫、野兽与古墓
 ---
 
-# The Bruja, the Beast, and the Barrow
+# 女巫、野兽与古墓
 
-- Converted from the [original work by Gus L./Ratking Productions](https://www.drivethrurpg.com/product/340873/The-Bruja-The-Beast-and-The-Barrow).
-- Converted by **Naeolin**
+- 改编自 [Gus L./Ratking Productions 的原作](https://www.drivethrurpg.com/product/340873/The-Bruja-The-Beast-and-The-Barrow)。
+- 转换：**Naeolin**
 
-**Marble Eye**
+**大理石之眼**
 
 8 HP, 2 Armor (Eldritch Pact), 8 STR, 12 WIL, athame (d6), evil eye, or maleficence (d8, Blast)
-- Can cure both natural and supernatural afflictions with a day-long ritual and sufficient motivation.  
-- **Evil Eye**: Target (anyone in line of sight, or that the caster possesses the blood of) is incapacitated as their body is wracked with pain and various illnesses. Upon recovery, the target suffers 1d6 ability damage (Die of Fate - 3 and under: weakest ability score. 4 and over: player choice). This ability damage cannot be recovered through normal means.   
-- **Upon Death**: Any who strikes a killing blow against Marble Eye must make a WIL save or die as their body suffers from the rapid onset of leprosy.
+- 通过持续一天的仪式和足够的动机，可以治愈自然或超自然的疾病。
+- **邪眼**：目标（视线内的任何人，或施法者拥有其血液的人）会因身体遭受疼痛和各种疾病的折磨而失去行动能力。恢复后，目标受到 1d6 点属性伤害（命运骰：3 或以下为最低属性；4 或以上由玩家选择）。这种属性伤害无法通过正常手段恢复。
+- **死亡时**：任何对大理石之眼造成致命一击的人都必须进行 WIL 豁免，否则会因身体迅速患上麻风病而死亡。
 
-## Pickbone Mound 
+## 啃骨丘
 
-### 3) Empty Tomb
+### 3）空墓
 
-- False bottom in sarcophagus will open upon 1 STR damage worth of blood being spilled.
+- 石棺的暗格底部会在流出相当于 1 STR 伤害量的血液后打开。
 
-### 5) False Tomb
+### 5）假墓
 
-**Biter**
-- d8 damage. Attacks with it are considered magical, but it is cursed to deal d4 STR damage upon a roll of 1 (this triggers a Critical Damage save). If thrown, the wielder must pass a DEX save or be fatally impaled.
+**撕咬者**
+- d8 伤害。用它发动的攻击视为魔法攻击，但它受诅咒影响：掷出 1 时造成 d4 STR 伤害（会触发重伤豁免）。如果将其投掷出去，持有者必须通过 DEX 豁免，否则会被致命地刺穿。
 
-### 6) Guardian Path
+### 6）守卫之路
 
-**Stone Guardian**
+**石头守卫**
 
 7 HP, 3 Armor, 15 STR, 6 DEX, stone weapon (d10)
-- Immune to non-bludgeoning missile and melee attacks, which shatter on contact. All other mundane attacks are *impaired*.
-- At the beginning of their action in a round, they regenerate 1 STR damage. They always act last. 
-- **Critical Damage**: The Guardian brings the full weight of their stone weapon to bear on their victim, dealing an additional d8 STR damage. Characters reduced to 0 STR are rendered down to a messy pulp.
+- 免疫非钝击的远程和近战攻击，这些攻击会在接触时碎裂。其他所有世俗攻击均处于*削弱*状态。
+- 在每轮行动开始时，恢复 1 点 STR 伤害。它总是最后行动。
+- **重伤**：守卫用石制武器的全部重量砸向受害者，额外造成 d8 STR 伤害。STR 降至 0 的角色会被砸成一团血肉模糊的残渣。
 
-### 7) Sigils, Beast, and Altar
+### 7）符文、野兽与祭坛
 
-**Rolling Calf**
+**滚动小牛**
 
 9 HP, 2 Armor, 14 STR, 12 DEX, WIL 18, burning fists (d8+d8), flagstone (d6)
-- At the beginning of their action in a round, they regenerate 1 STR damage (even if reduced to 0 STR) unless their skull is destroyed  by fire or holy water.
-- Immune to all forms of magical damage and effects, including magical weapons. Undead.
-- Mage's Bane: Being within striking distance of Rolling Calf causes all ongoing magical effects to end. Any magical objects (both spellbooks and relics) in a character's possession are treated as if they have been used that round for the purposes of negative consequences (gaining Fatigue and expending charges, respectively).  
-- **Critical Damage**: The victim suffers 1d6 WIL damage and is left with a brand in the shape of a bull's skull that, if they survive, will allow Rolling Calf to track the victim wherever they go.
+- 在每轮行动开始时，恢复 1 点 STR 伤害（即使 STR 已降至 0），除非它的头骨被火焰或圣水摧毁。
+- 免疫所有形式的魔法伤害和效果，包括魔法武器。不死生物。
+- 法师克星：处于滚动小牛的打击范围内会使所有持续中的魔法效果结束。角色持有的任何魔法物品（法术书和遗物）都会被视为在该轮已经使用过，分别承担负面后果（获得疲劳和消耗充能）。
+- **重伤**：受害者受到 1d6 WIL 伤害，并留下一个公牛头骨形状的烙印；如果受害者存活，滚动小牛就能追踪其去向。
 
-### 8) Warlord's Tomb
+### 8）军阀之墓
 
-**Shining Bronze Spear (Blood Spear)**
-- d8 damage (magical), on critical damage heals 1 STR damage.
+**闪耀青铜矛（血矛）**
+- d8 伤害（魔法）；造成重伤时恢复 1 点 STR 伤害。
 
-**Converter's Note:** The following relic, claimable if pried from the face of Marble Eye, is an elaboration on the original adventure. They are meant to provide Foreground Growth opportunity, but are purely optional and not part of the original designer's vision.
+**转换者注记**：以下遗物可以从大理石之眼的脸上撬下，是对原冒险的扩展。它们旨在提供前景成长机会，但完全是可选内容，并不属于原设计者的构想。
 
-**Heliotrope Eyes, 2 Charges**
-- Allows anyone holding them to cast Evil Eye (see above).
-- **Recharge:** Leave them submerged in blood that is bathed in the light of the moon overnight.
-- **Foreground Growth Opportunity:** Anyone who places one or more of the Heliotrope eyes into one of their empty eye sockets may contact the Eldritch Power Marble Eye was pacted to, and potentially make a bargain of their own...
+**天芥菜之眼，2 次充能**
+- 允许持有者施放邪眼（见上文）。
+- **充能**：将它们浸在血液中，放在月光下过夜。
+- **前景成长机会**：任何将一枚或多枚天芥菜之眼放入空眼窝的人，都可能联系上与大理石之眼订立契约的邪异力量，并与其达成自己的交易……

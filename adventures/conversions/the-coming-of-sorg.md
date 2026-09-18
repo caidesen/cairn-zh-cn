@@ -1,115 +1,114 @@
 ---
 layout: default
-title: The Coming of Sorg
+title: 索格降临
 parent: Conversions
 grand_parent: Adventures
 redirect_from: /resources/adventure-conversions/the-coming-of-sorg/
 ---
 
-# The Coming of Sorg
+# 索格降临
 
-- Original system-neutral [adventure](http://blog.trilemma.com/2014/06/the-coming-of-sorg.html) by Michael Prescott. Michael Prescott. Updated version [available](https://www.drivethrurpg.com/product/286792/Trilemma-Adventures-Compendium-Volume-I).
-- Original conversion by [Jason Tocci](https://jasontocci.itch.io/agents-of-the-odd/devlog/180126/adapting-scenarios-for-agents-of-the-odd).
-- Additional conversion by [Daniel Soilbuilder](https://danielsoilbuilder.itch.io/)
-- Adapted with permission.
+- Michael Prescott 创作的原系统无关[冒险](http://blog.trilemma.com/2014/06/the-coming-of-sorg.html)。更新版见[此处](https://www.drivethrurpg.com/product/286792/Trilemma-Adventures-Compendium-Volume-I)。
+- 原始转换： [Jason Tocci](https://jasontocci.itch.io/agents-of-the-odd/devlog/180126/adapting-scenarios-for-agents-of-the-odd)。
+- 追加转换： [Daniel Soilbuilder](https://danielsoilbuilder.itch.io/)
+- 经许可改编。
 
-## Encounters
+## 遭遇
 
-### Myen The Butcher 
-6 HP, d6 cleaver.
-- Crew of 15 heretics is untrained, *impairing* most of their attacks.
+### 屠夫迈恩
+6 HP，d6 砍刀。
+- 15 名异端组成的队伍未经训练，大多数攻击均处于*削弱*状态。
 
-### Cultists
-4 HP, 1 Armor, 14 WIL, mace (d6), Holy Symbol (_Ward_ once per day)
-- Holy men & women in a quest for their deity.
-- Normally travel in groups of 4+.
+### 邪教徒
+4 HP，1 护甲，14 WIL，钉头锤（d6），圣徽（每天施放一次_结界_）。
+- 为追寻神祇而行动的神职男女。
+- 通常以 4 人以上的小组行动。
 
-## Sorg Emanations
+## 索格显现体
 
-### Defiled Flow Emanation 
-10 HP, 1 Armor, bite (d8)
-- Giant climbing fish.
-- Does an extra die of poison damage if it damages STR. On crit damage, it swallows you whole.
+### 污秽流显现体
+10 HP，1 护甲，撕咬（d8）。
+- 巨大的攀爬鱼。
+- 如果造成 STR 伤害，则额外造成一颗毒素伤害骰。造成重伤时，会将你整个人吞下。
 
-### High Temple Emanation 
-6 HP, 1 Armor, 15 STR, bile spray (d6 *blast*)
-- Rhino-sized larva, slow.
-- Protected by 11 acolytes (devoted, but weaponless and deprived---0 HP, attacks *impaired*).
+### 高殿显现体
+6 HP，1 护甲，15 STR，胆汁喷吐（d6，*爆发*）。
+- 犀牛大小的幼虫，行动缓慢。
+- 由 11 名侍僧保护（虔诚但没有武器且处于匮乏——0 HP，攻击处于*削弱*状态）。
 
-### Toothy intestine emanation 
-- Squeeze (d6), swallow on critical damage.
+### 利齿肠道显现体
+- 挤压（d6），造成重伤时吞下目标。
 
-### Air leech Swarm Emanation 
-- Non-*blast* attacks against them are *impaired* until they latch onto you.
+### 空气水蛭群显现体
+- 对它们发动的非*爆发*攻击均处于*削弱*状态，直到它们附着在你身上。
 
-### Copulating Gargoyles Emanation 
-- 1 Armor, claws (d6)
+### 交配石像鬼显现体
+- 1 护甲，爪（d6）。
 
-### Acidic Jelly Emanation 
-- d6/round enveloping, must be washed off.
+### 酸性果冻显现体
+- 每轮造成 d6 点包裹伤害，必须将其冲洗掉。
 
-### Cultists
-4 HP, 8 STR, 8 DEX, 12 WIL, long knives (d6)
-    • Holy men & women determined to fulfill the beliefs of their Cult.
-    • Most are weak and don’t tend to themselves well.
-    • One of every 5 cultists will have one item of: armor, d8 weapon, bow.
+### 邪教徒
+4 HP，8 STR，8 DEX，12 WIL，长刀（d6）。
+    • 决心践行邪教信仰的神职男女。
+    • 大多很虚弱，也不善于照顾自己。
+    • 每 5 名邪教徒中有 1 名拥有以下一件物品：护甲、d8 武器或弓。
 
-## Leaders - Different Cult Sects
-### Myen The Butcher 
-6 HP, 13 STR, cleaver (d6)
-    • Leads a group of Cult heretics
-    • Believes the Demon to be an imposter and Vnaud his false prophet.
+## 首领——不同的邪教教派
+### 屠夫迈恩
+6 HP，13 STR，砍刀（d6）。
+    • 领导一群邪教异端。
+    • 认为恶魔是冒牌货，而弗瑙德是它的假先知。
 
-### Tess One-Handed
-6HP, 12 DEX. Sword (d6)
-    • Follows Myen the Butcher but believes they have better strategies than Myen.
+### 独臂泰丝
+6 HP，12 DEX，剑（d6）。
+    • 跟随屠夫迈恩，但认为自己的策略比迈恩更好。
 
-### Vnaud the Withered
-6 HP, 14 WIL, long knife (d6), Holy Symbol (Ward once per day)
-    • Guards Sorgs physical body and will defend their lord to the death
-    • Spell: Ward
+### 枯萎者弗瑙德
+6 HP，14 WIL，长刀（d6），圣徽（每天施放一次结界）。
+    • 守卫索格的肉身，并会为主人战斗至死。
+    • 法术：结界。
 
-Len of Otton
-6HP, 13 DEX. Sword (d6)
-    • a medallion which confers immunity to the Steps of Greed magic
+奥顿的伦
+6 HP，13 DEX，剑（d6）。
+    • 一枚能免疫贪婪阶梯魔法的徽章。
 
-### Sorg - High Temple
-12 HP, STR 15, DEX 6, WIL 15, 1 Armor, bile spray (d6 blast)
-    • Rhino-sized larva, slow.
-    • Defended by Vnaud the Withered and 11 cultist acolytes.
+### 索格——高殿
+12 HP，STR 15，DEX 6，WIL 15，1 护甲，胆汁喷吐（d6，爆发）。
+    • 犀牛大小的幼虫，行动缓慢。
+    • 由枯萎者弗瑙德和 11 名邪教侍僧守卫。
 
-### Sorg Emanations
-    • Manifestations that will disappear if they take too much damage.
-    • Do not fail moral checks.
+### 索格显现体
+    • 受到过多伤害时会消失的显现。
+    • 不会在士气检定中失败。
 
-### Defiled Flow (Prime Emanation)
-6 HP, STR 12, DEX 12, WIL 12, 1 Armor, poison bite (d8)
-    • Climbing fish. 13’ long, 16-legged.
-    • extra d4 of poison damage per round until victim flushed with clean water.
-    • On crit damage, it swallows you whole.
+### 污秽流（主要显现体）
+6 HP，STR 12，DEX 12，WIL 12，1 护甲，毒咬（d8）。
+    • 攀爬鱼，长 13 英尺，有 16 条腿。
+    • 每轮额外造成 d4 毒素伤害，直到受害者被清水冲洗。
+    • 造成重伤时，将受害者整个人吞下。
 
-### Toothy Intestine Emanation 
-5 HP, 12STR, 1 armor, Squeeze (d6)
-    • Can fly
-    • Can attempt to constrict multiple targets. One additional per round.
-    • Critical Damage: Constrict, victim is reduced to 0 DEX until freed.
+### 利齿肠道显现体
+5 HP，12 STR，1 护甲，挤压（d6）。
+    • 可以飞行。
+    • 可以尝试绞紧多个目标，每轮增加一个目标。
+    • **重伤**：绞紧目标；在挣脱前，受害者的 DEX 降至 0。
 
-### Air leech Swarm Emanation 
-5 HP, 15 DEX, Swarm (d6, blast)
-    • Non-blast attacks against them are impaired until they latch onto you.
-    • Can fly as a swarm
+### 空气水蛭群显现体
+5 HP，15 DEX，群体（d6，爆发）。
+    • 对它们发动的非爆发攻击均处于*削弱*状态，直到它们附着在你身上。
+    • 可以以群体形态飞行。
 
-### Wrestling Gargoyles Emanation 
-5 HP, 12 STR, 12 DEX, 1 Armor, claws (d6+d6)
-    • Can Fly
+### 摔跤石像鬼显现体
+5 HP，12 STR，12 DEX，1 护甲，爪（d6+d6）。
+    • 可以飞行。
 
-### Acidic Jelly Emanation 
-5 HP, 8 DEX, acid spray (d6, blast)
-    • Acid does d4 damage per round until washed off.
+### 酸性果冻显现体
+5 HP，8 DEX，酸液喷吐（d6，爆发）。
+    • 酸液每轮造成 d4 伤害，直到被冲洗掉。
 
-
-## Treasure
-### Scrolls of Protection (Ruined Archives)
-- See the [SRD](/cairn-srd#100-spells) for _Shield_ or _Ward_.
-- Scrolls of Protection (Ruined Archives)
-    • See the SRD for Shield or Ward.
+## 宝藏
+### 防护卷轴（废墟档案室）
+- 关于_盾牌_或_结界_，请参阅 [SRD](/cairn-srd#100-spells)。
+- 防护卷轴（废墟档案室）。
+    • 关于盾牌或结界，请参阅 SRD。
