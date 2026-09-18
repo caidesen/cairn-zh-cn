@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 工具
-parent: First Edition
+parent: 第一版
 has_children: true
 redirect_from: /tools/
 ---

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: First Party
-parent: Adventures
+title: 官方冒险
+parent: 冒险
 nav_order: 1
 has_children: true
 ---
 
-# First Party Adventures
+# 官方冒险

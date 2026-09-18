@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Rules
-parent: Barebones
+title: 规则
+parent: 精简版
 has_children: true
 nav_order: 1
 ---
+
+# 规则

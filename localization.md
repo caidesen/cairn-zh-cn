@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Localization
+title: 本地化
 nav_order: 14
 has_children: true
 ---
 
-# Localization
+# 本地化

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Barebones
+title: 精简版
 nav_order: 10
 has_children: true
 ---
 
-# Barebones
+# 精简版

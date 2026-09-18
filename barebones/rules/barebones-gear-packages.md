@@ -1,59 +1,59 @@
 ---
 layout: default
-title: Barebones Edition Gear Packages
-parent: Rules
-grand_parent: Barebones
+title: 精简版装备套装
+parent: 规则
+grand_parent: 精简版
 nav_order: 6
 ---
 
-## Barebones Gear Packages
+## 精简版装备套装
 
-### Fighter
+### 战士
 
-* 3d6 Gold Pieces
-* Jerky (3 uses, _petty_)
-* Torches (3 uses)
-* Bandages (3 uses)
-* Rope (25ft)
-* Shield (+1 Armor)
-* Gambeson (+1 Armor)
-* Sword (d8)
-* Throwing Dagger (d6)
-* Dog Tags (_petty_)
+* 3d6 金币
+* 肉干（3 次使用，_轻巧_）
+* 火把（3 次使用）
+* 绷带（3 次使用）
+* 绳子（25 英尺）
+* 盾牌（+1 护甲）
+* 冲压棉甲（+1 护甲）
+* 剑（d8）
+* 飞刀（d6）
+* 身份牌（_轻巧_）
 
-### Thief
+### 盗贼
 
-* 3d6 Gold Pieces
-* Rations (3 uses)
-* Twin Folding Daggers (d6+d6, _bulky_)
-* Bullseye Lantern
-* Oil Can (6 uses)
-* Caltrops
-* Small Mirror
-* Lockpick 
-* Grappling Hook  
-* Dark Hood (_petty_)
-* Chalk (_petty_)
+* 3d6 金币
+* 口粮（3 次使用）
+* 双折叠匕首（d6+d6，_笨重_）
+* 聚光提灯
+* 油罐（6 次使用）
+* 铁蒺藜
+* 小镜子
+* 撬锁工具
+* 抓钩
+* 深色兜帽（_轻巧_）
+* 粉笔（_轻巧_）
 
-### Magic-User
+### 魔法使用者
 
-* 3d6 Gold Pieces
-* Rations (3 uses)
-* Staff (d6)
-* Knife (d6)
-* Spellbook: _Illuminate_ 
-* Spellbook: _Sleep_
-* Scroll of _Detect Magic_ 
-* Parchment & Ink (3 uses)
-* Robes (_petty_)
+* 3d6 金币
+* 口粮（3 次使用）
+* 法杖（d6）
+* 小刀（d6）
+* 法术书：_照明_
+* 法术书：_睡眠_
+* _探测魔法_卷轴
+* 羊皮纸与墨水（3 次使用）
+* 长袍（_轻巧_）
 
-### Cleric
+### 牧师
 
-* 3d6 Gold Pieces
-* Rations (3 uses)
-* Torches (3 uses)
-* War Hammer (d10, _bulky_)  
-* Helmet (+1 Armor)
-* Spellbook: _Cure Wounds_
-* Bandages (3 uses)
-* Bone Charm (_petty_, casts _Ward_ once per day)
+* 3d6 金币
+* 口粮（3 次使用）
+* 火把（3 次使用）
+* 战锤（d10，_笨重_）
+* 头盔（+1 护甲）
+* 法术书：_治疗伤势_
+* 绷带（3 次使用）
+* 骨制护符（_轻巧_，每天施放一次_结界_）

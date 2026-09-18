@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Submissions
+title: 投稿
 has_children: true
 nav_order: 15
 ---
 
-# Submissions
+# 投稿

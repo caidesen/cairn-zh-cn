@@ -1,465 +1,465 @@
 ---
-layout: default
-title: Barebones Edition Character Creation
-parent: Rules
-grand_parent: Barebones
+layout: defaul
+title: 精简版角色创建
+parent: 规则
+grand_parent: 精简版
 nav_order: 5
 ---
 
-# Barebones Edition Character Creation
+# 精简版角色创建 {#barebones-edition-character-creation}
 
-## Overview
+## 总览 {#overview}
 
-1. Roll for your character’s first and last [Name](#names-d100) as well as **Age** (2d20+10).
-2. Roll for your characters’ [Attributes](#attributes) and [Hit Protection](#hit-protection).
-3. Roll for your character’s [Traits](#traits-d10).
-4. Roll for your character's [Background](#background) and related items.
-5. Roll for your character's [Armor & Weapon](#armor--weapon). 
-6. Roll for an [Additional Gear](#additional-gear) to complete your character's starting equipment.
-7. Purchase any additional items your character can afford from the [Marketplace](/barebones/rules/barebones-marketplace). 
+1. 为角色的[姓名](#names-d100)（包括名和姓）以及**年龄**（2d20+10）掷骰。
+2. 为角色的[属性](#attributes)和[命中防护](#hit-protection)掷骰。
+3. 为角色的[特征](#traits-d10)掷骰。
+4. 为角色的[背景](#background)及相关物品掷骰。
+5. 为角色的[护甲与武器](#armor--weapon)掷骰。
+6. 为[额外装备](#additional-gear)掷骰，完成角色的初始装备。
+7. 从[市场](/barebones/rules/barebones-marketplace)购买角色负担得起的其他物品。
 
-### Names (d100)
+### 姓名（d100） {#names-d100}
 
-|       |             |        |
+|       |             | |
 | ----- | ----------- | ------ |
-| d100 | Name     | Surname     |
-| 1    | Adair    | Abbot       |
-| 2    | Alaric   | Addyman     |
-| 3    | Alder    | Ashwell     |
-| 4    | Amaris   | Balfe       |
-| 5    | Anwen    | Baxter      |
-| 6    | Arlo     | Bevan       |
-| 7    | Ash      | Beran       |
-| 8    | Aster    | Blackwood   |
-| 9    | Ballad   | Bowen       |
-| 10   | Barley   | Brewer      |
-| 11   | Basil    | Broder      |
-| 12   | Beatrix  | Bukharin    |
-| 13   | Birch    | Cadwallan   |
-| 14   | Bram     | Carter      |
-| 15   | Briar    | Cobb        |
-| 16   | Brook    | Collier     |
-| 17   | Bryn     | Cooper      |
-| 18   | Cai      | Crowther    |
-| 19   | Callan   | Dempsey     |
-| 20   | Carver   | Dermody     |
-| 21   | Cedric   | Domański    |
-| 22   | Cinder   | Dymov       |
+| d100 | 名     | 姓氏 |
+| 1    | Adair    | Abbot |
+| 2    | Alaric   | Addyman |
+| 3    | Alder    | Ashwell |
+| 4    | Amaris   | Balfe |
+| 5    | Anwen    | Baxter |
+| 6    | Arlo     | Bevan |
+| 7    | Ash      | Beran |
+| 8    | Aster    | Blackwood |
+| 9    | Ballad   | Bowen |
+| 10   | Barley   | Brewer |
+| 11   | Basil    | Broder |
+| 12   | Beatrix  | Bukharin |
+| 13   | Birch    | Cadwallan |
+| 14   | Bram     | Carter |
+| 15   | Briar    | Cobb |
+| 16   | Brook    | Collier |
+| 17   | Bryn     | Cooper |
+| 18   | Cai      | Crowther |
+| 19   | Callan   | Dempsey |
+| 20   | Carver   | Dermody |
+| 21   | Cedric   | Domański |
+| 22   | Cinder   | Dymov |
 | 23   | Cliff    | Fairweather |
-| 24   | Corin    | Fedorov     |
-| 25   | Crow     | Fletcher    |
-| 26   | Dain     | Fuller      |
-| 27   | Darnel   | Galen       |
-| 28   | Dax      | Glinka      |
-| 29   | Dorian   | Glover      |
-| 30   | Eira     | Golubov     |
-| 31   | Elowen   | Gradnik     |
-| 32   | Ember    | Granger     |
-| 33   | Eon      | Grobar      |
-| 34   | Evander  | Halberg     |
-| 35   | Falcon   | Harkin      |
-| 36   | Faris    | Hlebar      |
-| 37   | Fern     | Hromada     |
-| 38   | Finch    | Horgan      |
-| 39   | Flint    | Iliev       |
-| 40   | Freya    | Ivanec      |
-| 41   | Gale     | Joryn       |
-| 42   | Garen    | Kamensk     |
-| 43   | Hazel    | Kavanagh    |
-| 44   | Hemlock  | Kovac       |
-| 45   | Idris    | Kovalenko   |
-| 46   | Ivy      | Kravec      |
-| 47   | Juniper  | Krznar      |
-| 48   | Kael     | Kuchar      |
-| 49   | Kavi     | Kvasnikov   |
-| 50   | Keir     | Lethbridge  |
-| 51   | Leif     | Llewellyn   |
-| 52   | Liora    | Locke       |
-| 53   | Lucan    | Lovett      |
-| 54   | Lyra     | Lukanov     |
-| 55   | Lysander | Maddox      |
-| 56   | Marius   | Malinov     |
-| 57   | Marlowe  | Marinov     |
-| 58   | Milo     | Markov      |
-| 59   | Moss     | Mason       |
-| 60   | Nazira   | Melnik      |
-| 61   | Neria    | Mercer      |
-| 62   | Noa      | Milner      |
-| 63   | Nyx      | Morozov     |
-| 64   | Onyx     | Novak       |
-| 65   | Orla     | Obradov     |
+| 24   | Corin    | Fedorov |
+| 25   | Crow     | Fletcher |
+| 26   | Dain     | Fuller |
+| 27   | Darnel   | Galen |
+| 28   | Dax      | Glinka |
+| 29   | Dorian   | Glover |
+| 30   | Eira     | Golubov |
+| 31   | Elowen   | Gradnik |
+| 32   | Ember    | Granger |
+| 33   | Eon      | Grobar |
+| 34   | Evander  | Halberg |
+| 35   | Falcon   | Harkin |
+| 36   | Faris    | Hlebar |
+| 37   | Fern     | Hromada |
+| 38   | Finch    | Horgan |
+| 39   | Flint    | Iliev |
+| 40   | Freya    | Ivanec |
+| 41   | Gale     | Joryn |
+| 42   | Garen    | Kamensk |
+| 43   | Hazel    | Kavanagh |
+| 44   | Hemlock  | Kovac |
+| 45   | Idris    | Kovalenko |
+| 46   | Ivy      | Kravec |
+| 47   | Juniper  | Krznar |
+| 48   | Kael     | Kuchar |
+| 49   | Kavi     | Kvasnikov |
+| 50   | Keir     | Lethbridge |
+| 51   | Leif     | Llewellyn |
+| 52   | Liora    | Locke |
+| 53   | Lucan    | Lovett |
+| 54   | Lyra     | Lukanov |
+| 55   | Lysander | Maddox |
+| 56   | Marius   | Malinov |
+| 57   | Marlowe  | Marinov |
+| 58   | Milo     | Markov |
+| 59   | Moss     | Mason |
+| 60   | Nazira   | Melnik |
+| 61   | Neria    | Mercer |
+| 62   | Noa      | Milner |
+| 63   | Nyx      | Morozov |
+| 64   | Onyx     | Novak |
+| 65   | Orla     | Obradov |
 | 66   | Pan      | O’Callaghan |
-| 67   | Patch    | O’Farrell   |
-| 68   | Perran   | O’Leary     |
-| 69   | Quill    | Osipov      |
-| 70   | Rain     | Pavlenko    |
-| 71   | Reed     | Pekar       |
-| 72   | River    | Petrov      |
-| 73   | Robin    | Pisarev     |
-| 74   | Rowan    | Powell      |
-| 75   | Rune     | Price       |
-| 76   | Rush     | Radoslav    |
-| 77   | Rye      | Reeve       |
-| 78   | Sable    | Rogov       |
-| 79   | Sage     | Romanov     |
-| 80   | Selene   | Rowanfield  |
-| 81   | Shade    | Rybak       |
-| 82   | Silas    | Sawyer      |
-| 83   | Sky      | Shepherd    |
-| 84   | Soren    | Shevchenko  |
-| 85   | Sparrow  | Slater      |
-| 86   | Stellan  | Smirnov     |
-| 87   | Stone    | Sokolov     |
-| 88   | Storm    | Tanner      |
-| 89   | Talon    | Thatcher    |
-| 90   | Thistle  | Tallow      |
-| 91   | Thorn    | Vukovic     |
-| 92   | Thresh   | Webb        |
-| 93   | Valen    | Whitlock    |
-| 94   | Vesper   | Wicklowe    |
-| 95   | Vex      | Wightman    |
-| 96   | Willow   | Wilkin      |
-| 97   | Winslow  | Wright      |
-| 98   | Wisp     | Wynne       |
-| 99   | Wren     | Yarrow      |
-| 100  | Yarrow   | Zidar       |
+| 67   | Patch    | O’Farrell |
+| 68   | Perran   | O’Leary |
+| 69   | Quill    | Osipov |
+| 70   | Rain     | Pavlenko |
+| 71   | Reed     | Pekar |
+| 72   | River    | Petrov |
+| 73   | Robin    | Pisarev |
+| 74   | Rowan    | Powell |
+| 75   | Rune     | Price |
+| 76   | Rush     | Radoslav |
+| 77   | Rye      | Reeve |
+| 78   | Sable    | Rogov |
+| 79   | Sage     | Romanov |
+| 80   | Selene   | Rowanfield |
+| 81   | Shade    | Rybak |
+| 82   | Silas    | Sawyer |
+| 83   | Sky      | Shepherd |
+| 84   | Soren    | Shevchenko |
+| 85   | Sparrow  | Slater |
+| 86   | Stellan  | Smirnov |
+| 87   | Stone    | Sokolov |
+| 88   | Storm    | Tanner |
+| 89   | Talon    | Thatcher |
+| 90   | Thistle  | Tallow |
+| 91   | Thorn    | Vukovic |
+| 92   | Thresh   | Webb |
+| 93   | Valen    | Whitlock |
+| 94   | Vesper   | Wicklowe |
+| 95   | Vex      | Wightman |
+| 96   | Willow   | Wilkin |
+| 97   | Winslow  | Wright |
+| 98   | Wisp     | Wynne |
+| 99   | Wren     | Yarrow |
+| 100  | Yarrow   | Zidar |
 
-### Attributes
+### 属性 {#attributes}
 
-- Roll **3d6** for each of your character’s Attributes (**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**), in order. You may then swap any two results.
+- 按顺序为角色的每项**属性**（**力量（STR）**、**敏捷（DEX）**和**意志（WIL）**）掷 **3d6**。之后，你可以交换任意两项结果。
 
-### Hit Protection
+### 命中防护 {#hit-protection}
 
-- Roll **1d6** to determine your PC’s starting **Hit Protection** (HP).
+- 掷 **1d6**，决定 PC 的初始**命中防护**（HP）。
 
-## Traits (d10)
+## 特征（d10） {#traits-d10}
 
- Roll on the following tables for your character’s Traits.
+在下列表格上掷骰，决定角色的特征。
 
-#### Physique
+#### 体格
 
-|       |          |        |            |
+|       |          |        | |
 | ----- | -------- | ------ | ---------- |
-| **1** | Athletic | **6**  | Scrawny    |
-| **2** | Brawny   | **7**  | Short      |
-| **3** | Flabby   | **8**  | Statuesque |
-| **4** | Lanky    | **9**  | Stout      |
-| **5** | Rugged   | **10** | Towering   |
+| **1** | 健壮     | **6**  | 瘦弱 |
+| **2** | 壮硕     | **7**  | 矮小 |
+| **3** | 肥胖     | **8**  | 高挑 |
+| **4** | 瘦长     | **9**  | 结实 |
+| **5** | 粗犷     | **10** | 高大 |
 
-#### Skin
+#### 皮肤
 
-|       |             |        |           |
+|       |             |        | |
 | ----- | ----------- | ------ | --------- |
-| **1** | Birthmarked | **6**  | Soft      |
-| **2** | Marked      | **7**  | Tanned    |
-| **3** | Oily        | **8**  | Tattooed  |
-| **4** | Rosy        | **9**  | Weathered |
-| **5** | Scarred     | **10** | Webbed    |
+| **1** | 带胎记      | **6**  | 柔软 |
+| **2** | 有斑痕      | **7**  | 晒黑 |
+| **3** | 油腻        | **8**  | 有纹身 |
+| **4** | 红润        | **9**  | 饱经风霜 |
+| **5** | 带疤        | **10** | 有蹼 |
 
-#### Hair
+#### 头发
 
-|       |         |        |           |
+|       |         |        | |
 | ----- | ------- | ------ | --------- |
-| **1** | Bald    | **6**  | Long      |
-| **2** | Braided | **7**  | Luxurious |
-| **3** | Curly   | **8**  | Oily      |
-| **4** | Filthy  | **9**  | Wavy      |
-| **5** | Frizzy  | **10** | Wispy     |
+| **1** | 秃顶    | **6**  | 长发 |
+| **2** | 编辫    | **7**  | 华丽 |
+| **3** | 卷曲    | **8**  | 油腻 |
+| **4** | 污秽    | **9**  | 波浪 |
+| **5** | 蓬乱    | **10** | 稀疏 |
 
-#### Face
+#### 面容
 
-|       |           |        |         |
+|       |           |        | |
 | ----- | --------- | ------ | ------- |
-| **1** | Bony      | **6**  | Perfect |
-| **2** | Broken    | **7**  | Rakish  |
-| **3** | Chiseled  | **8**  | Sharp   |
-| **4** | Elongated | **9**  | Square  |
-| **5** | Pale      | **10** | Sunken  |
+| **1** | 瘦削      | **6**  | 完美 |
+| **2** | 破相      | **7**  | 风流 |
+| **3** | 棱角分明  | **8**  | 尖削 |
+| **4** | 狭长      | **9**  | 方正 |
+| **5** | 苍白      | **10** | 凹陷 |
 
-#### Speech
+#### 说话方式
 
-|       |         |        |            |
+|       |         |        | |
 | ----- | ------- | ------ | ---------- |
-| **1** | Blunt   | **6**  | Gravelly   |
-| **2** | Booming | **7**  | Precise    |
-| **3** | Cryptic | **8**  | Squeaky    |
-| **4** | Droning | **9**  | Stuttering |
-| **5** | Formal  | **10** | Whispery   |
+| **1** | 直白    | **6**  | 沙哑 |
+| **2** | 洪亮    | **7**  | 精确 |
+| **3** | 隐晦    | **8**  | 尖细 |
+| **4** | 单调    | **9**  | 结巴 |
+| **5** | 正式    | **10** | 耳语 |
 
-#### Clothing
+#### 衣着
 
-|       |         |        |        |
+|       |         |        | |
 | ----- | ------- | ------ | ------ |
-| **1** | Antique | **6**  | Frayed |
-| **2** | Bloody  | **7**  | Frumpy |
-| **3** | Elegant | **8**  | Livery |
-| **4** | Filthy  | **9**  | Rancid |
-| **5** | Foreign | **10** | Soiled |
+| **1** | 古旧    | **6**  | 磨损 |
+| **2** | 带血    | **7**  | 邋遢 |
+| **3** | 优雅    | **8**  | 制服 |
+| **4** | 污秽    | **9**  | 腐臭 |
+| **5** | 异域    | **10** | 脏污 |
 
-#### Virtue
+#### 美德
 
-|       |             |        |           |
+|       |             |        | |
 | ----- | ----------- | ------ | --------- |
-| **1** | Ambitious   | **6**  | Honorable |
-| **2** | Cautious    | **7**  | Humble    |
-| **3** | Courageous  | **8**  | Merciful  |
-| **4** | Disciplined | **9**  | Serene    |
-| **5** | Gregarious  | **10** | Tolerant  |
+| **1** | 有野心      | **6**  | 正直 |
+| **2** | 谨慎        | **7**  | 谦逊 |
+| **3** | 勇敢        | **8**  | 仁慈 |
+| **4** | 自律        | **9**  | 沉静 |
+| **5** | 合群        | **10** | 宽容 |
 
-#### Vice
+#### 恶习
 
-|       |            |        |          |
+|       |            |        | |
 | ----- | ---------- | ------ | -------- |
-| **1** | Aggressive | **6**  | Lazy     |
-| **2** | Bitter     | **7**  | Nervous  |
-| **3** | Craven     | **8**  | Rude     |
-| **4** | Deceitful  | **9**  | Vain     |
-| **5** | Greedy     | **10** | Vengeful |
+| **1** | 好斗       | **6**  | 懒惰 |
+| **2** | 苦涩       | **7**  | 紧张 |
+| **3** | 怯懦       | **8**  | 粗鲁 |
+| **4** | 欺诈       | **9**  | 虚荣 |
+| **5** | 贪婪       | **10** | 记仇 |
 
-## Background
+## 背景 {#background}
 
-Roll on the following table to determine your character's background and starting equipment:
+在下表上掷骰，决定角色的背景和初始装备：
 
-|       |             |
-| ----- | ----------- | 
-| d100 | Background & Starting Gear                                                                                                             |
-|  1   | **Acolyte**: Incense, Parchment & Ink (3 uses), [Spellbook](/barebones/rules/barebones-spellbooks)                                           |
-|  2   | **Acrobat**: Pole (10ft), Rope (25ft), Smokebomb                                                                                       |
-|  3   | **Alchemist**: Acid, Lens, Oilskin Bag                                                                                                 |
-|  4   | **Apothecary**: Antitoxin, Bandages (3 uses), Sealable Bottle                                                                          |
-|  5   | **Assassin**: Garrotte, Mask, Poison                                                                                                   |
-|  6   | **Astrologer**: Candle (3 uses, dim), Marbles, Spyglass                                                                                |
-|  7   | **Baker**: Flour, Honey, Sealable Bottle                                                                                               |
-|  8   | **Barber-Surgeon**: Bandages (3 uses), Scissors, Sedative                                                                              |
-|  9   | **Barkeep**: Alcohol, Sealable Bottle, Sedative                                                                                        |
-|  10  | **Beadle**: Bell, Gloves (_petty_), Whistle (_petty_)                                                                                  |
-|  11  | **Beekeeper**: Fire Oil, Gloves (_petty_), Honey                                                                                       |
-|  12  | **Bell Ringer**: Gloves (_petty_), Rope (25 ft), Whistle (_petty_)                                                                     |
-|  13  | **Bird Keeper**: Cage, Net, Whistle (_petty_)                                                                                          |
-|  14  | **Blacksmith**: Bellows, Hammer, Iron Tongs                                                                                            |
-|  15  | **Bookbinder**: Glue, Parchment & Ink (3 uses), Sewing Kit                                                                             |
-|  16  | **Bounty Hunter**: Flash Powder, Manacles, Rope (25 ft)                                                                                |
-|  17  | **Butcher**:  Pail, Saw, Whetstone                                                                                                     |
-|  18  | **Carpenter**: Hammer, Metal File, Saw                                                                                                 |
-|  19  | **Cartographer**: Compass, Parchment & Ink (3 uses), Sextant                                                                           |
-|  20  | **Cartwright**: Hand Drill, Pulley, Saw                                                                                                |
-|  21  | **Chandler**: Candle (3 uses, dim), Honey, Perfume                                                                                     |
-|  22  | **Charlatan**: Cards, Paint, Perfume                                                                                                   |
-|  23  | **Chimney Sweep**: Bellows, Climbing Spikes, Rope (25 ft)                                                                              |
-|  24  | **Clockmaker**: Magnifying Glass, Metal File, Pliers                                                                                   |
-|  25  | **Cobbler**: Pliers, Sack, Sewing Kit                                                                                                  |
-|  26  | **Cook**: Flour, Pail, Smoking Herbs (3 uses)                                                                                          |
-|  27  | **Cooper**: Hammer, Hand Drill, Saw                                                                                                    |
-|  28  | **Courier**: Bell, Compass, Parchment & Ink (3 uses)                                                                                   |
-|  29  | **Crypt Custodian**: Incense, Lantern, Oil Can (6 uses)                                                                                |
-|  30  | **Cultist**: Incense, Mask, Scroll of Random [Spellbook](/barebones/rules/barebones-spellbooks) (_petty_)                                    |
-|  31  | **Demolitionist**: Explosive, Goggles, Grease                                                                                          |
-|  32  | **Dowser**: Dowsing Rod, Sealable Bottle, Shovel                                                                                       |
-|  33  | **Duelist**: Cloak (_petty_), Gloves (_petty_), Whetstone                                                                              |
-|  34  | **Entertainer**: Dice, Songbook, Wig                                                                                                   |
-|  35  | **Executioner**: Mask, Rope (25 ft), Whetstone                                                                                         |
-|  36  | **Falconer**: Cage, Gloves (_petty_), Whistle (_petty_)                                                                                |
-|  37  | **Farmer**: Rope (25 ft), Sack, Shovel                                                                                                 |
-|  38  | **Fence**: Bolt Cutters, Random Additional Gear, Sack                                                                                  |
-|  39  | **Fisher**: Air Bladder, Fishing Rod, Net                                                                                              |
-|  40  | **Fletcher**: Sack, Trap, Whetstone                                                                                                    |
-|  41  | **Gambler**: Alcohol, Cards, Dice                                                                                                      |
-|  42  | **Gardener**: Gloves (_petty_), Sack, Shovel                                                                                           |
-|  43  | **Glassblower**: Goggles, Lens, Pliers                                                                                                 |
-|  44  | **Gong Farmer**: Gloves (_petty_), Sack, Shovel                                                                                        |
-|  45  | **Gravedigger**: Alcohol, Ladder, Shovel                                                                                               |
-|  46  | **Guard**: Lantern, Manacles, Whistle (_petty_)                                                                                        |
-|  47  | **Herald**: Mask, Signal Flag, Whistle (_petty_)                                                                                       |
-|  48  | **Herbalist**: Antitoxin, Mugwort, Sack                                                                                                |
-|  49  | **Hermit**: Blanket, Pole (10 ft), Smoking Herbs (3 uses)                                                                              |
-|  50  | **Highway Robber**: Grappling Hook, Rope (25 ft), Signal Flag                                                                          |
-|  51  | **Hunter**: Trap, Rope (25 ft), Smoking Herbs (3 uses)                                                                                 |
-|  52  | **Illusionist**: Candle (3 uses, dim), Flash Powder, Mirror                                                                            |
-|  53  | **Innkeeper**: Alcohol, Bandages (3 uses), Parchment & Ink (3 uses)                                                                    |
-|  54  | **Jailer**: Chain (10ft), Manacles, Whistle (_petty_)                                                                                  |
-|  55  | **Jester**: Cards, Lute, Perfume                                                                                                       |
-|  56  | **Jeweler**: Magnifying Glass, Pliers, Tongs                                                                                           |
-|  57  | **Knight**: Gloves (_petty_), Signal Flag, Whetstone                                                                                   |
-|  58  | **Lamplighter**: Ladder (10ft, _bulky_), Oil Can (6 uses), Whistle (_petty_)                                                           |
-|  59  | **Leech Collector**: Gloves (_petty_), Leech (restores 1 STR, 3 uses), Net                                                             |
-|  60  | **Librarian**: Candle (3 uses, dim), Parchment & Ink (3 uses), Scroll of Random [Spellbook](/barebones/rules/barebones-spellbooks) (_petty_) |
-|  61  | **Locksmith**: Lock & Key, Metal File, Pliers                                                                                          |
-|  62  | **Lumberjack**: Rope (25 ft), Saw, Whetstone                                                                                           |
-|  63  | **Mason**: Chisel, Fan, Hammer                                                                                                         |
-|  64  | **Merchant**: Random Additional Gear, Stylus, Wagon (+8 slots, slow)                                                                   |
-|  65  | **Miller**: Bowl, Flour, Rope (25 ft)                                                                                                  |
-|  66  | **Miner**: Lantern, Lodestone, Pickaxe                                                                                                 |
-|  67  | **Monk**: Candle (3 uses, dim), Cloak (_petty_), Songbook                                                                              |
-|  68  | **Musician**: Bowl, Fiddle, Songbook                                                                                                   |
-|  69  | **Naturalist**: Hammock, Rope (25ft), Spyglass                                                                                         |
-|  70  | **Navigator**: Compass, Poncho (_petty_), Spyglass                                                                                     |
-|  71  | **Oil Collector**: Lantern, Oil Can (6 uses), Sealable Bottle                                                                          |
-|  72  | **Painter**: Paint, Parchment & Ink (3 uses), Stylus                                                                                   |
-|  73  | **Peddler**: Cart (+4 slots, _bulky_), Random Additional Gear, Sack                                                                    |
-|  74  | **Philosopher**: Chalk (_petty_), Parchment & Ink, Pipe                                                                                |
-|  75  | **Physician**: Antitoxin, Bandages (3 uses), Crowbar                                                                                   |
-|  76  | **Pilgrim**: Blanket, Pole (10 ft), Poncho (_petty_)                                                                                   |
-|  77  | **Potter**: Chisel, Pail, Tongs                                                                                                        |
-|  78  | **Priest**: Bandages (3 uses), Candle (3 uses, dim), Incense                                                                           |
-|  79  | **Prospector**: Lantern, Lodestone, Pickaxe                                                                                            |
-|  80  | **Rat Catcher**: Sack, Trap, Whistle (_petty_)                                                                                         |
-|  81  | **Sailor**: Hammock, Rope (50 ft), Spyglass                                                                                            |
-|  82  | **Scribe**: Candle (3 uses, dim), Parchment & Ink (3 uses), Stylus                                                                     |
-|  83  | **Shepherd**: Cloak (_petty_), Rope (25 ft), Whistle (_petty_)                                                                         |
-|  84  | **Smuggler**: Lock & Key, Oilskin Bag, Rope (25 ft)                                                                                    |
-|  85  | **Soldier**: Spiked Boots, Tent (fits 2, _bulky_), Whetstone                                                                           |
-|  86  | **Spy**: Disguise Kit, Garrotte, Mirror                                                                                                |
-|  87  | **Stablehand**: Blanket, Rope (25ft), Shovel                                                                                           |
-|  88  | **Street Preacher**: Bell, Parchment & Ink, Scroll of Random [Spellbook](/barebones/rules/barebones-spellbooks) (_petty_)                    |
-|  89  | **Tailor**: Cloak (_petty_), Scissors, Sewing Kit                                                                                      |
-|  90  | **Tanner**: Gloves (_petty_), Pliers, Tar                                                                                              |
-|  91  | **Tax Collector**: Parchment & Ink (3 uses), Sealable Bottle, Whistle (_petty_)                                                        |
-|  92  | **Thief**: Caltrops, Grappling Hook, Lockpick                                                                                          |
-|  93  | **Tinker**: Grease, Hammer, Pliers                                                                                                     |
-|  94  | **Toll Keeper**: Bell, Lock & Key, Waterproof Bag                                                                                      |
-|  95  | **Toymaker**: Glue, Pliers, Scissors                                                                                                   |
-|  96  | **Vagabond**: Blanket, Poncho (_petty_), Rope (25 ft)                                                                                  |
-|  97  | **Vintner**: Alcohol, Rope (25 ft), Sealable Bottle                                                                                    |
-|  98  | **Weaver**: Perfume, Rope (25 ft), Scissors                                                                                            |
-|  99  | **Witch**: Candle (3 uses, dim), [Spellbook](/barebones/rules/barebones-spellbooks), Wolfsbane                                               |
-| 100  | **Witchfinder**: Rope (25 ft), Scroll of Random [Spellbook](/barebones/rules/barebones-spellbooks)(_petty_), Spyglass                        |
-|      |                                                                                                                                        |
+|       | |
+| ----- | ----------- |
+| d100 | 背景与初始装备 |
+|  1   | **侍僧**：香、羊皮纸与墨水（3 次使用）、[法术书](/barebones/rules/barebones-spellbooks) |
+|  2   | **杂技演员**：杆（10 英尺）、绳子（25 英尺）、烟雾弹 |
+|  3   | **炼金术师**：酸液、透镜、油布袋 |
+|  4   | **药剂师**：解毒剂、绷带（3 次使用）、可封口瓶 |
+|  5   | **刺客**：绞索、面具、毒药 |
+|  6   | **占星师**：蜡烛（3 次使用，昏暗）、弹珠、望远镜 |
+|  7   | **面包师**：面粉、蜂蜜、可封口瓶 |
+|  8   | **理发外科医**：绷带（3 次使用）、剪刀、镇静剂 |
+|  9   | **酒保**：酒精、可封口瓶、镇静剂 |
+|  10  | **执事**：铃、手套（_轻巧_）、哨子（_轻巧_） |
+|  11  | **养蜂人**：火油、手套（_轻巧_）、蜂蜜 |
+|  12  | **撞钟人**：手套（_轻巧_）、绳子（25 英尺）、哨子（_轻巧_） |
+|  13  | **鸟类饲养者**：笼子、渔网、哨子（_轻巧_） |
+|  14  | **铁匠**：风箱、锤子、铁钳 |
+|  15  | **装订工**：胶水、羊皮纸与墨水（3 次使用）、针线包 |
+|  16  | **赏金猎人**：闪光粉、镣铐、绳子（25 英尺） |
+|  17  | **屠夫**：提桶、锯、磨刀石 |
+|  18  | **木匠**：锤子、金属锉、锯 |
+|  19  | **制图师**：指南针、羊皮纸与墨水（3 次使用）、六分仪 |
+|  20  | **车匠**：手摇钻、滑轮、锯 |
+|  21  | **蜡烛匠**：蜡烛（3 次使用，昏暗）、蜂蜜、香水 |
+|  22  | **江湖骗子**：纸牌、颜料、香水 |
+|  23  | **烟囱清扫工**：风箱、攀爬钉、绳子（25 英尺） |
+|  24  | **钟表匠**：放大镜、金属锉、钳子 |
+|  25  | **鞋匠**：钳子、麻袋、针线包 |
+|  26  | **厨师**：面粉、提桶、烟熏草药（3 次使用） |
+|  27  | **桶匠**：锤子、手摇钻、锯 |
+|  28  | **信使**：铃、指南针、羊皮纸与墨水（3 次使用） |
+|  29  | **地穴看守**：香、提灯、油罐（6 次使用） |
+|  30  | **邪教徒**：香、面具、随机[法术书](/barebones/rules/barebones-spellbooks)卷轴（_轻巧_） |
+|  31  | **爆破工**：炸药、护目镜、油脂 |
+|  32  | **探矿师**：探测杖、可封口瓶、铲子 |
+|  33  | **决斗者**：斗篷（_轻巧_）、手套（_轻巧_）、磨刀石 |
+|  34  | **演艺者**：骰子、歌集、假发 |
+|  35  | **刽子手**：面具、绳子（25 英尺）、磨刀石 |
+|  36  | **驯鹰人**：笼子、手套（_轻巧_）、哨子（_轻巧_） |
+|  37  | **农夫**：绳子（25 英尺）、麻袋、铲子 |
+|  38  | **销赃者**：断线钳、随机额外装备、麻袋 |
+|  39  | **渔夫**：充气囊、鱼竿、渔网 |
+|  40  | **制箭师**：麻袋、陷阱、磨刀石 |
+|  41  | **赌徒**：酒精、纸牌、骰子 |
+|  42  | **园丁**：手套（_轻巧_）、麻袋、铲子 |
+|  43  | **玻璃吹制工**：护目镜、透镜、钳子 |
+|  44  | **粪夫**：手套（_轻巧_）、麻袋、铲子 |
+|  45  | **掘墓人**：酒精、梯子、铲子 |
+|  46  | **卫兵**：提灯、镣铐、哨子（_轻巧_） |
+|  47  | **传令官**：面具、信号旗、哨子（_轻巧_） |
+|  48  | **草药师**：解毒剂、艾草、麻袋 |
+|  49  | **隐士**：毯子、杆（10 英尺）、烟熏草药（3 次使用） |
+|  50  | **拦路强盗**：抓钩、绳子（25 英尺）、信号旗 |
+|  51  | **猎人**：陷阱、绳子（25 英尺）、烟熏草药（3 次使用） |
+|  52  | **幻术师**：蜡烛（3 次使用，昏暗）、闪光粉、镜子 |
+|  53  | **客栈老板**：酒精、绷带（3 次使用）、羊皮纸与墨水（3 次使用） |
+|  54  | **狱卒**：链条（10 英尺）、镣铐、哨子（_轻巧_） |
+|  55  | **小丑**：纸牌、鲁特琴、香水 |
+|  56  | **珠宝匠**：放大镜、钳子、夹钳 |
+|  57  | **骑士**：手套（_轻巧_）、信号旗、磨刀石 |
+|  58  | **点灯人**：梯子（10 英尺，_笨重_）、油罐（6 次使用）、哨子（_轻巧_） |
+|  59  | **水蛭采集者**：手套（_轻巧_）、水蛭（恢复 1 点 STR，3 次使用）、渔网 |
+|  60  | **图书管理员**：蜡烛（3 次使用，昏暗）、羊皮纸与墨水（3 次使用）、随机[法术书](/barebones/rules/barebones-spellbooks)卷轴（_轻巧_） |
+|  61  | **锁匠**：锁和钥匙、金属锉、钳子 |
+|  62  | **樵夫**：绳子（25 英尺）、锯、磨刀石 |
+|  63  | **石匠**：凿子、扇子、锤子 |
+|  64  | **商人**：随机额外装备、硬笔、货车（+8 格，缓慢） |
+|  65  | **磨坊主**：碗、面粉、绳子（25 英尺） |
+|  66  | **矿工**：提灯、磁石、镐 |
+|  67  | **修道士**：蜡烛（3 次使用，昏暗）、斗篷（_轻巧_）、歌集 |
+|  68  | **音乐家**：碗、提琴、歌集 |
+|  69  | **博物学家**：吊床、绳子（25 英尺）、望远镜 |
+|  70  | **航海员**：指南针、雨披（_轻巧_）、望远镜 |
+|  71  | **采油工**：提灯、油罐（6 次使用）、可封口瓶 |
+|  72  | **画家**：颜料、羊皮纸与墨水（3 次使用）、硬笔 |
+|  73  | **小贩**：手推车（+4 格，_笨重_）、随机额外装备、麻袋 |
+|  74  | **哲学家**：粉笔（_轻巧_）、羊皮纸与墨水、烟斗 |
+|  75  | **医生**：解毒剂、绷带（3 次使用）、撬棍 |
+|  76  | **朝圣者**：毯子、杆（10 英尺）、雨披（_轻巧_） |
+|  77  | **陶工**：凿子、提桶、夹钳 |
+|  78  | **牧师**：绷带（3 次使用）、蜡烛（3 次使用，昏暗）、香 |
+|  79  | **勘探者**：提灯、磁石、镐 |
+|  80  | **捕鼠人**：麻袋、陷阱、哨子（_轻巧_） |
+|  81  | **水手**：吊床、绳子（50 英尺）、望远镜 |
+|  82  | **抄写员**：蜡烛（3 次使用，昏暗）、羊皮纸与墨水（3 次使用）、硬笔 |
+|  83  | **牧羊人**：斗篷（_轻巧_）、绳子（25 英尺）、哨子（_轻巧_） |
+|  84  | **走私者**：锁和钥匙、油布袋、绳子（25 英尺） |
+|  85  | **士兵**：带钉靴、帐篷（可容纳 2 人，_笨重_）、磨刀石 |
+|  86  | **间谍**：伪装工具、绞索、镜子 |
+|  87  | **马夫**：毯子、绳子（25 英尺）、铲子 |
+|  88  | **街头传教士**：铃、羊皮纸与墨水、随机[法术书](/barebones/rules/barebones-spellbooks)卷轴（_轻巧_） |
+|  89  | **裁缝**：斗篷（_轻巧_）、剪刀、针线包 |
+|  90  | **制革工**：手套（_轻巧_）、钳子、柏油 |
+|  91  | **税吏**：羊皮纸与墨水（3 次使用）、可封口瓶、哨子（_轻巧_） |
+|  92  | **盗贼**：铁蒺藜、抓钩、撬锁工具 |
+|  93  | **修补匠**：油脂、锤子、钳子 |
+|  94  | **收费站看守**：铃、锁和钥匙、防水袋 |
+|  95  | **玩具匠**：胶水、钳子、剪刀 |
+|  96  | **流浪汉**：毯子、雨披（_轻巧_）、绳子（25 英尺） |
+|  97  | **酿酒师**：酒精、绳子（25 英尺）、可封口瓶 |
+|  98  | **织工**：香水、绳子（25 英尺）、剪刀 |
+|  99  | **女巫**：蜡烛（3 次使用，昏暗）、[法术书](/barebones/rules/barebones-spellbooks)、乌头草 |
+| 100  | **逐巫者**：绳子（25 英尺）、随机[法术书](/barebones/rules/barebones-spellbooks)卷轴（_轻巧_）、望远镜 |
+|      | |
 
-### Armor & Weapon
+### 护甲与武器 {#armor--weapon}
 
-All PCs start with the following gear:
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
+所有 PC 都拥有以下装备：
+- 3d6 金币
+- 口粮（3 次使用）
+- 火把（3 次使用）
 
-Additionally, roll on the following tables for your character's armor, weapons, and additional gear:
+此外，在下列表格上掷骰，决定角色的护甲、武器和额外装备：
 
-#### Armor (d6)
+#### 护甲（d6） {#armor}
 
-|  d6   | Armor                                              |
-| :---: | :------------------------------------------------- |
-| **1** | None. Roll for [Additional Gear](#additional-gear) |
-| **2** | Shield (+1 Armor)                                  |
-| **3** | Helmet (+1 Armor)                                  |
-| **4** | Gambeson (+1 Armor)                                |
-| **5** | Chainmail (2 Armor, _bulky_)                       |
-| **6** | Plate (3 Armor, _bulky_)                           |
+|  d6   | 护甲 |
+| :---: | :--- |
+| **1** | 无。为[额外装备](#additional-gear)掷骰 |
+| **2** | 盾牌（+1 护甲） |
+| **3** | 头盔（+1 护甲） |
+| **4** | 软甲（+1 护甲） |
+| **5** | 锁子甲（2 护甲，_笨重_） |
+| **6** | 板甲（3 护甲，_笨重_） |
 
 
-#### Weapons (d6)
+#### 武器（d6） {#weapons}
 
-|  d6   | Weapons                                                     |
-| :---: | :---------------------------------------------------------- |
-| **1** | Dagger, Cudgel, Sickle, Staff, etc. (d6 damage)             |
-| **2** | Spear, Sword, Mace, Axe, Flail, etc. (d8 damage)            |
-| **3** | Halberd, War Hammer, Long Sword, etc. (d10 damage, _bulky_) |
-| **4** | Sling (d6 damage)                                           |
-| **5** | Bow (d6 damage, _bulky_)                                    |
-| **6** | Crossbow (d8 damage, _bulky_)                               |
+|  d6   | 武器 |
+| :---: | :--- |
+| **1** | 匕首、棍棒、镰刀、法杖等（d6 伤害） |
+| **2** | 长矛、剑、钉头锤、斧、链枷等（d8 伤害） |
+| **3** | 长柄斧、战锤、长剑等（d10 伤害，_笨重_） |
+| **4** | 投石索（d6 伤害） |
+| **5** | 弓（d6 伤害，_笨重_） |
+| **6** | 弩（d8 伤害，_笨重_） |
 
-#### Additional Gear
+#### 额外装备 {#additional-gear}
 
-| d100 | Gear                                                          |
-| ---- | ------------------------------------------------------------- |
-| 1    | Acid                                                          |
-| 2    | Air Bladder                                                   |
-| 3    | Alcohol                                                       |
-| 4    | Antitoxin                                                     |
-| 5    | Bandages (3 uses)                                             |
-| 6    | Bell                                                          |
-| 7    | Bellows                                                       |
-| 8    | Blanket                                                       |
-| 9    | Boltcutters                                                   |
-| 10   | Bowl                                                          |
-| 11   | Cage                                                          |
-| 12   | Caltrops                                                      |
-| 13   | Candle (3 uses, dim)                                          |
-| 14   | Cards                                                         |
-| 15   | Cart (+4 slots, _bulky_)                                      |
-| 16   | Chain (10ft)                                                  |
-| 17   | Chalk (_petty_)                                               |
-| 18   | Chisel                                                        |
-| 19   | Climbing Spikes                                               |
-| 20   | Cloak (_petty_)                                               |
-| 21   | Compass                                                       |
-| 22   | Crowbar                                                       |
-| 23   | Dice                                                          |
-| 24   | Dowsing Rod                                                   |
-| 25   | Explosive                                                     |
-| 26   | Fan                                                           |
-| 27   | Fiddle                                                        |
-| 28   | Fire Oil                                                      |
-| 29   | Fishing Rod                                                   |
-| 30   | Flash Powder                                                  |
-| 31   | Flour                                                         |
-| 32   | Garrotte                                                      |
-| 33   | Gloves (_petty_)                                              |
-| 34   | Glue                                                          |
-| 35   | Goggles                                                       |
-| 36   | Grappling Hook                                                |
-| 37   | Grease                                                        |
-| 38   | Hammer                                                        |
-| 39   | Hammock                                                       |
-| 40   | Hand Drill                                                    |
-| 41   | Honey                                                         |
-| 42   | Hourglass                                                     |
-| 43   | Incense                                                       |
-| 44   | Ladder (10 ft, _bulky_)                                       |
-| 45   | Lantern                                                       |
-| 46   | Leech (restores 1 STR, 3 uses)                                |
-| 47   | Lens                                                          |
-| 48   | Lock & Key                                                    |
-| 49   | Lockpick                                                      |
-| 50   | Lodestone                                                     |
-| 51   | Lute                                                          |
-| 52   | Magnifying Glass                                              |
-| 53   | Manacles                                                      |
-| 54   | Marbles                                                       |
-| 55   | Mask                                                          |
-| 56   | Metal File                                                    |
-| 57   | Mirror                                                        |
-| 58   | Mugwort                                                       |
-| 59   | Net                                                           |
-| 60   | Oil Can (6 uses)                                              |
-| 61   | Oilskin Bag                                                   |
-| 62   | Pail                                                          |
-| 63   | Paint                                                         |
-| 64   | Parchment & Ink (3 uses)                                      |
-| 65   | Perfume                                                       |
-| 66   | Pickaxe                                                       |
-| 67   | Pipe                                                          |
-| 68   | Pliers                                                        |
-| 69   | Poison                                                        |
-| 70   | Pole (10ft)                                                   |
-| 71   | Poncho (_petty_)                                              |
-| 72   | Pulley                                                        |
-| 73   | Random [Spellbook](/barebones/rules/barebones-spellbooks)           |
-| 74   | Rope (25ft)                                                   |
-| 75   | Sack                                                          |
-| 76   | Saw                                                           |
-| 77   | Scissors                                                      |
-| 78   | Scroll of Random [Spellbook](/barebones/rules/barebones-spellbooks) (_petty_) |
-| 79   | Sealable Bottle                                               |
-| 80   | Sedative                                                      |
-| 81   | Sewing Kit                                                    |
-| 82   | Sextant                                                       |
-| 83   | Shovel                                                        |
-| 84   | Signal Flag                                                   |
-| 85   | Smokebomb                                                     |
-| 86   | Smoking Herbs (3 uses)                                        |
-| 87   | Songbook                                                      |
-| 88   | Spiked Boots                                                  |
-| 89   | Spyglass                                                      |
-| 90   | Stylus                                                        |
-| 91   | Tar                                                           |
-| 92   | Tent (fits 2, _bulky_)                                        |
-| 93   | Tongs                                                         |
-| 94   | Trap (d6 STR damage)                                          |
-| 95   | Wagon (+8 slots, slow)                                        |
-| 96   | Waterproof Bag                                                |
-| 97   | Whetstone                                                     |
-| 98   | Whistle (_petty_)                                             |
-| 99   | Wig                                                           |
-| 100  | Wolfsbane                                                     |
+| d100 | 装备 |
+| ---- | --- |
+| 1    | 酸液 |
+| 2    | 充气囊 |
+| 3    | 酒精 |
+| 4    | 解毒剂 |
+| 5    | 绷带（3 次使用） |
+| 6    | 铃 |
+| 7    | 风箱 |
+| 8    | 毯子 |
+| 9    | 断线钳 |
+| 10   | 碗 |
+| 11   | 笼子 |
+| 12   | 铁蒺藜 |
+| 13   | 蜡烛（3 次使用，昏暗） |
+| 14   | 纸牌 |
+| 15   | 手推车（+4 格，_笨重_） |
+| 16   | 链条（10 英尺） |
+| 17   | 粉笔（_轻巧_） |
+| 18   | 凿子 |
+| 19   | 攀爬钉 |
+| 20   | 斗篷（_轻巧_） |
+| 21   | 指南针 |
+| 22   | 撬棍 |
+| 23   | 骰子 |
+| 24   | 探测杖 |
+| 25   | 炸药 |
+| 26   | 扇子 |
+| 27   | 提琴 |
+| 28   | 火油 |
+| 29   | 鱼竿 |
+| 30   | 闪光粉 |
+| 31   | 面粉 |
+| 32   | 绞索 |
+| 33   | 手套（_轻巧_） |
+| 34   | 胶水 |
+| 35   | 护目镜 |
+| 36   | 抓钩 |
+| 37   | 油脂 |
+| 38   | 锤子 |
+| 39   | 吊床 |
+| 40   | 手摇钻 |
+| 41   | 蜂蜜 |
+| 42   | 沙漏 |
+| 43   | 香 |
+| 44   | 梯子（10 英尺，_笨重_） |
+| 45   | 提灯 |
+| 46   | 水蛭（恢复 1 点 STR，3 次使用） |
+| 47   | 透镜 |
+| 48   | 锁和钥匙 |
+| 49   | 撬锁工具 |
+| 50   | 磁石 |
+| 51   | 鲁特琴 |
+| 52   | 放大镜 |
+| 53   | 镣铐 |
+| 54   | 弹珠 |
+| 55   | 面具 |
+| 56   | 金属锉 |
+| 57   | 镜子 |
+| 58   | 艾草 |
+| 59   | 渔网 |
+| 60   | 油罐（6 次使用） |
+| 61   | 油布袋 |
+| 62   | 提桶 |
+| 63   | 颜料 |
+| 64   | 羊皮纸与墨水（3 次使用） |
+| 65   | 香水 |
+| 66   | 镐 |
+| 67   | 烟斗 |
+| 68   | 钳子 |
+| 69   | 毒药 |
+| 70   | 杆（10 英尺） |
+| 71   | 雨披（_轻巧_） |
+| 72   | 滑轮 |
+| 73   | 随机[法术书](/barebones/rules/barebones-spellbooks) |
+| 74   | 绳子（25 英尺） |
+| 75   | 麻袋 |
+| 76   | 锯 |
+| 77   | 剪刀 |
+| 78   | 随机[法术书](/barebones/rules/barebones-spellbooks)卷轴（_轻巧_） |
+| 79   | 可封口瓶 |
+| 80   | 镇静剂 |
+| 81   | 针线包 |
+| 82   | 六分仪 |
+| 83   | 铲子 |
+| 84   | 信号旗 |
+| 85   | 烟雾弹 |
+| 86   | 烟熏草药（3 次使用） |
+| 87   | 歌集 |
+| 88   | 带钉靴 |
+| 89   | 望远镜 |
+| 90   | 硬笔 |
+| 91   | 柏油 |
+| 92   | 帐篷（可容纳 2 人，_笨重_） |
+| 93   | 夹钳 |
+| 94   | 陷阱（d6 STR 伤害） |
+| 95   | 货车（+8 格，缓慢） |
+| 96   | 防水袋 |
+| 97   | 磨刀石 |
+| 98   | 哨子（_轻巧_） |
+| 99   | 假发 |
+| 100  | 乌头草 |
 
-> You may reroll any duplicate gear.
+> 你可以为重复的装备重新掷骰。

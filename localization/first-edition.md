@@ -1,8 +1,8 @@
 ---
 layout: default
-title: First Edition
-parent: Localization
+title: 第一版
+parent: 本地化
 has_children: true
 ---
 
-# First Edition
+# 第一版

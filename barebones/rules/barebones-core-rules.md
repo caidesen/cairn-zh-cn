@@ -1,193 +1,193 @@
 ---
 layout: default
-title: Barebones Edition Core Rules
-parent: Rules
-grand_parent: Barebones
+title: 精简版核心规则
+parent: 规则
+grand_parent: 精简版
 nav_order: 3
 ---
 
-# Barebones Core Rules
+# 精简版核心规则 {#barebones-core-rules}
 
-## Player Characters
+## 玩家角色 {#player-characters}
 
-### Attributes
+### 属性 {#attributes}
 
-Player Characters (PCs) have three **Attributes**:
+玩家角色（PC）拥有三项**属性**：
 
-- **Strength (STR)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
-- **Dexterity (DEX)**: Used for saves requiring poise, speed, reflexes, dodging, climbing, sneaking, balancing, etc.
-- **Willpower (WIL)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.
+- **力量（STR）**：用于需要身体力量的豁免，例如抬起闸门、掰弯铁栅栏、抵抗毒素等。
+- **敏捷（DEX）**：用于需要身手、速度、反应、闪避、攀爬、潜行、保持平衡等能力的豁免。
+- **意志（WIL）**：用于说服、欺骗、审问、恐吓、魅惑、挑衅、操纵法术等豁免。
 
-> Attributes are not universal descriptors. A character with a low STR is not necessarily hopelessly weak; they can still attempt to lift a heavy door or survive a deadly fight! Their risk is simply higher. 
+> 属性不是万能的描述。STR 较低的角色不一定弱得无可救药；他们仍然可以尝试抬起沉重的门，或在致命战斗中活下来！他们只是承担着更高的风险。
 
-#### Attribute Loss
+#### 属性损失 {#attribute-loss}
 
-- If a PC takes damage outside of combat, they should instead receive damage to an Attribute, typically STR.
-- If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious. Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
-  
-### Hit Protection
+- 如果 PC 在战斗之外受到伤害，应改为让某项属性受损，通常是 STR。
+- 如果 PC 的 STR 降至 0，他会死亡；如果 DEX 降至 0，他会瘫痪；如果 WIL 降至 0，他会神志错乱。DEX 和 WIL 完全损失会使角色无法行动，直到通过长期休息或非凡手段恢复。
 
-- Hit Protection (HP) reflects a character's ability to avoid damage in combat. 
-- This measurement does _not_ indicate a character’s health or fortitude, nor do they lose it for very long. See [Healing & Recovery](#healing--recovery).
+### 命中防护 {#hit-protection}
 
-#### Healing & Recovery
+- 命中防护（HP）代表角色在战斗中避免受伤的能力。
+- 命中防护并不表示角色的健康或体魄，而且通常不会长时间损失。参阅[治疗与恢复](#healing--recovery)。
 
-- Resting for a few moments and having a drink of water restores lost HP but may leave the party exposed. Bandages can stabilize a character that has taken critical damage.
-- Attribute loss (see **Critical Damage**) can usually be restored with a week's rest, facilitated by a healer or other appropriate source of expertise. 
-- Some healing services are free, while magical or more expedient means of recovery may come at a cost. 
+#### 治疗与恢复 {#healing--recovery}
 
-## Armor
+- 休息片刻并喝点水可以恢复损失的 HP，但也可能让队伍暴露在危险之中。绷带可以稳定受到重伤的角色。
+- 属性损失（见**重伤**）通常可以通过一周的休养恢复，期间需要治疗者或其他合适的专业人士协助。
+- 有些治疗服务是免费的；魔法手段或更快速的恢复方式则可能需要付出代价。
 
-- Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. 
-- Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn. Some may also provide additional benefits, depending on the fiction.
-- A PC, NPC, or monster cannot have more than 3 Armor.  
+## 护甲 {#armor}
 
-## Inventory
+- 在计算 HP 所受伤害前，从伤害掷骰结果中减去目标的**护甲**值。
+- 盾牌和类似护甲会提供额外防御（例如 +1 护甲），但只有在手持或穿戴该物品时才有效。有些物品还会根据游戏情境提供额外益处。
+- PC、NPC 或怪物的护甲值不能超过 3。
 
-- Characters have a total of ten inventory slots but can only carry four or five items comfortably without the help of bags, backpacks, horses, carts, etc.
-- Each PC starts with a **Backpack** that can hold up to six slots of items or **Fatigue**. Carts (which must be pulled with both hands), horses, or mules can make a huge difference in how much a PC can bring with them on an adventure. **Hirelings** can also be paid to carry equipment. 
-- Inventory is abstract, dependent only on the fiction as adjudicated by the Warden. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP. A character cannot fill more than ten slots.
+## 物品栏 {#inventory}
 
-### Inventory Slots
+- 角色总共有十个物品栏格，但如果没有袋子、背包、马匹、马车等帮助，通常只能舒适地携带四到五件物品。
+- 每名 PC 初始拥有一个**背包**，最多可以容纳六格物品或**疲劳**。马车（必须用双手拉动）、马或骡子都能显著增加 PC 在冒险中可以携带的东西。也可以付钱雇佣**雇工**来搬运装备。
+- 物品栏是抽象的，具体判定完全取决于守望者裁定的游戏情境。物品栏已满（即填满全部 10 格）的角色 HP 降为 0。角色的物品栏不能超过十格。
 
-- Most items take up one slot unless otherwise indicated. 
-- _Petty_ items do not take up any slots. _Bulky_ items take up **two** slots. 
-- A bag of coins worth less than 100gp is _petty_ and does not occupy a slot.
+### 物品栏格 {#inventory-slots}
 
-## Deprivation & Fatigue
+- 除非另有说明，大多数物品占用一格。
+- _轻巧_物品不占用任何格子。_笨重_物品占用**两格**。
+- 价值低于 100gp 的一袋金币属于_轻巧_物品，不占用格子。
 
-- A PC that lacks a crucial need (such as food or rest) is **Deprived**. Anyone **Deprived** for more than a day adds **Fatigue** to their inventory, one for each day. A **Deprived** PC cannot recover HP, Attributes, or item slots from **Fatigue**.
-- A PC may also be forced to add **Fatigue** after casting spells or due to events occurring in the fiction. Each Fatigue occupies one slot and lasts until the PC is able to recuperate (such as with a full night’s rest in a safe spot).
-- If a character is forced to add **Fatigue** to their inventory but they have no free slots, they must drop an item from their inventory.
+## 匮乏与疲劳 {#deprivation--fatigue}
 
-## Saves & Risk
+- 缺少关键需求（例如食物或休息）的 PC 处于**匮乏**状态。处于**匮乏**超过一天的角色，其物品栏每天增加 1 点**疲劳**。处于**匮乏**状态的 PC 无法恢复 HP、属性，也无法从**疲劳**中恢复物品栏格。
+- 施放法术或游戏世界中的事件也可能迫使 PC 增加**疲劳**。每点疲劳占用一个物品栏格，直到 PC 得以恢复（例如在安全地点睡一整晚）才会消失。
+- 如果角色被迫在物品栏中增加**疲劳**，但没有空余格子，就必须从物品栏中丢弃一件物品。
 
-## Saves
+## 豁免与风险 {#saves--risk}
 
-- A save is a roll to avoid negative outcomes from risky choices. Characters roll a d20 and compare the results to the appropriate attribute. If they roll equal to or under that attribute, they succeed. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
-- If two opponents are each trying to overcome the other, whoever is most at risk should save.
-- If two characters need to take an action together, whoever is most at risk should save (usually the character with the lowest relevant Attribute).
+## 豁免 {#saves}
 
-### Die of Fate  
+- 豁免是为了避免危险选择带来负面结果而进行的掷骰。角色掷 d20，并将结果与相应属性比较。结果等于或低于该属性则成功，否则失败。掷出 1 总是成功，掷出 20 总是失败。
+- 如果两个对手都试图压制对方，由风险更高的一方进行豁免。
+- 如果两个角色需要共同完成一个行动，由风险更高的一方进行豁免（通常是相关属性最低的角色）。
 
-- Optionally, roll 1d6 whenever the outcome of an event is uncertain or to simulate an element of randomness and chance.
-- A roll of 4 or more generally favors the PCs, while a roll of 3 or under usually means bad luck for the PCs.
+### 命运骰 {#die-of-fate}
 
-## Magic
+- 只要事件结果不确定，或你想模拟随机和偶然因素，就可以选择掷 1d6。
+- 结果为 4 或更高通常有利于 PC，结果为 3 或更低通常意味着 PC 运气不佳。
 
-### Spellbooks 
+## 魔法 {#magic}
 
-- **Spellbooks** contain a single spell and take up one slot. They cannot be easily transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.
-- Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence, or being legible only when held in moonlight.
-- Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
+### 法术书 {#spellbooks}
 
-### Casting Spells
+- **法术书**包含一个法术，占用一个物品栏格。法术书无法轻易抄录或制作；它们通常是在坟墓、地城和庄园等地方找到的。
+- 法术书有时会表现出奇异的性质或限制，例如打开时散发恶臭或非人间的气味、拥有与生俱来的智慧，或只有在月光下才能阅读。
+- 法术书会吸引那些觊觎其中奥术力量之人的注意；公开展示法术书通常被视为危险之举。
 
-- Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a **Fatigue** to inventory. 
-- Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. 
-- If the PC is _deprived_ or in danger (such as during combat), the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect and may result in added **Fatigue**, the destruction of the Spellbook, injury, and even death.
+### 施放法术 {#casting-spells}
 
-### Scrolls
+- 任何人都可以双手拿着法术书，大声读出其中内容来施放法术。之后，他们必须在物品栏中增加一点**疲劳**。
+- 如果有充足的时间且处于安全之中，PC 可以增强法术的效果（例如影响多个目标、提高法术力量等），而无需额外付出代价。
+- 如果 PC 处于_匮乏_状态或身处危险（例如战斗中），守望者可以要求 PC 进行一次 WIL 豁免，以避免施法带来的负面影响。失败的后果应与法术原本的效果相当，可能包括增加**疲劳**、摧毁法术书、受伤，甚至死亡。
 
-**Scrolls** are similar to Spellbooks, however:
+### 卷轴 {#scrolls}
 
-- They are _petty_.
-- They do not cause **Fatigue**.
-- They disappear after one use.
+**卷轴**与法术书相似，但：
 
-### Relics
+- 卷轴属于_轻巧_物品。
+- 卷轴不会造成**疲劳**。
+- 卷轴使用一次后就会消失。
 
-**Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have limited use, as well as a **Recharge** condition.
+### 遗物 {#relics}
 
-## Non-Player Characters
+**遗物**是注入了魔法或法术力量的物品。遗物不会造成疲劳。遗物通常只能有限次使用，并且具有某种**充能**条件。
 
-### Hirelings
+## 非玩家角色 {#non-player-characters}
 
-- Adventuring parties can recruit hirelings, relying on their unique skills, knowledge, and training to aid in expeditions.  
-- To create a hireling, choose an appropriate role from the [Hirelings](/barebones/marketplace#hirelings-per-day) table in the Marketplace. Roll 3d6 for each attribute and 1d6 for their HP. Give them **equipment** appropriate to their station, then roll on the Character Traits tables to further flesh them out.
-- Alternatively, follow the [**Character Creation**](/barebones/character-creation) process but select the appropriate background, name, and gear for the character.
+### 雇工 {#hirelings}
 
-### Reactions
+- 冒险队可以招募雇工，借助他们独特的技能、知识和训练来协助远征。
+- 要创建一名雇工，请从市场中的[每日雇工](/barebones/marketplace#hirelings-per-day)表选择合适的角色。为每项属性掷 3d6，为 HP 掷 1d6。给予他们与其身份相称的**装备**，然后在角色特征表上掷骰，进一步完善其形象。
+- 另一种方式是遵循[**角色创建**](/barebones/character-creation)流程，但为角色选择合适的背景、姓名和装备。
 
-When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
+### 反应 {#reactions}
+
+当 PC 遇到对方态度不明显的 NPC 时，守望者可以掷 2d6，并查阅下表：
 
 |         |      |         |      |         |
 | :-----: | :--: | :-----: | :--: | :-----: |
 |    2    | 3-5  |   6-8   | 9-11 |   12    |
-| Hostile | Wary | Curious | Kind | Helpful |
+| 敌对 | 警惕 | 好奇 | 友善 | 乐于助人 |
 
-## Combat
+## 战斗 {#combat}
 
-### Rounds
+### 回合 {#rounds}
 
-- A **Round** is roughly ten seconds of in-game time and proceeds with each side taking turns. Each round starts with any PC that is able to act, followed by their opponents. _The result of each side's actions occur simultaneously_. 
-- During the _first round of combat_, each PC must make a DEX save in order to act. Special circumstances, abilities, items, or skills may negate this requirement. PCs that fail their save _lose their turn_ for this round.
-- Their opponents then take their turn, and the first round ends. The next round begins with the PCs taking their turn, followed by their opponents, and so on until combat has ended with one side defeated or fled.
+- 一个**回合**大约代表游戏世界中的十秒，并由双方轮流行动。每回合先由任何能够行动的 PC 行动，随后是对手。_双方行动的结果会同时发生。_
+- 在_战斗的第一回合_，每名 PC 都必须进行一次 DEX 豁免才能行动。特殊情境、能力、物品或技能可能免除这一要求。豁免失败的 PC 在本回合_失去行动机会_。
+- 接着由对手行动，第一回合结束。下一回合从 PC 行动开始，随后是对手，如此循环，直到一方被击败或逃跑，战斗结束。
 
-### Actions
+### 行动 {#actions}
 
-On their turn, a character may move up to 40ft and take up to one action. This may be casting a spell, attacking, moving for a second time, or some other reasonable action. Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs. 
+角色在自己的回合中可以移动最多 40ft，并进行至多一个行动。行动可以是施放法术、攻击、再次移动，或其他合理的行为。每回合，PC 都要在掷骰前声明自己要做什么。如果角色尝试危险的事情，守望者会要求合适的玩家或 NPC 进行豁免。
 
-### Attacking & Damage
+### 攻击与伤害 {#attacking--damage}
 
-- The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Attacks in combat automatically hit.
-- If multiple attackers target the same foe, roll all damage dice and keep the single highest result. All actions are declared before being resolved.
-- If an attack would take a PC's HP exactly to 0, refer to the [Scars](#scars-table) table to see how they are uniquely impacted.
+- 攻击者掷出武器骰，减去目标的护甲，然后将剩余数值从对手的 HP 中扣除。战斗中的攻击自动命中。
+- 如果多名攻击者以同一敌人为目标，掷出所有伤害骰，但只保留其中最高的结果。所有行动都会在结算前先声明。
+- 如果一次攻击会使 PC 的 HP 恰好降至 0，请查阅[创伤表](#scars-table)，确定他受到的特殊影响。
 
-### Attack Modifiers
+### 攻击修正 {#attack-modifiers}
 
-- If fighting from a position of weakness (such as through cover or with bound hands), the attack is _Impaired_, and the attacker must roll 1d4 damage regardless of the attacks damage die. Unarmed attacks always do d4 damage.
-- If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is _Enhanced_, allowing the attacker to roll 1d12 damage instead of their normal die.
-- Attacks with the _Blast_ quality affect all targets in the noted area, rolling separately for each affected character. This can be anything from explosions to a dragon’s breath or the impact of a meteorite. If unsure how many targets can be affected, _roll the related damage die for a result_.
-- If attacking with two weapons at the same time, roll both damage dice and keep the single highest result (denoted with a plus symbol, e.g. d8+d8).
+- 如果角色处于不利位置战斗（例如隔着掩体，或双手被绑），攻击会受到_削弱_，攻击者无论武器伤害骰为何，都必须掷 1d4。徒手攻击总是造成 d4 伤害。
+- 如果角色处于有利位置战斗（例如面对无助的敌人，或通过大胆的机动占据优势），攻击会得到_强化_，攻击者可以用 1d12 代替正常的伤害骰。
+- 带有_爆发_特性的攻击会影响标示范围内的所有目标，并为每个受影响的角色分别掷骰。这可以是爆炸、巨龙吐息，或陨石撞击。如果不确定能影响多少目标，就掷相关伤害骰，将结果作为目标数量。
+- 如果同时使用两把武器攻击，掷出两枚伤害骰，只保留其中最高的结果（用加号表示，例如 d8+d8）。
 
-### Critical Damage
+### 重伤 {#critical-damage}
 
-- Damage that reduces a target's HP below zero is subtracted _from their STR_ by the amount of damage remaining. The target must then immediately make a STR save to avoid taking **Critical Damage**, using their _new STR score_. On a success, the target is still in the fight (albeit with a lower STR score) and must continue to make critical damage saves when incurring damage.
-- Any PC that suffers Critical Damage cannot do anything but crawl weakly, grasping for life. If given aid (such as bandages), they will stabilize. If left untreated, they die within the hour. NPCs and monsters that fail a Critical Damage save are considered dead, per the **Warden's** discretion. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save. 
+- 如果伤害使目标的 HP 降到 0 以下，就将超出部分从其 STR 中扣除。目标必须立刻使用_新的 STR 值_进行一次 STR 豁免，以避免受到**重伤**。豁免成功时，目标仍能继续战斗（虽然 STR 值降低了），并且之后每次受到伤害时都必须继续进行重伤豁免。
+- 受到重伤的 PC 除了虚弱地爬行、挣扎求生之外什么也做不了。如果得到援助（例如绷带），他们会稳定下来。如果不接受治疗，他们会在一小时内死亡。未通过重伤豁免的 NPC 和怪物视为死亡，具体由**守望者**裁定。此外，一些敌人在目标未通过重伤豁免时会触发特殊能力或效果。
 
-### Character Death
+### 角色死亡 {#character-death}
 
-- When a character dies, the player should create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
+- 角色死亡后，玩家应创建一个新角色，或接管一名雇工。新角色会立刻加入队伍，以减少停摆时间。
 
-### Detachments
+### 分队 {#detachments}
 
-- Large groups of similar combatants fighting together are treated as a single _Detachment_. When a _detachment_ takes **Critical Damage**, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
-- Attacks against detachments by individuals are _impaired_ (excluding _blast_ damage). Attacks against individuals by detachments are _enhanced_ and deal _blast_ damage.
-  
-### Retreat
+- 一大群相似的战斗者一起战斗时，可以视为一个**分队**。当一个**分队**受到**重伤**时，它会溃散或遭到严重削弱。当它的 STR 降至 0 时，就会被摧毁。
+- 个体对分队的攻击会受到_削弱_（_爆发_伤害除外）。分队对个体的攻击会得到_强化_，并造成_爆发_伤害。
 
-- Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
+### 撤退 {#retreat}
 
-### Morale
+- 从危急情势中逃跑总是需要一次成功的 DEX 豁免，同时还需要一个可以逃往的安全地点。
 
-- Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. 
-- Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. 
-- Morale does not affect PCs.
+### 士气 {#morale}
 
-### Ranged Attacks
+- 敌人在第一次出现伤亡，以及损失一半成员时，必须进行一次 WIL 豁免，以避免逃跑。
+- 某些群体可以使用首领的 WIL 代替自己的 WIL。孤立的敌人在 HP 降至 0 时必须进行豁免。
+- 士气不影响 PC。
 
-- Ranged weapons can target any enemy near enough to see the whites of their eyes. Attacks against especially distant targets are _Impaired_.
-- Ammunition is not tracked unless otherwise specified. 
+### 远程攻击 {#ranged-attacks}
 
-### Scars
+- 远程武器可以瞄准任何近到能看清其眼白的敌人。攻击特别遥远的目标时会受到_削弱_。
+- 除非另有说明，否则不追踪弹药数量。
 
-If damage to a PC would reduce their HP to exactly 0, look up the result on the table below based on the _amount of HP lost in the attack_. For example, if a PC went from 3 HP to 0 HP, they would look at entry #3 (Walloped). 
+### 创伤 {#scars}
 
-#### Scars Table
+如果一次伤害会使 PC 的 HP 恰好降至 0，就根据该次攻击损失的 HP 数量查阅下表。例如，如果 PC 从 3 HP 降至 0 HP，就查阅第 3 项（击飞）。
+
+#### 创伤表 {#scars-table}
 
 |             |                                                                                                                                                                                                                           |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **HP Lost** | **Result**                                                                                                                                                                                                                |
-| 1           | Lasting Scar: Roll 1d6. 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max HP, take the new result.                                                                     |
-| 2           | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max HP, take the new result.                                                                           |
-| 3           | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max HP.                                                         |
-| 4           | Broken Limb: Roll 1d6. 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended, roll 2d6. If the total is higher than your max HP, take the new result.                                                                         |
-| 5           | Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max HP, take the new result.                                                           |
-| 6           | Reorienting Head Wound: Roll 1d6. 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current attribute, take the new result.                                                                        |
-| 7           | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max DEX, take the new result.                                                              |
-| 8           | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a WIL save. If you pass, increase your max WIL by 1d4.                                                                              |
-| 9           | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max WIL, take the new result.                                                                                    |
-| 10          | Sundered: An appendage is torn off, crippled, or useless. (The Warden will tell you which.) Then make a WIL save. If you pass, increase your max WIL by 1d6.                                                              |
-| 11          | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP.                                                                         |
-| 12          | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
+| **损失的 HP** | **结果**                                                                                                                                                                                                                |
+| 1           | 持久伤疤：掷 1d6。1：脖子，2：双手，3：眼睛，4：胸部，5：双腿，6：耳朵。再掷 1d6。如果结果高于你的最大 HP，就采用新的结果。                                                                     |
+| 2           | 震撼一击：你头晕目眩、心神不宁。描述你如何重新集中精神。掷 1d6。如果结果高于你的最大 HP，就采用新的结果。                                                                           |
+| 3           | 击飞：你被打飞，脸朝下摔落，喘不过气。在休息几小时之前，你处于匮乏状态。然后掷 1d6，将结果加到你的最大 HP 上。                                                         |
+| 4           | 肢体骨折：掷 1d6。1-2：腿，3-4：手臂，5：肋骨，6：头骨。伤势治愈后，掷 2d6。如果结果高于你的最大 HP，就采用新的结果。                                                                         |
+| 5           | 染病：你感染了一种恶心又难受的疾病。痊愈后，掷 2d6。如果结果高于你的最大 HP，就采用新的结果。                                                           |
+| 6           | 重新定位的头部创伤：掷 1d6。1-2：STR，3-4：DEX，5-6：WIL。掷 3d6。如果结果高于你当前的属性，就采用新的结果。                                                                        |
+| 7           | 腿筋受伤：在得到认真治疗并休息之前，你几乎无法移动。恢复后，掷 3d6。如果结果高于你的最大 DEX，就采用新的结果。                                                              |
+| 8           | 失聪：在获得非凡的帮助前，你什么也听不见。无论如何，都要进行一次 WIL 豁免。如果成功，将你的最大 WIL 提高 1d4。                                                                              |
+| 9           | 脑部重创：你心灵中某个隐秘的部分被撞松了。掷 3d6。如果结果高于你的最大 WIL，就采用新的结果。                                                                                    |
+| 10          | 肢体断裂：一条肢体被撕掉、残废或失去作用（由守望者告诉你具体情况）。然后进行一次 WIL 豁免。如果成功，将你的最大 WIL 提高 1d6。                                                              |
+| 11          | 致命伤：你处于匮乏状态且无法行动。如果不接受治疗，你会在一小时内死亡。恢复后，掷 2d6，将新结果作为你的最大 HP。                                                                         |
+| 12          | 大限将至：死亡似乎近在咫尺，但你不知为何活了下来。如果你下一次重伤豁免失败，就会悲惨地死去。如果成功，掷 3d6。如果结果高于你的最大 HP，就采用新的结果。 |

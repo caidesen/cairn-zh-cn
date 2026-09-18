@@ -1,14 +1,12 @@
 ---
 layout: default
-title: Print Copies
-parent: Barebones
+title: 印刷版
+parent: 精简版
 nav_order: 2
 ---
 
-# Print Copies
+# 印刷版
 
-- There are multiple formats available on [Lulu](https://www.lulu.com/search?sortBy=RELEVANCE&page=1&q=barebones+cairn&pageSize=10&adult_audience_rating=00)
-- Offset prints available on the [Cairn Store](https://store.cairnrpg.com/products/cairn-barebones-edition)!
-- [DTRPG](https://www.drivethrurpg.com/en/product/554951/cairn-barebones-edition) is in progress.
-
-
+- [Lulu](https://www.lulu.com/search?sortBy=RELEVANCE&page=1&q=barebones+cairn&pageSize=10&adult_audience_rating=00) 提供多种格式。
+- [Cairn 商店](https://store.cairnrpg.com/products/cairn-barebones-edition)提供胶印版本！
+- [DTRPG](https://www.drivethrurpg.com/en/product/554951/cairn-barebones-edition) 版本正在制作中。

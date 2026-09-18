@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Second Edition
-parent: Localization
+title: 第二版
+parent: 本地化
 has_children: true
 ---
 
-# Second Edition
+# 第二版

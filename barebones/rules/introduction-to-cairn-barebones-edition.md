@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Introduction to Cairn Barebones Edition
-parent: Rules
-grand_parent: Barebones
+title: Cairn 精简版简介
+parent: 规则
+grand_parent: 精简版
 nav_order: 1
 ---
 
-# Introduction to Cairn Barebones Edition
+# Cairn 精简版简介
 
-Cairn Barebones Edition is an adventure game about traversing underground tunnels, decrepit castles, dark forests, and other dreadful places. Character creation is entirely random and fast, exploration is tense and rewarding, and combat is chaotic and lethal. The rules and procedures match those in the _Cairn Second Edition Player’s Guide_, but this version removes the implied setting and structured creation process. It assumes a generic fantasy world, embracing full randomness, much like the original _Cairn_. It retains full compatibility with _Cairn Second Edition_ adventures but offers an even more minimal, flexible framework for old-school play.
+Cairn 精简版是一款关于穿越地下隧道、破败城堡、幽暗森林和其他可怖之地的冒险游戏。角色创建完全随机且迅速，探索紧张而有回报，战斗混乱而致命。规则与流程和《_Cairn 第二版玩家指南_》一致，但本版本移除了其中暗示的背景设定与结构化创建流程。它假设一个泛用的奇幻世界，拥抱彻底的随机性，就像最初的《_Cairn_》一样。它完全兼容《_Cairn 第二版_》冒险，同时为老派游戏提供更加精简、灵活的框架。

@@ -1,133 +1,133 @@
 ---
 layout: default
-title: Barebones Edition Overview & Principles
-parent: Rules
-grand_parent: Barebones
+title: 精简版总览与原则
+parent: 规则
+grand_parent: 精简版
 nav_order: 2
 ---
 
-# Barebones Edition Overview & Principles
+# 精简版总览与原则
 
-## Overview
+## 总览
 
-### Neutrality
+### 中立
 
-The Warden's role is to act as a neutral arbiter and portray the rules, situations, non-player characters (NPCs), and narrative clearly.
+守望者的职责是作为中立的裁判，清晰地呈现规则、情境、非玩家角色（NPC）以及叙事。
 
-### Classless
+### 无职业
 
-A character's role or skills are not limited by a single class. Instead, the equipment they carry and their experiences define their specialty.
+角色的职责或技能不受单一职业限制。相反，角色携带的装备和自身经历会定义其专长。
 
-### Death
+### 死亡
 
-Characters may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner, but it is never random or without warning.
+角色可能很强大，但也容易受到各种形式的伤害。死亡始终近在咫尺，但它从来不会毫无征兆地随机发生。
 
-### Fiction First
+### 以虚构为先
 
-Dice do not always reflect an obstacle's difficulty or its outcome. Instead, success and failure are based on in-world elements and arbitrated by the Warden in dialogue with the players.
+骰子并不总能反映障碍的难度或行动的结果。相反，成功与失败取决于游戏世界中的实际因素，并由守望者与玩家通过对话共同裁定。
 
-### Growth
+### 成长
 
-Characters are changed through in-world advancement, gaining new skills and abilities by surviving dangerous events and overcoming obstacles.
+角色会因游戏世界中的经历而改变：他们通过在危险事件中幸存、克服障碍来获得新的技能与能力。
 
-### Player Choice
+### 玩家选择
 
-Players should always understand the reasons behind the choices they've made, and information about potential risks should be provided freely and frequently.
+玩家应始终理解自己为何做出某个选择；有关潜在风险的信息也应自由且反复地提供给他们。
 
-### Principles
+### 原则
 
-The Warden and the players each have guidelines that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.
+守望者和玩家各自都有一些指引。这些指引共同促成一种由批判性思考、探索和涌现式叙事定义的游戏体验。
 
-### Shared Objectives
+### 共同目标
 
-Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore the party is typically working together towards a common goal, as a team.
+玩家彼此信任，共同投入于共享的环境、角色目标和团队挑战。因此，队伍通常会作为一个整体，朝着共同目标协作前进。
 
-## Principles for Players
+## 玩家原则
 
-### Agency
+### 主动性
 
-- Attributes and related saves do not define your character. They are tools.
-- Don't ask only what your character would do; ask what you would do, too.
-- Be creative with your intuition, items, and connections.
+- 属性和相关豁免并不能定义你的角色，它们只是工具。
+- 不要只问“我的角色会怎么做”，也要问“我会怎么做”。
+- 运用你的直觉、物品和人际关系，发挥创造力。
 
-### Teamwork
+### 团队合作
 
-- Seek consensus from the other players before barreling forward.
-- Stay on the same page about goals and limits, respecting each other and accomplishing more as a group than alone.
+- 在贸然行动前，先寻求其他玩家的共识。
+- 就目标和底线保持一致，尊重彼此；作为团队协作时，你们能完成比单独行动更多的事。
 
-### Exploration
+### 探索
 
-- Asking questions and listening to detail is more useful than any stats, items, or skills you have.
-- Take the Warden's description without suspicion, but don't shy away from seeking more information.
-- There is no single correct way forward.
+- 提问并仔细听取细节，比你拥有的任何属性、物品或技能都更有用。
+- 不要怀疑守望者的描述，但也不要畏于寻求更多信息。
+- 前进的道路从来不止一条。
 
-### Talking
+### 交谈
 
-- Treat NPCs as if they were real people, and rely on your curiosity to safely gain information and solve problems.
-- You'll find that most people are interesting and will want to talk things through before getting violent.
+- 把 NPC 当作真实的人，用好奇心安全地获取信息并解决问题。
+- 你会发现，大多数人都很有趣；在诉诸暴力之前，他们也愿意先把事情谈清楚。
 
-### Caution
+### 谨慎
 
-- Fighting is a choice and rarely a wise one; consider whether violence is the best way to achieve your goals.
-- Try to stack the odds in your favor, and retreat when things seem unfavorable.
+- 战斗是一种选择，而且很少是明智的选择；想想暴力是否真的是达成目标的最佳方式。
+- 尽量让胜算站在自己这边；形势不利时就撤退。
 
-### Planning
+### 计划
 
-- Think of ways to avoid your obstacles through reconnaissance, subtlety, and fact-finding.
-- Do some research, and ask around about your objectives.
+- 通过侦察、隐秘行动和查明事实，想办法避开障碍。
+- 做些调查，向别人打听与你们目标有关的事情。
 
-### Ambition
+### 野心
 
-- Set goals, and use your meager means to take steps forward.
-- Expect nothing. Earn your reputation.
-- Keep things moving forward, and play to see what happens.
+- 设定目标，利用手头有限的资源一步步前进。
+- 不要期待不劳而获，靠自己挣得名声。
+- 让事情持续向前发展，带着“看看会发生什么”的心态进行游戏。
 
-## Principles for Wardens
+## 守望者原则
 
-### Information
+### 信息
 
-- Provide useful information about the game world as the characters explore it.
-- Players do not need to roll dice to learn about their circumstances.
-- Be helpful and direct with your answers to their questions.
-- Respond honestly, describe consistently, and always let them know they can keep asking questions.
+- 随着角色探索游戏世界，提供有用的信息。
+- 玩家无需掷骰就能了解自身处境。
+- 回答问题时要有帮助且直截了当。
+- 诚实回应、保持描述一致，并始终让玩家知道他们可以继续提问。
 
-### Difficulty
+### 难度
 
-- Default to context and realism rather than numbers and mechanics.
-- If something the players want to do is sincerely impossible, no roll will allow them to do it.
-- Is what the player describes and how they leverage the situation sensible? Let it happen.
-- Saves cover a great deal of uncertain situations and are often all that is necessary for risky actions.
+- 优先依据情境和现实逻辑，而非数字和规则机制。
+- 如果玩家想做的事确实不可能，任何掷骰都不能让它发生。
+- 玩家描述的行动，以及他们利用当前情境的方式，是否合理？如果合理，就让它发生。
+- 豁免可以覆盖大量不确定的情况，通常也是处理危险行动所需的全部规则。
 
-### Preparation
+### 准备
 
-- The game world is organic, malleable and random. It intuits and makes sharp turns.
-- Use random tables and generators to develop situations, not stories or plots.
-- NPCs remember what the PCs say and do, and how they affect the world.
-- NPCs don't want to die. Infuse their own self-interest and will to live into every personality.
+- 游戏世界是有机、可塑且随机的。它会自行发展，也会突然转向。
+- 使用随机表和生成器来发展情境，而不是编写故事或情节。
+- NPC 会记得 PC 说过和做过的事，也会记得他们如何影响了世界。
+- NPC 不想死。让每个 NPC 的自利动机和求生意志融入其性格。
 
-### Narrative Focus
+### 叙事重点
 
-- Emergent experience of play is what matters, not math or character abilities. Give the players weapon trainers and personal quests to facilitate improvement and specialization.
-- Pay attention to the needs and wants of the players, then put realistic opportunities in their path.
-- A dagger to your throat will kill you, regardless of your expensive armor and impressive training.
+- 重要的是涌现式的游戏体验，而不是数学计算或角色能力。提供武器训练者和个人任务，帮助玩家成长并形成专长。
+- 留意玩家的需求与愿望，然后把符合现实逻辑的机会放到他们面前。
+- 无论你的护甲多么昂贵、训练多么精良，匕首抵住喉咙都足以杀死你。
 
-### Danger
+### 危险
 
-- The game world produces real risk of pain and death for the player characters.
-- Telegraph serious danger to players when it is present. The more dangerous, the more obvious.
-- Put traps in plain sight and let the players take time to figure out a solution.
-- Give players opportunities to solve problems and interact with the world.
+- 游戏世界会给玩家角色带来真实的痛苦和死亡风险。
+- 危险出现时，要向玩家发出明确的信号。越危险，信号就应该越明显。
+- 把陷阱放在显眼处，让玩家有时间找出解决办法。
+- 给玩家解决问题、与世界互动的机会。
 
-### Treasure
+### 宝藏
 
-- A Treasure is specific to the environment from where it is recovered. It tells a story.
-- Treasure is highly valuable, almost always bulky, and rarely useful beyond its worth and prestige.
-- Relics are not Treasure, though they are useful and interesting.
-- Use Treasure as a lure to exotic locations under the protection of intimidating foes.
+- 宝藏与发现它的环境息息相关，它讲述着一个故事。
+- 宝藏价值极高，几乎总是笨重不便，除了价值和声望之外通常没什么用处。
+- 遗物不是宝藏，尽管它们有用且引人注目。
+- 用宝藏作为诱饵，把玩家引向由令人生畏的敌人守护的奇异地点。
 
-### Choice
+### 选择
 
-- Give players a solid choice to force outcomes when the situation lulls.
-- Use binary "so, A or B?" responses when their intentions are vague.
-- Work together using this conversational method to keep the game moving.
-- Ensure that the player character's actions leave their mark on the game world.
+- 当局面陷入停滞时，给玩家一个明确的选择，迫使结果出现。
+- 当玩家的意图模糊时，用二选一的方式回应：“那么，是 A 还是 B？”
+- 通过这种对话方式共同推进游戏，让事情持续发展。
+- 确保玩家角色的行动会在游戏世界中留下痕迹。

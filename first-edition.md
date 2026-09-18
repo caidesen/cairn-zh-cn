@@ -1,8 +1,8 @@
 ---
 layout: default
-title: First Edition
+title: 第一版
 nav_order: 9
 has_children: true
 ---
 
-# First Edition
+# 第一版

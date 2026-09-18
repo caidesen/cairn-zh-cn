@@ -1,29 +1,29 @@
 ---
 layout: default
-title: Barebones Generator
-parent: Tools
-grand_parent: Barebones
+title: 精简版生成器
+parent: 工具
+grand_parent: 精简版
 nav_order: 1
 nav_exclude: True
 search_exclude: True
 ---
 
-# Barebones Generator
+# 精简版生成器
 
-## Generator Template
+## 生成器模板
 
-**Name, Background**  
-X HP, [X Armor,] X STR, X DEX, X WIL  
-[Physique] physique, [Skin] skin, [Hair]-haired, [Face] face, [Speech] voice, [Clothing] clothes; [Virtue], but [Vice]. Age X. You have X GP.  
-**Gear (X/10 slots):** Rations (3 uses), Torch (3 uses), [Lantern], [Oil / Oil Can], [Background Gear], [Armor], [Weapon], [Additional Gear], [Spellbook: *Spellbook Name* / Scroll: *Spellbook Name* (*petty*)].  
-**Spellbook Name**: mechanical effect sentence. *spellbook's descriptive sentence*.  
+**姓名，背景**\
+X HP，[X 护甲，] X 力量，X 敏捷，X 意志\
+[体格] 体格，[肤色] 皮肤，[发色] 头发，[脸型] 面孔，[嗓音] 声音，[服装] 衣着；[美德]，但[恶习]。年龄 X 岁。你有 X 金币。\
+**装备（X/10 格）：** 口粮（3 次使用），火把（3 次使用），[提灯]，[油 / 油罐]，[背景装备]，[护甲]，[武器]，[额外装备]，[法术书：*法术书名称* / 卷轴：*法术书名称*（*轻巧*）]。\
+**法术书名称**：法术的机制效果句。*法术书的描述句。*\
 
 
-### Example
+### 示例
 
-#### **Briar Cobb, Witch**
+#### **布莱尔·科布，女巫**
 
 4 HP, 1 Armor, 10 STR, 11 DEX, 14 WIL
-Rugged physique, oily skin, frizzy-haired, sunken face, whispery voice, rancid clothes; cautious, but greedy. Age 35. You have 9 GP.  
-**Gear (6/10 slots):** Rations (3 uses), Torch (3 uses), Candle (3 uses, dim), Spellbook: *Push/Pull*, Shield (+1 Armor), Dagger (d6).  
-**Push/Pull**: An object is drawn toward you or shoved away with great force. *Any force against the book is comically amplified*.
+粗犷的体格，油腻的皮肤，蓬乱的头发，凹陷的面孔，细语般的声音，腐臭的衣着；谨慎，但贪婪。年龄 35 岁。你有 9 金币。\
+**装备（6/10 格）：** 口粮（3 次使用），火把（3 次使用），蜡烛（3 次使用，昏暗），法术书：*推/拉*，盾牌（+1 护甲），匕首（d6）。\
+**推/拉**：一件物品被强力拉向你，或被推离你。*施加在法术书上的任何力量都会被滑稽地放大*。
