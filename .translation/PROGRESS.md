@@ -142,4 +142,4 @@
 - 2026-09-18：第三、四批的 27 个文件通过 `git diff --check`；已补齐翻译后失效的内部锚点，并修复对话引用的 Markdown 斜体闭合。
 - 2026-09-18：第五、六批的 12 个文件通过 `git diff --check`；复核了标题、表格、链接和内部锚点，补回中文标题对应的英文锚点。
 - 2026-09-18：第七批的 `growth.md` 通过 `git diff --check` 与标题结构检查。
-- 2026-09-18：尝试运行 Jekyll 构建，但当前环境缺少 `Gemfile.lock` 要求的 Bundler 2.5.22；待补齐构建环境后复验。
+- 2026-09-18：构建子 agent 确认系统 Ruby 2.6 无法满足 `Gemfile.lock` 要求的 Bundler 2.5.22；在临时 Ruby 3.3.7 环境中已完成 Bundler 2.5.22 与 97 个 gem 的安装并通过 `bundle check`，但 Jekyll 3.9/Liquid 4.0.3 在 Ruby 3.3+ 遇到 `tainted?` 兼容错误，Ruby 3.4 还额外缺少 `csv`/`bigdecimal`。建议使用 Ruby 3.1.x + Bundler 2.5.22；全站构建仍需在兼容运行时复验，远程主题下载还受当前 SSL/网络环境影响。
