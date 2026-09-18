@@ -58,7 +58,7 @@ grand_parent: 第二版
 
 - 冒险队可以招募雇工，借助他们独特的技能、知识和训练来协助远征。
 - 要创建一名雇工，请从市场中的[每日雇工](/second-edition/players-guide/marketplace#hirelings-per-day)表选择合适的角色。为每项属性掷 3d6，为 HP 掷 1d6。给予他们与其身份相称的**装备**，然后在角色特征表上掷骰，进一步完善其形象。
-- 另一种方式是从[角色创建](/second-edition/players-guide/character-creation)指南中选择合适的[**背景**](/second-edition/players-guide/character-creation#backgrounds)和**姓名**。为该背景掷骰（或直接从表中选择），然后为口粮、金币、属性、HP 和年龄掷骰。
+- 另一种方式是从[角色创建](/second-edition/players-guide/character-creation)指南中选择合适的[**角色过往**](/second-edition/players-guide/character-creation#backgrounds)和**姓名**。为该角色过往掷骰（或直接从表中选择），然后为口粮、金币、属性、HP 和年龄掷骰。
 
 ## 命运骰
 

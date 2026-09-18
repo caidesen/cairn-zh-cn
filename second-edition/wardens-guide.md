@@ -34,7 +34,7 @@ has_toc: false
 
 ### 第三部分：建议与示例
 
-- [创建背景](creating-backgrounds)
+- [创建角色过往](creating-backgrounds)
 - [点状探索](pointcrawls)
 - *常见问题*
   - [示例队伍说明](about-the-example-party)

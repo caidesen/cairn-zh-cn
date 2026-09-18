@@ -1,11 +1,11 @@
 ---
-title: 逐巫者
+title: 猎巫人
 layout: default
-parent: 背景
+parent: 角色过往
 grand_parent: 第二版
 ---
 
-# 逐巫者
+# 猎巫人
 
 > 你不过是公正之手上一个不会出错的指头。你前往他人畏惧踏足之地，坚定不移，毫发无损。
 

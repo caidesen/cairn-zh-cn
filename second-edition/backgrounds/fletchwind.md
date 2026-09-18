@@ -1,11 +1,11 @@
 ---
-title: 逐风者
+title: 弓箭手
 layout: default
-parent: 背景
+parent: 角色过往
 grand_parent: 第二版
 ---
 
-# 逐风者
+# 弓箭手
 
 > 你从远处出击，但这并不意味着你是懦夫。你是一名音乐家，弓弦之歌只是警告，唱出快速死亡的无声承诺。
 

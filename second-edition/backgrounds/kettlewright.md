@@ -1,11 +1,11 @@
 ---
-title: 炉匠
+title: 锅匠
 layout: default
-parent: 背景
+parent: 角色过往
 grand_parent: 第二版
 ---
 
-# 炉匠
+# 锅匠
 
 > 你因熔融金属的气味和锡器的叮当声而闻名。你不只是商人，更是火与金属的工匠。
 

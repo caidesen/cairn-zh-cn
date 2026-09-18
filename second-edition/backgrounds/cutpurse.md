@@ -1,7 +1,7 @@
 ---
 title: 扒手
 layout: default
-parent: 背景
+parent: 角色过往
 grand_parent: 第二版
 ---
 

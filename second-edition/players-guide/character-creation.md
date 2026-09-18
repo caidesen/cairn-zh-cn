@@ -7,27 +7,27 @@ grand_parent: 第二版
 
 # 角色创建
 
-## 掷骰或选择背景
+## 掷骰或选择角色过往
 
-- 首先，从下方的[背景](#backgrounds)表中掷骰或选择一个，并记下页码。接下来的几步会用到该页的信息。
+- 首先，从下方的[角色过往](#backgrounds)表中掷骰或选择一个，并记下页码。接下来的几步会用到该页的信息。
 - 从可用名单中选择一个姓名，然后记录角色的每件初始物品。如何记录物品，请参阅[物品栏](#inventory)和[物品栏格](#inventory-slots)。
-- 在背景附带的每张表上掷骰。根据每次结果，记录角色获得的物品、技能或能力。有些背景还会要求你查阅[市场](/second-edition/players-guide/marketplace)中的表。
+- 在该角色过往附带的每张表上掷骰。根据每次结果，记录角色获得的物品、技能或能力。有些角色过往还会要求你查阅[市场](/second-edition/players-guide/marketplace)中的表。
 
-## 背景 {#backgrounds}
+## 角色过往 {#backgrounds}
 
 |         |                                                     |        |                                                 |
 | ------- | --------------------------------------------------- | ------ | ----------------------------------------------- |
-| **d20** | **背景**                                              |        |                                                 |
-| **1**   | [金匠](/second-edition/backgrounds/aurifex)           | **11** | [半巫](/second-edition/backgrounds/half-witch)    |
-| **2**   | [理发外科医](/second-edition/backgrounds/barber-surgeon) | **12** | [逐巫者](/second-edition/backgrounds/hexenbane)    |
-| **3**   | [驯兽师](/second-edition/backgrounds/beast-handler)    | **13** | [杂耍艺人](/second-edition/backgrounds/jongleur)   |
-| **4**   | [骨守](/second-edition/backgrounds/bonekeeper)       | **14** | [炉匠](/second-edition/backgrounds/kettlewright)  |
-| **5**   | [扒手](/second-edition/backgrounds/cutpurse)          | **15** | [边境卫](/second-edition/backgrounds/marchguard)  |
-| **6**   | [荒野守望者](/second-edition/backgrounds/fieldwarden)   | **16** | [江湖骗子](/second-edition/backgrounds/mountebank)  |
-| **7**   | [逐风者](/second-edition/backgrounds/fletchwind)       | **17** | [斥候骑手](/second-edition/backgrounds/outrider)    |
+| **d20** | **角色过往**                                              |        |                                                 |
+| **1**   | [奥术工匠](/second-edition/backgrounds/aurifex)           | **11** | [半女巫](/second-edition/backgrounds/half-witch)    |
+| **2**   | [外科医生](/second-edition/backgrounds/barber-surgeon) | **12** | [猎巫人](/second-edition/backgrounds/hexenbane)    |
+| **3**   | [驯兽师](/second-edition/backgrounds/beast-handler)    | **13** | [巡回艺人](/second-edition/backgrounds/jongleur)   |
+| **4**   | [守墓人](/second-edition/backgrounds/bonekeeper)       | **14** | [锅匠](/second-edition/backgrounds/kettlewright)  |
+| **5**   | [扒手](/second-edition/backgrounds/cutpurse)          | **15** | [边境守卫](/second-edition/backgrounds/marchguard)  |
+| **6**   | [农田守卫](/second-edition/backgrounds/fieldwarden)   | **16** | [江湖骗子](/second-edition/backgrounds/mountebank)  |
+| **7**   | [弓箭手](/second-edition/backgrounds/fletchwind)       | **17** | [骑马护卫](/second-edition/backgrounds/outrider)    |
 | **8**   | [弃儿](/second-edition/backgrounds/foundling)         | **18** | [潜行者](/second-edition/backgrounds/prowler)      |
-| **9**   | [采菌人](/second-edition/backgrounds/fungal-forager)   | **19** | [溪流行者](/second-edition/backgrounds/rill-runner) |
-| **10**  | [绿智者](/second-edition/backgrounds/greenwise)       | **20** | [抄写员](/second-edition/backgrounds/scrivener)    |
+| **9**   | [采菌人](/second-edition/backgrounds/fungal-forager)   | **19** | [河湖旅人](/second-edition/backgrounds/rill-runner) |
+| **10**  | [森林学者](/second-edition/backgrounds/greenwise)       | **20** | [抄写员](/second-edition/backgrounds/scrivener)    |
 
 ## 属性、命中防护与特征
 
