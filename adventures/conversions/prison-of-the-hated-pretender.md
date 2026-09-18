@@ -5,51 +5,51 @@ grand_parent: Adventures
 title: Prison of the Hated Pretender
 ---
 
-# Prison of the Hated Pretender
-- Based on the [original adventure](https://www.drivethrurpg.com/product/333389/Prison-of-the-Hated-Pretender) written by [Gus L.](http://dungeonofsigns.blogspot.com/) and published by [Hydra Cooperative](http://www.hydraco-op.com/).
-- In general, very few changes are necessary to run the adventure. The bulk of this conversion is NPC stat blocks and item conversions.
-- Any rooms not mentioned here can be run as-written.
+# 受憎篡位者的牢狱 {#prison-of-the-hated-pretender}
+- 根据[原冒险](https://www.drivethrurpg.com/product/333389/Prison-of-the-Hated-Pretender)改编；原作者为 [Gus L.](http://dungeonofsigns.blogspot.com/)，出版方为 [Hydra Cooperative](http://www.hydraco-op.com/)。
+- 总体而言，运行本冒险不需要太多改动。本转换的主要内容是 NPC 属性数据和物品转换。
+- 此处没有提到的房间可以照原文运行。
 
-## Stat Blocks
+## 属性数据 {#stat-blocks}
 
-### The Hated Pretender
-6 HP, 1 Armor, 15 STR, 8 DEX, 12 WIL, claw x2 (d6+d6)
-- Undead: Immune to charms, sleep, and mind affecting spells.
-- Immune to mundane weapons. Only damaged by magic, silver, fire, and acid.
-- If body is not completely destroyed, rises again the next morning.
+### 受憎篡位者 {#the-hated-pretender}
+6 HP, 1 Armor, 15 STR, 8 DEX, 12 WIL, 利爪 x2（d6+d6）
+- 不死：免疫魅惑、睡眠和影响心智的法术。
+- 免疫普通武器。只有魔法、银、火焰和酸才能伤害它。
+- 如果躯体没有被彻底摧毁，它会在第二天早晨再次起身。
 
-### Phantasms of Vengeance
-3 HP, 3 Armor, 8 STR, 6 DEX, 15 WIL, touch (d4, ignores armor)
-- Only corporeal in bright light. Avoids darkness, which causes them to disappear completely.
-- Unstable in dim light; they have 0 armor and check Morale every time any of their group dies.
+### 复仇幻灵 {#phantasms-of-vengeance}
+3 HP, 3 Armor, 8 STR, 6 DEX, 15 WIL, 触碰（d4，忽略 Armor）
+- 只有在明亮光线中才拥有实体。它们会躲避黑暗；黑暗会让它们彻底消失。
+- 在昏暗光线中不稳定；每当其团体中有成员死亡，它们就会失去 Armor，并进行一次士气检定。
 
-## Rooms
+## 房间 {#rooms}
 
-### Area 1: The Face of the Tower
-- **Climbing:** Climbing the tree and tower needs a DEX save if the climber doesn’t have an appropriate background or tool.
+### 区域 1：塔楼外貌 {#area-1-the-face-of-the-tower}
+- **攀爬：**如果攀爬者没有合适的背景或工具，攀爬树木和塔楼需要进行 DEX 豁免。
 
-### Area 10: Crypt
-***Important:*** Only modified or re-statted items are mentioned here. There are additional items in the adventure not mentioned here.
-- **Detritus and Bones:** The grimoire is now four mold-speckle books instead of one (see Appendix).
-- **Detailed Mosaic:** Falling in deals 1d6 STR damage.
-- **Mummified Corpses:** Silver Fishscale Armor (2 armor, bulky), bronze buckler (+1 armor), steel mace (d8 damage), silver blessed daggers (d6 damage), blackened leather armor (1 armor, bulky)
-- **Marble Sarcophagi:** Gold etched mace (d8 damage)
-- **Ornate Sarcophagus**
-    - **Bars:** Bars can be bent with up to three characters with at least 30 points of STR collectively, and an appropriate setup allowing them to pool their strength. Attempts with insufficient strength or alternative approaches are at the GM’s discretion. The original adventure allows under-strength attempts to have a small chance of success, which can be represented with a STR save or a partial effect.
-    - **Trap:** Triggering the trap causes DEX save or take 1d6 STR damage.
-    - **Loot:** Bronze plate (3 armor, bulky)
+### 区域 10：墓穴 {#area-10-crypt}
+***重要：***这里只提到改动过或重新设定属性的物品。冒险中还有其他未在此处提及的物品。
+- **残骸与骨头：**魔法书现在分成四本发霉斑驳的书，而非一本（见附录）。
+- **精细马赛克：**掉进去会造成 1d6 STR 伤害。
+- **木乃伊尸体：**银制鱼鳞甲（2 armor，笨重）、青铜圆盾（+1 armor）、钢制钉头锤（d8 伤害）、受祝福的银匕首（d6 伤害）、发黑的皮甲（1 armor，笨重）
+- **大理石石棺：**金刻钉头锤（d8 伤害）
+- **华丽石棺**
+    - **铁条：**最多三名角色可以合计拥有至少 30 点 STR，并在具备合适的发力条件、能够合力的情况下弯曲铁条。力量不足的尝试或其他做法由守望者裁量。原冒险允许力量不足的尝试有较小的成功机会，可以用 STR 豁免或部分效果来表示。
+    - **陷阱：**触发陷阱后进行 DEX 豁免，否则受到 1d6 STR 伤害。
+    - **战利品：**青铜板甲（3 armor，笨重）
 
-## Appendix
+## 附录 {#appendix}
 
-### Blood Rubies
-- Swallowing a ruby recovers 1 STR damage, instead of 1 HP.
+### 血红宝石 {#blood-rubies}
+- 吞下红宝石可恢复 1 点 STR 伤害，而非 1 HP。
 
-### Pretender’s Grimoire
-- The Pretender’s Grimoire is split into four spellbooks corresponding to its original spells.
-    - _Charm Person_: (See [_Charm_](/cairn-srd#charm)) A creature you can see treats you as a friend.
-    - _Hold Portal_: A door, gate, window, or other portal is held magically shut.
-    - _Light_: (See [_Illuminate_](/cairn-srd/#illuminate)) A floating light moves as you command.
-    - _Levitate_: (See [_Liquid Air_](/cairn-srd/#liquid-air)) The air around you becomes swimmable.
+### 篡位者魔法书 {#pretenders-grimoire}
+- 篡位者魔法书分成四本法术书，分别对应其原本的法术。
+    - _魅惑人类_：参见 [_魅惑_](/cairn-srd#charm)：一个你能看见的生物会把你当作朋友。
+    - _保持门户_：门、闸、窗或其他门户会被魔法关牢。
+    - _光_：参见 [_照明_](/cairn-srd/#illuminate)：浮动的光源会按照你的命令移动。
+    - _漂浮_：参见 [_液态空气_](/cairn-srd/#liquid-air)：你周围的空气变得可以游泳通过。
 
-### Silver Fishscale Armor
-- 2 armor, bulky. The magical effect remains as-written.
+### 银制鱼鳞甲 {#silver-fishscale-armor}
+- 2 armor，笨重。魔法效果照原文保留。

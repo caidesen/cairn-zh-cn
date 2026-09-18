@@ -5,182 +5,182 @@ grand_parent: Adventures
 title: Rot King's Sanctum
 ---
 
-# Rot King's Sanctum 
-- Based on the [The Rot King's Sanctum](https://emielboven.itch.io/rot-king) by [Emiel Bovien](https://emielboven.itch.io/rot-king).
-- Conversion by [Pat Eyler](https://footofthemountainadventures.blogspot.com/)
+# 腐王圣所 {#rot-kings-sanctum}
+- 根据 [Emiel Bovien](https://emielboven.itch.io/rot-king) 创作的 [The Rot King's Sanctum](https://emielboven.itch.io/rot-king) 改编。
+- 转换：[Pat Eyler](https://footofthemountainadventures.blogspot.com/)
 
-## General Notes
-- I created this conversion using both the DURF and OSR editions of the Rot King's Sanctum so I could run this as a trial adventure for a potential upcoming Cairn campaign.  Yochai Gal was very helpful in improving this conversion.
-- Stats for *Melvin* are from the Gnome and stats for the *Shadow* in the Monsters list on the [Cairn RPG Website](https://cairnrpg.com/resources/monsters/).
-- Stats for *Wererat* are based on those created by @mapolon on the Cairn RPG Discord
+## 总体说明 {#general-notes}
+- 我结合了《腐王圣所》的 DURF 版和 OSR 版制作这份转换，以便将其作为未来 Cairn 战役的试跑冒险。Yochai Gal 在改进这份转换时提供了很大帮助。
+- *Melvin* 的属性取自怪物列表中的*地精*，*暗影*的属性取自 [Cairn RPG 网站](https://cairnrpg.com/resources/monsters/)。
+- *鼠人*的属性基于 @mapolon 在 Cairn RPG Discord 上制作的版本。
 
-## Monsters or NPCs
+## 怪物或 NPC {#monsters-or-npcs}
 
-### Corpse Crawler
+### 尸虫 {#corpse-crawler}
 
-8 HP, 9 STR, 10 DEX, 8 WIL, tentacles (d8+d8 _blast_)
+8 HP, 9 STR, 10 DEX, 8 WIL, 触手（d8+d8 _爆发_）
 
-- **Critical Damage**: target is paralyzed, to be devoured later
-- Can walk on walls, ceilings, etc.
+- **重伤：**目标被麻痹，留待之后吞食。
+- 能在墙壁、天花板等表面行走。
 
-### Cultist
+### 邪教徒 {#cultist}
 
-4 HP,  11 STR, 10 DEX, 9 WIL, dagger (d6)
+4 HP,  11 STR, 10 DEX, 9 WIL, 匕首（d6）
 
-### Cultist Guard
+### 邪教徒卫兵 {#cultist-guard}
 
-4 HP, 1 Armor, 12 STR, 10 DEX, 11 WIL, mace (d8)
+4 HP, 1 Armor, 12 STR, 10 DEX, 11 WIL, 钉头锤（d8）
 
-### Fly Swarm
+### 苍蝇群 {#fly-swarm}
 
-2 HP, 6 STR, 12 DEX, 11 WIL, bite (d8 _blast_) _detachment_
+2 HP, 6 STR, 12 DEX, 11 WIL, 撕咬（d8 _爆发_）_分队_
 
-- Can only be harmed by fire, smoke, or spells.
+- 只有火焰、烟雾或法术才能伤害它。
 
-### Melvin (escaping Prisoner)
+### Melvin（逃跑中的囚犯） {#melvin-escaping-prisoner}
 
-2 HP, 6 STR, 12 DEX, 10 WIL, 
+2 HP, 6 STR, 12 DEX, 10 WIL,
 
-- Short humanoid with long nose and ears. Live underground or deep in forests.
-- Intelligent tinker, loves messing with any kind of mechanism. Can easily be convinced by the promise of something novel or uncommon.
-- Can understand and communicate with small mammals like moles or squirrels.
+- 个子矮小的人形生物，鼻子和耳朵很长。生活在地下或深林中。
+- 聪明的工匠，喜欢摆弄各种机关。只要许诺给他新奇或罕见的东西，就很容易说服他。
+- 能理解并与鼹鼠、松鼠等小型哺乳动物交流。
 
-### Moldy Skeletons
+### 发霉的骷髅 {#moldy-skeletons}
 
-4 HP, 1 Armor, 9 STR, 13 DEX, 10 WIL, rake (d6)
+4 HP, 1 Armor, 9 STR, 13 DEX, 10 WIL, 耙击（d6）
 
-- Immune to sleep or charm spells
-- When saving for critical damage (regardless of the outcome) there is 3-in-6 chance they release a ***\*cloud of spores\**** against their assailant.
--  **Cloud of Spores**: Victim makes a STR save or dies within 6 rounds  
+- 免疫睡眠或魅惑法术。
+- 进行重伤豁免时（无论结果如何），它们有 3-in-6 的概率向攻击者释放一团***\*孢子云\****。
+- **孢子云：**受害者进行 STR 豁免，否则在 6 轮内死亡。
 
-### Plague Priest
+### 瘟疫祭司 {#plague-priest}
 
-6 HP, 2 Armor, 10 STR, 10 DEX, 11 WIL, mace (d8)
+6 HP, 2 Armor, 10 STR, 10 DEX, 11 WIL, 钉头锤（d8）
 
-- **Spellbook**: _Nithis' Rot_: Target's flesh rots away in one area (1d4 STR loss)
+- **法术书：**_Nithis 的腐烂_：目标某一处的血肉腐烂脱落（失去 1d4 STR）。
 
-### Rat Swarm
+### 鼠群 {#rat-swarm}
 
-4 HP, 6 STR, 12 DEX, 11 WIL, bite (d3) _detachment_
+4 HP, 6 STR, 12 DEX, 11 WIL, 撕咬（d3）_分队_
 
-- Afraid of fire
+- 害怕火焰。
 
-### Rot King
+### 腐王 {#rot-king}
 
-12 HP, 2 Armor, 15 STR, 10 DEX, 11 WIL, king's mace (d8)
+12 HP, 2 Armor, 15 STR, 10 DEX, 11 WIL, 王之钉头锤（d8）
 
-- Summon Swarm - 1d4 times per day, the Rot King can release a *Fly Swarm* from their body.
+- 召唤群落——腐王每天可以使用 1d4 次，从体内释放一群*苍蝇群*。
 
-- **Spells (1x each)**:
-  - _Cause Wounds_: Target loses d8 STR. Grasp only.
-  - _Grasp of Yahzahar_: Target is grappled by a shadowy hand and held in place for 1d4 rounds. A STR save is required to escape before the spell ends.
-  - _Swarm Form_: Transofmrs into a swarm of bugs, rats or bats.
-  
-### Shadow
+- **法术（每种 1 次）：**
+  - _造成伤口_：目标失去 d8 STR。只能抓住目标施放。
+  - _Yahzahar 之握_：目标被暗影之手擒抱并固定 1d4 轮。法术结束前，必须进行 STR 豁免才能挣脱。
+  - _群落形态_：变成由虫、鼠或蝙蝠组成的群落。
 
-6 HP, 8 STR, 10 DEX, 14 WIL, draining touch (d6, ignores armor) 
+### 暗影 {#shadow}
 
-- Incorporeal monsters that look like animated shadows.
-- Unharmed by mundane attacks, sleep or mind control.
-- **Critical Damage**: Target loses another d4 STR, if reduced to 0 STR, they become a shadow.
+6 HP, 8 STR, 10 DEX, 14 WIL, 吸取触碰（d6，忽略 Armor）
 
-### Wererat
+- 看起来像活化影子的无形怪物。
+- 不受普通攻击、睡眠或心灵控制伤害。
+- **重伤：**目标额外失去 d4 STR；如果 STR 降至 0，则变成暗影。
 
-**Wererat:** 6 HP, 11 STR, 14 DEX, 8 WIL, claws (d6+d6), bite (d8)
+### 鼠人 {#wererat}
 
-- **Critical Damage** (from a were rat bite) contract lycanthropy.
-- Can summon a rat swarm once per day, the rats arrive in 1d4 rounds.
-- Can appear as either a human or a humanoid rat.
-- Mundane attacks are *impaired* against a wererat, but weapons made of silver are *enhanced*.
+**鼠人：**6 HP, 11 STR, 14 DEX, 8 WIL, 利爪（d6+d6），撕咬（d8）
 
+- **重伤**（鼠人撕咬造成）：感染兽化症。
+- 每天一次，可以召唤一群鼠；老鼠会在 1d4 轮后到达。
+- 可以在人类和鼠人形态之间变化。
+- 普通攻击对鼠人受到_削弱_，但银制武器对它造成_强化_伤害。
 
-## Locations
 
-### Room 1
-#### Pressure Plate/Gas Trap
-- Paralyzing gas, WIL save or be paralyzed for 1d4 turns.
+## 地点 {#locations}
 
-### Room 4
-#### Mace (d8, see note)
-- _Enhanced_ damage against non-magical opponents
+### 房间 1 {#room-1}
+#### 压力板/毒气陷阱 {#pressure-plate-gas-trap}
+- 麻痹毒气：WIL 豁免，否则麻痹 1d4 轮。
 
-#### Ring of Spell Turning
-- The wearer can redirect a spell that strikes them back on the caster. Treat this as casting a spell under difficult conditions.  
+### 房间 4 {#room-4}
+#### 钉头锤（d8，见注释） {#mace-d8-see-note}
+- 对非魔法对手造成_强化_伤害。
 
-### Room 5
-#### Healing Mushroom
-- Mushrooms are deadly (STR save or die). Eating a cooked mushroom heals a point of STR. 
+#### 反法术戒指 {#ring-of-spell-turning}
+- 佩戴者可以将击中自己的法术反射回施法者。视为在困难条件下施放法术。
 
-### Room 8
-#### dripping acid
-- armor exposed to the acid will be reduced by 1 pt
-- creatures exposed to the acid will take 3 pts of damage
+### 房间 5 {#room-5}
+#### 治疗蘑菇 {#healing-mushroom}
+- 蘑菇有致命毒性（STR 豁免，否则死亡）。食用煮熟的蘑菇可恢复 1 点 STR。
 
-### Room 10
-#### Potion of Speed
-- Gain a second action each combat round, lasts 1 turn, 1 use
+### 房间 8 {#room-8}
+#### 滴落的酸液 {#dripping-acid}
+- 暴露在酸液中的护甲会减少 1 点。
+- 暴露在酸液中的生物会受到 3 点伤害。
 
-#### Potion of Smoke Form
-- As the spell, lasts 1 turn
+### 房间 10 {#room-10}
+#### 速度药剂 {#potion-of-speed}
+- 每个战斗轮获得第二个行动，持续 1 轮，只能使用 1 次。
 
-#### Spellbook of Magic Dampener
-- Nearby magical effects are reduced in potency for one hour.
+#### 烟雾形态药剂 {#potion-of-smoke-form}
+- 效果同法术，持续 1 轮。
 
-#### Spellbook of Fireball
+#### 魔法抑制剂法术书 {#spellbook-of-magic-dampener}
+- 附近的魔法效果在 1 小时内威力降低。
 
-- Throw an exploding ball of fire that does 1d6 STR damage to an area.
+#### 火球术法术书 {#spellbook-of-fireball}
 
-#### Magic Arrrows
-- +1 damage, 3 usage dots, roll a d6 on use, on a 6 mark a dot
+- 投掷一枚爆炸的火球，对一个区域造成 1d6 STR 伤害。
 
-#### Mithril Mask
-- As the spell Spider Climb.
+#### 魔法箭矢 {#magic-arrrows}
+- +1 伤害，3 个使用点；使用时掷 d6，掷出 6 就标记一个点。
 
-#### Sleeping Powder Trap
-- Str Save or fall asleep for 2d4 turns
+#### 秘银面具 {#mithril-mask}
+- 效果同法术“蛛行术”。
 
-### Room 12
-#### Pool of black liquid
-- Creatures take 1d3 STR per round while touching the liquid. If reduced to 0 STR, they die and turn into black liquid that is drawn into the pool. 
+#### 催眠粉陷阱 {#sleeping-powder-trap}
+- STR 豁免，否则睡着 2d4 轮。
 
-### Room 14
-#### Potion of Cure Wounds
-- as the spell
+### 房间 12 {#room-12}
+#### 黑色液体池 {#pool-of-black-liquid}
+- 接触液体时，生物每轮受到 1d3 STR 伤害。如果 STR 降至 0，它会死亡并变成黑色液体，被吸入池中。
 
-#### Magic Dagger
-- +1 damage
+### 房间 14 {#room-14}
+#### 治疗伤口药剂 {#potion-of-cure-wounds}
+- 效果同法术。
 
-### Room 15
-#### d6 scrolls
-1. Sleep
-2. Scry
-3. Magic Damper
-4. Raise Spirit
-5. Deafen
-6. Fireball (see above)
+#### 魔法匕首 {#magic-dagger}
+- +1 伤害。
 
-#### Book of the Will of Nithis
+### 房间 15 {#room-15}
+#### d6 张卷轴 {#d6-scrolls}
+1. 睡眠
+2. 占卜
+3. 魔法抑制
+4. 唤起灵体
+5. 震聋
+6. 火球术（见上文）
 
-- WIL save to read. On a fail lose 1d6 WIL. On a success gain 1 WIL (permanent).
+#### Nithis 意志之书 {#book-of-the-will-of-nithis}
 
-### Room 16
+- 阅读时进行 WIL 豁免。失败则失去 1d6 WIL；成功则永久获得 1 WIL。
 
-#### Lightning Trap
+### 房间 16 {#room-16}
 
-- Shoots lightning bolts at each creature touching the sarcophagus, dealing 2d6 STR damage.
+#### 闪电陷阱 {#lightning-trap}
 
-#### Rod of Cancellation
+- 向接触石棺的每个生物发射闪电，造成 2d6 STR 伤害。
 
-- Drains the magic from one item it touches then crumbles into dust.
+#### 取消法杖 {#rod-of-cancellation}
 
-#### Scroll of Lighting Strike
+- 吸走它接触的一件物品中的魔法，然后碎成尘埃。
 
-- Electricity flings from your fingertips doing 1d12 damage (blast) in a line.
+#### 闪电打击卷轴 {#scroll-of-lighting-strike}
 
-#### Scroll of Animate Object
+- 电流从你的指尖射出，沿直线造成 1d12 伤害（爆发）。
 
-- An object obeys your commands as best it can.
+#### 活化物体卷轴 {#scroll-of-animate-object}
 
-#### Scroll of Elemental Wall
+- 一件物体会尽力服从你的命令。
 
-- You summon a wall of fire, ice, water, or stone up to 20ft wide.
+#### 元素墙卷轴 {#scroll-of-elemental-wall}
+
+- 召唤一道最多 20 英尺宽的火、冰、水或石墙。

@@ -7,261 +7,261 @@ title: Neverland
 
 # Neverland
 
-- Based on the [Neverland](https://publishing.andrewsmcmeel.com/book/neverland-a-fantasy-role-playing-setting/) by [Andrew Kolb](https://www.kolbisneat.com/).
-- Conversion by [David Schirduan](https://www.technicalgrimoire.com/].
+- 根据 [Neverland](https://publishing.andrewsmcmeel.com/book/neverland-a-fantasy-role-playing-setting/)（作者：[Andrew Kolb](https://www.kolbisneat.com/)）改编。
+- 转换：[David Schirduan](https://www.technicalgrimoire.com/].
 
-## General Notes
-- I tried to be as consistent as possible when converting creatures. But some of the 5e stats are a little silly, so you will probably want to tweak things a bit. E.g. Peter Pan probably doesn't need crazy high stats.
-- These stats don't include the FULL statblock, please consult the text for additional abilities and details.
+## 总体说明 {#general-notes}
+- 转换生物时，我尽量保持了一致性。但部分 5e 属性有些荒谬，所以你可能需要稍作调整。例如，Peter Pan 可能不需要高得离谱的属性。
+- 这些属性并不包含完整的属性数据，请查阅正文以了解额外能力和细节。
 
-## Creatures
+## 生物 {#creatures}
 
-**Abhartachs** 4 HP, 1 Armor, 11 STR, 10 DEX, 7 WIL, bite (d6+1) \
-Haunted looking dwarves w/ dead skin, wide eyes 
+**Abhartach** 4 HP, 1 Armor, 11 STR, 10 DEX, 7 WIL, 撕咬（d6+1） \
+看起来像闹鬼的矮人：死皮，双眼睁大。
 
 **Alp-Luachras** 1 HP, 6 STR, 7 DEX, 5 WIL \
-Food being consumed by invisible beast!
+正被隐形野兽吃掉的食物！
 
-**Bath Bears** 8 HP, 3 Armor, 16 STR, 8 DEX, 6 WIL, claws (2d8) \
-Large rocky creature, hides well
+**浴熊** 8 HP, 3 Armor, 16 STR, 8 DEX, 6 WIL, 利爪（2d8） \
+巨大的岩石生物，很擅长隐藏。
 
-**Blue-Billed Pelicans** 3 HP, 7 STR, 9 DEX, 6 WIL, beak (d6+2)
+**蓝嘴鹈鹕** 3 HP, 7 STR, 9 DEX, 6 WIL, 鸟喙（d6+2）
 
-**Blue Men** 3 HP, 8 STR, 6 DEX, 14 WIL, claw (d8) \
-Wearing soggy black suit. Hate boats and sailors. \
-Speaks a rhyme, and the target must rhyme along.
+**蓝人** 3 HP, 8 STR, 6 DEX, 14 WIL, 利爪（d8） \
+穿着湿漉漉的黑色套装。憎恨船只和水手。 \
+它说出一段押韵的话，目标必须跟着押韵。
 
-**Bog Bodies** 7 HP, 12 STR, 5 DEX, 5 WIL, claws (2d8) \
-Soaked zombie. Grass doll in chest. \
-Paralyzing Shriek
+**沼泽尸** 7 HP, 12 STR, 5 DEX, 5 WIL, 利爪（2d8） \
+浸透水的僵尸。胸腔里有一个草娃娃。 \
+麻痹尖啸。
 
-**Brollachan** 9 HP, 18 STR, 8 DEX, 8 WIL, engulf (2d8) \
-Hear or see it, and get engulfed
+**Brollachan** 9 HP, 18 STR, 8 DEX, 8 WIL, 吞噬（2d8） \
+听见或看见它，就会被吞噬。
 
-**Cait Sith** 6 HP, 6 STR, 6 DEX, 14 WIL, claw (d4) \
-Fat cat with intelligence in its eyes.
+**Cait Sith** 6 HP, 6 STR, 6 DEX, 14 WIL, 利爪（d4） \
+肥胖的猫，眼中闪烁着智慧。
 
-**Cassowars** 6 HP, 1 Armor, 13 STR, 12 DEX, 8 WIL, talon (d10) \
-Feathered velociraptors. Big dumb eyes.
+**鹤鸵** 6 HP, 1 Armor, 13 STR, 12 DEX, 8 WIL, 爪（d10） \
+长着羽毛的迅猛龙。双眼又大又呆。
 
-**The Clurichaun** 5 HP, 11 STR, 6 DEX, 14 WIL, punch (2d6) \
-If Santa Claus brewed beer. \
-Can compel truth and charm targets.
+**Clurichaun** 5 HP, 11 STR, 6 DEX, 14 WIL, 拳头（2d6） \
+如果圣诞老人酿造啤酒。 \
+可以强迫目标说真话并魅惑目标。
 
-**Corn Dollys** 1 HP, 4 STR, 4 DEX, 6 WIL \
-Small straw doll that moves like a person. \
-Redirect damage to its creator.
+**玉米娃娃** 1 HP, 4 STR, 4 DEX, 6 WIL \
+会像人一样活动的小草人。 \
+将伤害转移给创造者。
 
-**Croc Spawn** 4 HP, 1 Armor, 14 STR, 12 DEX, 8 WIL, bite (d10) \
-Jaws only open if it hears an alarm. \
-Its eye is a ticking clock face.
+**鳄崽** 4 HP, 1 Armor, 14 STR, 12 DEX, 8 WIL, 撕咬（d10） \
+只有听到警报声时，颚部才会张开。 \
+它的眼睛是滴答作响的钟面。
 
-**The Croc** 24 HP, 3 Armor, 40 STR, 20 DEX, 30 WIL, Deadly \
-As big as a house. And ornery.
+**鳄鱼** 24 HP, 3 Armor, 40 STR, 20 DEX, 30 WIL, Deadly \
+和房子一样大，而且脾气暴躁。
 
-**The Cunning Folk** 7 HP, 12 STR, 7 DEX, 14 WIL, dagger (d4) \
-Old souls with a spark of youth; animal companion
+**Cunning Folk** 7 HP, 12 STR, 7 DEX, 14 WIL, 匕首（d4） \
+拥有年轻火花的古老灵魂；带有动物伙伴。
 
-**Dandy Dogs** 5 HP, 1 Armor, 11 STR, 13 DEX, 7 WIL, bite (d6) \
-Damage can only be healed with fresh water \
-Black dogs that hover above the ground
+**花花公子犬** 5 HP, 1 Armor, 11 STR, 13 DEX, 7 WIL, 撕咬（d6） \
+只有新鲜水才能治愈伤害。 \
+悬浮在地面上方的黑狗。
 
-**Dagger-Toothed Tigers** 4 HP, 13 STR, 12 DEX, 6 WIL, claws (2d4) \
-Tiger with silver teeth
+**匕齿虎** 4 HP, 13 STR, 12 DEX, 6 WIL, 利爪（2d4） \
+长着银色牙齿的老虎。
 
-**Diplocauluses** 5 HP, 1 Armor, 15 STR, 8 DEX, 6 WIL, bite (2d6) \
-Hammerhead shark meets alligator
+**双髁鱼** 5 HP, 1 Armor, 15 STR, 8 DEX, 6 WIL, 撕咬（2d6） \
+锤头鲨与鳄鱼的结合体。
 
-**Duck Regents** 2 HP, 4 STR, 7 DEX, 8 WIL, bill (d4) \
-Magic bounces off
+**鸭摄政王** 2 HP, 4 STR, 7 DEX, 8 WIL, 鸭嘴（d4） \
+魔法会从它身上反弹。
 
-**Dun Swine** 3 HP, 7 STR, 6 DEX, 4 WIL, charge (d6+1)
+**Dun 猪** 3 HP, 7 STR, 6 DEX, 4 WIL, 冲锋（d6+1）
 
-**Elephant Clams** 4 HP, 2 Armor, 12 STR, 6 DEX, 4 WIL, digest (2d6) \
-Pearls contain new spells
+**象蛤** 4 HP, 2 Armor, 12 STR, 6 DEX, 4 WIL, 消化（2d6） \
+珍珠中含有新的法术。
 
-**Fachan** 4 HP, 12 STR, 8 DEX, 8 WIL, club (drop to 1 STR) \
-One arm, one leg, one eye, one club, etc \
-Only damage rolls of 1 can hurt it.
+**Fachan** 4 HP, 12 STR, 8 DEX, 8 WIL, 棍棒（降至 1 STR） \
+一只手、一条腿、一只眼睛、一根棍棒，等等。 \
+只有伤害骰掷出 1 才能伤害它。
 
-**Far Darrig** 6 HP, 14 STR, 12 DEX, 11 WIL, knife (d4+1) \
-Fairy folk with eyes like rats \
-Damage can only be healed with fresh water
+**Far Darrig** 6 HP, 14 STR, 12 DEX, 11 WIL, 刀（d4+1） \
+眼睛像老鼠的妖精。 \
+只有新鲜水才能治愈伤害。
 
-**Father Long Legs** 6 HP, 2 Armor, 18 STR, 12 DEX, 11 WIL, bite (max HP) \
-Spider with very long legs. Hates being called spider.
+**长腿父亲** 6 HP, 2 Armor, 18 STR, 12 DEX, 11 WIL, 撕咬（最大 HP） \
+长着极长腿的蜘蛛。讨厌别人叫它蜘蛛。
 
-**Fire-Bellied Newts** 4 HP, 1 Armor, 14 STR, 8 DEX, 6 WIL, bite (d6+d6 fire) \
-Lizard with smoke curling from its glowing mouth.
+**火腹蝾螈** 4 HP, 1 Armor, 14 STR, 8 DEX, 6 WIL, 撕咬（d6+d6 火焰） \
+一只发光的嘴里盘旋着烟雾的蜥蜴。
 
-**Flying Fennec** (Swarm) 4 HP, 8 STR, 14 DEX, 6 WIL, bite (4d4) \
-Herbivore bats with light fur and very large ears. \
-Immune to anything that targets only one thing.
+**飞行耳廓狐**（Swarm）4 HP, 8 STR, 14 DEX, 6 WIL, 撕咬（4d4） \
+皮毛浅色、耳朵巨大、以植物为食的蝙蝠。 \
+免疫任何只指定一个目标的效果。
 
-**Flying Shoal** (Swarm) 6 HP, 7 STR, 12 DEX, 8 WIL, bite (4d6) \
-Immune to anything that targets only one thing.
+**飞行鱼群**（Swarm）6 HP, 7 STR, 12 DEX, 8 WIL, 撕咬（4d6） \
+免疫任何只指定一个目标的效果。
 
-**Foliates** 5 HP, 12 STR, 4 DEX, 8 WIL, leech (d8) \
-Plants with faces. Mean faces. Damage heals the Foliate.
+**叶面人** 5 HP, 12 STR, 4 DEX, 8 WIL, 吸血（d8） \
+长着脸的植物。凶恶的脸。伤害会治疗叶面人。
 
-**Gabriel Hounds** 10 HP, 1 Armor, 22 STR, 18 DEX, 17 WIL, lightning (3d10) \
-A spectral dog wearing your face. Can emit a chain of lightning
+**Gabriel 猎犬** 10 HP, 1 Armor, 22 STR, 18 DEX, 17 WIL, 闪电（3d10） \
+戴着你面孔的幽灵犬。可以释放闪电链。
 
-**Garefowl** 3 HP, 6 STR, 7 DEX, 4 WIL, beak (d6) \
-Dodo + Penguin. It can identify and reveal truths
+**Garefowl** 3 HP, 6 STR, 7 DEX, 4 WIL, 鸟喙（d6） \
+渡渡鸟 + 企鹅。能够辨识并揭示真相。
 
-**Ghillies** 8 HP, 1 Armor, 14 STR, 13 DEX, 15 WIL, slam (2d8) \
-Fairies made of foliage and earth. Can put targets to sleep with spores.
+**Ghillie** 8 HP, 1 Armor, 14 STR, 13 DEX, 15 WIL, 猛击（2d8） \
+由枝叶与泥土构成的妖精。可以用孢子让目标入睡。
 
-**The Giants** 4 HP, 1 Armor, 12 STR, 9 DEX, 6 WIL, bite (d6) \
-Can quickly call for reinforcements.
+**巨人** 4 HP, 1 Armor, 12 STR, 9 DEX, 6 WIL, 撕咬（d6） \
+可以迅速呼叫援军。
 
-**Giant Mantids** 10 HP, 2 Armor, 22 STR, 18 DEX, 7 WIL, bite (2d10) \
-Can appear like a large tree.
+**巨型螳螂** 10 HP, 2 Armor, 22 STR, 18 DEX, 7 WIL, 撕咬（2d10） \
+可以伪装成一棵大树。
 
-**Glaistig** 2 HP, 8 STR, 7 DEX, 9 WIL, tools (d4) \
-Common fae folk, mostly good-natured
+**Glaistig** 2 HP, 8 STR, 7 DEX, 9 WIL, 工具（d4） \
+常见的妖精，大多心地善良。
 
-**Gliding Dragons** 2 HP, 6 STR, 11 DEX, 5 WIL, bite (d4)
+**滑翔龙** 2 HP, 6 STR, 11 DEX, 5 WIL, 撕咬（d4）
 
-**The Gnomes** 5 HP, 2 Armor, 14 STR, 9 DEX, 11 WIL, punch (2d6) \
-Kind-hearted and trusting little folks. Know strong magic.
+**地精** 5 HP, 2 Armor, 14 STR, 9 DEX, 11 WIL, 拳头（2d6） \
+善良而信任他人的小家伙。掌握强大的魔法。
 
-**Golden Catfish** 3 HP, 3 Armor, 6 STR, 8 DEX, 4 WIL \
-White, gold, and black fish.
+**金鲶鱼** 3 HP, 3 Armor, 6 STR, 8 DEX, 4 WIL \
+白色、金色和黑色的鱼。
 
-**Golems** 6 HP, 1 Armor, 14 STR, 7 DEX, 4 WIL, slam (2d6) \
-As it takes damage it shrinks and gets weaker.
+**魔像** 6 HP, 1 Armor, 14 STR, 7 DEX, 4 WIL, 猛击（2d6） \
+随着受伤，它会缩小并变弱。
 
-**The Great White Bird** 24 HP, 3 Armor, 30 STR, 35 DEX, 20 WIL, Deadly \
-Arrogant, needs to be the biggest and highest thing around. \
-Can shoot electricity and deafening screech.
+**大白鸟** 24 HP, 3 Armor, 30 STR, 35 DEX, 20 WIL, Deadly \
+傲慢，必须成为周围最大、最高的东西。 \
+可以发射电流和震耳欲聋的尖啸。
 
-**Greenteeth** 3 HP, 1 Armor, 14 STR, 11 DEX, 5 WIL, bite (d6) \
-Vaguely humanoid amphibious creep.
+**Greenteeth** 3 HP, 1 Armor, 14 STR, 11 DEX, 5 WIL, 撕咬（d6） \
+模糊地呈人形的两栖怪物。
 
-**Grey Coneys** 2 HP, 6 STR, 10 DEX, 4 WIL, smoke (2d6 poison)
+**灰锥兔** 2 HP, 6 STR, 10 DEX, 4 WIL, 烟雾（2d6 毒）
 
-**Gurt Vurm** 18 HP, 3 Armor, 35 STR, 18 DEX, 20 WIL, bite (d10) \
-Giant wingless lizard with toxic breath. \
-Can summon a dust storm and regen HP.
+**Gurt Vurm** 18 HP, 3 Armor, 35 STR, 18 DEX, 20 WIL, 撕咬（d10） \
+巨大的无翼蜥蜴，呼出有毒气息。 \
+可以召唤沙尘暴并恢复 HP。
 
-**Harp Sponges** 3 HP, 8 STR, 4 DEX, 4 WIL, strangle (d6)
+**竖琴海绵** 3 HP, 8 STR, 4 DEX, 4 WIL, 绞杀（d6）
 
-**Honeyworts** 5 HP, 1 Armor, 11 STR, 4 DEX, 4 WIL, digest (2d6)
+**蜜草** 5 HP, 1 Armor, 11 STR, 4 DEX, 4 WIL, 消化（2d6）
 
-**Hook** 16 HP, 3 Armor, 18 STR, 16 DEX, 19 WIL, sword+hook (2d8) \
-Well dressed gentleman, hates bad manners. \
-Poison knives, regain HP, spells trigger Surge.
+**Hook** 16 HP, 3 Armor, 18 STR, 16 DEX, 19 WIL, 剑 + 钩（2d8） \
+衣着考究的绅士，憎恨无礼。 \
+毒刀，恢复 HP，法术会触发 Surge。
 
-**The Huntsman** 17 HP, 3 Armor, 21 STR, 23 DEX, 16 WIL, flame sword (3d8) \
-Well dressed dandy who rides a black horse with flaming eyes. \
-Dandy dogs help him hunt. Can release a wave of hellfire.
+**猎人** 17 HP, 3 Armor, 21 STR, 23 DEX, 16 WIL, 火焰剑（3d8） \
+衣着考究的花花公子，骑着一匹双眼燃烧的黑马。 \
+花花公子犬帮助他狩猎。可以释放地狱火之潮。
 
-**John Darling** 16 HP, 2 Armor, 17 STR, 15 DEX, 19 WIL, umbrella (2d6) \
-Confident, intelligent, and lonely. Can summon sand golems.
+**John Darling** 16 HP, 2 Armor, 17 STR, 15 DEX, 19 WIL, 雨伞（2d6） \
+自信、聪明而孤独。可以召唤沙魔像。
 
-**Leather Shell Turtles** 3 HP, 1 Armor, 7 STR, 6 DEX, 6 WIL, bite (d6)
+**皮壳龟** 3 HP, 1 Armor, 7 STR, 6 DEX, 6 WIL, 撕咬（d6）
 
-**The Lost Boys** 3 HP, 6 STR, 8 DEX, 6 WIL, sword/spear (d6) \
-Feral and bedraggled. Dramatic, distractible, and loyal to each other.
+**迷失男孩** 3 HP, 6 STR, 8 DEX, 6 WIL, 剑/长矛（d6） \
+野性十足、衣衫褴褛。戏剧化、容易分心，而且忠于彼此。
 
-**Marool** 10 HP, 3 Armor, 17 STR, 15 DEX, 8 WIL, slam (d10+4) \
-Giant fish with a dozen eyes and flaming fins. Can cast a few spells.
+**Marool** 10 HP, 3 Armor, 17 STR, 15 DEX, 8 WIL, 猛击（d10+4） \
+长着十二只眼睛和燃烧鳍的巨鱼。可以施放一些法术。
 
-**Menhirs** 15 HP, 3 Armor, 19 STR, 1 DEX, 16 WIL, slam (d10) \
-Sentient monoliths. Can emit psychic waves.
+**巨石碑** 15 HP, 3 Armor, 19 STR, 1 DEX, 16 WIL, 猛击（d10） \
+有知觉的巨石碑。可以释放精神波。
 
-**The Mermaids**  5 HP, 8 STR, 10 DEX, 12 WIL, dagger (2d4) \
-Pretend to be simple an naive, but actually cunning traders. \
-Cans sing a variety of water spells.
+**人鱼** 5 HP, 8 STR, 10 DEX, 12 WIL, 匕首（2d4） \
+假装单纯天真，实际上是狡猾的商人。 \
+可以歌唱各种水系法术。
 
-**Michael Darling** 15 HP, 3 Armor, 18 STR, 14 DEX, 14 WIL, sword (3d8) \
-Mountain of a man. Content and likes projects. Eager for stories. \
-Can summon Bath Bears and Father Long Legs.
+**Michael Darling** 15 HP, 3 Armor, 18 STR, 14 DEX, 14 WIL, 剑（3d8） \
+山一般的男人。知足，喜欢做项目。渴望听到故事。 \
+可以召唤浴熊和长腿父亲。
 
-**Monstera** (Tree Frogs) 2 HP, 4 STR, 6 DEX, 4 WIL, tongue (d6)
+**龟背竹**（树蛙）2 HP, 4 STR, 6 DEX, 4 WIL, 舌头（d6）
 
-**Moss Gallant** 7 HP, 2 Armor, 13 STR, 12 DEX, 6 WIL, whip (2d4 paralyzing)
+**苔藓骑士** 7 HP, 2 Armor, 13 STR, 12 DEX, 6 WIL, 鞭子（2d4 麻痹）
 
-**Nathairs (Adult)** 14 HP, 3 Armor, 17 STR, 16 DEX, 11 WIL, bite (2d12) \
-Plated lizard with too many limbs. Rattles. Generates electricity.
+**Nathair**（成年）14 HP, 3 Armor, 17 STR, 16 DEX, 11 WIL, 撕咬（2d12） \
+长着甲片、肢体过多的蜥蜴。会发出嘎嘎声。能够产生电流。
 
-**Nathairs (Infant)** 5 HP, 7 STR, 4 DEX, 5 WIL, bite (2d4) \
-Generates electricity, and can summon adult.
+**Nathair**（幼体）5 HP, 7 STR, 4 DEX, 5 WIL, 撕咬（2d4） \
+能够产生电流，并召唤成年 Nathair。
 
-**Nuckelavee** 24 HP, 3 Armor, 30 STR, 25 DEX, 22 WIL, glare (2d12) \
-Skinless human horse monster. Only weakness is fresh water.
+**Nuckelavee** 24 HP, 3 Armor, 30 STR, 25 DEX, 22 WIL, 凝视（2d12） \
+没有皮肤的人马怪物。唯一的弱点是新鲜水。
 
-**Peg Powlers** 5 HP, 12 STR, 9 DEX, 8 WIL, knife (d4) \
-Water witch who just wants to be left alone. 
+**Peg Powler** 5 HP, 12 STR, 9 DEX, 8 WIL, 刀（d4） \
+只想独处的水巫。
 
-**Peter Pan** 15 HP, 3 Armor, 18 STR, 20 DEX, 14 WIL, sword (3d10) \
-Brash and confident. Quick to repeat mistakes. Easily bored.
+**Peter Pan** 15 HP, 3 Armor, 18 STR, 20 DEX, 14 WIL, 剑（3d10） \
+鲁莽而自信。总是很快重犯错误。很容易感到无聊。
 
-**The Pirates** 2 HP, 8 STR, 6 DEX, 6 WIL, sword (d8) \
-Greedy, lazy, and desperate for freedom from the curse. \
-Turn to a pile of bones during the day. \
-Get stronger the more they are defeated.
+**海盗** 2 HP, 8 STR, 6 DEX, 6 WIL, 剑（d8） \
+贪婪、懒惰，拼命想摆脱诅咒。 \
+白天会变成一堆骨头。 \
+被击败得越多就变得越强。
 
-**The Pixies** 2 HP, 4 STR, 6 DEX, 4 WIL, needle (d4) \
-Their color represents their emotion and spells.
+**小仙子** 2 HP, 4 STR, 6 DEX, 4 WIL, 针（d4） \
+颜色代表它们的情绪和法术。
 
-**Psammead** 3 HP, 8 STR, 6 DEX, 5 WIL, punch (d4-1) \
-Can grant wishes, not that bright.
+**Psammead** 3 HP, 8 STR, 6 DEX, 5 WIL, 拳头（d4-1） \
+可以实现愿望，只是没那么聪明。
 
-**Queen Mab** 18 HP, 3 Armor, 22 STR, 25 DEX, 30 WIL, sword (2d8) \
-Patient, kind, loving, and determined to remain powerful.
+**Queen Mab** 18 HP, 3 Armor, 22 STR, 25 DEX, 30 WIL, 剑（2d8） \
+耐心、善良、慈爱，并决心保持强大。
 
-**Red Devils** 3 HP, 6 STR, 8 DEX, 4 WIL, beak (d4)
+**红魔** 3 HP, 6 STR, 8 DEX, 4 WIL, 鸟喙（d4）
 
-**Rheum** 4 HP, 1 Armor, 12 STR, 7 DEX, 9 WIL, damage as host \
-Gross parasite that slowly takes over a host. Vulnerable to sunlight.
+**Rheum** 4 HP, 1 Armor, 12 STR, 7 DEX, 9 WIL, 伤害同宿主 \
+逐渐接管宿主的恶心寄生虫。易受阳光影响。
 
-**River Kelpies** 4 HP, 9 STR, 11 DEX, 6 WIL, trample (2d6)
+**河流马妖** 4 HP, 9 STR, 11 DEX, 6 WIL, 踩踏（2d6）
 
-**Salt Lions** 5 HP, 1 Armor, 13 STR, 8 DEX, 7 WIL, bite (d6)
+**盐狮** 5 HP, 1 Armor, 13 STR, 8 DEX, 7 WIL, 撕咬（d6）
 
-**Sea Nettles** 3 HP, 6 STR, 4 DEX, 4 WIL, tentacle (d6 poison)
+**海荨麻** 3 HP, 6 STR, 4 DEX, 4 WIL, 触手（d6 毒）
 
-**The Shadow** 15 HP, 3 Armor, 18 STR, 16 DEX, 15 WIL, claws (2d8)
+**暗影** 15 HP, 3 Armor, 18 STR, 16 DEX, 15 WIL, 利爪（2d8）
 
-**Shellycoats** 3 HP, 7 STR, 6 DEX, 5 WIL, claws (2d4)
+**Shellycoat** 3 HP, 7 STR, 6 DEX, 5 WIL, 利爪（2d4）
 
-**Sluagh** 8 HP, 1 Armor, 14 STR, 16 DEX, 8 WIL, claws (d10)
+**Sluagh** 8 HP, 1 Armor, 14 STR, 16 DEX, 8 WIL, 利爪（d10）
 
-**Smee** 8 HP, 2 Armor, 12 STR, 13 DEX, 11 WIL, sword (d6+2) \
-Optimistic and polite, he hates conflict. Loves hats. Hook knows best!
+**Smee** 8 HP, 2 Armor, 12 STR, 13 DEX, 11 WIL, 剑（d6+2） \
+乐观而有礼貌，憎恨冲突。喜欢帽子。Hook 最了解他！
 
-**Smiling Mantas** 3 HP, 6 STR, 8 DEX, 4 WIL, tail (d6)
+**微笑蝠鲼** 3 HP, 6 STR, 8 DEX, 4 WIL, 尾巴（d6）
 
-**The Spiders** 6 HP, 2 Armor, 14 STR, 16 DEX, 8 WIL, bite (d6) \
-Uneasy allies to the pirates, hate birds, and eager to get the PCs indebted.
+**蜘蛛** 6 HP, 2 Armor, 14 STR, 16 DEX, 8 WIL, 撕咬（d6） \
+海盗们不安的盟友，憎恨鸟类，并渴望让 PC 欠下人情。
 
-**Spotted Slugs** 2 HP, 6 STR, 3 DEX, 3 WIL \
-Can absorb and then release spells. Probably already has a spell stored.
+**斑点蛞蝓** 2 HP, 6 STR, 3 DEX, 3 WIL \
+可以吸收并释放法术。很可能已经储存了一个法术。
 
-**Stink Bugs** 4 HP, 8 STR, 6 DEX, 6 WIL, bite (d4 poison) \
-If slashed or punctured, it releases a cloud of stink gas.
+**臭虫** 4 HP, 8 STR, 6 DEX, 6 WIL, 撕咬（d4 毒） \
+如果被砍伤或刺伤，会释放一团臭气。
 
-**Stoorworm** 18 HP, 3 Armor, 25 STR, 27 DEX, 18 WIL, bite (2d12) \
-Gigantic river dragon. Regenerates limbs, can summon hail, and breathe ice.
+**Stoorworm** 18 HP, 3 Armor, 25 STR, 27 DEX, 18 WIL, 撕咬（2d12） \
+巨大的河龙。可以再生肢体、召唤冰雹并吐出寒冰。
 
-**Tinker Bell** 5 HP, 1 Armor, 8 STR, 14 DEX, 8 WIL, needle (d4) \
-Color reflects mood, only one mood at a time. Long memory, protecting Peter.
+**Tinker Bell** 5 HP, 1 Armor, 8 STR, 14 DEX, 8 WIL, 针（d4） \
+颜色反映心情，同一时间只能有一种心情。记性很长，一直保护 Peter。
 
-**Trilobites** 3 HP, 2 Armor, 8 STR, 6 DEX, 5 WIL, latch (d6)
+**三叶虫** 3 HP, 2 Armor, 8 STR, 6 DEX, 5 WIL, 吸附（d6）
 
-**Turnstones** 2 HP, 4 STR, 7 DEX, 4 WIL, beak (d4)
+**翻石鸟** 2 HP, 4 STR, 7 DEX, 4 WIL, 鸟喙（d4）
 
-**Tylwyth Teg** 10 HP, 1 Armor, 12 STR, 8 DEX, 13 WIL, sword (2d6) \
-Worship the Bird, protect island. Elders a ponderous, saplings are impulsive. \
-Control trees, release a cloud of spores.
+**Tylwyth Teg** 10 HP, 1 Armor, 12 STR, 8 DEX, 13 WIL, 剑（2d6） \
+崇拜那只鸟，保护岛屿。长老行动迟缓，幼树冲动。 \
+控制树木，释放孢子云。
 
-**Water Leapers** 6 HP, 5 STR, 7 DEX, 4 WIL, bite (d10)
+**水跃者** 6 HP, 5 STR, 7 DEX, 4 WIL, 撕咬（d10）
 
-**Wendy Darling** 17 HP, 1 Armor, 18 STR, 15 DEX, 20 WIL, songs (d10) \
-Ancient old woman. Gentle and solitary. Wants news of Peter and Mermaids. \
-Can undo actions, force bad rolls, and sing Mermaid songs.
+**Wendy Darling** 17 HP, 1 Armor, 18 STR, 15 DEX, 20 WIL, 歌曲（d10） \
+年迈的老妇人。温柔而孤独。想听到 Peter 和人鱼的消息。 \
+可以撤销行动、强迫对方掷出糟糕结果，并歌唱人鱼之歌。
 
-**Woolly Rhinos** 8 HP, 12 STR, 9 DEX, 5 WIL, horn (d8)
+**披毛犀** 8 HP, 12 STR, 9 DEX, 5 WIL, 角（d8）

@@ -4,218 +4,218 @@ parent: Conversions
 grand_parent: Adventures
 title: Lorn Song of the Bachelor
 ---
-# Lorn Song of the Bachelor
+# Lorn Song of the Bachelor {#lorn-song-of-the-bachelor}
 
-- Converted from the original work by [Zedeck Siew](https://www.drivethrurpg.com/product/295976/Lorn-Song-of-the-Bachelor)
-- Conversion done by [Goobernuts](https://goobernutsblog.wordpress.com/2023/08/23/lorn-song-of-the-bachelor-cairn-conversion/), creator of [Mangayaw](https://goobernuts.itch.io/mangayaw)
+- 根据 [Zedeck Siew](https://www.drivethrurpg.com/product/295976/Lorn-Song-of-the-Bachelor) 创作的原作转换
+- 转换：[Goobernuts](https://goobernutsblog.wordpress.com/2023/08/23/lorn-song-of-the-bachelor-cairn-conversion/)，[Mangayaw](https://goobernuts.itch.io/mangayaw) 的创作者
 
-#### The Bachelor
+#### The Bachelor {#the-bachelor}
 
-6 HP, 3 Armor, 18 STR, 10 DEX, 15 WIL, teeth (d10) or claws (d6, enchanted), treat as detachment
-- A great white crocodile, as long as five men lying end to end.
-- Easily hides in water. Sees through the eyes of king-fishers.
-- Claws are imbued with the Grasping Demon’s power. It takes more and more and more. First attack deals d6 STR damage, next attack deals d8, then d10, so on.
-- **Critical Damage**: Snatches you and retreats diving, drowning his meal.
-- If killed, his remains putrefy immediately. Within a day there is only brittle bone. The Bachelor reappears in d6 days.
+6 HP, 3 Armor, 18 STR, 10 DEX, 15 WIL, 牙齿（d10）或利爪（d6，附魔），视为分队
+- 一条巨大的白色鳄鱼，首尾相连时足有五个男人那么长。
+- 很容易藏在水中。能够通过翠鸟的眼睛视物。
+- 利爪蕴含索取恶魔的力量。它会索取越来越多。第一次攻击造成 d6 STR 伤害，下一次攻击造成 d8，再下一次 d10，以此类推。
+- **重伤**：抓住你，潜入水中撤退，让猎物溺水。
+- 如果被杀死，它的残骸会立即腐烂。一天之内只剩下脆弱的骨头。The Bachelor 会在 d6 天后重新出现。
 
-#### Vartu Si Vartu
+#### Vartu Si Vartu {#vartu-si-vartu}
 
-8 HP, 12 STR, 10 DEX, 10 WIL, spear (d8, throwable) or knife (d6)
-- Chief of the Gleaming Fins. A proud, but insecure, warrior.
-- Lost his left arm fighting the Bachelor, but still formidable.
+8 HP, 12 STR, 10 DEX, 10 WIL, 长矛（d8，可投掷）或刀（d6）
+- Gleaming Fins 的首领。一名骄傲却缺乏安全感的战士。
+- 与 The Bachelor 战斗时失去了左臂，但仍然不可小觑。
 
-#### Dire Eel
+#### 凶鳗 {#dire-eel}
 
-5 HP, 16 STR, 12 DEX, 10 WIL teeth (d6) or bodyslam (d4)
-- Balletic. Strength like a battering ram.
-- Hit and run tactics. 
-- Easily overpowers in grappling with opponents without specialized gear.
-- **Critical Damage**: knocks you back.
+5 HP, 16 STR, 12 DEX, 10 WIL 牙齿（d6）或身体撞击（d4）
+- 动作如芭蕾般优雅，力量却像攻城槌。
+- 采用打了就跑的战术。
+- 对付没有专门装备的对手时，擒抱几乎总能占上风。
+- **重伤**：将你撞飞。
 
-#### The Bone Uncle
+#### The Bone Uncle {#the-bone-uncle}
 
-10 HP, 2 Armor, 18 STR, 10 DEX, 18 WIL, giant fist (d10+d10) or tusks (d10), treat as detachment
-- Invisible giant with an elephant’s head and translucent skin. 
-- Deal with him as you would a god. Immune to divine magic and mental effects.
-- Skeletal undead obey him.
-- **Critical Damage (Giant Fist)**: Knocks opponent back.
-- **Critical Damage (Tusks)**: Gores you (d8 STR damage per round).
-- Can *Wake Skeleton* at will
-- Any being that slays him takes his place amongst the Thirteen.
+10 HP, 2 Armor, 18 STR, 10 DEX, 18 WIL, 巨拳（d10+d10）或象牙（d10），视为分队
+- 隐形的巨人，长着大象头和半透明的皮肤。
+- 对待他就像对待神明。免疫神圣魔法和精神效果。
+- 骷髅不死生物服从他的命令。
+- **重伤（巨拳）：**将对手击飞。
+- **重伤（象牙）：**刺穿你（每轮造成 d8 STR 伤害）。
+- 可以随意施放*唤醒骷髅*
+- 任何杀死他的人都会取代他，成为十三者之一。
 
-***Wake Skeleton**
+***唤醒骷髅** {#wake-skeleton}
 
-Every round, target must save or take d6 WIL damage. Requires concentration. If target dies before spell ends, their skeleton rises under your permanent control.* 
+每轮，目标必须进行豁免，否则受到 d6 WIL 伤害。需要专注。如果目标在法术结束前死亡，它的骷髅会起身并永久受你控制。*
 
-#### Sikkukurut
+#### Sikkukurut {#sikkukurut}
 
-10 HP, 6 STR, 16 DEX, 10 WIL, peck (d6)
-- Bird Godling made of fragrant smoke. Sees through kingfishers’ eyes. Never fights alone.
-- Immune to physical damage and charm effects. Vulnerable to wind effects.
-- Manipulates luck. Every round, roll d4 or d20; substitute this result for any roll made by anybody in the same round, provided an avian-themed excuse is plausible. 
+10 HP, 6 STR, 16 DEX, 10 WIL, 啄击（d6）
+- 由芬芳烟雾构成的鸟神幼体。能通过翠鸟的眼睛视物。从不独自战斗。
+- 免疫物理伤害和魅惑效果。易受风效果影响。
+- 操纵运气。每轮掷 d4 或 d20；如果能提出合理的鸟类主题借口，就可以用该结果替代同一轮内任何人的任意一次掷骰。
 
-#### Grasping Demon
+#### 索取恶魔 {#grasping-demon}
 
-9 HP, 14 STR, 10 DEX, 10 WIL, fist (d6)
-- A human shape made of hands. Talks using sign language.
-- Immune to fear effects. Impaired damage from physical attacks.
-- **Critical Damage**: Splays to hug you. Hands in your clothes, hands down your mouth. Grappled by the grasping demon, take d6 STR damage next round, then d8, then d10, so on.
+9 HP, 14 STR, 10 DEX, 10 WIL, 拳头（d6）
+- 由手构成的人形。使用手语交流。
+- 免疫恐惧效果。物理攻击造成的伤害受到削弱。
+- **重伤**：张开身体拥抱你。手伸进你的衣服，手伸入你的嘴里。被索取恶魔擒抱后，下一轮受到 d6 STR 伤害，再下一轮 d8，再下一轮 d10，以此类推。
 
-#### Inna Wa Inna
+#### Inna Wa Inna {#inna-wa-inna}
 
-4 HP, 2 Armor, 10 STR, 12 DEX, 6 WIL, black-bladed dagger (d8)
-- A master weaver with a century of practice and Vung Si Vung’s estranged wife.
-- Controls the pebble golems. 
-- Spells patterned on rolls of textiles: *Dispel Magic, Magic Missile, Feeblemind, Darkness, Darkvision.*
-- Does not try to kill her opponents; she does not want more weight on her soul.
+4 HP, 2 Armor, 10 STR, 12 DEX, 6 WIL, 黑刃匕首（d8）
+- 织布大师，拥有一个世纪的经验，也是 Vung Si Vung 的疏远妻子。
+- 控制卵石魔像。
+- 法术以纺织品卷轴为图案：*解除魔法、魔法飞弹、弱智术、黑暗术、黑暗视觉*。
+- 她不会试图杀死对手；她不想让自己的灵魂背负更多重量。
 
-#### Vung Si Vung
+#### Vung Si Vung {#vung-si-vung}
 
-10 HP, 14 STR, 14 DEX, 14 WIL, great weapon (d10)
-- A bestial warrior. Tattooed head to toe with crocodile scales. A grin of filed teeth.
-- Controls the tooth golems, cave crocs, and Skikkukurut. Scales walls and ceilings like a gecko. Ambush tactics.
-- Immune to water, mental, and hold effects. Impaired damage from physical attacks and spells. 
-- May spend a round singing, raising a new tooth golem from the dental material in his chamber.
-- **Critical Damage**: punches and knocks you back. His fist is imbued with the Grasping Demon’s power. It takes more and more and more. First attack deals d6 STR damage, next attack deals d8, then d10, so on.
+10 HP, 14 STR, 14 DEX, 14 WIL, 巨型武器（d10）
+- 野兽般的战士。从头到脚纹着鳄鱼鳞片，露出一口锉磨过的牙齿。
+- 控制牙齿魔像、洞穴鳄鱼和 Sikkukurut。像壁虎一样攀爬墙壁和天花板。擅长伏击。
+- 免疫水、精神和束缚效果。物理攻击和法术造成的伤害受到削弱。
+- 可以花费一轮歌唱，从房间里的牙科材料中召唤一只新的牙齿魔像。
+- **重伤**：出拳并将你击飞。他的拳头蕴含索取恶魔的力量。它会索取越来越多。第一次攻击造成 d6 STR 伤害，下一次攻击造成 d8，再下一次 d10，以此类推。
 
-#### Grimkin San Mor
+#### Grimkin San Mor {#grimkin-san-mor}
 
-6 HP, 1 Armor, 10 STR, 10 DEX, 12 WIL, machete (d6) or pistol (d8, ignores 1 Armor)
-- Looks like a pirate queen in regal jacket and naval trim. Is actually the catfish attached to the crotch, controlling the body from there.
-- Never without minions; fights like a captain commanding an army.
-- Pistol may only be fired once per combat.
-- At will or when taking Critical Damage, Grimkin the catfish detaches.
+6 HP, 1 Armor, 10 STR, 10 DEX, 12 WIL, 弯刀（d6）或手枪（d8，忽略 1 Armor）
+- 看起来像一位穿着华丽夹克、饰有海军滚边的海盗女王。实际上，她是附着在胯部的鲶鱼，从那里控制着这具身体。
+- 身边从不缺少爪牙；她像指挥军队的船长一样战斗。
+- 手枪每场战斗只能射击一次。
+- Grimkin 可以随意脱离，或在受到重伤时脱离；脱离后显露为鲶鱼。
 
-#### Gleaming Fin Warrior
+#### Gleaming Fin 战士 {#gleaming-fin-warrior}
 
-4 HP, 10 STR, 10 DEX, 10 WIL, 1 Armor, knife (d6) or blowpipe (d6)
-- **Critical Damage (Blowpipe)**: you are poisoned by the dart. Every hour untreated: save or take d4 STR damage.
+4 HP, 10 STR, 10 DEX, 10 WIL, 1 Armor, 刀（d6）或吹箭筒（d6）
+- **重伤（吹箭筒）：**你被飞镖毒害。每小时未接受治疗：进行豁免，否则受到 d4 STR 伤害。
 
-#### Company Henchman
+#### 公司打手 {#company-henchman}
 
-4 HP, 10 STR, 10 DEX, 10 WIL, 1 Armor, sabre (d8) or pistol (d8, ignored 1 Armor)
-- Pistol may only be fired once per combat.
+4 HP, 10 STR, 10 DEX, 10 WIL, 1 Armor, 军刀（d8）或手枪（d8，忽略 1 Armor）
+- 手枪每场战斗只能射击一次。
 
-#### Tapir
+#### 貘 {#tapir}
 
-3 HP, 12 STR, 10 DEX, 10 WIL, headbutt (d8)
-- Protective of mates and young.
-- Invisible to normal sight; this stays true even after death or curing.
-- **Critical Damage**: knocks you back.
+3 HP, 12 STR, 10 DEX, 10 WIL, 头槌（d8）
+- 保护配偶和幼崽。
+- 普通视觉无法看见它；即使死亡或被治愈后仍然如此。
+- **重伤**：将你撞飞。
 
-#### Bird Spirit
+#### 鸟灵 {#bird-spirit}
 
-8 HP, 6 STR, 12 DEX, 6 WIL, peck (d6)
-- A bird sketched in fragrant smoke. 
-- Immune to weapons and charm effects. Vulnerable to wind effects.
-- Flees from combat, but does not forget you.
-- Causes misfortune. Roll d20; substitute this result for any roll made by a foe the same day, provided an avian-themed excuse is plausible.
+8 HP, 6 STR, 12 DEX, 6 WIL, 啄击（d6）
+- 由芬芳烟雾勾勒出的鸟。
+- 免疫武器和魅惑效果。易受风效果影响。
+- 会逃离战斗，但不会忘记你。
+- 带来厄运。掷 d20；如果能提出合理的鸟类主题借口，就可以用该结果替代同一天内敌人的任意一次掷骰。
 
-#### Flame Centipede
+#### 火焰蜈蚣 {#flame-centipede}
 
-4 HP, 10 STR, 10 DEX, 10 WIL, bite (d6)
-- **Critical Damage**: wraps around you with its branding iron-hot chitin body (d6 STR damage every round)
+4 HP, 10 STR, 10 DEX, 10 WIL, 撕咬（d6）
+- **重伤**：用烧红烙铁般炽热的几丁质躯体缠住你（每轮造成 d6 STR 伤害）。
 
-#### The Snake Urchin
+#### 蛇童 {#the-snake-urchin}
 
-4 HP, 10 STR, 10 DEX, 10 WIL, bite (d8)
-- Tends towards petulance and cruelty. Kraits obey here; some are always nearby.
-- Immune to poison and charm effects.
-- May spend a round chanting. Her voice awakens all rod- and rope-like objects, turning them into snakes.
-- **Critical Damage**: her bite poisons you. Every hour untreated: save or take d6 DEX damage.
+4 HP, 10 STR, 10 DEX, 10 WIL, 撕咬（d8）
+- 性情趋向任性残酷。水蛇听命于她；附近总有一些水蛇。
+- 免疫毒和魅惑效果。
+- 可以花费一轮吟唱。她的声音会唤醒所有棍状和绳状物体，把它们变成蛇。
+- **重伤**：她的撕咬使你中毒。每小时未接受治疗：进行豁免，否则受到 d6 DEX 伤害。
 
-#### Krait Swarm
+#### 水蛇群 {#krait-swarm}
 
-6 HP, 6 STR, 10 DEX, 6 WIL, bite (d6), treat as detachment
-- Not particularly aggressive, mainly swarms in the Snake Urchin’s defense.
-- Hard to spot when in deeper water.
-- **Critical Damage**: their bites poisons you. Every hour untreated: save or take d4 DEX damage.
+6 HP, 6 STR, 10 DEX, 6 WIL, 撕咬（d6），视为分队
+- 并不特别好斗，主要聚集起来保护蛇童。
+- 在较深的水中很难被发现。
+- **重伤**：它们的撕咬使你中毒。每小时未接受治疗：进行豁免，否则受到 d4 DEX 伤害。
 
-#### Skelephant
+#### 象骸 {#skelephant}
 
-5 HP, 1 Armor, 15 STR, 8 DEX, tusks (d10), treat as detachment
-- Walking elephant bones. 
-- Undead immunities. Vulnerable to bludgeoning (enhanced damage).
-- Stampedes to safety, but will seek revenge if a herd-member is downed.
-- **Critical Damage**: its charge knocks you down.
+5 HP, 1 Armor, 15 STR, 8 DEX, 象牙（d10），视为分队
+- 行走的大象骨骸。
+- 具备不死生物免疫。易受钝击伤害（强化伤害）。
+- 会狂奔到安全处，但如果群体成员倒下，会寻求复仇。
+- **重伤**：冲锋将你撞倒。
 
-#### Vine Monkey
+#### 藤猴 {#vine-monkey}
 
-6 HP, 6 STR, 15 DEX, 6 WIL, punch (d4) or stones (d4)
-- A monkey made of vegetable matter.
-- Vulnerable to fire (*enhanced damage*).
+6 HP, 6 STR, 15 DEX, 6 WIL, 拳头（d4）或石块（d4）
+- 由植物质构成的猴子。
+- 易受火焰影响（_强化伤害_）。
 
-#### Tiger-Spirit Host
+#### 虎灵宿主 {#tiger-spirit-host}
 
-6 HP, 12 STR, 12 DEX, 10 WIL, claws (d10)
-- A nude man with amber eyeshine, acting like a feline predator. Possessed by a tiger spirit in oestrus, he only hunts other men.
-- Immune to charm effects.
-- **Critical Damage**: A male victim develops a fever. Save WIL everyday without magical treatment. After 3 failures, the victim is ripped apart with invisible claws. A new tiger spirit is born into the world.
+6 HP, 12 STR, 12 DEX, 10 WIL, 利爪（d10）
+- 一个有着琥珀色眼睛反光、表现得像猫科捕食者的裸体男子。他被发情的虎灵附身，只捕猎其他男人。
+- 免疫魅惑效果。
+- **重伤**：男性受害者发烧。每天进行一次 WIL 豁免，直到接受魔法治疗。失败 3 次后，受害者会被无形利爪撕碎。一只新的虎灵诞生于世。
 
-#### Tooth Golem
+#### 牙齿魔像 {#tooth-golem}
 
-6 HP, 3 Armor, 15 STR, 10 DEX, 10 WIL, chew (d8)
-- Teeth arranged into the silhouette of a person. 
-- Immune to fire and mental effects. Squeezes anywhere a grin might fit.
-- When it rolls the highest result on the damage die, the tooth golem extracts your teeth, consuming them and recovering STR equal to the damage inflicted. It smirks at you with your own incisors.
-- **Critical Damage**: grapples and munches on you (d6 STR damage every round).
-- Serves Vung Si Vung; he knows when a tooth golem is slain, and can create more.
+6 HP, 3 Armor, 15 STR, 10 DEX, 10 WIL, 咀嚼（d8）
+- 由牙齿排列成人形轮廓。
+- 免疫火焰和精神效果。只要笑容能挤进去，任何地方它都能钻过。
+- 当伤害骰掷出最高结果时，牙齿魔像会拔出你的牙齿，将其吞下，并恢复等同于造成伤害的 STR。它会用你的门牙对你露出假笑。
+- **重伤**：擒抱并啃咬你（每轮造成 d6 STR 伤害）。
+- 为 Vung Si Vung 服务；他能感知牙齿魔像何时被杀死，也能制造更多牙齿魔像。
 
-#### Kingfisher Swarm
+#### 翠鸟群 {#kingfisher-swarm}
 
-10 HP, 6 STR, 12 DEX, 6 WIL, peck (d6), treat as detachment
-- Kingfishers peck anything that witches, squeaks, or glints like small prey- bits of gear, pets, your extremities- before moving on. Defend yourself and they attack in earnest.
-- Serves Sikkukurut, who sees everything they see.
+10 HP, 6 STR, 12 DEX, 6 WIL, 啄击（d6），视为分队
+- 翠鸟会啄食一切会动、会吱叫或闪闪发光、看起来像小型猎物的东西——装备碎片、宠物、你的四肢——然后飞走。保护自己，它们就会认真攻击。
+- 为 Sikkukurut 服务；Sikkukurut 能看见它们看见的一切。
 
-#### Wet Corpse
+#### 湿尸 {#wet-corpse}
 
-3 HP, 10 STR, 10 DEX, 10 WIL, swipe (d6)
-- Partly putrefied victim of the Bachelor.
-- Undead immunities.
-- Body parts remain animate even if dismembered.
+3 HP, 10 STR, 10 DEX, 10 WIL, 拍击（d6）
+- The Bachelor 的部分腐尸受害者。
+- 具备不死生物免疫。
+- 即使被肢解，身体各部分仍会活动。
 
-#### Wet-Corpse Host
+#### 湿尸宿主 {#wet-corpse-host}
 
-4 HP, 10 STR, 10 DEX, 10 WIL, axe (d6) or intestine net (d4)
-- A fresher wet corpse, under the control of a catfish attached to its crotch.
-- When taking Critical Damage, the catfish detaches.
-- **Critical Damage (Intestine Net)**: traps you under its net.
-- Serves Grimkin, their captain and queen.
+4 HP, 10 STR, 10 DEX, 10 WIL, 斧（d6）或肠网（d4）
+- 更新鲜的湿尸，受附着在胯部的鲶鱼控制。
+- 受到重伤时，鲶鱼会脱离。
+- **重伤（肠网）：**将你困在网下。
+- 为它们的船长与女王 Grimkin 服务。
 
-#### Catfish
+#### 鲶鱼 {#catfish}
 
-3 HP, 6 STR, 10 DEX, 6 WIL, bite (d4)
-- **Critical Damage**: Bites and hangs on to any exposed flesh. A mammal must save WIL or fall under its control. Victims retains intelligence, but serve Grimkin.
-- Forcibly removing a catfish does d6 STR and WIL damage to its host.
+3 HP, 6 STR, 10 DEX, 6 WIL, 撕咬（d4）
+- **重伤：**咬住任何暴露的皮肉并挂在上面。哺乳动物必须进行 WIL 豁免，否则会受其控制。受害者保有智慧，但会为 Grimkin 服务。
+- 强行移除鲶鱼会对其宿主造成 d6 STR 和 WIL 伤害。
 
-#### Monkey Statue
+#### 猴子雕像 {#monkey-statue}
 
-2 Armor, 10 STR, 18 DEX, 8 WIL, punch (d6)
-- Asshole trickster. Play along and they get bored. Fights back if you retaliate.
-- Cannot move when observed; lightning quick when unobserved. Deals direct STR damage when they attack.
+2 Armor, 10 STR, 18 DEX, 8 WIL, 拳头（d6）
+- 讨厌的恶作剧者。配合它，它就会感到无聊；如果你还击，它也会还手。
+- 被观察时无法移动；不被观察时动作快如闪电。攻击时直接造成 STR 伤害。
 
-#### Brown Pudding
+#### 棕色布丁 {#brown-pudding}
 
-3 HP, 14 STR, 10 DEX, 10 WIL, acidic body (d8)
-- Acidic ambush predator. 
-- Critical Damage: envelops you and dissolves matter and eats metal (d4 STR damage and -1 Armor every round.
-- Non-fire damage causes it to undergo binary fission; remaining STR is split equally between two new puddings.
+3 HP, 14 STR, 10 DEX, 10 WIL, 酸性躯体（d8）
+- 酸性伏击捕食者。
+- **重伤：**包裹住你，溶解物质并吞噬金属（每轮造成 d4 STR 伤害，并使 Armor -1）。
+- 非火焰伤害会使它进行二分裂；剩余 STR 平分给两个新布丁。
 
-#### Pebble Golem
+#### 卵石魔像 {#pebble-golem}
 
-6 HP, 3 Armor, 15 STR, 10 DEX, 10 WIL, stone fist (d8)
-- A jumble of rubble, ever-rolling, walking upright. 
-- Immune to fire and mental effects. Squeezes anywhere a stone might fit.
-- Every round, it may fling part of itself at you- a ranged attack that hits like buckshot (d10) The golem suffers an equal loss in STR.
-- **Critical Damage (Stone Fist)**: grapples and crushes you (d8 STR damage every round)
-- **Critical Damage (Stone Buckshot)**: knocks you back.
-- Serves Inna Wa Inna, who knows when a pebble golem is slain.
+6 HP, 3 Armor, 15 STR, 10 DEX, 10 WIL, 石拳（d8）
+- 一团不断滚动、直立行走的碎石。
+- 免疫火焰和精神效果。只要石头能塞进去，任何地方它都能挤过。
+- 每轮它都可以把自身的一部分投向你——一次如霰弹般命中的远程攻击（d10）。魔像的 STR 会等量下降。
+- **重伤（石拳）：**擒抱并碾碎你（每轮造成 d8 STR 伤害）。
+- **重伤（石霰弹）：**将你击飞。
+- 为 Inna Wa Inna 服务；她能感知卵石魔像何时被杀死。
 
-#### Cave Crocodile
+#### 洞穴鳄鱼 {#cave-crocodile}
 
-5 HP, 12 STR, 10 DEX, 10 WIL, bite (d8) or claws (d6 + d6)
-- Blind, albino crocodile. Clings to walls like a gecko. Prefers to come at you from odd angles.
-- A cave croc talks, but is blase about self-preservation.
-- If killed it putrefies immediately, and is reborn in the lake of the Bachelor-filled Belly a day later.
-- **Critical Damage**: grapples you and dives into water to drown you.
-- Serves Vung Si Vung.
+5 HP, 12 STR, 10 DEX, 10 WIL, 撕咬（d8）或利爪（d6 + d6）
+- 失明的白化鳄鱼。像壁虎一样攀附墙壁。喜欢从古怪的角度袭来。
+- 洞穴鳄鱼会说话，但对自我保护漠不关心。
+- 如果被杀死，它会立即腐烂，并在一天后于充满 The Bachelor 的腹中之湖重生。
+- **重伤**：擒抱你并潜入水中，让你溺水。
+- 为 Vung Si Vung 服务。

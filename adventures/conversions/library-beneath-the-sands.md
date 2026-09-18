@@ -5,96 +5,95 @@ grand_parent: Adventures
 title: Library Beneath the Sands
 ---
 
-# Library Beneath the Sands
-- [Library Beneath the Sands](https://brick-road.itch.io/the-library-beneath-the-sands) by [JD](https://brick-road.itch.io).
-- Conversion by **lovelyzoo**.
+# 沙下图书馆 {#library-beneath-the-sands}
+- [Library Beneath the Sands](https://brick-road.itch.io/the-library-beneath-the-sands)，作者：[JD](https://brick-road.itch.io)。
+- 转换：**lovelyzoo**。
 
-## Bestiary
+## 怪物图鉴 {#bestiary}
 
-### Charred Servant
+### 炭化仆从 {#charred-servant}
 
-Burnt Body, animated by flame
+被火焰赋予生命的烧焦躯体
 
-4 HP, 8 DEX, 16 CHA, grapples (failed DEX save) then bites (d6)
+4 HP, 8 DEX, 16 CHA, 擒抱（DEX 豁免失败），然后撕咬（d6）
 
-- Adjacent characters take d4 fire damage from the heat charred
-- Fire damage heals
+- 炭化仆从散发的热量会使相邻角色受到 d4 火焰伤害
+- 火焰伤害会治疗它
 
-### Efreet
+### Efreet {#efreet}
 
-Large, horned, beastly humanoid fire elemental.
+长着角、体型庞大的野兽般火焰元素生物。
 
-9 HP, 3 Armour, 12 STR, 12 CHA, fists (d8 BLAST)
+9 HP, 3 Armor, 12 STR, 12 CHA, 拳头（d8 _爆发_）
 
-- Flame circle, all creatures within 15’ failing a DEX save take d6 fire damage
-- Creatures consumed by the flame circle arise as the efreet's charred servants
-- Fire damage heals
+- 火焰环：15 英尺内未通过 DEX 豁免的所有生物受到 d6 火焰伤害
+- 被火焰环吞噬的生物会作为 Efreet 的炭化仆从复起
+- 火焰伤害会治疗它
 
-### Flame Mummy
+### 火焰木乃伊 {#flame-mummy}
 
-Bandaged humanoid with flames leaking from between the gaps
+火焰从绷带缝隙间泄出的裹布人形
 
-7 HP, 12 STR, 8 DEX, 6 CHA, fists (d6)
+7 HP, 12 STR, 8 DEX, 6 CHA, 拳头（d6）
 
-- Ancient Curse, upon first sight characters make a CHA save, or lose d4 CHA
+- 远古诅咒：角色初次看到它时进行 CHA 豁免，否则失去 d4 CHA
 
-### Stone Librarian
+### 石头图书管理员 {#stone-librarian}
 
-Humanoid statue with the head of an ibis.
+头部为朱鹭头的人形雕像。
 
-6 HP, Armor 1, 14 STR, 16 CHA slam (d8, knocked prone on a DEX save fail)
+6 HP, Armor 1, 14 STR, 16 CHA, 猛击（d8；DEX 豁免失败则倒地）
 
-### Screaming Scorpion (Adult)
+### 尖叫蝎（成年） {#screaming-scorpion-adult}
 
-Giant scorpion with an adult human’s face.
+长着成年男性脸孔的巨型蝎子。
 
-6 HP, 1 Armour, 12 DEX, 8 CHA, pincers (d6+d4), target grappled on a failed DEX save)
+6 HP, 1 Armour, 12 DEX, 8 CHA, 螯（d6+d4），DEX 豁免失败则目标被擒抱
 
-- Stings (d6) grappled characters, paralysed on failed STR save, death after 24 hours
-- Can climb
+- 蛰刺（d6）被擒抱的角色；STR 豁免失败则麻痹，24 小时后死亡
+- 能攀爬
 
-### Screaming Scorpion (Broodling)
+### 尖叫蝎（幼体） {#screaming-scorpion-broodling}
 
-Scorpion with a baby human’s face.
+长着婴儿脸孔的蝎子。
 
-3 HP, 6 STR, 12 DEX, 6 CHA, pincers (d4+d4)
+3 HP, 6 STR, 12 DEX, 6 CHA, 螯（d4+d4）
 
-- Stings (d4+d6) characters that are otherwise distracted
-- Can climb
+- 蛰刺（d4+d6）注意力被其他事物吸引的角色
+- 能攀爬
 
-## Oddities
+## 奇物 {#oddities}
 
-### Clay Statuette
+### 黏土小雕像 {#clay-statuette}
 
-12” tall clay statuette with hieroglyphics carved into it. Translation explains that placing the statuette upon a pile of clay and chanting ‘From the earth into a body’ will animate a humanoid which can respond to simple commands.
+高 12 英寸、刻有象形文字的黏土小雕像。译文说明：把雕像放在一堆黏土上，并吟诵“从大地进入躯体”，就能使一个人形生物获得生命，并听从简单命令。
 
-### Elemental Erlynmeyer Flasks
+### 元素厄伦迈尔烧瓶 {#elemental-erlynmeyer-flasks}
 
-Replace the Tomes of Store <element> with corked Erlynmeyer flasks bearing the appropriate alchemical logo:
+用带有相应炼金标志、以软木塞封口的厄伦迈尔烧瓶替代“储存〈元素〉之书”：
 
-Fire - upward pointing equilateral triangle.
+火——尖端向上的等边三角形。
 
-Water - downward pointing equilateral triangle.
+水——尖端向下的等边三角形。
 
-Air - upward pointing equilateral triangle, with a bar running across the middle.
+气——尖端向上的等边三角形，中间有一条横线。
 
-Sand - downward pointing equilateral triangle, with a bar running across the middle.
+沙——尖端向下的等边三角形，中间有一条横线。
 
-L = CHA/3. Single use only. Hieroglyphics embossed on the glass explain everything.
+L = CHA/3。只能使用一次。玻璃上压印的象形文字解释了全部内容。
 
-### Ritual Bandages
+### 仪式绷带 {#ritual-bandages}
 
-Replace the ‘Tome of Bind Elemental’ with bandages inscribed with hieroglyphics. Translation explains that an incapacitated elemental can be bound using these bandages. The binding will only be successful if the STR of the ritual’s celebrant exceeds that of the elemental.
+用刻有象形文字的绷带替代“束缚元素之书”。译文说明：可以用这些绷带束缚失去行动能力的元素生物。只有当仪式主持者的 STR 高于元素生物时，束缚才会成功。
 
-The resulting Mummy retains the memory and personality of the elemental but not its powers.
+形成的木乃伊会保留元素生物的记忆与人格，但不会保留其能力。
 
-It is the Conductor’s discretion as to what power the celebrant has over the Mummy.
+主持者对木乃伊拥有何种权力，由守望者裁量。
 
-### Librarian’s Robe
+### 图书管理员长袍 {#librarians-robe}
 
-Upon donning the robe, the wearer will find themselves with an intuitive understanding of any cataloguing system they encounter.
+穿上长袍后，穿戴者会直觉地理解自己遇到的任何编目系统。
 
-### Enchanted Dust Jacket
+### 附魔书衣 {#enchanted-dust-jacket}
 
-Placing this dust jacket on a book allows the reader to absorb and understand a book’s contents in around an hour.
-
+把书衣套在一本书上，可以让读者在大约一小时内吸收并理解书中的内容。
