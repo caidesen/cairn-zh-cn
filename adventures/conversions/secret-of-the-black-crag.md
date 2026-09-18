@@ -5,781 +5,777 @@ grand_parent: Adventures
 title: Secret of the Black Crag
 ---
 
-# Secret of the Black Crag
+# 黑色峭壁的秘密 {#secret-of-the-black-crag}
 
-- Based on the [original work](https://joelio1.itch.io/secret-of-the-black-crag) by [Chance Dudinack](https://wizardfightclub.blogspot.com/) and [Silverarm](https://silverarmpress.com/).
-- Conversion by Louis Mesnier.
+- 改编自 [Chance Dudinack](https://wizardfightclub.blogspot.com/) 与 [Silverarm](https://silverarmpress.com/) 创作的[原作](https://joelio1.itch.io/secret-of-the-black-crag)。
+- 转换者：Louis Mesnier。
 
-## General Notes
+## 总览说明 {#general-notes}
 
-- If not mentioned, run as written.
-- For naval travel, you can use Cairn 2E Wilderness Exploration procedures. It should work without changing much: just flavor the results to the maritime context. For pirate crews, use detachments. Ship combat is not really a focus of this adventure, but your players might expect it and ask for it. If so, hack your own rules, or use an existing Cairn / Into the Odd hack.
+- 未特别提及时，按原文运行。
+- 海上旅行可以使用 Cairn 2E 的荒野探索流程。无需大幅修改，只需将结果调整为海上语境即可。海盗船员使用分队规则。本冒险并不聚焦于船战，但玩家可能会期待并提出要求。如果发生这种情况，可以自行设计规则，或使用现成的 Cairn / Into the Odd 变体。
 
 ## Port Fortune
 
 ## The Sultry Siren
 
-- Sleeping drug : STR save to remain conscious.
-- Bejeweled dagger : d8.
+- 致眠药：STR 豁免以保持清醒。
+- 宝石匕首：d8。
 
 ## Stitcher’s Shack
 
-- Medical treatment: Costs 10gp per STR or DEX point healed.
+- 医疗：每恢复 1 点 STR 或 DEX 花费 10gp。
 
 ## Chapel of St. Syd
 
-- Potions: Restore d4 STR.
-- Remove Curse: A single curse is removed from the target.
+- 药水：恢复 d4 STR。
+- Remove Curse：移除目标身上的一个诅咒。
 
 ## Fort Albatros
 
-- Trapped chest: Telegraphing the trap: As the chest opens, the sound of a mechanism can be heard and the point of a needle appears in the chest’s opening. If ignored, STR save or die.
+- 陷阱箱：预示陷阱：箱子打开时可以听见机关声，箱口出现针尖。如果无视，进行 STR 豁免，否则死亡。
 
 ### Red Roger Rathbone
 
-8 HP, 1 Armor, 13 STR, 11 DEX, 15 WIL, bejeweled cutlass (d10)
+8 HP, 1 Armor, 13 STR, 11 DEX, 15 WIL, 宝石弯刀 (d10)
 
-## Pirates!
+## 海盗！ {#pirates}
 
 ### Amra the Tigress
 
-11 HP, 1 Armor, 8 STR, 15 DEX, 13 WIL, sword (d8) or dagger (d6)
+11 HP, 1 Armor, 8 STR, 15 DEX, 13 WIL, 剑 (d8) 或匕首 (d6)
 
 ### Gentleman James
 
-3 HP, 7 STR, 9 DEX, 8 WIL, gilded sword (d10)
+3 HP, 7 STR, 9 DEX, 8 WIL, 镀金剑 (d10)
 
 ### Mr. Stubbs
 
-7 HP, 1 Armor, 14 STR, 9 DEX, 12 WIL, sword (d8) or crossbow (d6)
+7 HP, 1 Armor, 14 STR, 9 DEX, 12 WIL, 剑 (d8) 或十字弩 (d6)
 
 ### Mancomb Spotswood
 
-8 HP, 1 Armor, 10 STR, 12 DEX, 14 WIL, sword (d8)
+8 HP, 1 Armor, 10 STR, 12 DEX, 14 WIL, 剑 (d8)
 
 ### Harkness the Hangman
 
-6 HP, 1 Armor, 11 STR, 11 DEX, 8 WIL (appears as much higher WIL), sword (d8)
+6 HP, 1 Armor, 11 STR, 11 DEX, 8 WIL（看起来 WIL 高得多）, 剑 (d8)
 
 ### Old Tom
 
-3 HP, 1 Armor, 5 STR, 7 DEX, 8 WIL, weapon (d6)
+3 HP, 1 Armor, 5 STR, 7 DEX, 8 WIL, 武器 (d6)
 
 ### Battleaxe Barnaby
 
-6 HP, 1 armor (from necklace), 14 STR, 10 DEX, 13 WIL, handaxes (d6+d6)
-- Head of her late husband as a necklace : +1 Armor, but only for her.
+6 HP, 1 armor（来自项链）, 14 STR, 10 DEX, 13 WIL, 手斧 (d6+d6)
+- 她已故丈夫的头颅作为项链：+1 Armor，但只对她生效。
 
-### Crews
+### 船员 {#crews}
 
-You can treat the crews as detachments: 6 HP, 10 STR, 10 DEX, 10 WIL, swords (d8). The crew of the Bottom Feeder should be weaker: 3 HP, 7 STR, 7 DEX, 7 WIL, daggers (d6).
+可以将船员视为分队：6 HP, 10 STR, 10 DEX, 10 WIL, 剑 (d8)。Bottom Feeder 的船员应该更弱：3 HP, 7 STR, 7 DEX, 7 WIL, 匕首 (d6)。
 
-## NPC Generator
+## NPC 生成器 {#npc-generator}
 
-- Iron gut: Immune to poison.
-- One milky, blind eye: Ranged attacks are *impaired*.
-- Expert darts player: Ranged attacks against immobile targets are *enhanced*.
-- Arm wrestling champion: Unarmed attacks deal d6 damage.
-- A family heirloom: d10 weapon.
-- Abnormally high pain tolerance: +d6 STR.
-- Former wizard’s apprentice: Has a random spellbook (roll on the spellbook table in the Warden’s Guide, p.134.)
-- Sudden fainting spells: WIL save when scared or excited or pass out.
-- Anger issues: WIL save when angered or get violent.
+- 铁胃：免疫毒素。
+- 一只乳白色的盲眼：远程攻击受到_削弱_。
+- 飞镖高手：针对不动目标的远程攻击得到_强化_。
+- 掰手腕冠军：徒手攻击造成 d6 伤害。
+- 家族传家宝：d10 武器。
+- 异常高的疼痛耐受力：+d6 STR。
+- 前巫师学徒：拥有一本随机法术书（在《守望者指南》第 134 页的法术书表上掷骰）。
+- 突发昏厥：受到惊吓或兴奋时进行 WIL 豁免，否则昏倒。
+- 易怒：被激怒时进行 WIL 豁免，否则变得暴力。
 
 ## The Salamander Islands
 
-## Weather & Random sea encounters
+## 天气与海上随机遭遇 {#weather-random-sea-encounters}
 
-### Weather
+### 天气 {#weather}
 
-- Movement rate reduced to 1/2 or 2/3: add a watch to travel time.
-- Movement rate reduced to 1/3: add two watches to travel time.
-- Movement rate doubled: reduce travel time by a watch.
-- Movement rate tripled: reduce travel time by two watches.
+- 移动速率降至 1/2 或 2/3：旅行时间增加一个守望。
+- 移动速率降至 1/3：旅行时间增加两个守望。
+- 移动速率翻倍：旅行时间减少一个守望。
+- 移动速率变为三倍：旅行时间减少两个守望。
 
-### Merchant Cog
+### 商船 {#merchant-cog}
 
-#### 20 sailors
+#### 20 名水手 {#20-sailors}
 
-3 HP, 10 STR, 10 DEX, 10 WIL, *detachment*
+3 HP, 10 STR, 10 DEX, 10 WIL, *分队*
 
-#### First mate
+#### 大副 {#first-mate}
 
 5 HP, 10 STR, 10 DEX, 12 WIL
 
-#### Captain
+#### 船长 {#captain}
 
 7 HP, 10 STR, 10 DEX, 14 WIL
 
-### Treasure Ship
+### 宝船 {#treasure-ship}
 
-#### 40 sailors
+#### 40 名水手 {#40-sailors}
 
-two *detachments* with each 3 HP, 10 STR, 10 DEX, 10 WIL
+两支 *分队*，每支 3 HP, 10 STR, 10 DEX, 10 WIL
 
-#### First mate
+#### 大副 {#treasure-first-mate}
 
 7 HP, 10 STR, 10 DEX, 14 WIL
 
-#### Captain
+#### 船长 {#treasure-captain}
 
 10 HP, 10 STR, 10 DEX, 16 WIL
 
-### Fire!
+### 着火！ {#fire}
 
-- The ship takes fire, sinking in the hour if not extinguished.
+- 船只着火；如果不扑灭，会在 1 小时内沉没。
 
-### Freak Lightning Storm
+### 异常雷暴 {#freak-lightning-storm}
 
-- A lightning bolt hits the boat: A mast is broken by the lightning bolt. The ship takes fire, sinking in the hour if not extinguished.
+- 闪电击中船只：桅杆被闪电劈断。船只着火；如果不扑灭，会在 1 小时内沉没。
 
 ## Sirens’ Claw
 
 ### Siren
+8 HP, 7 STR, 12 DEX, 13 WIL, 利爪 (d4+d4)
+- 歌声：听到歌声的人必须成功进行 WIL 豁免，否则会朝 Siren 们移动，甚至跳入大海或撞船来接近她们。受法术影响的人会把 Siren 们看成美丽的召唤者，将她们的撕咬和抓挠视为亲吻与爱抚。
 
-8 HP, 7 STR, 12 DEX, 13 WIL, claws (d4+d4)
-- Song: Those who hear the song must succeed at a WIL save or move towards the sirens, even jumping into the sea or crashing the ship to reach them. Those under the spell see the sirens as beautiful beckoning figures, their bites and scratches as kisses and caresses.
+## 猴神殿 {#temple-of-the-monkeys}
 
-## Temple of the Monkeys
-
-### Giant Leech
-
-6 HP, 1 Armor, 15 STR, 7 DEX, 5 WIL, bite (d6)
-- **Critical Damage**: Recovers all its STR as it drains the target’s blood.
+### 巨型水蛭 {#giant-leech}
+6 HP, 1 Armor, 15 STR, 7 DEX, 5 WIL, 撕咬 (d6)
+- **重伤**：吸取目标的血液时恢复全部 STR。
 
 ### Cap’n
+8 HP, 1 Armor, 16 STR, 12 DEX, 14 WIL, 剑 (d8)
+- 如果它在重伤后幸存，会丢下剑，用拳头和撕咬 (d6+d6) 战斗，并获得**重伤**效果：用拳头撕裂目标，额外造成 d6 STR 伤害。
 
-8 HP, 1 Armor, 16 STR, 12 DEX, 14 WIL, sword (d8)
-- If he survives critical damage, he drops his sword, fights with fists and bite (d6+d6) and gains **Critical Damage**: rends the target with his fists, dealing an additional d6 STR 
-damage.
+### 杂草丛生的大厅 {#overgrown-hall}
 
-### Overgrown Hall
+- 毒飞镖：按原文预示（被飞镖射得千疮百孔的猴子骷髅；移除藤蔓后可以发现墙上的孔洞与地板上的压力板）。踩上压力板必定触发陷阱（无需掷骰）。被击中时，进行 STR 豁免，否则死亡。
 
-- Poisoned darts: Telegraph as written (monkey skeletons riddled with darts, removing the vines reveals the holes in the walls and pressure plates on the floor.) Walking on the pressure plates always triggers the trap (no roll). If struck, STR save or die.
+### 战士雕像 {#warrior-statue}
 
-### Warrior Statue
+6 HP, 2 Armor, 12 STR, 8 DEX, 10 WIL, 猛击 (d6+d6)
+- 不受士气豁免影响。
 
-6 HP, 2 Armor, 12 STR, 8 DEX, 10 WIL, blows (d6+d6)
-- Not affected by Morale Saves.
+### 封印圣遗物箱 {#sealed-reliquary}
 
-### Sealed Reliquary
-
-- Diamond hit by sunlight: Creatures of beast-level intelligence must succeed at a WIL save or be mesmerized.
+- 阳光照射钻石：野兽级智能的生物必须成功进行 WIL 豁免，否则被迷住。
 
 ## Fire Island
 
-### Masked Soldier
+### 蒙面士兵 {#masked-soldier}
 
-5 HP, 10 STR, 10 DEX, 12 WIL, obsidian club (d6)
+5 HP, 10 STR, 10 DEX, 12 WIL, 黑曜石棍棒 (d6)
 
 ### Commander Nago
 
-10 HP, 8 STR, 7 DEX, 15 WIL, lightning trident (d8)
-- Treasure: Power crystal (see appendix).
-- Lightning trident: If loaded with a power crystal, its attacks are *enhanced* and it gains d10 charges. When a charge is expanded, the attack has *blast* (10ft around the wielder). Underwater, the wielder is also targeted by the *blast*.
+10 HP, 8 STR, 7 DEX, 15 WIL, 闪电三叉戟 (d8)
+- 宝藏：能量水晶（见附录）。
+- 闪电三叉戟：装入能量水晶后，其攻击得到_强化_，并获得 d10 次充能。消耗一次充能后，攻击具有_爆发_（以持有者为中心 10ft 范围）。在水下，持有者也会被_爆发_波及。
 
 ### High Engineer Eka
 
-8 HP, 10 STR, 12 DEX, 12 WIL, hammer (d6)
-- *Cure Wounds*: Restore d4 STR to a creature you can touch.
-- *Hold Person*: A human or human-like creature is paralysed for a turn.
-- *Purify Food and Water*: Poisoned, rotten, spoiled, or contaminated food and water are purified.
-- *Speak with Animals*: You can communicate with animals for a short while.
+8 HP, 10 STR, 12 DEX, 12 WIL, 锤子 (d6)
+- *Cure Wounds*：接触一个生物，为其恢复 d4 STR。
+- *Hold Person*：一名人类或类人生物麻痹 1 回合。
+- *Purify Food and Water*：净化中毒、腐烂、变质或受污染的食物与水。
+- *Speak with Animals*：短时间内与动物交流。
 
-### Lava Gargoyle
+### 熔岩石像鬼 {#lava-gargoyle}
 
-7 HP, 2 Armor, 14 STR, 4 DEX, 12 WIL, claws and bite (d6+d6)
-- Regeneration: Covers itself in molten rock to regain d6 PC.
+7 HP, 2 Armor, 14 STR, 4 DEX, 12 WIL, 利爪与撕咬 (d6+d6)
+- 再生：用熔岩覆盖自身，恢复 d6 PC。
 
-### Tar Pits
+### 沥青坑 {#tar-pits}
 
-- Moving through the tar pits: Without strict caution or the aid of a guide, those moving through the pits must succeed at a DEX save or step into a seep, one foot caught in sticky black tar.
+- 穿过沥青坑：如果没有严格谨慎或向导帮助，穿越者必须成功进行 DEX 豁免，否则踩入渗坑，一只脚会被黏稠的黑色沥青困住。
 
-## Skeleton Cave
+## 骷髅洞窟 {#skeleton-cave}
 
 ### Nereus’s Cave
 
-- Searching Nereus’s bed: Any searching his bed stinks of rotten fish for d4 weeks. While stinking, the Warden might ask for a WIL save to avoid negative reactions in social situations.
+- 搜查 Nereus 的床：任何搜查过他床铺的人都会散发腐鱼臭味 d4 周。发臭期间，守望者可能要求其进行 WIL 豁免，以避免社交场合中的负面反应。
 
 ### Nereus the Cyclops
 
-16 HP, 2 Armor, 16 STR, 10 DEX, 6 WIL, club (d10+d10) or rock (d8+d8)
-- Due to limited depth perception, his attacks are *impaired* against distant or moving targets.
+16 HP, 2 Armor, 16 STR, 10 DEX, 6 WIL, 棍棒 (d10+d10) 或石块 (d8+d8)
+- 因为深度知觉受限，针对远处或移动目标的攻击受到_削弱_。
 
-### Traitor’s Arch
+### 叛徒之拱 {#traitors-arch}
 
-- Black Tom: If released, tries to possess one of the PCs: WIL save or be possessed.
+- Black Tom：如果被释放，会尝试附身于一名 PC：WIL 豁免，否则被附身。
 
 ## Dagger Crag
 
 ### Omo-Toto’s Nest
 
-- Pieces of a stone tablet covered in glowing script. Act as a scroll of *Teleport* when repaired. *Teleport: An object or person you can see is transported from one place to another in a 50ft radius. Can be destroyed to create a portal to another dimension.*
+- 覆盖发光文字的石板碎片。修复后可作为 *Teleport* 卷轴使用。*Teleport*：将你能看见的物体或人物传送到 50ft 范围内的另一处位置。可以摧毁它来创造通往另一维度的传送门。
 
 ### Omo-Tato
 
-15 HP, 17 STR, 13 DEX, 14 WIL, claw (d8) or bite (d10), *detachment*
-- Not affected by Morale Saves when defending their nest.
+15 HP, 17 STR, 13 DEX, 14 WIL, 利爪 (d8) 或撕咬 (d10), *分队*
+- 守卫巢穴时不受士气豁免影响。
 
 ## Brimstone Island
 
-### Volcanic ruin
+### 火山遗迹 {#volcanic-ruin}
 
-- Sword of red-gold metal (d10).
+- 红金色金属剑 (d10)。
 
-### Ancient Colossus
+### 远古巨像 {#ancient-colossus}
 
-14 HP, 2 Armor, 16 STR, 12 DEX, 10 WIL, fist (d6+d6) or eye ray (d6, *blast*), *detachment*
-- Unharmed by gas. Immune to mind-affecting magic and magic that immobilize a target. Not affected by Morale Saves.
+14 HP, 2 Armor, 16 STR, 12 DEX, 10 WIL, 拳 (d6+d6) 或眼部射线 (d6, *爆发*), *分队*
+- 不受气体伤害。免疫影响心智的魔法，以及会使目标无法移动的魔法。不受士气豁免影响。
 
 ## Driftwood Cay
 
-### The Cursed Tree
+### 被诅咒的树 {#the-cursed-tree}
 
-- Giant statue’s bolt of energy: Telegraph as written. Find protection (ex: DEX save to take cover) or take d12 STR damage.
-- Heart-shaped golden fruits: Restore d10 STR and cure all diseases.
+- 巨像雕像的能量箭：按原文预示。寻找掩护（例如进行 DEX 豁免以躲入掩体），否则受到 d12 STR 伤害。
+- 心形金色果实：恢复 d10 STR，并治愈所有疾病。
 
-## Drowned Watchtower
+## 溺水瞭望塔 {#drowned-watchtower}
 
-### Strangle Weed
+### 缠绕藤 {#strangle-weed}
 
-8 HP, 10 STR, 12 DEX, 2 WIL, fronds (d4, *blast*)
-- **Critical Damage**: Victims are entangled. They take d4 STR damage on each subsequent round. Sever the fronds or succeed at a STR save to escape.
+8 HP, 10 STR, 12 DEX, 2 WIL, 叶蔓 (d4, *爆发*)
+- **重伤**：受害者被缠住。之后每回合受到 d4 STR 伤害。斩断叶蔓或成功进行 STR 豁免即可逃脱。
 
-## Lair of Morgawra
+## Morgawra 的巢穴 {#lair-of-morgawra}
 
-### Razor Coral
+### 刃珊瑚 {#razor-coral}
 
-- Traversing the razor coral: Telegraph the sharpness of the coral (as knives.) Those traversing take d4 STR damage.
+- 穿越刃珊瑚：预示珊瑚的锋利程度（如刀）。穿越者受到 d4 STR 伤害。
 
-### Reef Holes
+### 礁洞 {#reef-holes}
 
-- Anemone. Take d4 STR damage.
+- 海葵。受到 d4 STR 伤害。
 
-### Air Pockets
+### 气穴 {#air-pockets}
 
-- Shirt of blue metal scales: 2 armor, does not impair swimming (see appendix C.)
+- 蓝色金属鳞片衫：2 armor，不会妨碍游泳（见附录 C）。
 
-### Wraith
+### 幽魂 {#wraith}
 
-8 HP, 12 STR, 14 DEX, 12 WIL, touch (d6)
-- Immune to effects that affect living creatures (e.g. poison). Immune to mind-affecting magic. Not affected by Morale Saves.
-- **Critical Damage**: Drains the target’s energy for an additional d6 WIL damage.
+8 HP, 12 STR, 14 DEX, 12 WIL, 触碰 (d6)
+- 免疫影响活物的效果（例如毒素）。免疫影响心智的魔法。不受士气豁免影响。
+- **重伤**：吸取目标的能量，额外造成 d6 WIL 伤害。
 
-### Tentacle Curtain
+### 触手帘 {#tentacle-curtain}
 
-- Giant orange anemones tentacles: Telegraph that the tentacles look covered in poisonous slime. Touching the tentacles unprotected: STR save or die.
+- 巨型橙色海葵的触手：预示触手上覆盖着有毒黏液。未受保护地触摸触手：STR 豁免，否则死亡。
 
-### Sea Dragon Nest
+### 海龙巢穴 {#sea-dragon-nest}
 
-Stone tablets: 6 stone tablets (used as spell scrolls), each of a different spell:
-- *Hold Person*: A human or human-like creature is paralysed.
-- *Comprehend*: You become fluent in all languages for a short while.
-- *Growth of Plants*: A dense, thorny thicket of vines and brambles overwhelms an area of normal woodland or scrub, making it difficult to traverse.
-- *Illuminate*: A floating light moves as you command.
-- *Control Weather*: You may alter the type of weather at will, but you do not otherwise control it.
-- *Telekinesis*: You may mentally 1 move item under 60lbs.
+石板：6 块石板（作为法术卷轴使用），每块对应一种不同的法术：
+- *Hold Person*：一名人类或类人生物麻痹。
+- *Comprehend*：短时间内精通所有语言。
+- *Growth of Plants*：浓密多刺的藤蔓与荆棘丛压过一片普通林地或灌木地，使其难以穿越。
+- *Illuminate*：一团漂浮的光源按照你的命令移动。
+- *Control Weather*：可以随意改变天气类型，但不能进一步控制天气。
+- *Telekinesis*：可以用心灵移动 1 件 60lbs 以下的物品。
 
 ### Morgawra, Sea Dragon
 
-12 HP, 3 Armor, 16 STR, 14 DEX, 18 WIL, bite (d12), *detachment*
-- Breath of pressurized water: Anyone in a 100ft line must succeed a DEX save or take STR damage equal to Morgawra’s current STR and be shoved backwards 60ft.
-- Lunge: Jumps 40ft out of water to use a bite attack.
-- Squeeze: Coil around and crush any vessel.
+12 HP, 3 Armor, 16 STR, 14 DEX, 18 WIL, 撕咬 (d12), *分队*
+- 加压水流吐息：100ft 长线内的所有人必须成功进行 DEX 豁免，否则受到等同于 Morgawra 当前 STR 的 STR 伤害，并被向后推 60ft。
+- 突袭：跃出水面 40ft，发动撕咬攻击。
+- 挤压：盘绕并压碎任何船只。
 
 ## Castaway Island
 
-### The Emperor of the Sea
+### 海之皇帝 {#the-emperor-of-the-sea}
 
-Each of Bartholemeo’s spells is contained in a separate spellbook. The following spellbooks are hidden in his throne. The rest are on his person.
-- *Comprehend*: You become fluent in all languages for a short while.
-- *Knock*: A nearby mundane or magical lock unlocks loudly.
-- *Fish Lung*: A target can breathe underwater until they surface again.
+Bartholemeo 的每个法术都收在单独的法术书中。以下法术书藏在他的王座里，其余在他身上。
+- *Comprehend*：短时间内精通所有语言。
+- *Knock*：附近的普通或魔法锁大声解锁。
+- *Fish Lung*：目标可以在水下呼吸，直到再次浮出水面。
 
-### Coconut Man
+### 椰子人 {#coconut-man}
 
-1 HP, 1 Armor, 5 STR, 8 DEX, 3 WIL, claw (d4)
-- Take *enhanced* damage from fire.
-- Not affected by Morale Saves as long as the Emperor of the Sea lives.
+1 HP, 1 Armor, 5 STR, 8 DEX, 3 WIL, 利爪 (d4)
+- 受到火焰的_强化_伤害。
+- 只要海之皇帝活着，就不受士气豁免影响。
 
-### Emperor of the Sea
+### 海之皇帝 {#emperor-of-the-sea}
 
-8 HP, 8 STR, 12 DEX, 13 WIL, stick (d6)
-Has the following spellbooks:
-- *Detect magic*: You can see or hear nearby magical auras.
-- *Infravision*: You can see shapes in the dark up to 60ft.
-- *Mirror Image*: An illusory duplicate of yourself appears and is under your control.
-- *Web*: Your wrists shoot thick webbing.
+8 HP, 8 STR, 12 DEX, 13 WIL, 棍棒 (d6)
+拥有以下法术书：
+- *Detect magic*：你可以看见或听见附近的魔法灵光。
+- *Infravision*：你可以在黑暗中看见 60ft 内的形状。
+- *Mirror Image*：一个你的幻象复制体出现并受你控制。
+- *Web*：你的手腕射出厚实的蛛网。
 
 ## Fish-Eye Atoll
 
-### Merman guard
+### 人鱼守卫 {#merman-guard}
 
-5 HP, 1 Armor, 10 STR, 12 DEX, 10 WIL, trident (d8)
+5 HP, 1 Armor, 10 STR, 12 DEX, 10 WIL, 三叉戟 (d8)
 
 ### Chieftainess Sish
 
-7 HP, 1 Armor, 10 STR, 12 DEX, 14 WIL, trident of fish command (d10, nearby fish obey you)
+7 HP, 1 Armor, 10 STR, 12 DEX, 14 WIL, 鱼类指挥三叉戟 (d10，附近的鱼会服从你)
 
-### Giant Electric Eel
+### 巨型电鳗 {#giant-electric-eel}
 
-5 HP, 8 STR, 12 DEX, 5 WIL, bite (d6)
-- **Critical Damage**: Unleashes an electric shock. The target, as well as any other character within 10ft, takes d8 DEX damage.
-- Immunity to electricity.
+5 HP, 8 STR, 12 DEX, 5 WIL, 撕咬 (d6)
+- **重伤**：释放电击。目标以及 10ft 内的其他角色受到 d8 DEX 伤害。
+- 免疫电击。
 
-## Wreck of the Stormcrow
+## Stormcrow 号沉船 {#wreck-of-the-stormcrow}
 
 ### Old Red Eyes
 
-8 HP, 2 Armor, 17 STR, 12 DEX, 7 WIL, bite (d12), *detachment*
+8 HP, 2 Armor, 17 STR, 12 DEX, 7 WIL, 撕咬 (d12), *分队*
 
-## The Black Crag
+## 黑色峭壁 {#the-black-crag}
 
-## Level 1: The Vault of Janzoon
+## 第 1 层：Janzoon 的金库 {#level-1-the-vault-of-janzoon}
 
-### 1.2 Octopus Trap
+### 1.2 章鱼陷阱 {#1-2-octopus-trap}
 
-- Octopus Trap: Instead of a random chance to notice the trap, telegraph that the treasure is laying on a part of the stream that looks smoother than the rest of the seafloor. A closer look reveals that this part of the floor is moving rhythmically, as if breathing.
+- 章鱼陷阱：不要使用随机概率来决定是否注意到陷阱，而要预示宝藏放在一段看起来比其他海床更平滑的溪流中。仔细观察会发现，这部分地面正在有节奏地移动，仿佛在呼吸。
 
-### Giant Octopus
+### 巨型章鱼 {#giant-octopus}
 
-14 HP, 13 STR, 15 DEX, 5 WIL, tentacles (d6, *blast*)
-- **Critical Damage**: Tentacles grab and constrict their target, dealing d4 to their STR each round and impairing their attacks. If the tentacle is severed, the target is freed.
-- Ink cloud: When escaping, it emits a large cloud of black ink.
+14 HP, 13 STR, 15 DEX, 5 WIL, 触手 (d6, *爆发*)
+- **重伤**：触手抓住并缠紧目标，每回合对其 STR 造成 d4 伤害，并使其攻击受到削弱。触手被斩断后，目标获释。
+- 墨云：逃跑时释放大团黑色墨汁。
 
-### 1.3 Urchin Crawl
+### 1.3 海胆爬行道 {#1-3-urchin-crawl}
 
-- Spiny urchins: Telegraph the spikes. Those crawling through take d4 STR damage.
+- 带刺海胆：预示尖刺。爬过时受到 d4 STR 伤害。
 
-### 1.5 Sword in the Stone
+### 1.5 石中剑 {#1-5-sword-in-the-stone}
 
-- Geyser eruption: Telegraph as written. If the sword is removed, everyone inside the room takes d8 STR damage.
+- 间歇泉喷发：按原文预示。如果拔出剑，房间内所有人受到 d8 STR 伤害。
 
-### 1.6 Bloodgrass Cave
+### 1.6 血草洞窟 {#1-6-bloodgrass-cave}
 
-- Blood-red seagrass: heals 1 STR per portion.
+- 血红色海草：每份恢复 1 STR。
 
-### 1.10 Wolf Bat Cave
+### 1.10 狼蝠洞 {#1-10-wolf-bat-cave}
 
-- Adult wolf bats : see appendix.
-- Young wolf bats: swarm around a target’s head, causing confusion. The target’s attacks are *impaired* and they can’t cast spells.
+- 成年狼蝠：见附录。
+- 幼年狼蝠：在目标头部周围成群飞舞，造成困惑。目标的攻击受到_削弱_，且无法施法。
 
-### 1.11 The Walk of Death
+### 1.11 死亡之路 {#1-11-the-walk-of-death}
 
-- Crossing the water-slickened mast: Telegraph as written. DEX save or fall into the pool below (d4 STR damage).
+- 越过被水打湿的桅杆：按原文预示。DEX 豁免，否则跌入下方水池（d4 STR 伤害）。
 
-### 1.15 Spike Trap
+### 1.15 尖刺陷阱 {#1-15-spike-trap}
 
-- Spike trap: Telegraph the fissure. If examined, reveal the pirate impaled on the spears. A closer look reveals the tripwire. If ignored, take d8 STR damage.
+- 尖刺陷阱：预示裂缝。如果检查，揭示一个被长矛刺穿的海盗。仔细观察会发现绊线。如果无视，受到 d8 STR 伤害。
 
-### 1.17 Treasure Vault
+### 1.17 宝库 {#1-17-treasure-vault}
 
-- Opening the doors: requires a wedge, STR save to open the doors quickly.
+- 开门：需要楔子；进行 STR 豁免可以快速开门。
 
-### 1.18 Captain’s Room
+### 1.18 船长室 {#1-18-captains-room}
 
-- Trapped lockbox: Telegraphing the trap: As the lockbox opens, the sound of a mechanism can be heard and the point of a needle appears in the chest’s opening. If ignored, STR save or die.
+- 陷阱锁箱：预示陷阱：锁箱打开时可以听见机关声，箱口出现针尖。如果无视，进行 STR 豁免，否则死亡。
 
 ### LeSinge, Mutineer Captain
 
-12 HP, 1 Armor, 13 STR, 9 DEX, 15 WIL, sword (d10)
+12 HP, 1 Armor, 13 STR, 9 DEX, 15 WIL, 剑 (d10)
 
-## Level 2: The Sunken Grottoes
+## 第 2 层：沉没的洞窟 {#level-2-the-sunken-grottoes}
 
-### 2.9 Hot Vent Hallway
+### 2.9 热泉通道 {#2-9-hot-vent-hallway}
 
-- Heat of the vents: Telegraph the scalding heat. Deals d4 STR damage every turn.
+- 喷口的热量：预示灼热。每回合造成 d4 STR 伤害。
 
-### 2.10 Hydrothermal Pool
+### 2.10 热液池 {#2-10-hydrothermal-pool}
 
-- Bathing in the pool: recover d6 STR.
-- Touching a slug: Telegraph the bright color of the slugs. If touching a slug, be intoxicated and have hallucinations for d8 turns.
+- 在池中沐浴：恢复 d6 STR。
+- 触摸蛞蝓：预示蛞蝇鲜艳的颜色。触摸后会醉酒并产生幻觉，持续 d8 回合。
 
-### 2.11 Empty Battlefield
+### 2.11 空旷战场 {#2-11-empty-battlefield}
 
-- Barbed spears: d8.
-- Turtle-shell shields: +1 Armor.
+- 带刺长矛：d8。
+- 龟壳盾牌：+1 Armor。
 
-### 2.15 Kelp Farm
+### 2.15 海带农场 {#2-15-kelp-farm}
 
-- Popping bubbles: Telegraph the glowing liquid. If popping a bubble, those looking are blinded for d4 turns.
+- 戳破气泡：预示发光液体。戳破气泡后，观看者失明 d4 回合。
 
-### 2.17 Jellyfish Cave
+### 2.17 水母洞窟 {#2-17-jellyfish-cave}
 
-- Jellyfish swarm sting: Telegraph as written. Those stung take d6 DEX damage, then must succeed a DEX save or be paralyzed for d10 rounds.
+- 水母群蜇刺：按原文预示。被蜇者受到 d6 DEX 伤害，随后必须成功进行 DEX 豁免，否则麻痹 d10 回合。
 
-### 2.19 Creeping Coral
+### 2.19 蠕动珊瑚 {#2-19-creeping-coral}
 
-- Touching the coral: Telegraph that the polyps look inflated, filled with some sort of substance. If touched, DEX save or inhale the cloud. If inhaled, the character can breathe water. Over the course of d4 weeks, scaly patches of coral grow on their skin (+1 armor) until the coral consumes their entire body, killing the host.
+- 触摸珊瑚：预示珊瑚虫看起来膨胀了，里面充满某种物质。触摸时进行 DEX 豁免，否则吸入云雾。吸入后，角色可以在水下呼吸。在 d4 周内，珊瑚的鳞状斑块在皮肤上生长（+1 armor），直到珊瑚吞噬整个身体并杀死宿主。
 
-### 2.22 Brine Pool
+### 2.22 盐水池 {#2-22-brine-pool}
 
-- Hyper-saline pool: Telegraph the sulfur crust. Take d4 STR damage when touched. STR save or die when drank or breathed.
+- 高盐度池：预示硫磺结壳。触摸时受到 d4 STR 伤害。饮用或吸入时进行 STR 豁免，否则死亡。
 
-### 2.23 Sorceress’s Study
+### 2.23 女巫书房 {#2-23-sorceresss-study}
 
-- Glowing liquid: Telegraph as written. d4 STR damage.
-- Clam shells: takes time or a successful STR save to open.
+- 发光液体：按原文预示。d4 STR 伤害。
+- 蛤蜊壳：需要时间或成功进行 STR 豁免才能打开。
 
 ### Mother Quagla
 
-10 HP, 1 Armor, 13 STR, 10 DEX, 14 WIL, trident (d8, see lightning trident in the appendix)
-Can cast the following spells at will:
-- *Detect magic*: You can see or hear nearby magical auras.
-- *Magic Dampener*: All nearby magical effects have their effectiveness halved.
-- *Mirror Image*: An illusory duplicate of yourself appears and is under your control.
-- *Sleep*: A creature you can see falls into a light sleep.
-- *Visual Illusion*: A silent, immobile, room-sized illusion of your choice appears.
+10 HP, 1 Armor, 13 STR, 10 DEX, 14 WIL, 三叉戟 (d8，见附录中的闪电三叉戟)
+可以随意施放以下法术：
+- *Detect magic*：你可以看见或听见附近的魔法灵光。
+- *Magic Dampener*：附近所有魔法效果的效力减半。
+- *Mirror Image*：一个你的幻象复制体出现并受你控制。
+- *Sleep*：一个你能看见的生物陷入浅睡。
+- *Visual Illusion*：出现一个由你选择的、无声且静止的房间大小幻象。
 
-### 2.24 Fish God Idol
+### 2.24 鱼神偶像 {#2-24-fish-god-idol}
 
-- Blood paint ritual: the first attack the warriors make is *enhanced*.
+- 血画仪式：战士进行的第一次攻击得到_强化_。
 
 ### Gyara, Young Sea Dragon
 
-9 HP, 1 Armor, 13 STR, 14 DEX, 11 WIL, bite (d8)
-- Squeeze: Coil around and crush a small vessel.
+9 HP, 1 Armor, 13 STR, 14 DEX, 11 WIL, 撕咬 (d8)
+- 挤压：盘绕并压碎小型船只。
 
-### 2.27 Sea Tunnel
+### 2.27 海底隧道 {#2-27-sea-tunnel}
 
-- When the slageela fight inside the seaweed, attacks against them are *impaired*.
+- Slageela 在海藻中战斗时，针对它们的攻击受到_削弱_。
 
-### Avatar of the Deep
+### 深渊化身 {#avatar-of-the-deep}
 
-17 HP, 18 STR, 10 DEX, 15 WIL, bite (d10) or tentacles (d6, *blast*)
-- **Critical Damage**: Tentacles grab and immobilise their target. If the tentacle is severed, the target is freed.
-- The Sea Incarnate: Controls all seawater within 1000ft.
-- Aura of Darkness: An inky cloud surrounds the avatar, only its glowing eyes and luminescent spots visible. Those who cannot perceive in darkness have their attacks *impaired*.
-- Fire and electricity against it is *impaired*.
+17 HP, 18 STR, 10 DEX, 15 WIL, 撕咬 (d10) 或触手 (d6, *爆发*)
+- **重伤**：触手抓住目标并使其无法移动。触手被斩断后，目标获释。
+- 海之化身：控制 1000ft 内的所有海水。
+- 黑暗光环：墨色云雾包围化身，只有发光的眼睛与斑点可见。无法在黑暗中感知的人，其攻击受到_削弱_。
+- 火焰与电击对它造成的伤害受到_削弱_。
 
-## Level 3: The Ancient City
+## 第 3 层：远古城市 {#level-3-the-ancient-city}
 
-### 3.2 Port
+### 3.2 港口 {#3-2-port}
 
-- Vessels: see appendix.
+- 船只：见附录。
 
-### 3.5 Sunken Jungle
+### 3.5 沉没丛林 {#3-5-sunken-jungle}
 
-- Golden berries: heals d6 STR.
+- 金色浆果：恢复 d6 STR。
 
 ### Warp Beast
 
-9 HP, 13 STR, 16 DEX, 12 WIL, tentacles (d6+d6)
-- Displacement: appears 3ft from actual location, attacks against them are *impaired*.
-- Resistant to magic: caster must make a WIL save for the intended effect to succeed.
+9 HP, 13 STR, 16 DEX, 12 WIL, 触手 (d6+d6)
+- 位移：出现在其实际位置 3ft 外；针对它的攻击受到_削弱_。
+- 抗魔：施法者必须进行 WIL 豁免，预期效果才能生效。
 
 ### Thresh
 
-8 HP, 9 STR, 12 DEX, 13 WIL, claw (d4) or wand of lightning bolts (d10, *blast*)
+8 HP, 9 STR, 12 DEX, 13 WIL, 利爪 (d4) 或闪电箭魔杖 (d10, *爆发*)
 
-### 3.9 Tower of Secrets
+### 3.9 秘密之塔 {#3-9-tower-of-secrets}
 
-- Obsidian Dagger: d8.
-- Reading the symbols: WIL save or be driven mad for d6 turns. Those who succeed increase their WIL score by 1.
+- 黑曜石匕首：d8。
+- 阅读符号：WIL 豁免，否则疯狂 d6 回合。成功者的 WIL 值提高 1。
 
-### White Ape
+### 白猿 {#white-ape}
 
-7 HP, 15 STR, 13 DEX, 4 WIL, claws (d6+d6) or thrown rock (d6)
+7 HP, 15 STR, 13 DEX, 4 WIL, 利爪 (d6+d6) 或投掷石块 (d6)
 
-### 3.10 Lava Ring
+### 3.10 熔岩环 {#3-10-lava-ring}
 
-- Falling into lava: Telegraph that the lava rock is only a thin crust above deadly lava. Those walking across must succeed a DEX save to avoid falling. Anyone falling in the lava dies.
+- 跌入熔岩：预示熔岩岩石只是致命熔岩上方的薄壳。穿过时必须成功进行 DEX 豁免以避免跌落。任何跌入熔岩的人都会死亡。
 
-## Level 4: The Palace
+## 第 4 层：宫殿 {#level-4-the-palace}
 
-### 4.2 Walk of Kings
+### 4.2 诸王之路 {#4-2-walk-of-kings}
 
-- Ceiling collapses: d12 STR damage.
+- 天花板坍塌：d12 STR 伤害。
 
 ### Kreshklak, Nephroid King
 
-6 HP, 3 Armor, 15 STR, 12 DEX, 15 WIL, claws (d8+d8) or Rod of Nara-Thul (d12).
+6 HP, 3 Armor, 15 STR, 12 DEX, 15 WIL, 利爪 (d8+d8) 或 Nara-Thul 之杖 (d12)。
 
-### 4.5 Crystal Charger
+### 4.5 水晶充能器 {#4-5-crystal-charger}
 
-- Bolts of electricity: Telegraph as written. DEX save or take d8 DEX damage (those wearing metal armor automatically fail.)
+- 电流：按原文预示。DEX 豁免，否则受到 d8 DEX 伤害（穿戴金属护甲者自动失败）。
 
-### 4.11 Nephroid Sauna
+### 4.11 Nephroid 桑拿房 {#4-11-nephroid-sauna}
 
-- Female nephroids: See appendix for nephroid. Smaller claws (d6).
-- Swarm of black crabs: Run as a trap. Telegraph the egg sacs. When an egg sac bursts, nearby non-nephroid targets take d4 STR damage as the swarm of black crabs attacks.
-- Warp beast skin rug: Displacement: wearer appears 3ft from its actual position, attacks against them are *impaired*. Resistant to magic: Enemy caster must make a WIL save for the intended effect to succeed.
+- 雌性 Nephroid：见附录中的 Nephroid。较小的利爪 (d6)。
+- 黑蟹群：按陷阱处理。预示卵囊。卵囊爆裂时，附近的非 Nephroid 目标受到 d4 STR 伤害，因为黑蟹群发动攻击。
+- Warp Beast 皮毯：位移：穿戴者出现在实际位置 3ft 外，针对其的攻击受到_削弱_。抗魔：敌方施法者必须进行 WIL 豁免，预期效果才能生效。
 
 ### Nara-Thul
 
-Possessing a character: WIL save or be possessed.
-When in a mortal body, can cast the following spells at will:
-- *Illuminate*: A floating light moves as you command.
-- *Mirror Image*: An illusory duplicate of yourself appears and is under your control.
-- *Shield*: A creature you touch is protected from mundane attacks for one minute.
-- *Wall of Fire*: A straight wall of green fire 50ft long and 10ft high rises from the ground.
-- *Visual Illusion*: A silent, immobile, room-sized illusion of your choice appears.
-- *Knock*: A nearby mundane or magical lock unlocks loudly.
+附身角色：WIL 豁免，否则被附身。
+处于凡人身体中时，可以随意施放以下法术：
+- *Illuminate*：一团漂浮的光源按照你的命令移动。
+- *Mirror Image*：一个你的幻象复制体出现并受你控制。
+- *Shield*：你接触的生物受到保护，免受普通攻击，持续 1 分钟。
+- *Wall of Fire*：一道 50ft 长、10ft 高的绿色直火墙从地面升起。
+- *Visual Illusion*：出现一个由你选择的、无声且静止的房间大小幻象。
+- *Knock*：附近的普通或魔法锁大声解锁。
 
-### 4.15 Molting Room
+### 4.15 蜕壳室 {#4-15-molting-room}
 
-- Nephroid fully shedding its shell: Armor is reduced to 0 and claw attacks to d4.
+- Nephroid 完全脱去外壳：Armor 降至 0，利爪攻击降至 d4。
 
-### 4.17 Treasury
+### 4.17 金库 {#4-17-treasury}
 
-- Staff of Snakes: When touching a creature with the staff, the owner can transform the staff into a snake. The targeted creature must succeed at a STR save or be completely immobilised in the coils of the snake (6 HP, 13 STR). When the victim is released, the snake returns to the owner and transforms back into a staff.
-- Orichalcum Death Mask: A channel of communication is opened to a higher plane of existence, allowing to ask powerful, otherworldly beings for advice and knowledge on any subject. Communion with otherworldly beings of great power can shatter one’s sanity: each use of this power deals d10 WIL damage.
+- 蛇之杖：用杖触摸生物时，持有者可以将杖变成蛇。目标生物必须成功进行 STR 豁免，否则会被蛇的身体完全缠住而无法移动（6 HP, 13 STR）。释放受害者后，蛇返回持有者身边并变回法杖。
+- 山铜死亡面具：打开与更高存在位面的沟通渠道，可以向强大的异界生物询问任何主题的建议与知识。与强大异界生物交流可能击碎心智：每次使用此能力造成 d10 WIL 伤害。
 
-### Brain Squid
+### 脑鱿鱼 {#brain-squid}
 
-14 HP, 15 STR, 13 DEX, 12 WIL, tentacles (d10+d10) or beak (d6)
-- Surprise: If a brain squid surprises enemies, its brain lights up in a mesmerizing display. Those observing must succeed at a WIL save or be hypnotized for d4 rounds, unable to move or act.
-- Tentacles attacks: All 10 tentacles attack a single target. Each severed tentacle reduces the damage dealt by the attack by 1.
-- Unarmed by lighting.
+14 HP, 15 STR, 13 DEX, 12 WIL, 触手 (d10+d10) 或喙 (d6)
+- 突袭：如果脑鱿鱼成功突袭敌人，它的大脑会在令人着迷的展示中发光。观察者必须成功进行 WIL 豁免，否则被催眠 d4 回合，无法移动或行动。
+- 触手攻击：10 条触手全部攻击同一目标。每条被斩断的触手使攻击造成的伤害减少 1。
+- 不受闪电影响。
 
-### 4.23 Shrine of the Sacred Stone
+### 4.23 圣石圣所 {#4-23-shrine-of-the-sacred-stone}
 
-- Touching the boulder: WIL save or fail catatonic for d4 turns.
+- 触摸巨石：WIL 豁免，否则陷入紧张症 d4 回合。
 
-### 4.24 Orichalcum Forge
+### 4.24 山铜熔炉 {#4-24-orichalcum-forge}
 
-- Sword (d10), tingles in the presence of magic.
-- Hammer (d12, *bulky*), floats in salt water.
-- Wand of lightning bolts (d10, *blast*), must first be charged with electricity to use.
+- 剑 (d10)，在魔法出现时会刺痛。
+- 锤子 (d12, *笨重*)，漂浮在盐水中。
+- 闪电箭魔杖 (d10, *爆发*)，必须先用电充能才能使用。
 
-### 4.27 Meditation Chamber
+### 4.27 冥想室 {#4-27-meditation-chamber}
 
-Reading the runes on the wall teaches a random spell from the following list. The spell is carved into the reader's mind and doesn’t take an inventory slot.
-- *Illuminate*: A floating light moves as you command.
-- *Mirror Image*: An illusory duplicate of yourself appears and is under your control.
-- *Visual Illusion*: A silent, immobile, room-sized illusion of your choice appears.
-- *Shield*: A creature you touch is protected from mundane attacks for one minute.
-- *Wall of Fire*: A straight wall of green fire 50ft long and 10ft high rises from the ground.
-- *Knock*: A nearby mundane or magical lock unlocks loudly.
+阅读墙上的符文会从下列列表中教会读者一个随机法术。法术会刻入读者的心智，不占用物品栏位。
+- *Illuminate*：一团漂浮的光源按照你的命令移动。
+- *Mirror Image*：一个你的幻象复制体出现并受你控制。
+- *Visual Illusion*：出现一个由你选择的、无声且静止的房间大小幻象。
+- *Shield*：你接触的生物受到保护，免受普通攻击，持续 1 分钟。
+- *Wall of Fire*：一道 50ft 长、10ft 高的绿色直火墙从地面升起。
+- *Knock*：附近的普通或魔法锁大声解锁。
 
-### 4.28 Mutation Machine
+### 4.28 变异机器 {#4-28-mutation-machine}
 
-In the center of the platform: d4 DEX damage and a random mutation.
-- Mind blast: Forehead veins pulse with light. Focus mental energy into a psychic attack (d10, *blast*). Caster must succeed a WIL save or pass out from the strain.
-- Chitinous Carapace: Back becomes a barbed shell. 3 Armor, but only when attacked from behind. Ram into enemies for d6 damage. Cannot wear armor unless specially made.
+平台中央：d4 DEX 伤害与一个随机变异。
+- 心灵爆破：前额血管发光。集中精神能量发动心灵攻击 (d10, *爆发*)。施法者必须成功进行 WIL 豁免，否则因压力昏倒。
+- 几丁质甲壳：背部长出带刺外壳。3 Armor，但只有从背后受到攻击时生效。冲撞敌人造成 d6 伤害。除非护甲经过特殊制作，否则无法穿戴护甲。
 
-### 4.29 Generator
+### 4.29 发电机 {#4-29-generator}
 
-- Removing a crystal: Telegraph that the crystals are crackling with energy and electricity. If removed without protection, be shocked for d8 DEX damage.
+- 移除水晶：预示水晶噼啪作响，充满能量与电力。如果没有保护就将其取下，会受到 d8 DEX 电击伤害。
 
-### 4.30 Laser Barrier
+### 4.30 激光屏障 {#4-30-laser-barrier}
 
-- The archway can be destroyed with a magical weapon. Damaging the archway causes green sparks to shoot out, dealing d6 DEX damage to the attacker.
+- 可以用魔法武器摧毁拱门。损伤拱门会使绿色火花射出，对攻击者造成 d6 DEX 伤害。
 
-### 4.31 Crypt of the Scholars
+### 4.31 学者墓穴 {#4-31-crypt-of-the-scholars}
 
-Console: 
-- Electricity zaps out: d4 DEX damage.
-- Green light scans: heals everyone in the room for d6 STR and d6 DEX.
-- Gravity turns off: when the effect ends, anyone not hanging onto something must succeed at a DEX save or take d6 STR damage as they fall.
+控制台：
+- 电流窜出：d4 DEX 伤害。
+- 绿光扫描：为房间内每个人恢复 d6 STR 和 d6 DEX。
+- 重力关闭：效果结束时，没有抓住任何东西的人必须成功进行 DEX 豁免，否则坠落并受到 d6 STR 伤害。
 
-### Scholar
+### 学者 {#scholar}
 
-14 HP, 8 STR, 14 DEX, 18 WIL, claws (d4+d4)
-- Mental defense: immune to mind-affecting magic. All mundane damage they take is *impaired*.
-Can cast the following spells at will:
-- *Mind blast*: Targets in a 60ft cone (20ft at the end) must succeed at a WIL save or be paralyzed for 1 turn.
-- *Flood of Knowledge*: The Scholar forcibly expands the mind of a target within 60ft by flooding it with psychic energy. Targets must succeed at a WIL save or take d12 WIL damage. The first time a character successfully saves against this ability, their max WIL permanently increases by 1.
-- *Telekinesis*: May mentally 1 move item under 60lbs.
-- *ESP*: Read thoughts of anyone within 90ft. Obstructed by a thin layer of lead or 2ft of rock.
+14 HP, 8 STR, 14 DEX, 18 WIL, 利爪 (d4+d4)
+- 心智防御：免疫影响心智的魔法。受到的所有普通伤害都受到_削弱_。
+可以随意施放以下法术：
+- *Mind blast*：60ft 锥形范围内（末端为 20ft）的目标必须成功进行 WIL 豁免，否则麻痹 1 回合。
+- *Flood of Knowledge*：学者用心灵能量淹没 60ft 内目标，强行扩张其心智。目标必须成功进行 WIL 豁免，否则受到 d12 WIL 伤害。角色第一次成功抵抗此能力时，其最大 WIL 永久提高 1。
+- *Telekinesis*：可以用心灵移动 1 件 60lbs 以下的物品。
+- *ESP*：读取 90ft 内任何人的思想。会被一层薄铅或 2ft 岩石阻挡。
 
-## Appendix A: Monsters
+## 附录 A：怪物 {#appendix-a-monsters}
 
-### Ancient Automaton
+### 远古自动机 {#ancient-automaton}
 
-6 HP, 3 Armor, 13 STR, 5 DEX, 10 WIL, blows (d8+d8)
-- Unharmed by gas. Immune to mind-affecting magic. Not affected by Morale Saves.
-- Power Source: If removed or destroyed, the automaton becomes inanimate.
+6 HP, 3 Armor, 13 STR, 5 DEX, 10 WIL, 猛击 (d8+d8)
+- 不受气体伤害。免疫影响心智的魔法。不受士气豁免影响。
+- 能源：如果被取出或摧毁，自动机变得无法活动。
 
-### Boar
+### 野猪 {#boar}
 
-6 HP, 13 STR, 10 DEX, 4 WIL, tusk (d8)
+6 HP, 13 STR, 10 DEX, 4 WIL, 獠牙 (d8)
 
-### Cassowary
+### 食火鸟 {#cassowary}
 
-7 HP, 13 STR, 13 DEX, 6 WIL, kicks (d6+d6)
-- Cassowaries can jump 7ft into the air.
+7 HP, 13 STR, 13 DEX, 6 WIL, 踢击 (d6+d6)
+- 食火鸟可以跳到 7ft 高处。
 
-### Coral Skeleton
+### 珊瑚骷髅 {#coral-skeleton}
 
-5 HP, 1 Armor, 9 STR, 9 DEX, 10 WIL, weapon (d6 or by weapon)
+5 HP, 1 Armor, 9 STR, 9 DEX, 10 WIL, 武器 (d6 或按武器)
 
-### Crab, Giant
+### 巨蟹 {#crab-giant}
 
-3 HP, 3 Armor, 14 STR, 8 DEX, 4 WIL, pincers (d10+d10)
+3 HP, 3 Armor, 14 STR, 8 DEX, 4 WIL, 钳子 (d10+d10)
 
-### Crocodile
+### 鳄鱼 {#crocodile}
 
-6 HP, 13 STR, 13 DEX, 5 WIL, bite (d8)
+6 HP, 13 STR, 13 DEX, 5 WIL, 撕咬 (d8)
 
-### Elephant Seal
+### 象海豹 {#elephant-seal}
 
-6 HP, 2 Armor, 14 STR, 8 DEX, 7 WIL, bite (d6)
+6 HP, 2 Armor, 14 STR, 8 DEX, 7 WIL, 撕咬 (d6)
 
-### Frog, Poisonous
+### 毒蛙 {#frog-poisonous}
 
-- Run as a trap: Telegraph the frogs as brightly colored. If bitten by a frog, suffer severe stomach pain and vomiting for a watch; no physical activity possible.
+- 按陷阱处理：预示青蛙颜色鲜艳。被青蛙咬伤后，剧烈胃痛并呕吐 1 个守望；无法进行任何体力活动。
 
 ### Grindylow
 
-7 HP, 5 STR, 15 DEX, 10 WIL, bite (1 damage)
-- Sneaky: Exceptionally good at hiding and sneaking. Contort their small bodies to fit in tight places. Near undetectable when hiding.
+7 HP, 5 STR, 15 DEX, 10 WIL, 撕咬 (1 damage)
+- 鬼祟：特别擅长隐藏与潜行。可以扭曲小小的身体以塞入狭窄空间。隐藏时几乎无法被发现。
 
-### Insect Swarm
+### 昆虫群 {#insect-swarm}
 
-- Run as a trap: STR save or take d4 STR damage.
+- 按陷阱处理：STR 豁免，否则受到 d4 STR 伤害。
 
-### Jaguar
+### 美洲豹 {#jaguar}
 
-8 HP, 12 STR, 14 DEX, 6 WIL, claws (d4+d4) or bite (d8)
+8 HP, 12 STR, 14 DEX, 6 WIL, 利爪 (d4+d4) 或撕咬 (d8)
 
-### Killer Vine
+### 杀人藤 {#killer-vine}
 
-6 HP, 10 STR, 12 DEX, 2 WIL, grab (d6)
-- **Critical Damage**: Victims are entangled. They take d6 STR damage on each subsequent round. Sever the vine or succeed at a STR save to escape.
+6 HP, 10 STR, 12 DEX, 2 WIL, 抓取 (d6)
+- **重伤**：受害者被缠住。之后每回合受到 d6 STR 伤害。斩断藤蔓或成功进行 STR 豁免即可逃脱。
 
-### Lava Lizard, Giant
+### 巨型熔岩蜥蜴 {#lava-lizard-giant}
 
-6 HP, 10 STR, 15 DEX, 5 WIL, bite (d6)
+6 HP, 10 STR, 15 DEX, 5 WIL, 撕咬 (d6)
 
-### Mantis Shrimp, Giant
+### 巨型螳螂虾 {#mantis-shrimp-giant}
 
-10 HP, 2 Armor, 17 STR, 13 DEX, 6 WIL, punches (d10+d10)
+10 HP, 2 Armor, 17 STR, 13 DEX, 6 WIL, 拳击 (d10+d10)
 
-### Marine Iguana, Giant
+### 巨型海鬣蜥 {#marine-iguana-giant}
 
-9 HP, 2 Armor, 14 STR, 10 DEX, 5 WIL, claws (d4+d4) or bite (d10)
+9 HP, 2 Armor, 14 STR, 10 DEX, 5 WIL, 利爪 (d4+d4) 或撕咬 (d10)
 
-### Merfolk
+### 人鱼 {#merfolk}
 
-3 HP, 10 STR, 12 DEX, 10 WIL, spear (d6) or net
+3 HP, 10 STR, 12 DEX, 10 WIL, 矛 (d6) 或网
 
-### Merrow
+### 梅洛 {#merrow}
 
-8 HP, 1 Armor, 14 STR, 12 DEX, 10 WIL, spear (d10) or claws and bite (d8+d8)
+8 HP, 1 Armor, 14 STR, 12 DEX, 10 WIL, 矛 (d10) 或利爪与撕咬 (d8+d8)
 
-### Monkey
+### 猴子 {#monkey}
 
-4 HP, 8 STR, 14 DEX, 9 WIL, sword (d8) or bite (d4) or fling (d6)
+4 HP, 8 STR, 14 DEX, 9 WIL, 剑 (d8) 或撕咬 (d4) 或投掷 (d6)
 
 ### Nephroid
 
-6 HP, 2 Armor, 13 STR, 12 DEX, 10 WIL, claw (d8)
+6 HP, 2 Armor, 13 STR, 12 DEX, 10 WIL, 利爪 (d8)
 
-### Pirate
+### 海盗 {#pirate}
 
-3 HP, 1 Armor, 10 STR, 10 DEX, 10 WIL, sword (d8) or crossbow (d6)
+3 HP, 1 Armor, 10 STR, 10 DEX, 10 WIL, 剑 (d8) 或十字弩 (d6)
 
-### Pitcher Plant
+### 猪笼草 {#pitcher-plant}
 
-3 HP, 1 Armor, 8 STR, 10 DEX, 2 WIL, bites (d6+d6)
-- Pheromones: Secretes a sweet-smelling fragrance: those within 10ft must succeed at a WIL save or walk into one of the plant’s mouths.
-- **Critical Damage**: Swallows the victim. Inside the pitcher: take d6 STR damage per turn; attacks are *impaired*; body digested an hour after death.
+3 HP, 1 Armor, 8 STR, 10 DEX, 2 WIL, 撕咬 (d6+d6)
+- 信息素：分泌甜香气味；10ft 内的人必须成功进行 WIL 豁免，否则走进植物的一张嘴里。
+- **重伤**：吞下受害者。在猪笼草内部：每回合受到 d6 STR 伤害；攻击受到_削弱_；死亡 1 小时后身体被消化。
 
-### Pit Viper
+### 蝮蛇 {#pit-viper}
 
-3 HP, 5 STR, 12 DEX, 3 WIL, bite (d4)
-- Infravision: Sees in the dark up to 60ft.
-- Initiative: Always gains initiative (no roll).
-- **Critical Damage**: Poison, die in a round.
+3 HP, 5 STR, 12 DEX, 3 WIL, 撕咬 (d4)
+- 红外视觉：可以在黑暗中看见 60ft 内的事物。
+- 先攻：总是获得先攻（无需掷骰）。
+- **重伤**：中毒，在 1 回合内死亡。
 
-### Reef Shark
+### 礁鲨 {#reef-shark}
 
-5 HP, 2 Armor, 10 STR, 13 DEX, 8 WIL, bite (d8)
-- Ram: Ram into a target, they must succeed at a STR save or be stunned for a round.
-- Feeding frenzy: Detects blood in water up to 300ft away. Triggered by the scent of blood: always attack; not affected by Morale Saves.
+5 HP, 2 Armor, 10 STR, 13 DEX, 8 WIL, 撕咬 (d8)
+- 撞击：撞向目标，目标必须成功进行 STR 豁免，否则眩晕 1 回合。
+- 进食狂潮：可以侦测 300ft 外水中的血液。血腥味会触发它：总是发动攻击，不受士气豁免影响。
 
 ### Slageela
 
-5 HP, 10 STR, 10 DEX, 12 WIL, weapon (d6 or by weapon)
-- Light Sensitivity: When in bright light, the Slageela’s attacks are *impaired* and attacks against them are *enhanced*.
+5 HP, 10 STR, 10 DEX, 12 WIL, 武器 (d6 或按武器)
+- 光线敏感：处于明亮光线中时，Slageela 的攻击受到_削弱_，针对它们的攻击得到_强化_。
 
 ### Slageela Sorceress
 
-7 HP, 9 STR, 10 DEX, 14 WIL, weapon (d6)
-- Light Sensitivity: When in bright light, the Slageela’s attacks are *impaired* and attacks against them are *enhanced*.
-Knows two spells among the following list. Can cast them at will.
-- *Detect magic*: You can see or hear nearby magical auras.
-- *Magic Dampener*: All nearby magical effects have their effectiveness halved.
-- *Mirror Image*: An illusory duplicate of yourself appears and is under your control.
-- *Sleep*: A creature you can see falls into a light sleep.
-- *Visual Illusion*: A silent, immobile, room-sized illusion of your choice appears.
-- *Phobia*: A nearby creature becomes terrified of an object of your choice.
+7 HP, 9 STR, 10 DEX, 14 WIL, 武器 (d6)
+- 光线敏感：处于明亮光线中时，Slageela 的攻击受到_削弱_，针对它们的攻击得到_强化_。
+从下列列表中掌握两个法术。可以随意施放它们。
+- *Detect magic*：你可以看见或听见附近的魔法灵光。
+- *Magic Dampener*：附近所有魔法效果的效力减半。
+- *Mirror Image*：一个你的幻象复制体出现并受你控制。
+- *Sleep*：一个你能看见的生物陷入浅睡。
+- *Visual Illusion*：出现一个由你选择的、无声且静止的房间大小幻象。
+- *Phobia*：附近一个生物会对你选择的物体产生恐惧。
 
-### Slageela Tadpole
+### Slageela 蝌蚪 {#slageela-tadpole}
 
-3 HP, 7 STR, 10 DEX, 12 WIL, bite (d6)
-- Light Sensitivity: When in bright light, the Slageela’s attacks are *impaired* and attacks against them are *enhanced*.
+3 HP, 7 STR, 10 DEX, 12 WIL, 撕咬 (d6)
+- 光线敏感：处于明亮光线中时，Slageela 的攻击受到_削弱_，针对它们的攻击得到_强化_。
 
-### Spider, Giant Crab
+### 巨型蟹蛛 {#spider-giant-crab}
 
-5 HP, 6 STR, 12 DEX, 4 WIL, bite (d8)
-- **Critical Damage**: Poison, die in a round.
-- Cling: Walks on walls and ceilings. Attacks by dropping on unsuspecting victims from above. 
+5 HP, 6 STR, 12 DEX, 4 WIL, 撕咬 (d8)
+- **重伤**：中毒，在 1 回合内死亡。
+- 黏附：在墙壁与天花板上行走。通过从上方落向毫无防备的受害者来发动攻击。
 
-### Water Termite
+### 水白蚁 {#water-termite}
 
-7 HP, 9 STR, 14 DEX, 3 WIL, bite (d6)
-- Irritant spray: Above water, sprays one target: DEX save or be stunned for 1 turn.
-- Ink cloud: Underwater, when escaping, emits a cloud of black ink to confuse attackers.
-- Eat ships: Cling to bottom of vessel, slowly eating the hull.
+7 HP, 9 STR, 14 DEX, 3 WIL, 撕咬 (d6)
+- 刺激喷雾：在水面上方喷向一个目标：DEX 豁免，否则眩晕 1 回合。
+- 墨云：在水下逃跑时释放黑色墨云，使攻击者困惑。
+- 吃船：附着在船底，慢慢啃食船壳。
 
-### Turtle, Giant Sea
+### 巨型海龟 {#turtle-giant-sea}
 
-12 HP, 3 Armor, 16 STR, 5 DEX, 6 WIL, bite (d12), *detachment*
+12 HP, 3 Armor, 16 STR, 5 DEX, 6 WIL, 撕咬 (d12), *分队*
 
-### Turtle, Snapping
+### 啮龟 {#turtle-snapping}
 
-3 HP, 2 Armor, 10 STR, 9 DEX, 4 WIL, bite (d6)
+3 HP, 2 Armor, 10 STR, 9 DEX, 4 WIL, 撕咬 (d6)
 
-### Wolf Bat
+### 狼蝠 {#wolf-bat}
 
-8 HP, 9 STR, 16 DEX, 5 WIL, bite (d6)
+8 HP, 9 STR, 16 DEX, 5 WIL, 撕咬 (d6)
 
-### Zombie
+### 僵尸 {#zombie}
 
-2 HP, 12 STR, 6 DEX, 3 WIL, weapon (d8 or by weapon)
+2 HP, 12 STR, 6 DEX, 3 WIL, 武器 (d8 或按武器)
 
-## Appendix B: Magic Items
+## 附录 B：魔法物品 {#appendix-b-magic-items}
 
-### Ancient Vessel
+### 远古船只 {#ancient-vessel}
 
-- Beam of electricity (d10+d10)
+- 电流束 (d10+d10)
 
-### Cowl of the Shard
+### 碎片兜帽 {#cowl-of-the-shard}
 
-- Bite (d8)
+- 撕咬 (d8)
 
-### Lightning Trident
+### 闪电三叉戟 {#lightning-trident}
 
-- Trident (d8). If loaded with a power crystal, its attacks are *enhanced* and it gains d10 charges. When a charge is expanded, the attack has *blast* (10ft around the wielder). Underwater, the wielder is also targeted by the *blast*.
+- 三叉戟 (d8)。装入能量水晶后，其攻击得到_强化_，并获得 d10 次充能。消耗一次充能后，攻击具有_爆发_（以持有者为中心 10ft 范围）。在水下，持有者也会被_爆发_波及。
 
-### Power Crystal
+### 能量水晶 {#power-crystal}
 
-- When shattered: Take d6 STR damage and be blinded.
+- 破碎时：受到 d6 STR 伤害并失明。
 
-### Tidebringer, Scimitar
+### Tidebringer，弯刀 {#tidebringer-scimitar}
 
-- Scimitar (d10)
-- When the blade is wet, the wielder can fling a blade of razor-sharp water as a ranged attack (d10). The sword must soak for 1 round in water before being used this way again.
-- No penalty when used under water.
+- 弯刀 (d10)
+- 刀刃沾水时，持有者可以将一道极其锋利的水刃作为远程攻击掷出 (d10)。再次如此使用前，剑必须在水中浸泡 1 回合。
+- 在水下使用时没有惩罚。
 
-## Appendix C: Quick and Dirty Underwater Adventuring
+## 附录 C：简易水下冒险规则 {#appendix-c-quick-and-dirty-underwater-adventuring}
 
-### Holding Breath
+### 屏息 {#holding-breath}
 
-Characters can hold their breath for a number of rounds equal to their STR score. If their breath runs out, they begin to drown. A drowning character must be brought onto land and resuscitated within the hour or die.
+角色可以屏息相当于其 STR 值的回合数。呼吸耗尽后，开始溺水。溺水角色必须在 1 小时内被带上陆地并进行复苏，否则死亡。
 
-### Armor and Encumbrance
+### 护甲与负重 {#armor-and-encumbrance}
 
-Each turn, a character has a chance to sink based on their armor.
-- Brigandine: 20%.
-- Chainmail: 80%.
-- Plate: 100%.
-Anyone carrying a full inventory (i.e. filling all 10 slots) is considered as wearing chainmail for the purpose of sinking.
+每回合，角色都有机会根据其护甲下沉。
+- 链甲衬衣：20%。
+- 锁子甲：80%。
+- 板甲：100%。
+携带完整物品栏（即填满全部 10 个栏位）的人，就下沉而言视为穿着锁子甲。
 
-### Weapons
+### 武器 {#weapons}
 
-- Bludgeoning and missile weapons are useless.
-- Cutting weapon attacks are *impaired*.
-- Spears and other thrusting weapons attack normally.
+- 钝击与投射武器毫无用处。
+- 斩击武器攻击受到_削弱_。
+- 矛与其他刺击武器正常攻击。

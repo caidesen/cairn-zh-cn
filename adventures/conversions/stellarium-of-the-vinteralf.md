@@ -5,41 +5,41 @@ parent: Conversions
 grand_parent: Adventures
 ---
 
-# Stellarium of the Vinteralf
+# Vinteralf 星象馆 {#stellarium-of-the-vinteralf}
 
-- Original system-neutral [adventure](https://blog.trilemma.com/2014/01/stellarium-of-vinteralf.html) by Michael Prescott. Updated version [available](https://www.drivethrurpg.com/product/286792/Trilemma-Adventures-Compendium-Volume-I).
-- Original conversion by [Kyle Maxwell](https://technoskald.itch.io/twcb).  
-- Adapted with permission.
+- Michael Prescott 创作的原系统中立[冒险](https://blog.trilemma.com/2014/01/stellarium-of-vinteralf.html)。[此处提供](https://www.drivethrurpg.com/product/286792/Trilemma-Adventures-Compendium-Volume-I)更新版本。
+- 原转换版本由 [Kyle Maxwell](https://technoskald.itch.io/twcb) 制作。
+- 经许可改编。
 
-## Encounters
+## 遭遇 {#encounters}
 
 ### Vinteralf
 d6+6 HP, Armor 2, STR 16, WIL 14
-- Driven to serve Thavir and reclaim the Stellarium's treasures
-- d6 weapons (spears, halberds, and the like)
+- 一心侍奉 Thavir，夺回星象馆的宝藏。
+- d6 武器（矛、戟等）。
 
-### The Wyrm Jokun
+### Wyrm Jokun {#the-wyrm-jokun}
 13 HP, 3 Armor, STR 20, DEX 12 (20 if flying), WIL 14
-- Driven to gather treasures in her hoard
-- Breath weapon does d20 (blast) 1x/day only
-- d12 bite, 2x d6 claw
-- Steel-glass scales are nearly impenetrable
-- Radiates cold
-- Speaks in half-remembered nursery rhymes
+- 一心收集宝藏，将其纳入自己的宝库。
+- 喷吐武器每天只能使用 1 次，造成 d20（爆发）伤害。
+- d12 撕咬，2×d6 利爪。
+- 钢玻璃鳞片几乎无法穿透。
+- 散发寒气。
+- 用半记半忘的童谣说话。
 
-## Dangers
+## 危险 {#dangers}
 
-### Glacier Face
-- DEX save or d6 damage
+### 冰川崖面 {#glacier-face}
+- DEX 豁免，否则受到 d6 伤害。
 
-### Hot Spring Cavern
-- Roll a d6; on a 1-2, a geyser is about to blast
-- DEX save or d6 damage
+### 温泉洞窟 {#hot-spring-cavern}
+- 掷 d6；结果为 1–2 时，间歇泉即将喷发。
+- DEX 豁免，否则受到 d6 伤害。
 
-## Treasure
+## 宝藏 {#treasure}
 ### Starsword Grugnir
-- d8 damage befitting a fine weapon
-- Casts invisible rays causing blindness d4 hours after seeing the unsheathed blade, lasting 3d6 hours
+- 精良武器，造成 d8 伤害。
+- 看到出鞘的剑刃后会射出不可见光线，使人失明 d4 小时；失明持续 3d6 小时。
 
-### Spell scrolls
-- Roll for a random [spell from the SRD](/cairn-srd#100-spells) or regular arcana (Into the Odd)
+### 法术卷轴 {#spell-scrolls}
+- 随机掷取一项 [SRD 中的法术](/cairn-srd#100-spells)，或使用常规奥术（Into the Odd）。

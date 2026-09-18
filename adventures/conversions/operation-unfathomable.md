@@ -6,514 +6,514 @@ title: Operation Unfathomable
 redirect_from: /resources/adventure-conversions/operation-unfathomable/
 ---
 
-# Operation Unfathomable
-- Converted from the [original work](https://www.drivethrurpg.com/product/233145/Operation-Unfathomable) by [Jason Sholtis](http://roll1d12.blogspot.com/) and published by [Hydra Cooperative](http://www.hydraco-op.com/).
-- Conversion by [Daniel Backus](https://danielbackus.itch.io).
+# 无从测度的行动 {#operation-unfathomable}
+- 改编自 [Jason Sholtis](http://roll1d12.blogspot.com/) 创作、由 [Hydra Cooperative](http://www.hydraco-op.com/) 出版的[原作](https://www.drivethrurpg.com/product/233145/Operation-Unfathomable)。
+- 转换者：[Daniel Backus](https://danielbackus.itch.io)。
 
-## NPCs
+## NPC {#npcs}
 
-### Ape Mummy, Two-Headed
-6 HP, STR 14, DEX, fists (d8+d8)
-- Damage from fire is enhanced
-- Immune to arrows & charm magic
+### 双头猿木乃伊 {#ape-mummy-two-headed}
+6 HP, STR 14, DEX, 拳 (d8+d8)
+- 火焰造成的伤害得到强化。
+- 免疫箭矢与魅惑魔法。
 
-### Ape Mummy, Two-Headed Giant
-10 HP, STR 18 DEX 6 WIL 7, fists (d12+d12)
-- Damage from bludgeoning weapons is impaired
-- Damage from fire is enhanced
-- Immune to arrows & charm magic
+### 双头巨猿木乃伊 {#ape-mummy-two-headed-giant}
+10 HP, STR 18 DEX 6 WIL 7, 拳 (d12+d12)
+- 钝击武器造成的伤害受到削弱。
+- 火焰造成的伤害得到强化。
+- 免疫箭矢与魅惑魔法。
 
 ### Bishop Emptiness
-8 HP, snake fang dagger (d6)
-- Can cast *hoodwink person, mind reader, magic missive, hovering protection, song of repose, doppelganger, reveal location, steer's strength, magic seal, envision, arcane confinement, lightning strike, issha's carapace of corpulence*
+8 HP, 蛇牙匕首 (d6)
+- 可以施放 *hoodwink person, mind reader, magic missive, hovering protection, song of repose, doppelganger, reveal location, steer's strength, magic seal, envision, arcane confinement, lightning strike, issha's carapace of corpulence*
 
 ### Blind Antler Man
-10 HP, 3 Armor, WIL 18, death ray pistol (d12), self-heating sword (d10), exploding bolos (d6, blast)
+10 HP, 3 Armor, WIL 18, 死光手枪 (d12), 自热剑 (d10), 爆炸套索 (d6, 爆发)
 
 ### Captain Kyrn
-10 HP, 2 Armor, STR 12, DEX 12, WIL 12, bug zapper (d6), sword (d8)
+10 HP, 2 Armor, STR 12, DEX 12, WIL 12, 灭虫枪 (d6), 剑 (d8)
 
-### Carrier Worm
-20 HP, 2 Armor, STR 18, smash (2d8)
-- Critical damage: You are swallowed whole.
-- Tunnels through earth and rock at full speed
-- Psionic emissions disrupt spellcasting
+### 载运蠕虫 {#carrier-worm}
+20 HP, 2 Armor, STR 18, 猛击 (2d8)
+- 重伤：你被整个吞下。
+- 以全速穿过泥土与岩石挖掘隧道。
+- 灵能放射会扰乱施法。
 
 ### Cerebromorph
-4 HP, electric shock (d8, blast)
+4 HP, 电击 (d8, 爆发)
 
 ### Chaos Fly
-1 HP, 4 STR, barbed tongue (1 dmg)
-- If stung, make a STR save or take 1 poison damage
+1 HP, 4 STR, 带刺舌头 (1 dmg)
+- 如果被蜇，进行 STR 豁免，否则受到 1 点毒素伤害。
 
 ### Chief Surgeon Dr. Nul's-Steady-Hand
-8 HP, DEX 12, scalpel (d6)
-- Can cast *hoodwink person, song of repose, fleetfooted*
+8 HP, DEX 12, 手术刀 (d6)
+- 可以施放 *hoodwink person, song of repose, fleetfooted*
 
 ### Chlochoo, Slugman
-4 HP, DEX 6, dagger (d6)
+4 HP, DEX 6, 匕首 (d6)
 
 ### Colossal Sorcerer
-12 HP, 1 Armor, fist (d8), giant spear (d10), grenade (2d6, blast)
-- Spellbook of *song of repose*
-- Magic carpet, worn as hat
+12 HP, 1 Armor, 拳 (d8), 巨矛 (d10), 手榴弹 (2d6, 爆发)
+- 持有 *song of repose* 法术书。
+- 魔法地毯，被当作帽子戴着。
 
 ### Culunor, Ranking Templar
-8 HP, 3 Armor, 8 STR, 14 WIL, anti-chaos sword (d8, d12 vs creatures of chaos)
+8 HP, 3 Armor, 8 STR, 14 WIL, 反混沌之剑 (d8, 对混沌生物为 d12)
 
 ### Cyclops
-13 HP, 18 STR, 8 DEX, 6 WIL, club (d10)
+13 HP, 18 STR, 8 DEX, 6 WIL, 棍棒 (d10)
 
 ### Decapitante
-4 HP, 1 Armor, 3 WIL, glaive (d8)
+4 HP, 1 Armor, 3 WIL, 长柄刀 (d8)
 
 ### Dim
-6 HP, 1 Armor, 16 STR, 6 WIL, fist (d6), scimitar (d8)
+6 HP, 1 Armor, 16 STR, 6 WIL, 拳 (d6), 弯刀 (d8)
 
 ### Doomed Templar
-4 HP, 3 Armor, 8 WIL, sword (d8)
+4 HP, 3 Armor, 8 WIL, 剑 (d8)
 
 ### Dr. Ephraim Thontorius
-5 HP, 1 Armor, STR 13, gamma gun (d10), bear hands (d6)
+5 HP, 1 Armor, STR 13, 伽马枪 (d10), 熊掌 (d6)
 
-### Dwarf, Bat-Winged
-4 HP, 1 Armor, 13 STR, 8 WIL, axe (d8), bow (d6)
+### 蝠翼矮人 {#dwarf-bat-winged}
+4 HP, 1 Armor, 13 STR, 8 WIL, 斧 (d8), 弓 (d6)
 
-### Dwarf, Blue
-4 HP, WIL 12, hammer or wrench (d6)
+### 蓝矮人 {#dwarf-blue}
+4 HP, WIL 12, 锤子或扳手 (d6)
 
-### Dwarf, Blue -- The Joyless Foreman
-4 HP, 1 Armor, huge bludgeon (d10)
+### 蓝矮人——The Joyless Foreman {#dwarf-blue-the-joyless-foreman}
+4 HP, 1 Armor, 巨型钝器 (d10)
 
-### Dwarf, Gray
-4 HP, 1 Armor, war hammer (d8)
+### 灰矮人 {#dwarf-gray}
+4 HP, 1 Armor, 战锤 (d8)
 
-### Dwarf, Gray -- Comrade Ghrengan
-6 HP, 2 Armor, magic greatsword (d10)
+### 灰矮人——Comrade Ghrengan {#dwarf-gray-comrade-ghrengan}
+6 HP, 2 Armor, 魔法巨剑 (d10)
 
 ### The Egg Carrier
-10 HP, 2 Armor, 16 STR, tentacle (d10)
-- Takes enhanced damage from fire
+10 HP, 2 Armor, 16 STR, 触手 (d10)
+- 受到火焰的强化伤害。
 
 ### Eye of Shaggath-Ka
 10 HP, 1 Armor, 3 STR
-- Ocular flash (blast, STR save or be blinded for 1 round)
+- 眼部闪光（爆发，STR 豁免，否则失明 1 回合）。
 
-### Firebomb Beetle
-2 HP, 2 Armor, STR 8, DEX 8, WILL 8, firebomb (d6, blast)
-- Critical damage: You & your possessions catch fire.
+### 火焰弹甲虫 {#firebomb-beetle}
+2 HP, 2 Armor, STR 8, DEX 8, WILL 8, 火焰弹 (d6, 爆发)
+- 重伤：你与携带的物品着火。
 
-### Flaming Hounds
-2 HP, 1 Armor, flaming bite (d6+d6)
-- Critical damage: You & your possessions catch fire.
+### 烈焰猎犬 {#flaming-hounds}
+2 HP, 1 Armor, 烈焰撕咬 (d6+d6)
+- 重伤：你与携带的物品着火。
 
 ### Fuloso, Grey Humanoid Fighter
-10 HP, 3 Armor, STR 13, DEX 13, spear (d8)
+10 HP, 3 Armor, STR 13, DEX 13, 矛 (d8)
 
 ### Gatemaster Shamblebeard
-10 HP, 3 Armor, 13 STR, 13 WIL, axe (d8)
+10 HP, 3 Armor, 13 STR, 13 WIL, 斧 (d8)
 
 ### Mr. Ghacula
-8 HP, 2 Armor, scimitar (d8)
+8 HP, 2 Armor, 弯刀 (d8)
 
-### Giant Cave Swallow
-4 HP, STR 8, DEX 12, WIL 6, beak (d6)
-- Critical damage: Any rope on your person is stolen.
+### 巨型洞穴燕 {#giant-cave-swallow}
+4 HP, STR 8, DEX 12, WIL 6, 鸟喙 (d6)
+- 重伤：你身上的任何绳子都会被偷走。
 
-### Giant Pill Bug
-3 HP, 1 Armor, WIL 6, bite (d4)
-- Can roll at high speeds when curled up; can end roll with a d6 slam
+### 巨型球潮虫 {#giant-pill-bug}
+3 HP, 1 Armor, WIL 6, 撕咬 (d4)
+- 蜷缩起来时可以高速滚动；滚动结束时可以用 d6 撞击。
 
-### Giant Snake of Burden
-8 HP, 2 Armor, STR 14, bite (d8)  
+### 负重巨蛇 {#giant-snake-of-burden}
+8 HP, 2 Armor, STR 14, 撕咬 (d8)
 
-### Grey Humanoid Elite Warriors
-8 HP, 3 Armor, STR 12, sword (d8)  
+### 灰色类人生物精锐战士 {#grey-humanoid-elite-warriors}
+8 HP, 3 Armor, STR 12, 剑 (d8)
 
-### Grey Humanoid Warriors
-6 HP, 2 Armor, sword (d8)
+### 灰色类人生物战士 {#grey-humanoid-warriors}
+6 HP, 2 Armor, 剑 (d8)
 
 ### Guard Bot
-4 HP, 1 Armor, DEX 8, pincers (d6)  
-- Foam cannon: blast, DEX save or be immobilized
-- Stun beam: WIL save or fall unconscious for 2d4 rounds
+4 HP, 1 Armor, DEX 8, 钳子 (d6)
+- 泡沫炮：爆发；DEX 豁免失败则无法移动。
+- 眩晕光束：WIL 豁免失败则失去意识 2d4 回合。
 
 ### Guild Warden
-9 HP, 3 Armor, STR 14, greatsword (d10)
+9 HP, 3 Armor, STR 14, 巨剑 (d10)
 
 ### Gung
-5 HP, 2 Armor, battle axe (d8)
+5 HP, 2 Armor, 战斧 (d8)
 
 ### Guruki, Guild Merchant
-4 HP, 2 Armor, STR 12, WIL 12, scimitar (d8), bow (d6)
-- Critical Damage (bow): Target is paralyzed for d6 minutes.
+4 HP, 2 Armor, STR 12, WIL 12, 弯刀 (d8), 弓 (d6)
+- 重伤（弓）：目标麻痹 d6 分钟。
 
 ### Hrrk, Magman Prince
-18 HP, STR 16, DEX 14, WIL 16, fiery fists (d12+d12)
-- Anyone within 10 ft must pass a STR save or suffer d6 heat damage.
+18 HP, STR 16, DEX 14, WIL 16, 火焰之拳 (d12+d12)
+- 10 ft 内的任何人都必须通过 STR 豁免，否则受到 d6 热量伤害。
 
 ### Ilgoriath
-11 HP, 1 Armor, STR 8, DEX 8, WIL 16, parrying dagger (d6)
-- Can cast *hoodwink monster, mind reader, wizardsniff, sorcerer's lock, magic missive, minor aegis, song of repose, murky bubble, read thoughts, rat tat tat, membraneous inconvenience, envision, great ball of fire, elemental wall, psychic eye, hold monster, astral step*
-- Parrying dagger impairs first attack against **Ilgoriath** each round
-- Venomous shrunken head can cast death's breath
-- Amulet of aloofness renders user immune to fear and mind control
+11 HP, 1 Armor, STR 8, DEX 8, WIL 16, 招架匕首 (d6)
+- 可以施放 *hoodwink monster, mind reader, wizardsniff, sorcerer's lock, magic missive, minor aegis, song of repose, murky bubble, read thoughts, rat tat tat, membraneous inconvenience, envision, great ball of fire, elemental wall, psychic eye, hold monster, astral step*
+- 招架匕首会使每回合第一次针对 **Ilgoriath** 的攻击受到削弱。
+- 有毒的缩小头颅可以施放 death's breath。
+- Amulet of aloofness 使佩戴者免疫恐惧与精神控制。
 
 ### Kelilu, Sub-Matriarch of the Ivory Citadel
-HP 12, STR 15, DEX 13, WILL 13, sword of calamity (d10), daggers (d6)
+HP 12, STR 15, DEX 13, WILL 13, 灾厄之剑 (d10), 匕首 (d6)
 
 ### Kholopho
-4 HP, 2 Armor, STR 12, WIL 8, stone polearm (d10), obsidian axe (d8)
+4 HP, 2 Armor, STR 12, WIL 8, 石制长柄武器 (d10), 黑曜石斧 (d8)
 
 ### Kilifrix the Devil-Mantis
-10 HP, 3 Armor, STR 12, DEX 12, claws (d6+d6)
+10 HP, 3 Armor, STR 12, DEX 12, 利爪 (d6+d6)
 
 ### Krrgh, Magman Prince
-18 HP, STR 16, DEX 16, WIL 14, fiery fists (d12+d12)
-- Anyone within 10 ft must pass a STR save or suffer d6 heat damage.
+18 HP, STR 16, DEX 16, WIL 14, 火焰之拳 (d12+d12)
+- 10 ft 内的任何人都必须通过 STR 豁免，否则受到 d6 热量伤害。
 
 ### Martian Ape
-8 HP, 14 STR, claws (d6+d6)
+8 HP, 14 STR, 利爪 (d6+d6)
 
 ### Micropudding
-1 HP, 2 Armor, enzyme spray (d4-1, blast)
+1 HP, 2 Armor, 酶液喷射 (d4-1, 爆发)
 
 ### Mind-Bat
-3 HP, 1 Armor, claws (d6+d6)
-- Mind blast requires target to pass WIL save or be stunned for d4-1 rounds
+3 HP, 1 Armor, 利爪 (d6+d6)
+- 心灵爆破要求目标通过 WIL 豁免，否则眩晕 d4-1 回合。
 
 ### Mother Futility
-7 HP, long stiletto (d6)
-- Can cast *hoodwink person, mind reader, arcane confinement, magic missive, song of repose, read thoughts, reveal location, steer's strength, gift of flight, fleetfooted, stupefaction*
+7 HP, 长细剑 (d6)
+- 可以施放 *hoodwink person, mind reader, arcane confinement, magic missive, song of repose, read thoughts, reveal location, steer's strength, gift of flight, fleetfooted, stupefaction*
 
 ### Mutineer
-3 HP, club or dagger (d6)
+3 HP, 棍棒或匕首 (d6)
 
 ### Mutineer, Thang
-6 HP, 1 Armor, sword (d8)
+6 HP, 1 Armor, 剑 (d8)
 
 ### Mutineer, Gung
-5 HP, 1 Armor, battle axe (d8)
+5 HP, 1 Armor, 战斧 (d8)
 
-### Newt-Man
-1 HP, shortsword (d6)
-- Takes enhanced damage from acid, fire, and heat
+### 蝾螈人 {#newt-man}
+1 HP, 短剑 (d6)
+- 受到酸、火焰和热量的强化伤害。
 
 ### Nul Acolyte
-4 HP, scimitar (d8)
+4 HP, 弯刀 (d8)
 
 ### Ootherion, Ape Myrmidon
-10 HP, STR 16, DEX 14, WIL 14, ape-bronze sword (d12)
+10 HP, STR 16, DEX 14, WIL 14, 猿铜剑 (d12)
 
 ### Oothu
-4 HP, 2 Armor, spear (d8)
+4 HP, 2 Armor, 矛 (d8)
 
 ### Professor Zabon Gormontine
-10 HP, 2 Armor, death ray (d6, blast), claws (d6)
-- Human disguise falls away if he takes STR damage
+10 HP, 2 Armor, 死光 (d6, 爆发), 利爪 (d6)
+- 如果受到 STR 伤害，人类伪装会脱落。
 
 ### Psychephage
-4 HP, WIL 6, claws (d6)
-- Can cast illusory landscape
+4 HP, WIL 6, 利爪 (d6)
+- 可以施放 illusory landscape。
 
-Critical damage: Your brain has been devoured.
+重伤：你的大脑被吞噬。
 
-### Rent-a-cops from the Future
-7 HP, 3 Armor, hand agonizer (STR save or paralyzed with pain for d6 rounds)
-- Stun ray (DEX save or be rendered unconscious)
+### 来自未来的 Rent-a-cops
+7 HP, 3 Armor, 手部痛击器（STR 豁免，否则因疼痛麻痹 d6 回合）
+- 眩晕射线（DEX 豁免，否则失去意识）。
 
 ### Science Fungoid
-3 HP, 1 Armor, sword (d6), death-ray revolver (d12)
+3 HP, 1 Armor, 剑 (d6), 死光左轮手枪 (d12)
 
 ### Science Fungoid Living Dirigible
-12 HP. 2 Armor, STR 16, extensible jaw (d12)
+12 HP. 2 Armor, STR 16, 可伸缩颚 (d12)
 
-### Segmented Giant
-20 HP, 3 Armor, 18 STR, whiplash punch (2d8)
-- Spellcasters must make a WIL save or magic against the giant fails
+### 分节巨人 {#segmented-giant}
+20 HP, 3 Armor, 18 STR, 鞭击拳 (2d8)
+- 施法者必须进行 WIL 豁免，否则针对巨人的魔法会失败。
 
 ### Shaggankh, Son of Shaggath-Ka
-22 HP, 3 Armor, 18 STR, 14 DEX, 14 WIL, tentacles (d10+d10)
-- corrosive breath (2d8, blast, DEX save for half damage)
+22 HP, 3 Armor, 18 STR, 14 DEX, 14 WIL, 触手 (d10+d10)
+- 腐蚀性吐息 (2d8, 爆发，DEX 豁免则伤害减半)。
 
 ### Shaggath-Ka, the Worm Sultan
-36 HP, 3 Armor, 12 STR (down from 18), 14 DEX, 18 WIL, smash (2d8, blast), _detachment_
-- Lethal gaze (WIL save or die)
-- Can cast *wizardsniff, hoodwink person, murky bubble, read thoughts, fog of nausea, vines of ichor, lightning strike*
+36 HP, 3 Armor, 12 STR (从 18 降低), 14 DEX, 18 WIL, 猛击 (2d8, 爆发), _独立_
+- 致死凝视（WIL 豁免，否则死亡）。
+- 可以施放 *wizardsniff, hoodwink person, murky bubble, read thoughts, fog of nausea, vines of ichor, lightning strike*
 
 ### Shoo-loo-ah, Slugman
-4 HP, 8 STR, 6 DEX, 12 WIL, curved dagger (d6)
+4 HP, 8 STR, 6 DEX, 12 WIL, 弯匕首 (d6)
 
 ### Solaro, White Humanoid Fighter
-8 HP, 3 Armor, STR 12, WIL 8, scimitar (d8)
+8 HP, 3 Armor, STR 12, WIL 8, 弯刀 (d8)
 
 ### Solgum the Resplendent
 6 HP, 3 Armor, 13 WIL
-- Can cast *wizardsniff, hovering protection, song of repose, read thoughts, doppelganger, fleetfooted, lightning strike*
+- 可以施放 *wizardsniff, hovering protection, song of repose, read thoughts, doppelganger, fleetfooted, lightning strike*
 
-### Subaqueous Transport Pupae
-20 HP, 2 Armor, STR 18, smash (d12)
-- Critical damage: You are swallowed whole.
-- Tunnels through earth and rock at full speed
-- Psionic emissions disrupt spellcasting
+### 水下运输蛹 {#subaqueous-transport-pupae}
+20 HP, 2 Armor, STR 18, 猛击 (d12)
+- 重伤：你被整个吞下。
+- 以全速穿过泥土与岩石挖掘隧道。
+- 灵能放射会扰乱施法。
 
 ### Thang
-6 HP, 1 Armor, sword (d8)
+6 HP, 1 Armor, 剑 (d8)
 
 ### Thrantrix the Ineffable
-32 HP, 3 Armor, 18 STR, 18 DEX, 18 WIL, countless biting snakes ((2d6)d6)
-- Can cast *hoodwink person, wizardsniff, read thoughts, great ball of fire, trueshift, geas*
-- Immune to poison and mind control
+32 HP, 3 Armor, 18 STR, 18 DEX, 18 WIL, 无数撕咬之蛇 ((2d6)d6)
+- 可以施放 *hoodwink person, wizardsniff, read thoughts, great ball of fire, trueshift, geas*
+- 免疫毒素与精神控制。
 
 ### Dr. Ukrumus Flaughf
-4 HP, 1 Armor, shortsword (d6), death ray revolver (d12)
+4 HP, 1 Armor, 短剑 (d6), 死光左轮手枪 (d12)
 
 ### Underworld Ranger
-8 HP, 2 Armor, 12 STR, 12 DEX, 12 WIL, sword (d8), bugzapper (d6)
+8 HP, 2 Armor, 12 STR, 12 DEX, 12 WIL, 剑 (d8), 灭虫枪 (d6)
 
 ### Urethria, Priestess of Nul
-10 HP, 2 Armor, WIL 14, stiletto (d6)
-Critical damage: You are lobotomized.
-- Can cast *murky bubble, lightning strike, magic missive, perfect illusion, reveal location*
-- Eye of Nul mind-control helmet can cast *hoodwink person, invisibility, mind reader, psychic touch*
+10 HP, 2 Armor, WIL 14, 细剑 (d6)
+重伤：你被切除脑叶。
+- 可以施放 *murky bubble, lightning strike, magic missive, perfect illusion, reveal location*
+- Eye of Nul mind-control helmet 可以施放 *hoodwink person, invisibility, mind reader, psychic touch*
 
 ### Uurx the Impervious
-28 HP, 3 Armor, 18 STR, 14 DEX, 14 WIL, accidental misstep (d12)
+28 HP, 3 Armor, 18 STR, 14 DEX, 14 WIL, 意外失足 (d12)
 
-### White Humanoid
-4 HP, 1 Armor, spear (d8)
+### 白色类人生物 {#white-humanoid}
+4 HP, 1 Armor, 矛 (d8)
 
 ### Worm Father Ymoro
-12 HP, 18 WIL, dagger (d6)
-Can cast *mind reader, sorcerer's lock, philolomancy, psychic touch, scry object, magic missive, membraneous inconvenience, hell's mandibles, worm's breath*
+12 HP, 18 WIL, 匕首 (d6)
+可以施放 *mind reader, sorcerer's lock, philolomancy, psychic touch, scry object, magic missive, membraneous inconvenience, hell's mandibles, worm's breath*
 
 ### Worm Soldier
-5 HP, 2 Armor, 15 WIL, spear (d8) or shortbow (d6)
+5 HP, 2 Armor, 15 WIL, 矛 (d8) 或短弓 (d6)
 
 ### Worm Surgeon
-4 HP, scalpel protuberance (d6)
+4 HP, 手术刀突起 (d6)
 
 ### Yeen-Su
-10 HP, 3 Armor, 14 STR, vorpal cleaver (d10)
-- Critical Damage: You are decapitated.
+10 HP, 3 Armor, 14 STR, 斩首巨刃 (d10)
+- 重伤：你被斩首。
 
 ### Yithbara, Inquisitor of Nul
-10 HP, 3 Armor, 14 STR, 12 WIL, scimitar (d8)
-### Helm of Inquiry can cast *psychic touch and envision*
+10 HP, 3 Armor, 14 STR, 12 WIL, 弯刀 (d8)
+### Helm of Inquiry 可以施放 *psychic touch and envision*
 
 ### Yoothranda. Grey Humanoid Fighter
-12 HP, 3 Armor, 14 STR, 12 DEX, sword (d8)
+12 HP, 3 Armor, 14 STR, 12 DEX, 剑 (d8)
 
 ### Yulith
-6 HP, 14 WIL, dagger (d6)
-### Can cast *hoodwink person, membraneous inconvenience*
+6 HP, 14 WIL, 匕首 (d6)
+### 可以施放 *hoodwink person, membraneous inconvenience*
 
 ### Yulzirin
-12 HP, 1 Armor, 14 WIL, dagger (d6)
-- Can cast *arcane arrow, hovering protection, doppelganger, psychic touch, lightning strike, terrify*
+12 HP, 1 Armor, 14 WIL, 匕首 (d6)
+- 可以施放 *arcane arrow, hovering protection, doppelganger, psychic touch, lightning strike, terrify*
 
-## Magic Items
+## 魔法物品 {#magic-items}
 
 ### Ancient Charm vs. Chaos
-The next time the wearer suffers harm from chaos, it is prevented and the charm crumbles to dust.
+佩戴者下次因混沌受到伤害时，伤害会被阻止，护符随之化为尘土。
 
 ### Anti-Chaos Pills, Blue
-Inoculates user against ambient chaos exposure for 3 days.
+使使用者免受环境混沌影响 3 天。
 
 ### Anti-Chaos Pills, Red
-Provides immunity to chaos exposure for 1 turn. On first use, must roll on Red Anti-Chaos Pills Side Effects table.
+使使用者免受混沌影响 1 回合。首次使用时，必须在 Red Anti-Chaos Pills Side Effects 表上掷骰。
 
 ### Battle Axe of Spell Cleaving
-d8. Can nullify a spell being cast a single time, but the weapon is destroyed.
+d8。可以使正在施放的法术失效 1 次，但武器会被摧毁。
 
 ### Arrow +1
-First attack made with this arrow deals enhanced damage.
+用这支箭进行的第一次攻击造成强化伤害。
 
 ### Arrow +2
-First attack made with this arrow deals enhanced damage and target is outlined in colorful flames, making attacks against it deal enhanced damage for the next minute.
+用这支箭进行的第一次攻击造成强化伤害，目标还会被彩色火焰勾勒出来，使针对它的攻击在接下来 1 分钟内造成强化伤害。
 
 ### Beverage of the Godlings
-Grants 18 in all abilities for d12 minutes.
+使所有属性在 d12 分钟内变为 18。
 
 ### Death-Ray Revolver
-This tiny revolver holds 4 cartridges. d12.
+这把小型左轮手枪装有 4 发弹药。d12。
 
 ### Decapitante Control Box
-Can be used by trained acolytes of Nul to remotely control up to 6 decapitantes.
+受过训练的 Nul 侍从可以用它远程控制最多 6 个 Decapitante。
 
 ### Eye of Nul Mind-Control Helmet
-When first donning the helmet, user must make a WIL save to avoid immediate death. Provided they survive, after a coma lasting d12 hours, the user can cast *hoodwink person, invisibility, mind reader, psychic touch*.
+首次戴上头盔时，使用者必须进行 WIL 豁免以避免立即死亡。如果活下来，经过 d12 小时的昏迷后，使用者可以施放 *hoodwink person, invisibility, mind reader, psychic touch*。
 
 ### Desperate Measure, The
-User may take three actions each turn for one hour, then dies.
+使用者可以连续 1 小时每回合采取 3 个行动，之后死亡。
 
 ### Draught of the Giraffe
-Neck extends to ten foot length for d12 minutes.
+脖子伸长至十英尺，持续 d12 分钟。
 
 ### Elixir of Instant Elegance
-Grants extreme competence in all social situations for d6 hours.
+在所有社交场合中获得极强的能力，持续 d6 小时。
 
 ### Fizzy Drink of Ocular Autonomy
-Eyes detach from body and fly freely, provided they remain within 120 feet of the user. Each eyeball has 1 HP, 1 STR.
+眼睛从身体上脱离并自由飞行，但必须保持在使用者 120 英尺范围内。每颗眼球有 1 HP、1 STR。
 
 ### Fungi of Healing
-Restores d4 STR, lose 1 WIL. Takes a turn of vigorous chewing to take effect.
+恢复 d4 STR，失去 1 WIL。需要用力咀嚼 1 回合才会生效。
 
 ### Healing Salve
-Restores d4 STR, lose 1 WIL.
+恢复 d4 STR，失去 1 WIL。
 
 ### Monster Repellent
-Incense burns for 24 hours. Unintelligent creatures must WIL save or be driven off by the unpleasant smell.
+熏香燃烧 24 小时。无智能生物必须进行 WIL 豁免，否则会被难闻气味驱赶。
 
 ### Nostrum of Speedy Recovery
-All bodily processes hasten tenfold for d12 days. Imbiber can recover lost ability without a healer's aid, needing only a night's rest.
+身体所有过程加速十倍，持续 d12 天。饮用者无需治疗者帮助，只需睡一晚即可恢复失去的属性。
 
 ### Nul Rod
-Functions as 2d6 weapon against creatures of Chaos. Permanently dispels and nullifies all magic within 20 ft. Spellcasters within sight of the Nul Rod must WIL save each time they cast a spell or it fails.
+对混沌生物而言，它是一件 2d6 武器。永久驱散并抵消 20 ft 内的一切魔法。Nul Rod 视线内的施法者每次施法都必须进行 WIL 豁免，否则法术失败。
 
 ### Potion of Advantageous Auto-Decapitation
-Detaches the user's head, allowing it to float freely per *conquer gravity* spell for one hour, at which point the head is drawn back to its owner and reattaches. If prevented from reattaching, both user and their head die.
+使用者的头颅脱离身体，能够按照 *conquer gravity* 法术自由漂浮 1 小时；时间到后，头颅会被拉回主人身边并重新接上。如果阻止头颅重新接合，使用者与头颅都会死亡。
 
 ### Potion of Extra Limbs
-User grows two useable arms, legs, or other limbs as desired, which last for 10 minutes. Claws or the like deal d6 damage.
+使用者可以随意长出两条可用的手臂、腿或其他肢体，持续 10 分钟。利爪之类的肢体造成 d6 伤害。
 
 ### Potion of Invisibility
-Imbiber is invisible until they attempt harm.
+饮用者隐形，直到尝试造成伤害。
 
 ### Potion of the Mighty Blow
-User's oversized fist deals a crushing blow, requiring most creatures with brains to make a STR save or be knocked unconscious. Alternatively, can destroy objects and structures.
+使用者的巨大拳头可以造成粉碎性打击，大多数有大脑的生物必须进行 STR 豁免，否则会被击昏。也可以摧毁物体与建筑。
 
 ### Potion of Mindless Frenzy
-Grants 18 STR and reduces WIL to 3 for 1 hour. User is incapable of language or rational decision-making during that time.
+使 STR 变为 18，并将 WIL 降至 3，持续 1 小时。期间使用者无法使用语言，也无法理性决策。
 
 ### Potion of Spectral Foetor
-Terrible smell emits from drinker, requiring carnivorous animals to pass a WIL save or flee.
+饮用者散发可怕的气味，食肉动物必须进行 WIL 豁免，否则逃跑。
 
 ### Puffball Fungi, Antipersonnel
-Everyone in blast range must roll on Puffball Fungi Exposure table.
+爆发范围内的每个人都必须在 Puffball Fungi Exposure 表上掷骰。
 
 ### Ring of Lassitude
-This ring's curse must be dispelled before it can be removed. The wearer is prone to yawning and gains a permanent Fatigue until the ring is removed.
+必须先驱散这枚戒指的诅咒才能将它取下。佩戴者容易打哈欠，并获得永久疲劳，直到戒指被取下。
 
 ### Smoking Fungi
-Releases constant thick cloud of spores as *obscuring mist* spell. Lasts for 1 day after being picked.
+持续释放如同 *obscuring mist* 法术般的浓厚孢子云。采摘后持续 1 天。
 
 ### Stone Cloak
-In rocky surroundings, the user may always avoid ordinary visual detection with a successful DEX save.
+在多岩石的环境中，使用者成功进行 DEX 豁免后总能避开普通的目视侦测。
 
 ### Sword of Demolition
-Self-destructs on command, counting down from 30 in a soothing female voice. Explodes for 3d6 damage, blast.
+可按命令自毁，由温柔的女性声音从 30 倒数。爆炸造成 3d6 伤害，爆发。
 
 ### Tincture of Unendurable Hideousness
-Most mortals who meet the user's gaze must make a WIL save or die.
+大多数直视使用者目光的凡人都必须进行 WIL 豁免，否则死亡。
 
 ### Wand of Arcane Arrows
-d6+d6 damage. 5 charges.
+d6+d6 伤害。5 次充能。
 
 ### Whistle of Dim Control
-Bearer can gain the loyalty of masterless dim.
+持有者可以赢得无主 Dim 的忠诚。
 
 ### Zacaranth Industries ZR-1 "Dissuader" Sidearm
-This "bug zapper" fires balls of electricity that deal d6 damage. Firing more than twice without allowing the gun to cool down is likely to lead to it being destroyed in a blast of electricity (d6, burst).
+这把“灭虫枪”发射造成 d6 伤害的电球。若不让枪冷却就连续射击超过 2 次，枪很可能在电爆中被摧毁（d6, 爆发）。
 
 ### Zacaranth Industries ZR-2 Lightning Gun
-This siege weapon is drawn on a cart and requires two humanoids to move. When cranked with both hands, this waepon can produce lightning as per *lightning strike* once every three rounds (once every two rounds if two people crank).
-Firing more than once without allowing the cannon to cool down is likely to lead to it being destroyed in a blast of electricity (d12, burst).
+这件攻城武器安装在推车上，需要两名类人生物移动。双手转动曲柄时，它可以按照 *lightning strike* 每 3 回合制造一次闪电（两人转动时每 2 回合一次）。
+若不让炮冷却就射击超过 1 次，它很可能在电爆中被摧毁（d12, 爆发）。
 
-## Spells
+## 法术 {#spells}
 
 ### Diet of the Worm
-Target makes a STR save or continuously vomits a vast sum of soil & stone for d6 rounds. After vomiting, they make a WIL save or be incapacitated by pained sobbing for an additional d6 rounds.
+目标进行 STR 豁免，否则会连续呕吐大量土石，持续 d6 回合。呕吐后，进行 WIL 豁免，否则因痛苦的啜泣而失能，额外持续 d6 回合。
 
 ### Hell's Mandibles
-Ghostly arthropod jaws attack a target of choice for 1 minute, dealing d8 damage each round unless they flee.
+幽灵般的节肢动物颚部攻击指定目标，持续 1 分钟；除非目标逃跑，否则每回合造成 d8 伤害。
 
 ### Issha’s Carapace of Corpulence
-Caster gains thick subcutaneous fat granting 1 armor for 12 hours. If the caster would save vs. critical damage, instead the fat becomes an impenetrable barrier, rendering them immune to damage but immobilized for 1 round, at which point the spell ends.
+施法者获得厚实的皮下脂肪，提供 1 armor，持续 12 小时。如果施法者本应进行重伤豁免，脂肪会转而变成无法穿透的屏障，使其免疫伤害但无法移动 1 回合，随后法术结束。
 
 ### Membranous Inconvenience
-Target must save vs DEX to avoid being trapped in a globe of mucus surrounded by a thick leathery membrane. Anyone can free the target with an edged weapon or a successful STR save; either way escape or rescue takes 2d6 rounds.
+目标必须进行 DEX 豁免，以免被困在黏液球中，球外包裹着厚厚的皮膜。任何人都可以用锋利武器或成功进行 STR 豁免解救目标；无论哪种方式，逃脱或救援都需要 2d6 回合。
 
 ### Worm's Breath
-Caster breathes out a cone of noxious gas that lasts an hour. Most living things caught in the gas must make a STR save or be immobilized by retching until removed from the area. Additionally, for one hour the caster is immune to gas, drowning, or anything else that affects the pulmonary system.
+施法者吐出一道持续 1 小时的锥形恶臭气体。困在气体中的大多数生物都必须进行 STR 豁免，否则因干呕而无法移动，直到离开区域。此外，施法者在 1 小时内免疫气体、溺水及其他影响肺部系统的效果。
 
-## Pregenerated Characters
+## 预生成角色 {#pregenerated-characters}
 ### Aurana of House Apis
 1 HP, 2 Armor, STR 12, DEX 14, WIL 9
--  demonskin leather (2 armor)
--  longsword (d8)
--  heavy crossbow (d8, bulky)
--  bejewelled comb/headgear
--  travel case of cosmetic products
--  bear-shaped honey jar
+-  恶魔皮革 (2 armor)
+-  长剑 (d8)
+-  重型十字弩 (d8, 笨重)
+-  宝石梳/头饰
+-  化妆品旅行箱
+-  熊形蜂蜜罐
 
 ### Sergeant Gamnon
 4 HP, 3 Armor, STR 12, DEX 8, WIL 10
--  longsword (d8)
--  lamp's hue
- bow (d6, bulky)
--  platemail (3 Armor, bulky)
--  iron spikes (12)
--  mallet
+-  长剑 (d8)
+-  灯光
+ 弓 (d6, 笨重)
+-  板甲 (3 Armor, 笨重)
+-  铁钉 (12)
+-  木槌
 
 ### Ghanulor of Ixmer
 2 HP, 3 Armor, STR 12, DEX 10, WIL 11
--  greatsword (d10, bulky)
--  plate (3 armor)
--  3 packets powdered sea serpent mousse
--  50 ft of rope
--  2 flasks of oil
+-  巨剑 (d10, 笨重)
+-  板甲 (3 armor)
+-  3 包磨碎的海蛇慕斯
+-  50 ft 绳子
+-  2 瓶油
 
 ### Gooth of House Ygar
 3 HP, 2 Armor, STR 10, DEX 12, WIL 11
--  polearm (d10, bulky)
--  short sword (d6)
+-  长柄武器 (d10, 笨重)
+-  短剑 (d6)
 -  hovering protection
  (1 armor)
--  worn plate (2 armor)
--  lantern
+-  穿旧的板甲 (2 armor)
+-  提灯
 
 ### Jorask Zoranum
 4 HP, STR 7, DEX 13, WIL 14
--  dagger (d6)
--  specimen jars (8) in leather case
--  vial of holy water
--  spellbook of song of repose
--  spellbook of wizardsniff
--  scroll of great ball of fire
+-  匕首 (d6)
+-  皮箱中的标本罐 (8)
+-  圣水瓶
+-  song of repose 法术书
+-  wizardsniff 法术书
+-  great ball of fire 卷轴
 
 ### Krodok of the Standing Stones
 6 HP, 1 Armor, STR 16, DEX 10, WIL 12
--  innate shaggy hide (1 armor)
--  stonetipped spear (d8)
--  flint handaxe (d6)
--  water bladder
+-  天生毛皮 (1 armor)
+-  石尖矛 (d8)
+-  燧石手斧 (d6)
+-  水囊
 
 ### Brother Kragar, Templar of the Golden Lintel
 5 HP, 3 Armor, STR 12, DEX 9, WIL 9
--  sword of chaos slaying (d8, d12 vs chaos)
--  sling (d6)
--  flint & steel
--  tinderbox
--  steel mirror
+-  斩混沌之剑 (d8, 对混沌为 d12)
+-  投石索 (d6)
+-  燧石与钢
+-  火绒盒
+-  钢镜
 
 ### Kuwain Trylos
 3 HP, STR 10, DEX 13, WIL 13
--  enchanted matches (3)
--  spellbook of hoodwink person
--  spellbook of arcane arrow
--  50 ft rope
--  torches (6)
+-  附魔火柴 (3)
+-  hoodwink person 法术书
+-  arcane arrow 法术书
+-  50 ft 绳子
+-  火把 (6)
 
 ### Shantora Lax
 5 HP, STR 8, DEX 11, WIL 10
--  platemail (3 armor)
--  greatsword (d10)
--  2 flasks of oil
+-  板甲 (3 armor)
+-  巨剑 (d10)
+-  2 瓶油
 
 ### "Smash" Hannigan
 STR 13, DEX 12, WIL 11
--  leather flight suit (1 armor)
--  two pistols (d6)
--  flask of cheap scotch
--  jetpack
+-  皮革飞行服 (1 armor)
+-  两把手枪 (d6)
+-  一瓶廉价苏格兰威士忌
+-  喷气背包

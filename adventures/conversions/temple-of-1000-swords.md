@@ -6,101 +6,101 @@ title: Temple of 1000 Swords
 ---
 
 
-# Temple of 1000 Swords
+# 千剑神殿 {#temple-of-1000-swords}
 
-- Based on the [original adventure](https://www.drivethrurpg.com/en/product/360211/temple-of-1000-swords) by Brad Kerr
-- Published by [Swordlords Publishing](https://www.drivethrurpg.com/en/publisher/17426/swordlords-publishing)
-- Conversion by Joshua Skootsky
+- 改编自 Brad Kerr 的[原冒险](https://www.drivethrurpg.com/en/product/360211/temple-of-1000-swords)。
+- 由 [Swordlords Publishing](https://www.drivethrurpg.com/en/publisher/17426/swordlords-publishing) 出版。
+- 转换者：Joshua Skootsky。
 
-## General Notes
-- Swords are d6
+## 总览说明 {#general-notes}
+- 剑造成 d6 伤害。
 
 ### Drukk
-4 HP, 1 Armor, 12 STR, 11 DEX, 8 WIL, sword (d6)
-* Will make deafing war cry if 5+ drukks present, deafens for d6 minutes all within 50' of drukk
+4 HP, 1 Armor, 12 STR, 11 DEX, 8 WIL, 剑 (d6)
+* 如果有 5 名以上 Drukk 在场，会发出震耳欲聋的战吼，使 Drukk 周围 50 英尺内的所有人失聪 d6 分钟。
 
 ### Drukk Leader
-8 HP, 2 Armor, 14 STR, 12 DEX, 11 WIL, sword (d6+d6)
+8 HP, 2 Armor, 14 STR, 12 DEX, 11 WIL, 剑 (d6+d6)
 
 ### Merfolk
-4 HP, 1 Armor, 11 STR, 14 DEX, 12 WIL, sword (d6)
+4 HP, 1 Armor, 11 STR, 14 DEX, 12 WIL, 剑 (d6)
 
 ### Merfolk Leader
-8 HP, 2 Armor, 14 STR, 12 DEX, 11 WIL, sword (d6+d6)
+8 HP, 2 Armor, 14 STR, 12 DEX, 11 WIL, 剑 (d6+d6)
 
 ### Lydia, the Merfolk Queen
-8 HP, 2 Armor, 14 STR, 16 DEX, 14 WIL, enchanted sword (d8 + d6)
+8 HP, 2 Armor, 14 STR, 16 DEX, 14 WIL, 魔法剑 (d8 + d6)
 
-* Urchin Lock: DEX save or take 3d6 STR damage
+* 海胆锁：DEX 豁免，否则受到 3d6 STR 伤害。
 
-### Giant Octopus with a Sword
-10 HP, 2 Armor, 15 STR, 12 DEX, 8 WIL, sword (d6), tentacles (d4, ×7)
-- Tentacles: On hit, grab and constrict (automatic d4 damage per round)
-- Can emit ink cloud and escape at triple speed
-- Tentacles can be severed with 6+ damage from slashing weapons
+### 持剑巨型章鱼 {#giant-octopus-with-a-sword}
+10 HP, 2 Armor, 15 STR, 12 DEX, 8 WIL, 剑 (d6), 触手 (d4，×7)
+- 触手：命中时抓住并缠紧目标（每回合自动造成 d4 伤害）。
+- 可以释放墨云，并以三倍速度逃脱。
+- 斩击武器造成 6+ 伤害时，可以斩断触手。
 
-### Sand-Persons
-9 HP, 1 Armor, 13 STR, 12 DEX, 8 WIL, sword (d6 + d6)
+### 沙人 {#sand-persons}
+9 HP, 1 Armor, 13 STR, 12 DEX, 8 WIL, 剑 (d6 + d6)
 
-### Fetal Drukk Horror
-12 HP, 1 Armor, 15 STR, 11 DEX, 14 WIL, bite (d8)
-* Monstrous unborn drukk that dies within one minute of hatching
-* Born knowing only rage and psychic violence
-* Attacks anything it can sense, including other drukks
-* **Primal Scream**: All within 50' must save WIL or take d8 damage
-* **Psychic Assault**: Target must save WIL or act randomly for d4 rounds (roll d6):
-    1. Attack nearest creature
-    2. Stand still babbling
-    3. Walk in random direction
-    4. Attack self (d4 damage)
-    5. Follow any command given
-    6. Act normally
-* **Critical Damage**: Psychic feedback forces all nearby to save WIL or suffer effect of Psychic Assault (roll a d6)
+### 胎生 Drukk 恐怖物 {#fetal-drukk-horror}
+12 HP, 1 Armor, 15 STR, 11 DEX, 14 WIL, 撕咬 (d8)
+* 孵化后 1 分钟内便会死亡的怪物般未出生 Drukk。
+* 出生时只懂得愤怒与心灵暴力。
+* 攻击它能感知到的一切，包括其他 Drukk。
+* **原始尖啸**：50 英尺内所有人必须进行 WIL 豁免，否则受到 d8 伤害。
+* **心灵突袭**：目标必须进行 WIL 豁免，否则随机行动 d4 回合（掷 d6）：
+    1. 攻击最近的生物
+    2. 原地站着喃喃自语
+    3. 朝随机方向行走
+    4. 攻击自己（d4 伤害）
+    5. 遵从任何给出的命令
+    6. 正常行动
+* **重伤**：心灵反馈迫使附近所有人进行 WIL 豁免，否则承受心灵突袭的效果（掷 d6）。
 
 
 ### Remy LeFou
-12 HP, 2 Armor, 15 STR, 15 DEX, 16 WIL, bite (d8)
-* **Critical Damage**: Drains blood, healing self for damage dealt
+12 HP, 2 Armor, 15 STR, 15 DEX, 16 WIL, 撕咬 (d8)
+* **重伤**：吸取血液，恢复等同于造成伤害的数值。
 
-### Wight (Hierophant)
-8 HP, 2 Armor, 14 STR, 12 DEX, 15 WIL, cursed touch (d8)
-* **Energy Drain**: Target saves WIL or permanently lose 1d4 STR
-* **Critical Damage**: Ages target visibly
+### 缚灵（主教） {#wight-hierophant}
+8 HP, 2 Armor, 14 STR, 12 DEX, 15 WIL, 诅咒之触 (d8)
+* **能量吸取**：目标进行 WIL 豁免，否则永久失去 1d4 STR。
+* **重伤**：目标明显衰老。
 
-### Ghost of the Weeping Empress
-12 HP, 3 Armor, 14 STR, 15 DEX, 16 WIL, numbing tears (d8, save against sleep)
+### 哭泣皇后的鬼魂 {#ghost-of-the-weeping-empress}
+12 HP, 3 Armor, 14 STR, 15 DEX, 16 WIL, 麻痹之泪 (d8，豁免以避免睡眠)
 
-* **The Haunt**: All who see her must save STR or become pinned to ground, immobilized by weapon weight. Each sword carried makes the save harder, (reducing the STR by 1 for each sword carried). Character may voluntarily abandon their weapon to move freely.
+* **萦魂**：所有看见她的人必须进行 STR 豁免，否则会被武器重量压在地上，无法移动。每携带一把剑，豁免就更难（每把剑使 STR 降低 1）。角色可以自愿放弃武器，以便自由移动。
 
-### Sword/Person Hybrids 
-8 HP, 3 Armor, 14 STR, 8 DEX, 6 WIL, sword-parts (d6)
-* Former sword enthusiasts who fused with their weapons
-* Constantly begging for death due to endless pain
-* **Absorb Metal**: Non-magical metal weapons may become stuck on hit (WIL save)
-* **Critical Damage**: Permanently absorbs target's metal weapon
-* Found in the Tower (T16)
+### 剑人与混合体 {#sword-person-hybrids}
+8 HP, 3 Armor, 14 STR, 8 DEX, 6 WIL, 剑刃部件 (d6)
+* 曾经热爱剑术的人与自己的武器融合而成。
+* 因无尽的痛苦而不断乞求死亡。
+* **吸收金属**：非魔法金属武器命中时可能卡住（WIL 豁免）。
+* **重伤**：永久吸收目标的金属武器。
+* 位于塔中（T16）。
 
-### Sword/Fish
-6 HP, 1 Armor, 12 STR, 14 DEX, 6 WIL, sword-beak (d6)
-* **Pack Tactics**: One grabs while others attack
-* **Critical Damage**:  Target impaled by sword-beak and dragged underwater. Loses 1d4 STR per round until freed (requires STR save from self or savior)
+### 剑鱼 {#sword-fish}
+6 HP, 1 Armor, 12 STR, 14 DEX, 6 WIL, 剑喙 (d6)
+* **群体战术**：一只负责抓住目标，其余发动攻击。
+* **重伤**：目标被剑喙刺穿并拖入水下。每回合失去 1d4 STR，直到获救（目标或救援者必须进行 STR 豁免）。
 
-## Random Encounters
+## 随机遭遇 {#random-encounters}
 
 ### Drukk
-4 HP, 1 Armor, 12 STR, 11 DEX, 8 WIL, sword (d6)
-* Will make deafing war cry if 5+ drukks present, deafens for d6 minutes all within 50' of drukk
+4 HP, 1 Armor, 12 STR, 11 DEX, 8 WIL, 剑 (d6)
+* 如果有 5 名以上 Drukk 在场，会发出震耳欲聋的战吼，使 Drukk 周围 50 英尺内的所有人失聪 d6 分钟。
 
 
-### Iron Mongrel 
-8 HP, 3 Armor, 16 STR, 8 DEX, 6 WIL, metal claws (d8)
-* **Critical Damage**: Tears off target's armor or shield
+### 铁杂种 {#iron-mongrel}
+8 HP, 3 Armor, 16 STR, 8 DEX, 6 WIL, 金属利爪 (d8)
+* **重伤**：撕下目标的护甲或盾牌。
 
 ### Merfolk
-4 HP, 1 Armor, 11 STR, 14 DEX, 12 WIL, sword (d6)
+4 HP, 1 Armor, 11 STR, 14 DEX, 12 WIL, 剑 (d6)
 
-### Sword-Filled Gelatinous Cube
-8 HP, 1 Armor, 15 STR, 6 DEX, 3 WIL, devouring touch (d8) or sword-filled slam (d6)
-* Immune to cold and lightning damage
-* **Critical Damage**: Target is engulfed, taking d6 STR damage per round from both digestion and sword wounds
-* When destroyed, spills 100 swords across the area (walking through requires STR save or take d4 damage)
+### 充满剑的胶质立方体 {#sword-filled-gelatinous-cube}
+8 HP, 1 Armor, 15 STR, 6 DEX, 3 WIL, 吞噬之触 (d8) 或剑刃猛击 (d6)
+* 免疫寒冷和闪电伤害。
+* **重伤**：目标被吞没，每回合同时承受消化与剑伤造成的 d6 STR 伤害。
+* 被摧毁时，会向四周洒出 100 把剑（穿过这些剑需要进行 STR 豁免，否则受到 d4 伤害）。

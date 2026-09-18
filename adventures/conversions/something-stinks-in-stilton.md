@@ -5,85 +5,84 @@ grand_parent: Adventures
 title: Something Stinks In Stilton
 ---
 
-# Something Stinks In Stilton
+# Stilton 臭气熏天 {#something-stinks-in-stilton}
 
-- Based on the [Something Stinks In Stilton](https://melsonian-arts-council.itch.io/something-stinks-in-stilton) by **Oli Palmer** and [Melsonian Arts Council](https://www.melsonia.com/).
-- Conversion by [Pat Eyler](https://footofthemountainadventures.blogspot.com/)
+- 改编自 **Oli Palmer** 与 [Melsonian Arts Council](https://www.melsonia.com/) 创作的 [Something Stinks In Stilton](https://melsonian-arts-council.itch.io/something-stinks-in-stilton)。
+- 转换者：[Pat Eyler](https://footofthemountainadventures.blogspot.com/)
 
-## General Notes
-- I've put monster, hazard, and magic conversions into the location where they appear in the adventure.
+## 总览说明 {#general-notes}
+- 我把怪物、危险和魔法的转换规则放在它们于冒险中出现的地点。
 
-## Locations
-### Bandits!
-#### 4 normal bandits
-- 4 HP, 1 Armor, 11 STR, 14 DEX, 12 WIL, short sword (d8)
-  leather armor
+## 地点 {#locations}
+### 强盗！ {#bandits}
+#### 4 名普通强盗 {#4-normal-bandits}
+- 4 HP, 1 Armor, 11 STR, 14 DEX, 12 WIL, 短剑 (d8)
+  皮甲
 
-#### Large bandit
+#### 大型强盗 {#large-bandit}
 
-- 7 HP, 1 Armor, 15 STR, 9 DEX, 8 WIL, fists (d6)
+- 7 HP, 1 Armor, 15 STR, 9 DEX, 8 WIL, 拳 (d6)
 
-### The Bell Inn
+### The Bell Inn {#the-bell-inn}
 
-#### Effects of consuming the Cheese (may occur in other areas as well)
+#### 食用奶酪的效果（其他区域也可能发生） {#effects-of-consuming-the-cheese}
 
-- Make a STR save or roll a d6 on the chart on pp 27-28 of the adventure. On a 6 the character's STR raises by 2 and their WIL drops by 2.
+- 进行 STR 豁免，否则在冒险第 27–28 页的表格上掷 d6。结果为 6 时，角色的 STR 提高 2，WIL 降低 2。
 
 #### James Thornhill
 
-- 7 HP, 1 Armor, 15 STR, 9 DEX, 8 WIL, fists (d6)
-  wears *the Cowbell*
+- 7 HP, 1 Armor, 15 STR, 9 DEX, 8 WIL, 拳 (d6)
+  携带 *the Cowbell*
 
-#### The Cowbell
+#### the Cowbell
 
-- Any PC wearing the cowbell is affected per the notes on p 29 of the adventure. If they try to remove it, they must make a WIL save or be affected per the table on p 29.
+- 任何佩戴牛铃的 PC 都会受到冒险第 29 页说明的影响。如果他们试图摘下牛铃，必须进行 WIL 豁免，否则按第 29 页的表格受到影响。
 
-### The Office
+### The Office {#the-office}
 
-#### Effects of consuming the Milk (may occur in other areas as well)
+#### 饮用牛奶的效果（其他区域也可能发生） {#effects-of-consuming-the-milk}
 
-- STR raises by 5 and WIL drops by 5 for 1d6 hours, make an STR save or the effects are permanent.
+- STR 提高 5，WIL 降低 5，持续 1d6 小时；进行 STR 豁免，否则效果永久持续。
 
-### 1) Entering the Basement
+### 1）进入地下室 {#1-entering-the-basement}
 
-#### Cowbell alarm
+#### 牛铃警报 {#cowbell-alarm}
 
-- Make a DEX save or set off the alarm
+- 进行 DEX 豁免，否则触发警报。
 
-### 3) The Hallway
+### 3）走廊 {#3-the-hallway}
 
-#### Scroll of Create Cow Beast
+#### Create Cow Beast 卷轴 {#scroll-of-create-cow-beast}
 
-- *Create Cow Beast:* Turns the target into a cow-beast abomination
+- *Create Cow Beast*：将目标变成牛兽憎恶。
 
-### 4) The Cow Pens
+### 4）牛圈 {#4-the-cow-pens}
 
-#### Cow-people
+#### 牛人 {#cow-people}
 
-- 7 HP, 1 Armor, 15 STR, 9 DEX, 8 WIL, hooves/hands (d4)
-  Heals 1d4 STR every 5 turns
+- 7 HP, 1 Armor, 15 STR, 9 DEX, 8 WIL, 蹄/手 (d4)
+  每 5 回合恢复 1d4 STR。
 
-### 6) The Library
+### 6）图书馆 {#6-the-library}
 
-#### Cow Rats
+#### 牛鼠 {#cow-rats}
 
-- 1 HP,  4 STR, 9 DEX, 8 WIL, bite (d4)
+- 1 HP,  4 STR, 9 DEX, 8 WIL, 撕咬 (d4)
 
-### 8) The Arch
+### 8）拱门 {#8-the-arch}
 
-#### Effects of the Arch
+#### 拱门的效果 {#effects-of-the-arch}
 
-- *Magic Dampener* will temporarily dispel the effect of the arch, but the victim must make a WIL save every turn or revert to its cow form.
+- *Magic Dampener* 会暂时驱散拱门的效果，但受害者每回合都必须进行 WIL 豁免，否则会变回牛形。
 
-#### Effect Destroying of the Arch
+#### 摧毁拱门的效果 {#effect-destroying-of-the-arch}
 
-- Anyone present must make a WIL save or die. Succeeding on the save leaves them at 1 WIL until they recover. 
+- 在场所有人都必须进行 WIL 豁免，否则死亡。豁免成功者的 WIL 会降至 1，直到恢复。
 
-### 9) The Beast
+### 9）野兽 {#9-the-beast}
 
 #### Daisy the Beast-Cow
 
-- 9 HP, 2 Armor, 17 STR, 9 DEX, 8 WIL, fists (d8+d8)
-  Heals 1d4 STR every 5 turns
-  If the characters eat any meat from Daisy, make a STR save or have visions of her life for the next 2d6 weeks. 
-
+- 9 HP, 2 Armor, 17 STR, 9 DEX, 8 WIL, 拳 (d8+d8)
+  每 5 回合恢复 1d4 STR。
+  如果角色吃了 Daisy 身上的肉，进行 STR 豁免，否则在接下来的 2d6 周里看见她一生的幻象。
