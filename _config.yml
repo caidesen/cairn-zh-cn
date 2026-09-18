@@ -6,8 +6,6 @@ logo: "/img/logo.svg"
 color_scheme: dark
 encoding: UTF-8
 plugins:
-  - jekyll-remote-theme
-  - jekyll-include-cache
   - jekyll-redirect-from
   - jekyll-sitemap
 include:
