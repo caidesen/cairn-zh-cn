@@ -20,7 +20,7 @@ has_toc: false
 - [设定种子](setting-seeds)
 - [派系](setting-seeds#factions)
 - [地形](setting-seeds#topography)
-- [地城种子](dungeon-seeds)
+- [地下城种子](dungeon-seeds)
 - [森林种子](forest-seeds)
 
 ### 第二部分：守望者工具
@@ -38,7 +38,7 @@ has_toc: false
 - [点状探索](pointcrawls)
 - *规则与示例*
   - [示例队伍说明](about-the-example-party)
-  - [地城探索](dungeon-exploration)
+  - [地下城探索](dungeon-exploration)
   - [分队](detachments)
   - [荒野探索](wilderness-exploration)
   - [羁绊与预兆](bonds-and-omens)
