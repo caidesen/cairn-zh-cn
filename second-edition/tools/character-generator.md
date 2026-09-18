@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Character Generator
-parent: Tools
-grand_parent: Second Edition
+title: 角色生成器
+parent: 工具
+grand_parent: 第二版
 ---
 
 <div style="height:80vh; width:100%;">

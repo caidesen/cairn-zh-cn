@@ -1,214 +1,213 @@
 ---
-title: Vald
+title: 瓦尔德
 layout: default
-parent: Warden's Guide 
-grand_parent: Second Edition
+parent: 守望者指南
+grand_parent: 第二版
 ---
 
-# Vald
+# 瓦尔德 {#vald}
 
-## Introduction
+## 引言 {#introduction}
 
-The implied setting of Cairn is called _Vald_, encompassing all developed or settled lands, cities, towns, forests, etc. The specific ruler is irrelevant, as most adventures will take place in smaller towns and villages, the forest, and the margins of the realm. Most inhabitants (regardless of region) refer to the local centers of power as the _Cities_, occasionally as a pejorative.
+Cairn 的默认设定名为_瓦尔德_，涵盖所有已开发或有人定居的土地、城市、城镇、森林等地方。具体的统治者并不重要，因为大多数冒险都会发生在较小的城镇和村庄、森林以及王国边缘。大多数居民（无论来自哪个地区）都会把当地的权力中心称为_城市_，有时这也是一种贬称。
 
-Most towns and villages are built within a day's walk of one another, near sources of water and lumber. Larger villages try to be self-sufficient but may still rely on nearby farms and local hunters for food. Most settlements were originally organized around a specific industry such as lumber, brewing, fishing, or mining, and often a Fieldwarden or Beast Handler is posted to protect a community's most valuable assets.
+城镇和村庄通常建在水源与木材来源附近，彼此之间步行一天即可抵达。较大的村庄会努力做到自给自足，但仍可能依赖附近的农场和当地猎户提供食物。大多数聚落最初都围绕木材、酿酒、捕鱼或采矿等特定行业组织起来，并且通常会派驻一名荒野守望者或驯兽师，保护社区最有价值的资产。
 
-Larger towns will elect a Reeve responsible for the community's well-being and external relationships. In the event of a crime or violence, a constable is empowered to enforce the local laws. Taverns and inns are common in villages close to trade routes, while large settlements often boast at least one temple or shrine.   
+较大的城镇会选出一名负责社区福祉与对外关系的镇长。发生犯罪或暴力事件时，治安官有权执行当地法律。靠近商路的村庄中常见酒馆和旅店，而较大的聚落通常至少拥有一座神殿或神龛。
 
-Established trails between larger towns are fairly common, while maintained roads are almost non-existent except to the distant cities. Itinerant merchants, Kettlewrights, and various peddlers pass through settlements on a semi-regular basis, sometimes hiring Outriders to protect and escort larger  caravans, or Rill Runners to help ferry passengers in the Riverlands.
+较大的城镇之间通常有成熟的小径，但除了通往远方城市的道路之外，维护良好的道路几乎不存在。流动商人、炉匠和各种小贩会定期经过聚落；他们有时会雇佣斥候骑手保护并护送大型商队，也会雇佣溪流行者帮助乘客渡过河泽地。
 
-Even the smallest village may play host to scholarly types from the cities: a Scrivener, Aurifex, or Greenwise with keen interest in nearby tombs, barrows, and Gates. Often a Bonekeeper or Fungal Forager will be hired for their expertise, while clever adventurers will ensure that a Barber-Surgeon is never far away, or a Cutpurse if there is unsavory business that needs tending to. Of course, Mountebanks and Jongleurs often accompany these sorts, riding their coattails in hopes that they too will benefit from the next major discovery.
+即使是最小的村庄，也可能接待来自城市的学者：他们可能是对附近坟墓、古冢和界门十分感兴趣的抄写员、金匠或绿智者。村庄常会聘请骨守或采菌人发挥专长；而聪明的冒险者则会确保理发外科医始终不在远处，如果有见不得人的事情需要处理，也会找来扒手。当然，江湖骗子和杂耍艺人也经常陪伴这些人，借着他们的声势行动，希望自己也能从下一次重大发现中获益。
 
-Those who enter the Wood hire a guide familiar with the territory, such as a Prowler or Fletchwind, while the truly determined traveler will seek the wisdom of a Half Witch or Foundling with some connection to its darker secrets. Closer to the border, the Marchguard work to keep the realm free of outside influence, while the Hexenbane seek to protect it from forces within.
+进入森林的人会雇佣熟悉当地地形的向导，例如潜行者或逐风者；真正意志坚定的旅人则会寻求半巫或弃儿的智慧，因为他们与森林黑暗的秘密有某种联系。在边境附近，边境卫努力让王国不受外部影响，而逐巫者则试图保护它免受内部力量侵蚀。
 
-## Belief
+## 信仰 {#belief}
 
-There are several major religions and spiritual beliefs popular among the smallfolk.
+小民中流行着几种主要宗教和精神信仰。
 
-### Tideborn
+### 潮生者 {#tideborn}
 
-A hierarchical religious sect that worships _Rivulus_, a petty god of rivers and lakes. Even the unaffiliated are familiar with the group’s initiation ceremony, a ritual drowning that occasionally kills participants. Survivors are dubbed _Tideborn_ and adopt a new, water-related moniker (Carp, Reed, Oxbow, and so on). Only clergy need participate in the ritual; however, in recent years, their following among rural folk has increased, especially in villages near bodies of water. Within the clergy, there is little hierarchy, save for the _Aqua Primaris_, whom all obey without question.
+一个有等级制度的宗教教派，崇拜河流与湖泊的小神 _Rivulus_。即使没有加入该教派的人，也熟悉他们的入教仪式：一种偶尔会导致参与者死亡的仪式性溺水。幸存者会被称为_潮生者_，并采用一个与水有关的新名字（鲤鱼、芦苇、牛轭湖等）。只有神职人员必须参加这一仪式；然而，近年来他们在乡民中的信徒数量不断增加，尤其是在靠近水域的村庄中。在神职人员内部几乎没有等级制度，只有所有人都会毫无疑问地服从的_至高水祭司_例外。
 
-The Tideborn are hardly the only faith in the realm, but their steady growth and zealotry have earned them the respect of some other factions, particularly the _House of Burgesses_. The continued expansion of their membership has, in turn, earned them some enemies, particularly from other factions. Their enmity is such that today Tideborn clergy never attempt solitary travel through heavily wooded areas, lest they risk a beating or worse.
+潮生者当然不是王国中唯一的信仰，但他们稳定的增长和狂热赢得了其他一些派系的尊重，尤其是_贵族院_。成员数量的持续扩张也为他们招来了敌人，尤其是来自其他派系的敌人。双方的敌意已经发展到如此地步：如今潮生者的神职人员从不独自穿过林木茂密的地区，以免遭到殴打或更糟的待遇。
 
-### The White Raven
+### 白鸦 {#the-white-raven}
 
-Popular among those who live close to the Wood, the followers of the _White Raven_ (or "the Flock," as they prefer) believe strongly in the power of the Wood and in keeping its forests and creatures healthy. They are in awe of the Woodwose and obey the will of the Wood without question. They can be identified by tattoos of a white bird on their wrists, necks, or backs. Every settlement keeps a Flock unique to their community, and their devotees distrust organized religion as a whole.
+生活在森林附近的人中有许多人信奉_白鸦_（他们更喜欢称自己为“鸦群”）。他们坚信森林的力量，并致力于维护森林及其生物的健康。他们敬畏森林野人，毫无疑问地服从森林的意志。他们手腕、颈部或背部的白色鸟类纹身足以表明身份。每个聚落都有一支独属于自己的鸦群，而他们的信徒总体上不信任有组织的宗教。
 
-### The Five-Pointed Star
+### 五芒星 {#the-five-pointed-star}
 
-An older religion that owes its origin to the first peoples of the realm, who built stone structures to map the stars and constellations. Its worshipers adhere strictly to a set of religious principles that deny the legitimacy of all other beliefs, and local history is marked by its wars and forced conversions. Today, the _Five-Pointed Star_ keeps temples in every major settlement, which often provide needed services, particularly for the poor. In recent years, its prominence has waned as other faiths have risen, prompting some of its members to join a reactionary order known as the _Bleeding Star_.
+一种更古老的宗教，起源于王国最早的居民；他们建造石制结构，用来测绘星辰与星座。其信徒严格遵守一套否定所有其他信仰正统性的宗教原则，当地历史也因它发动的战争与强制改宗而留下印记。如今，五芒星在每个主要聚落都设有神殿，通常会提供必要的服务，尤其是为穷人提供服务。近年来，随着其他信仰兴起，五芒星的影响力逐渐衰退，促使其中一些成员加入了一个名为_血星_的反动教团。
 
-## Vald Principles
+## 瓦尔德原则 {#vald-principles}
 
-- Keep it small. Adventures take place in smaller towns, villages, forests, and the margins of the realm.
-- Keep it local. Major rulers (kings, queens, etc.) are far-off, almost irrelevant entities. They have power, but distance diminishes their impact.
-- Most people are human. Some have a drop of Fae blood or are born of two worlds. But for the most part, everyone looks, sounds, and acts recognizably human.
-- Distance matters. Most villages are within a day's walk from one another to ensure the safety of travelers. Camping is a last resort, and those that journey far rarely return.
-- Language matters. Most towns and villages share a common tongue, but it loses intelligibility the farther one travels. Written, older forms are common in places people no longer tread.
-- There is only one Wood. It is not one forest, but _all_ forests. It is neither Good nor Evil but simply wishes to grow, to be free, and to protect itself.
-- The Wood is a porous dungeon. It has rooms and traps and hazards but can also be traversed in different ways: one can always climb a tree. This makes it no less dangerous.
-- The Roots are a foreign land. Time, logic, and matter operate by principles so alien as to make them unknowable.
-- Magic is rare and dangerous. Relics and Spellbooks are not well understood, and attempting to manipulate their power may lead to self-destruction.
-- Relics originate in the Roots. They cannot be created by humans, only found. They are ancient, and yet they sprout from rubble as if grown there.
-- Monsters and other creatures do not follow the rules. They speak and act differently than the PCs and have abilities and magic beyond the reach of regular characters.
+- 保持小规模。冒险发生在较小的城镇、村庄、森林以及王国边缘。
+- 保持本地性。主要统治者（国王、女王等）是遥远得几乎无关紧要的存在。他们拥有权力，但距离削弱了他们的影响。
+- 大多数人都是人类。有些人身上流着一丝妖精血脉，或出生于两个世界之间。但总体而言，所有人的外貌、声音和行为都能被视为人类。
+- 距离很重要。大多数村庄彼此步行一天即可抵达，以确保旅行者的安全。露营是最后的手段，而远行者很少能回来。
+- 语言很重要。大多数城镇和村庄共用一种通用语言，但旅行距离越远，它就越难被理解。在人们不再涉足的地方，仍然常见书面语和古老形式的语言。
+- 只有一个森林。它不是一片森林，而是_所有_森林。它既非善也非恶，只是希望生长、自由，并保护自己。
+- 森林是一座可穿行的地城。它拥有房间、陷阱和危险，但也可以通过不同方式穿越：总能爬上一棵树。这并不会让它变得不那么危险。
+- 根系是一片异乡。时间、逻辑与物质遵循着如此陌生的规律，以至于无法理解。
+- 魔法稀少而危险。遗物和法术书没有得到充分理解，试图操纵它们的力量可能导致自我毁灭。
+- 遗物起源于根系。它们无法由人类创造，只能被找到。它们古老无比，却又仿佛在那里生长出来一般，从废墟中冒出。
+- 怪物和其他生物不遵循规则。它们的言语和行为与 PC 不同，并拥有普通角色无法企及的能力与魔法。
 
-## The Wood
+## 森林 {#the-wood}
 
-The **Wood** surrounds and divides the realm, representing not just one forest, but _all_ forests. Denizens of the Wood are fiercely independent, believing they are subject solely to its rules. Its various peoples, creatures, and unrelenting natural elements have kept the outside world at bay since time immemorial. The Wood is the spirit of all forests, and they in turn are its flesh, and the life they support a sign of its health.
+**森林**包围并分割着整个王国，它并不只代表一片森林，而是代表_所有_森林。森林的居民极度独立，相信自己只需服从森林的规则。自远古以来，森林中形形色色的族群、生物和永不停歇的自然力量便一直将外界挡在门外。森林是所有森林的精神，而所有森林又是它的血肉；它们所孕育的生命则是其健康的标志。
 
-At the core of each forest is a _Heart Tree_ and the place where the forest is at its most powerful as well as its most dangerous. Each Heart Tree is born from a single _Heartseed_, acquired exclusively from a Heart Tree that is dying or dead. The Heart Tree acts as a pinion to the plants, trees, and animals all around it, observing and reacting to any problematic incursions into its domain. In particular, Heart Trees _fear humans_.
+每片森林的核心都有一棵_心树_，那是森林力量最强大、也最危险的地方。每棵心树都源自一枚_心种_，而心种只能从正在死去或已经死去的心树上获得。心树是周围植物、树木与动物的枢纽，观察并回应任何闯入其领域的威胁。尤其是，心树_害怕人类_。
 
-Forests never live in isolation and will communicate with one another to give warning or ask for help. Aid can come in many forms, as the Heartseed has great reach. Raven Folk defenders may lay sap traps to capture stray hunters, while Dryads steal the hatchet from the lumberjack's toolbox. But none are more powerful (nor feared) than the Woodwose, the forest's true protector. A creature wrought from both plant and bone, the Woodwose lives for only one purpose: to protect the forest and any that live within its boundaries.
+森林从不孤立存在，它们会彼此沟通，以发出警告或寻求帮助。心种的影响范围极广，援助可以采取多种形式。鸦民的守卫可能布置树液陷阱，捕捉迷路的猎人；树精则会偷走伐木工工具箱里的斧头。但没有任何存在比森林野人更强大（也更令人恐惧），它是森林真正的守护者。森林野人由植物与骨骼共同塑造而成，一生只有一个目的：保护森林，以及生活在其边界内的一切。
 
-Despite its fearsome reputation, many tell tales of the wood's kindness as well. Green, muscular arms saving a child caught by a sudden rock slide. Will-o-Wisps revealing a hidden path once thought lost. Words of warning sung from a crow on a tree. And so, rangers and other outsiders will leave bowls of fruit and nuts alongside great rock piles as proof of their respect and admiration, in the hopes that they will be allowed to pass freely through a protected Wood.
+尽管森林声名可怖，许多人也会讲述森林仁慈的故事。绿色而强壮的手臂救起被突发落石困住的孩子；鬼火揭示一条曾被认为已经遗失的隐秘路径；树上的乌鸦唱出警告的话语。因此，游侠和其他外来者会在巨大的石堆旁留下水果和坚果，以证明他们的尊敬与钦佩，希望自己能够自由穿过受到保护的森林。
 
-Of course, the Wood is not empty of people. Hidden in the boughs and in empty glades are populated villages, rustic cabins, and the odd tower. Those who can survive (or even thrive) in such places learn to live according to the rules of the forest, for those who ignore or foolishly oppose these rules often meet grisly ends. The Wood is populated by creatures strange and wondrous, such as Goblins, Spirits, Treants, Trolls, Werewolves, Witches, and even talking plants and animals. Most are openly hostile to outsiders (particularly humans), but others will (on occasion) parley with those that have shown respect for the Wood. Of course, all demonstrate utter respect for the Fae (sometimes called the Pale Folk, or the _Neighbors_).
+当然，森林并非没有人居住。树冠之中和空旷的林间空地里藏着有人居住的村庄、质朴的小屋以及偶尔出现的高塔。能够在这种地方生存（甚至兴旺发达）的人，会学着按照森林的规则生活；那些无视规则或愚蠢地与之对抗的人，往往会迎来凄惨的结局。森林中生活着奇异而奇妙的生物，例如哥布林、灵体、树人、巨魔、狼人、女巫，甚至会说话的植物和动物。大多数生物会公开敌视外来者（尤其是人类），但有些也会偶尔与尊重森林的人谈判。当然，所有生物都会对妖精（有时称为苍白民，或_邻居_）表现出绝对的敬意。
 
-## The Neighbors
+## 邻居 {#the-neighbors}
 
-Through the bramble and over the bush, there is a liminal space where the realms of mortals and the Faerie touch. If you look for it, you will not find it. But if you need to pass over, you will. The creatures that inhabit this place may look and sound familiar, but make no mistake: they are not like us. Tall, slender, pale as ice, and eerily beautiful, the Fae obey no mortal law, nor do they submit to its morality. And yet they are crippled by sterility, lacking the ability to create their own kindred. For this deed, they must cross the threshold into the mortal realm to treat with mortals. There are many names for their kind, but only one has ever escaped their lips: Neighbors.
+穿过荆棘、越过灌木，存在着一片边界空间，凡人的领域与妖精界在那里彼此接触。如果你主动寻找它，就不会找到。但如果你需要越过那里，就一定能找到。居住在此地的生物看起来、听起来可能都很熟悉，但不要弄错：它们与我们并不相同。妖精高挑、纤细，拥有冰雪般苍白的皮肤和令人不安的美貌；它们不遵守任何凡人的法律，也不服从凡人的道德。然而，它们受到不育的诅咒，无法创造自己的同类。为了完成这件事，它们必须跨过界限进入凡人的领域，与凡人交涉。它们的种族有许多名字，但它们口中流传出来的只有一个：邻居。
 
-The Neighbors are continually shrouded in mystery, and it can often be difficult to separate fact from rumor. There are some who say the Neighbors steal babes from their cribs, replacing them with a Changeling child. Others claim that they will pay great sums of wealth or bestow enormous power to those willing to give away their own flesh and blood. There is one truth that all agree on: to make deals with their kind is to invite ill luck not only to your life but that of your descendants as well.
+邻居始终笼罩在神秘之中，事实与传言往往难以分辨。有人说邻居会从摇篮里偷走婴儿，再用一个换生儿替代他们。另一些人声称，只要有人愿意交出自己的骨肉，邻居就会付出巨额财富或赐予强大的力量。有一件事所有人都认同：与它们交易，不仅会给自己招来厄运，也会给后代招来厄运。
 
-Hunters swear that occasionally animals from the Faerie world will pass into ours, a white blaze burnt into their fur. They say that their meat is the sweetest you will ever taste and that afterward you will starve because of the lack of it. Worse, to be caught poaching these creatures invites a fate worse than death. Scholars have written that the Neighbors can spill magic as if it were water, having no need for Spellbooks or even Relics. They also claim that all magic has its origin in the land of the Pale Folk and that within each Spellbook are the trapped spirits of their most craven lawbreakers.
+猎人们发誓，妖精界的动物偶尔会进入我们的世界，毛皮上带着一道白色火焰般的斑纹。他们说，这些动物的肉是你尝过的最美味的肉，而之后你会因为再也吃不到它而挨饿。更糟的是，偷猎这些生物会招致比死亡更可怕的命运。学者写道，邻居可以像泼水一样施放魔法，完全不需要法术书，甚至不需要遗物。他们还声称，所有魔法都起源于苍白民的土地，而每本法术书中都囚禁着他们最卑劣罪犯的灵魂。
 
-Those who make their lives in the Wood know to carry charms, gifts, and similar items in case of a chance meeting. And though the Neighbors rarely trouble the borders to their kingdom, they have been known to deliver harsh punishment to those that cross their boundary uninvited. However, it is common knowledge that the Neighbors are terrified of the Roots and will avoid Gates whenever possible.
+在森林中生活的人都知道，偶遇邻居时要随身携带护符、礼物之类的东西。邻居很少打扰自己王国的边界，但它们曾严惩未经邀请就越界的人。然而，众所周知，邻居害怕根系，只要有可能就会避开界门。
 
-## The Roots
+## 根系 {#the-roots}
 
-The **Roots** is a realm of mystery and horror underground, indifferent to the arbitrary divisions of the aboveground civilizations. Below, labyrinthine hollows stretch for immeasurable distances, connecting humble town sewers to far-flung ruins beyond the borders. Only the brave or foolish dare enter the Roots in search of forgotten Relics or profound wealth, and the few that do return whisper of the indescribable horrors and evil intelligence guarding these lost treasures. Stories tell of adventurers lost for centuries in the depths, only to emerge claiming that just a few hours have passed. Others claim to have made a week-long journey above ground in just one day, traveling through the tunnels beneath.
+**根系**是一个位于地下、充满神秘与恐怖的领域，对地表文明任意划分的疆界漠不关心。在地下，迷宫般的洼地延伸至无法测量的距离，将简陋的城镇下水道与边境之外遥远的废墟连接起来。只有勇敢又愚蠢的人才敢进入根系，寻找被遗忘的遗物或巨额财富；而少数归来者则低声讲述着守护这些失落宝藏的不可名状的恐怖与邪恶智慧。故事讲述，有些冒险者在深处迷失了数百年，出来时却声称只过去了几个小时。另一些人则声称，自己通过下方的隧道，只用一天就完成了地表上需要一周的旅程。
 
-Entrances to the Roots, known as _Gates_, are scattered across the lands and are usually hidden or protected by powerful forces. Further, Gates cannot be opened without a proper key or alchemical pattern, and once opened, _can never be shut again._ Folk histories recount their openings as omens of great misfortunes, where creatures more vile than the darkest nightmare slink through, devouring nearby homes and villages. Others tell of great heroes raising their swords against these terrors, sealing away the Gates beneath rubble, mountains, lakes, or other impenetrable barriers.
+通往根系的入口被称为_界门_，散布在各地，通常隐藏起来或由强大的力量守护。此外，没有正确的钥匙或炼金术式，界门就无法打开；而一旦打开，_就永远无法再次关闭_。民间历史将界门的开启描述为大灾难的预兆：比最黑暗的噩梦更加邪恶的生物从中潜行而出，吞食附近的房屋与村庄。另一些故事讲述伟大的英雄如何举剑对抗这些恐怖，并将界门封存在碎石、山脉、湖泊或其他无法穿透的屏障之下。
 
-What _is_ known is that the Roots are made of vast underground caves as large as an emptied ocean, without even a hint of sunlight. A variety of fungal growths provide weak light in some places, as do various minerals and strange, shallow pits of blue flame. Very little is known about these pits other than that they are tended to by terrible three-eyed Ogres who thirst for blood as if it were the sweetest wine. The various creatures and wild animals that survive in such harsh conditions have developed natural means to live in utter darkness, adapting their eyesight to function in even the dimmest light or eschewing vision altogether.
+已知的是，根系由巨大的地下洞穴组成，辽阔得仿佛一片被抽干的海洋，连一丝阳光也见不到。各种真菌生长物在某些地方提供微弱的光，也有各种矿物和奇异、浅薄的蓝色火焰坑提供光亮。人们对这些火焰坑几乎一无所知，只知道它们由可怕的三眼食人魔照料；这些食人魔渴望鲜血，仿佛鲜血是最甜美的葡萄酒。在如此恶劣的环境中存活下来的各种生物和野兽，已经演化出适应绝对黑暗的自然方式：它们的视力适应了最微弱的光线，或者干脆完全放弃视觉。
 
-Of the various peoples and tribes, it is said they speak a harsh, guttural speech, sprinkled with familiar words and phrases. Their warriors carry weapons that spin of their own volition, glowing brighter with each rotation. When the blades are finally released, their heated edges can split flesh and even rock with deadly ease. To date, no one has successfully parlayed with the _People Who Live Below_. Some contend that there are bustling towns, cities, and even great palaces in the Roots! Of course, few scholars believe them, and those that do have been ostracized into obscurity by their peers. Still, explorers cannot deny the ancient husks of impressive architecture found throughout the Roots, the ancient cities and enormous ships of an unimaginable world. Hazy reports claim that one such ruin, a gargantuan ziggurat boasting hundreds of levels, still flickers with light and life. These rumors have yet to be substantiated.
+据说，那里形形色色的族群和部落使用一种粗粝、喉音浓重的语言，其中夹杂着熟悉的单词与短语。他们的战士携带着会自行旋转的武器，每旋转一圈就发出更明亮的光。当刀刃最终被释放时，它们炽热的边缘可以轻易地劈开血肉，甚至劈开岩石。至今，没有人成功与_地下之民_谈判。有人坚称，根系中存在繁忙的城镇、城市，甚至宏伟的宫殿！当然，很少有学者相信他们；而那些相信的人，也被同行排斥，最终湮没无闻。即便如此，探险者无法否认根系各处那些令人印象深刻的古老建筑残骸：属于一个无法想象的世界的古老城市与巨大船只。模糊的报告声称，其中一处废墟是一座巨大的阶梯金字塔，拥有数百层，至今仍闪烁着光与生命。这些传闻尚未得到证实。
 
-Today, most know to avoid any mention of Gates, or keys, or related alchemy. But of course, there are always those that cannot resist its draw...
+如今，大多数人都知道应当避免提及界门、钥匙或相关炼金术。但当然，总有一些人无法抗拒它的诱惑……
 
-## Factions
+## 派系 {#factions}
 
-### The House of Burgesses
+### 贵族院 {#the-house-of-burgesses}
 
-An assembly of wealthy, land-owning lords and ladies. Cunning, assertive, and convinced of their own superiority, they can accomplish great things when acting as a single body. Unfortunately, their efforts are often undermined by individual squabbles, petty disputes, and their never-ending lust for power and prestige. Although there is a healthy distrust of the _Order of Nine_ in the House, a _Burgess_ will rarely speak ill of them in public. For their part, the House are openly friendly with the Tideborn, although internally there is much consternation regarding the upstart religion's recent increase in popularity.
+这是由富有且拥有土地的贵族男女组成的议会。他们狡猾、果断，自信到相信自己高人一等；当他们作为一个整体行动时，可以成就伟业。遗憾的是，他们的努力经常被个人争吵、琐碎纠纷，以及对权力与声望永无止境的渴望所破坏。尽管贵族院对_九人教团_抱有健康的不信任，一名_贵族议员_很少会在公开场合说他们的坏话。就贵族院而言，他们公开与潮生者保持友好；然而在内部，他们对这个新兴宗教近来日益增长的声望感到十分忧虑。
 
-### The Order of Nine
+### 九人教团 {#the-order-of-nine}
 
-A consortium of merchants, scholars, and the very powerful, the Order relies on their substantial wealth and a vast network of spies to accomplish their aims. Their primary focus is on the discovery, identification, and regulation of Relics. In recent years, they've turned their focus onto the Roots, as they believe this to be the origin of most Relics, and they pay handsomely for any information regarding Gates. The organization owes its name to the founding members of the Order, whose names and titles are kept secret. The Order detests Spellbooks and any that carry them. They see little reason to openly engage in politics, yet keep spies in nearly every faction.
+九人教团由商人、学者和极具权势之人组成。该教团依靠雄厚的财富与庞大的间谍网络实现目标，主要关注遗物的发现、鉴定与监管。近年来，他们将注意力转向根系，因为他们认为那里是大多数遗物的起源；对于任何有关界门的信息，他们都会慷慨付酬。该组织的名字源自教团的创始成员，而他们的姓名和头衔都处于保密之中。九人教团憎恨法术书，也憎恨任何携带法术书的人。他们认为没有多少理由公开参与政治，却在几乎每个派系中都安插了间谍。
 
-The Order employs several distinct ranks and titles (in order of primacy):
-- _Lector_: An initiate is deemed a _Junior Lector_ until they've proven themselves, after which they are awarded the title of _High Lector_. Only the latter may use Relics in their work.
-- _Keeper_: Protector of a Gate, akin to a typical soldier or mercenary.
-- _Archivist_: A highly respected researcher or librarian, led by the _Grand Archivist_.
-- _Chamberlain_: A master of Relics, charged with their protection, dispersal, and discovery.
-- _Inquisitor_: The highest-ranking position within the Order, sharing power as a triumvirate (called the _Three_) and answering only to the _Nine_.
+教团设有数个不同的等级和头衔（按优先级排列）：
+- _讲读者_：新人会被视为_初级讲读者_，直到证明自己之后，才会获得_高级讲读者_的头衔。只有后者可以在工作中使用遗物。
+- _守门人_：界门的保护者，类似普通士兵或雇佣兵。
+- _档案官_：备受尊敬的研究者或图书管理员，由_大档案官_领导。
+- _内务官_：遗物大师，负责遗物的保护、分发与发现。
+- _审判官_：教团中等级最高的职位，以三人执政团（称为“三人”）的形式分享权力，只向“九人”负责。
 
-### The Marchguard
+### 边境卫 {#the-marchguard}
 
-At the margins of the realm and beyond the Wood lies a place so wild, so dangerous, that only the extremely brave or extremely foolish dare set foot. The borders of these lands are ever-shifting, growing, and changing along with the passage of time. And so the Marchguard was born. No one can remember when the Guard was formed nor who worked to create it, but all know their purpose: to protect the realm from any incursions that might cross the boundary and to prevent those attempting to cross without guidance.
+在王国边缘、森林之外，存在着一片如此荒野、如此危险的地方，只有极其勇敢或极其愚蠢的人才敢踏足。随着时间流逝，这些土地的边界不断移动、生长和变化。于是，边境卫应运而生。没有人记得边境卫是在什么时候建立的，也没人知道是谁促成了它的成立，但所有人都知道他们的使命：保护王国免受任何跨越边界的入侵，并阻止那些试图在没有向导的情况下跨越边界的人。
 
-The Guard bends to no kings, knows no religion, and obeys no laws but their own. They lack even a central leadership, instead providing a masked volunteer to represent them in external negotiations. New members adopt a Blood Oath so powerful it is said to be inescapable by all but death itself. Of course, joining the Guard is rarely a choice, as their ranks are largely composed of ex-thugs, disgraced scholars, neglected knights, misbegotten rangers, and the like. This is how it must be, of course. For who else would willingly devote their lives to stand against such unknowable horrors?
+边境卫不向任何国王低头，不承认任何宗教，除了自己的法律之外不服从任何法律。他们甚至没有中央领导层，而是派出一名戴面具的志愿者，代表他们参与对外谈判。新成员会立下强大的_血誓_，据说除了死亡本身之外，没有任何东西能够让人逃脱它。当然，加入边境卫很少是出于选择，因为他们的队伍大多由前暴徒、声名狼藉的学者、被忽视的骑士、出身不正的游侠等人组成。当然，事情本就必须如此。否则，还有谁会愿意奉献一生，对抗那些无法理解的恐怖？
 
-Bloodhounds are members of the Guard who have been awarded special commendations or have demonstrated true belief in their cause. These hunters have adopted a single purpose of duty: enforcing the Oath. Utilizing a network of spies, informants, and plants, they ensure that any who escape the Guard are forced to return or die.
+血猎犬是边境卫的成员，他们因获得特殊嘉奖或表现出对事业的真正信仰而受到认可。这些猎人接受了唯一的职责：执行血誓。他们利用间谍、线人和暗桩组成的网络，确保任何逃离边境卫的人都被迫回来，或者死去。
 
-The Guard sees little reason to engage in politics or other such short-sighted quarrels with the other factions. However, decades of living near the borders have caused them to broker an uneasy friendship with those who call the Wood their home, and they will even treat with them on occasion. And although it is never discussed, on rare occasions the Guard will come the aid of those who live in the Wood as well.
+边境卫认为，没有必要参与政治，也没有必要与其他派系进行这类目光短浅的争吵。然而，数十年来生活在边境附近，使他们与那些以森林为家的人促成了一段不安的友谊；他们甚至偶尔会与对方交涉。虽然从不公开讨论，但边境卫也会在极少数情况下帮助生活在森林中的人。
 
-## The Vald Calendar
+## 瓦尔德历 {#the-vald-calendar}
 
-### Overview
+### 概览 {#overview}
 
-There are 24 hours in a day and 6 days in a week. Each month has 24 days (4 weeks), with 12 months in a year. The year is divided into 4 seasons (Dead, Dry, Wet, and Harvest), each lasting 72 days. Every 10 years, a 6-day "Leap Week" (_Reclamation_) is added, and does not belong to any particular month. This makes the average length of a year over a decade 288.6 days. Each year starts just before the _Dry_ season begins. The current year is 7728.
+一天有 24 小时，一周有 6 天。每个月有 24 天（4 周），一年有 12 个月。一年分为 4 个季节（死季、旱季、湿季和丰收季），每个季节持续 72 天。每 10 年会增加一个 6 天的“闰周”（_复垦周_），且不属于任何特定月份。如此一来，十年间每年的平均长度为 288.6 天。每年在_旱季_开始前不久开始。当前年份为 7728 年。
 
-### Days of the Week
+### 星期 {#days-of-the-week}
 
-1. Market Day
-2. Garden Day
-3. Song Day
-4. Tithe Day
-5. Bathing Day
-6. Resting Day
+1. 市集日
+2. 园艺日
+3. 歌谣日
+4. 什一税日
+5. 沐浴日
+6. 休息日
 
-### Months
+### 月份 {#months}
 
-1. Mourning
-2. Silence
-3. Veil
-4. Sunrise
-5. Bright
-6. Ashfall
-7. Flood
-8. Highwater
-9. Rise
-10. Quell
-11. Bane
-12. Sunset
+1. 哀悼
+2. 静默
+3. 面纱
+4. 日出
+5. 明亮
+6. 灰落
+7. 洪水
+8. 高水位
+9. 崛起
+10. 平息
+11. 灾祸
+12. 日落
 
-### Reclamation Week (Once per decade)
+### 复垦周（每十年一次） {#reclamation-week-once-per-decade}
 
-1. Recognize
-2. Remember
-3. Reward
-4. Rejoice
-5. Relinquish
-6. Renew
+1. 认知
+2. 记忆
+3. 奖赏
+4. 欢庆
+5. 放弃
+6. 更新
+
+### 按日期排序的节日、庆典与事件 {#holidays-festivals-events-sorted-by-date}
+
+|               |                                                        |                                                                                                                                                       |
+| ------------- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **月份**      | **日期**                                               | **事件**                                                                                                                                              |
+| **1. 哀悼**   |                                                        |                                                                                                                                                       |
+|               | 第 4 日午夜（什一税日）                               | 死季开始。                                                                                                                                             |
+|               | 第 24 日黄昏（休息日）                                 | _初光_：纪念新年第一个月结束。火炬与火焰整夜燃烧，将黑夜变成白昼。                                                                                    |
+| **2. 静默**   |                                                        |                                                                                                                                                       |
+|               | 第 10 日午夜（什一税日）                              | _死季至日_：一年中最短的一天，也是死季的中点。                                                                                                           |
+|               | 第 11 日黎明至黄昏（沐浴日）                           | _低语_：高于耳语的声音都属于禁忌。无声拍卖很常见。                                                                                                      |
+| **3. 面纱**   |                                                        |                                                                                                                                                       |
+|               | 第 9 日午夜（歌谣日）                                 | _揭纱_：人们通过庄严的誓言与谦卑的举动庆祝死季结束。                                                                                                    |
+|               | 第 17 日下午至暮光（沐浴日）                           | _面纱之缘_：通过向家庭祭坛献上供品并祈祷，纪念祖先的日子。                                                                                              |
+| **4. 日出**   |                                                        |                                                                                                                                                       |
+|               | 第 4 日午夜（什一税日）                               | 旱季开始。                                                                                                                                             |
+|               | 第 14 日上午（园艺日）                                | _易货会_：小城镇和村庄的代表与森林居民举行仪式性交换，以钢铁换取木材。                                                                                   |
+| **5. 明亮**   |                                                        |                                                                                                                                                       |
+|               | 第 9 日下午至午夜（歌谣日）                            | _尘落节_：以游行和化装舞会为特色的嘉年华，参与者佩戴面具，以防尘土和风沙。                                                                               |
+|               | 第 10 日午夜（什一税日）                              | _旱季分点_：旱季的中点。                                                                                                                               |
+| **6. 灰落**   |                                                        |                                                                                                                                                       |
+|               | 第 16 日黎明至下午（什一税日）                         | _枝宴_：只在森林中举办的集市日，来自王国各地的工匠和商人聚集于此，交易各自的货物。                                                                       |
+|               | 第 24 日下午（休息日）                                | _灰烬游行_：为庆祝旱季最后一天，参与者在脸上涂灰并奏乐。大多数劳动都会受到不满。                                                                        |
+| **7. 洪水**   |                                                        |                                                                                                                                                       |
+|               | 第 4 日午夜（什一税日）                               | 湿季开始。                                                                                                                                             |
+|               | 3 天，自第 5 日开始（沐浴日至市集日）                  | _泼水节_：庆祝水源充沛，包括划船比赛、竞赛、赠礼和水之祝福。                                                                                            |
+|               | 第 14 日全天（园艺日）                                | _漂流_：各个社区建造并装饰巨大的船只或木筏，让它们顺流而下。                                                                                            |
+| **8. 高水位** |                                                        |                                                                                                                                                       |
+|               | 第 1 日黎明至午夜（市集日）                            | _高水位集市_：水位最高时举行的大型贸易活动。每个重要的城镇和城市都会通过集市与市场进行庆祝。                                                             |
+|               | 第 10 日午夜（什一税日）                              | _湿季至日_：一年中最长的一天，也是湿季的中点。                                                                                                           |
+|               | 第 18 日下午（休息日）                                | _首植_：标志着播种季开始的节日。各个社区聚集起来，共同种下这一年的第一批种子。                                                                          |
+| **9. 崛起**   |                                                        |                                                                                                                                                       |
+|               | 第 14 日午餐时分（园艺日）                            | _水愿_：参与者将愿望写在卷轴上，把卷轴塞入巨石上的孔洞，然后把巨石滚下山。当巨石停止滚动时，任何没有掉出来的愿望都被认为会实现。                       |
+|               | 五天，自第 19 日开始（市集日至沐浴日）                 | _风暴之舞_：通过舞蹈和订婚仪式取悦风暴与降雨之主，为即将到来的丰收季祈求丰饶。                                                                            |
+| **10. 平息**  |                                                        |                                                                                                                                                       |
+|               | 第 1 日午夜（市集日）                                 | 丰收季开始。                                                                                                                                           |
+|               | 第 4 日下午（什一税日）                               | _丰收节_：通过宴饮和集会庆祝收获开始，并着手收割庄稼。                                                                                                |
+|               | 第 24 日黄昏（休息日）                                | _聚集之夜_：各个社区聚在一起收集并储藏收获的庄稼，随后整夜讲故事、奏音乐。                                                                              |
+| **11. 灾祸**  |                                                        |                                                                                                                                                       |
+|               | 第 10 日午夜（什一税日）                              | _丰收分点_：丰收季的中点。                                                                                                                             |
+|               | 第 12 日白昼（休息日）                                | _金色母鹿_：来自四面八方的猎人参加盛大的狩猎，在狂欢中寻找传说中的雄鹿。                                                                                 |
+|               | 第 18 日全天（休息日）                                | _火光_：放风筝、挂风铃和使用发声器的一天。夜晚会点燃巨大的篝火，舞者表演令人印象深刻的火舞。                                                            |
+| **12. 日落**  |                                                        |                                                                                                                                                       |
+|               | 第 11 日夜晚（沐浴日）                                | _余烬_：向落日致敬，也为即将到来的死季准备工作。放飞灯笼是常见的习俗。                                                                                  |
+|               | 第 24 日夜晚（休息日）                                | _暮色_：一年中最后一场盛大宴席，以太阳为核心，庆祝人们对收获的感激。怀孕现象很常见。                                                                    |
 
 
-### Holidays, Festivals, & Events Sorted by Date
+## 瓦尔德的天气 {#weather-in-vald}
 
-|               |                                                            |                                                                                                                                                                            |
-| ------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Month**     | **Date**                                                   | **Event**                                                                                                                                                                  |
-| **1. Mourning**  |                                                            |                                                                                                                                                                            |
-|               | Midnight on the 4th (Tithe Day)                            | Dead season begins.                                                                                                                                                        |
-|               | Dusk on the 24th (Resting Day)                             | _First Light_: Commemorating the end of the first month of the new year. Torches and fire are lit all night, turning night to day.                                         |
-| **2. Silence**   |                                                            |                                                                                                                                                                            |
-|               | Midnight on the 10th (Tithe Day)                           | _Dead Solstice_: Marks the shortest day of the year, and the midpoint of the Dead season.                                                                                                                       |
-|               | Dawn to dusk on the 11th (Bathing Day)                     | _Whisper_: Speaking above a whisper is taboo. Silent auctions are common.                                                                                                  |
-| **3. Veil**      |                                                            |                                                                                                                                                                            |
-|               | Midnight on the 9th (Song Day)                             | _Lift the Veil_: The end of the Dead season is celebrated through solemn vows and humble gestures.                                                                         |
-|               | Afternoon to twilight on the 17th (Bathing Day)            | _Veil’s Edge_: A day for honoring ancestors with offerings and prayers at family altars.                                                                                   |
-| **4. Sunrise**   |                                                            |                                                                                                                                                                            |
-|               | Midnight on the 4th (Tithe Day)                            | Dry season begins.                                                                                                                                                         |
-|               | Morning on the 14th (Garden Day)                           | _Bartermoot_: Representatives from the smaller towns and villages trade steel for lumber in ritual arrangement with the denizens of the Wood.                              |
-| **5. Bright**    |                                                            |                                                                                                                                                                            |
-|               | Afternoon until midnight on the 9th (Song Day)             | _Dustset_: A carnival marked by parades and masquerades, where participants wear masks to protect from dust and wind.                                                      |
-|               | Midnight on the 10th (Tithe Day)                           | _Dry Equinox_: Marks the midpoint of the Dry season.                                                                                                                         |
-| **6. Ashfall**   |                                                            |                                                                                                                                                                            |
-|               | Dawn until the afternoon on the 16th (Tithe Day)           | _Boughmeal_: A market day held exclusively within the Wood, where artisans and merchants from all over the realm meet to trade their wares.                                |
-|               | Afternoon on the 24th (Resting Day)                        | _Parade of Ash_: In celebration of the final day of the Dry season, participants mark their faces with ash and play music. Most kinds of labor are frowned upon.           |
-| **7. Flood**     |                                                            |                                                                                                                                                                            |
-|               | Midnight on the 4th (Tithe Day)                            | Wet season begins.                                                                                                                                                         |
-|               | 3 days starting on the 5th (Bathing Day to Market Day)       | _Splash Festival_: Celebrates the abundance of water, with boat races, contests, gifts, and water blessings.                                                             |
-|               | All day on the 14th (Garden Day)                           | _Float_: Communities build and decorate enormous boats or rafts to float down rivers.                                                                                      |
-| **8. Highwater** |                                                            |                                                                                                                                                                            |
-|               | Dawn until midnight on the 1st (Market Day)                | _Highwater Fair_: A major trade event taking place when the waters are highest. Every major town and city celebrates with fairs and markets.                               |
-|               | Midnight on the 10th (Tithe Day)                           | _Wet Solstice_: Marks the longest day of the year, and the midpoint of the Wet season.                                                                                                                         |
-|               | Afternoon of the 18th (Resting Day)                        | _First Plant_: A festival marking the beginning of planting season. Communities gather to plant the first seeds of the year together.                                      |
-| **9. Rise**      |                                                            |                                                                                                                                                                            |
-|               | Lunchtime on the 14th (Garden Day)                         | _Waterwish_: Participants write wishes on scrolls, place them into holes in a boulder, and roll it downhill. When it stops, any remaining wishes are thought to come true. |
-|               | Five days starting on the 19th (Market Day to Bathing Day) | _Storm Dance_: Dances and betrothals meant to please the masters of storm and rain for a fruitful Harvest season ahead.                                                    |
-| **10. Quell**     |                                                            |                                                                                                                                                                            |
-|               | Midnight on the 1st (Market Day)                           | Harvest season begins.                                                                                                                                                     |
-|               | Afternoon on the 4th (Tithe Day)                           | _Harvest Festival_: Celebrates the start of the harvest with feasting and communal gatherings to begin harvesting crops.                                                   |
-|               | Dusk on the 24th (Resting Day)                             | _Gathering Night_: Communities come together to collect and store the harvested crops, followed by a night of storytelling and music.                                      |
-| **11. Bane**      |                                                            |                                                                                                                                                                            |
-|               | Midnight on the 10th (Tithe Day)                           | _Harvest Equinox_: Marks the midpoint of the Harvest season.                                                                                                                 |
-|               | Daylight hours of the 12th (Resting Day)                    | _The Golden Hind_: Hunters from far and wide join a great hunt in search of a mythical stag amid great revelry.                                                           |
-|               | All day on the 18th (Resting Day)                          | _Firelight_: A day of kite-flying, wind chimes, and noisemakers. At night, massive bonfires are lit as dancers perform impressive fire dances.                             |
-| **12. Sunset**    |                                                            |                                                                                                                                                                            |
-|               | Evening on the 11th (Bathing Day)                          | _Ember_: Pays homage to the setting sun and the hard work ahead preparing for the Dead season. Lantern release ceremonies are a common practice.                           |
-|               | Evening of the 24th (Resting Day)                          | _Gloam_: The final grand feast of the year, celebrating gratitude for the harvest, with the sun as centerpiece. Pregnancies are common.                                    |
-
-
-## Weather in Vald
-
-|        |                 |                     |                    |                 |
-| ------ | --------------- | ------------------- | ------------------ | --------------- |
-| **d6** | **Dead**        | **Dry**             | **Wet**            | **Harvest**     |
-| **1**  | Cold and clear  | Hot and sunny       | Light rain         | Mild and sunny  |
-| **2**  | Frosty mornings | Warm and sunny      | Overcast           | Cool and clear  |
-| **3**  | Overcast skies  | Warm and breezy     | Breezy             | Warm and sunny  |
-| **4**  | Light snow      | Hot and humid       | Heavy rain         | Warm and breezy |
-| **5**  | Snow showers    | Occasional heatwave | Thunderstorms      | Light rain      |
-| **6**  | Freezing rain   | Dry and windy       | Occasional showers | Heavy rain      |
+|        |                 |                   |                    |                 |
+| ------ | --------------- | ----------------- | ------------------ | --------------- |
+| **d6** | **死季**        | **旱季**          | **湿季**           | **丰收季**      |
+| **1**  | 寒冷晴朗        | 炎热晴朗          | 小雨               | 温和晴朗        |
+| **2**  | 清晨霜冻        | 温暖晴朗          | 阴天               | 凉爽晴朗        |
+| **3**  | 天空阴云密布    | 温暖多风          | 有风               | 温暖晴朗        |
+| **4**  | 小雪            | 炎热潮湿          | 暴雨               | 温暖多风        |
+| **5**  | 阵雪            | 偶尔热浪          | 雷暴               | 小雨            |
+| **6**  | 冻雨            | 干燥多风          | 偶尔阵雨           | 暴雨            |

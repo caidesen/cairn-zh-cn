@@ -1,599 +1,599 @@
 ---
-title: Forest Seeds
+title: 森林种子
 layout: default
-parent: Warden's Guide 
-grand_parent: Second Edition
+parent: 守望者指南
+grand_parent: 第二版
 ---
 
-# Forest Seeds
+# 森林种子
 
-## Forestcrawls
+## 森林点状探索
 
-A forestcrawl is a simple method for exploring a large forested area, typically made up of branching trails connecting scattered points of interest. While a forestcrawl has some of the same properties as a traditional dungeon delve, it swaps stone walls and ceilings for the dense, non-linear design of a heavily wooded area. Instead of rooms, points of interest are defined as clearings or major changes in the forested landscape. However unlike exploring a dungeon, characters can take shortcuts, go "off-trail," or climb trees to get a better look around (with a cost, of course).
+森林点状探索是一种探索大片森林区域的简单方法，通常由连接各个分散兴趣点的分支小径组成。森林点状探索与传统地城探索有一些相同之处，但它用浓密森林区域的非线性布局，替代了石墙和天花板。兴趣点不再以房间定义，而是以林间空地或森林景观的重大变化定义。不过，与探索地城不同，角色可以走捷径、离开“小径”，或者爬上树看得更远（当然，这需要付出代价）。
 
-### Exploring The Wood
+### 探索森林
 
-- Follow the _Dungeon_ exploration procedures found in the Player's Guide, but rather than rolling for Dungeon Events, use the Wilderness Events table instead.
-- If the party attempts to step off the trail and cut through the forest, the Warden should make any associated costs clear: added travel time, effort, special tools that may be required, and any obvious dangers. Going off-trail also automatically triggers a roll on the Wilderness Events table.
-- Points in a forestcrawl are close to each other. When traveling on clearly marked trails, a small forest (10-15 POIs) can be explored in a single Watch.
-- Rely on the fiction and common sense to determine how much daylight is available, whether a suitable area is available for rest, and what the costs or dangers the forest may contain in the darkness. 
+- 按照玩家指南中的_地城_探索流程进行探索，但不要掷地城事件，而应使用荒野事件表。
+- 如果队伍试图离开小径、穿过森林，守望者应明确说明相关代价：增加旅行时间、需要付出精力、可能需要的特殊工具，以及任何显而易见的危险。离开小径还会自动触发一次荒野事件表掷骰。
+- 森林点状探索中的各个点位彼此相距很近。沿着清晰标记的小径旅行时，一片小型森林（10-15 个兴趣点）可以在一个时段内探索完毕。
+- 根据虚构情境和常识，判断还有多少日光、是否有适合休息的区域，以及森林在黑暗中可能包含哪些代价或危险。
 
-## Creating a Forest
+## 创建森林
 
-Follow this procedure for any forested terrain in a region. If a conflict or interesting pattern emerges, be open to restating or modifying any earlier results! 
+对地区中的任何森林地形使用以下流程。如果出现矛盾或有趣的模式，要随时准备重新表述或修改之前的结果！
 
-### Materials Required
+### 所需材料
 
-- A sheet of paper and a notebook. Letter/A4 is fine.
-- Pencils and erasers. Colored pencils or crayons are good, too.
-- At least one d6 and one d20, but 6d6 and 2d20 would be ideal.
+- 一张纸和一本笔记本。Letter/A4 大小都可以。
+- 铅笔和橡皮。彩色铅笔或蜡笔也很有用。
+- 至少一颗 d6 和一颗 d20，但 6d6 和 2d20 最理想。
 
-> Going forward, we will refer to the sheet of paper as the **map**.
-> As with any other rule, if you don't like a table result, roll again or tweak as desired!
+> 接下来，我们会把这张纸称为**地图**。
+> 和其他规则一样，如果你不喜欢某个表格结果，就重新掷骰，或按自己的需要调整！
 
-### Overview
+### 概览
 
-1. Describe the forest.
-2. Describe the spirit of the forest.
-3. Create the forest's POIs.
-4. Create the forest's trails.
-5. Create forest encounters.
-6. Name the forest.
+1. 描述森林。
+2. 描述森林之灵。
+3. 创建森林的兴趣点。
+4. 创建森林的小径。
+5. 创建森林遭遇。
+6. 为森林命名。
 
-## Forest Description
+## 森林描述 {#forest-description}
 
-Roll on the [Forest Description](#forest-description) and write the results in your notebook. This table both indicates how outsiders perceive the forest as well as any unique natural features it may have. If the forested terrain was generated using the methods described in the Setting Seeds chapter, consider how the associated Landmark affects it as well.
+在[森林描述](#forest-description)表上掷骰，并将结果写在笔记本中。这张表既表示外来者如何看待这片森林，也表示它可能具有的独特自然特征。如果这片森林地形是使用“设定种子”章节中的方法生成的，还要考虑相关地标会如何影响它。
 
-> Landmarks help travelers navigate through the dense foliage, acting as geographic reference points: unusually tall trees, watchtowers, and so on. Most forest landmarks are visible only by climbing a tree, though a few are large enough to stand out from the green. Some landmarks are _heard_ rather than seen.
+> 地标可以作为地理参照物，帮助旅行者在浓密的枝叶间辨认方向：异常高大的树木、瞭望塔等等。大多数森林地标只有爬上树才能看见，但有些足够巨大，能从一片绿色中脱颖而出。有些地标是被_听见_而不是看见的。
 
-Roll 1d20 for each column and combine the results.
+每列掷 1d20，然后合并结果。
 
 |         |                 |                 |
 | ------- | --------------- | --------------- |
-| **d20** | **Description** | **Description** |
-| **1**   | Barren          | Ancient         |
-| **2**   | Crystalline     | Awakening       |
-| **3**   | Diseased        | Buzzing         |
-| **4**   | Dying           | Decaying        |
-| **5**   | Flowering       | Flooded         |
-| **6**   | Glowing         | Foggy           |
-| **7**   | Hallowed        | Frigid          |
-| **8**   | Mossy           | Frozen          |
-| **9**   | Murky           | Fungal          |
-| **10**  | Perilous        | Hidden          |
-| **11**  | Petrified       | Infested        |
-| **12**  | Polluted        | Misty           |
-| **13**  | Primeval        | Mossy           |
-| **14**  | Scorched        | Overgrown       |
-| **15**  | Secluded        | Sacred          |
-| **16**  | Suffocating     | Secluded        |
-| **17**  | Timeless        | Silent          |
-| **18**  | Uncharted       | Smoldering      |
-| **19**  | Unspoilt        | Sunlit          |
-| **20**  | Winding         | Wild            |
+| **d20** | **描述**        | **描述**        |
+| **1**   | 荒芜            | 古老            |
+| **2**   | 水晶般          | 觉醒            |
+| **3**   | 染病            | 嗡鸣            |
+| **4**   | 垂死            | 腐朽            |
+| **5**   | 开花            | 被淹没          |
+| **6**   | 发光            | 多雾            |
+| **7**   | 神圣            | 严寒            |
+| **8**   | 长满苔藓        | 冻结            |
+| **9**   | 浑浊            | 真菌            |
+| **10**  | 危险            | 隐藏            |
+| **11**  | 石化            | 受侵染          |
+| **12**  | 受到污染        | 薄雾            |
+| **13**  | 原始            | 长满苔藓        |
+| **14**  | 焦灼            | 杂草丛生        |
+| **15**  | 隐秘            | 神圣            |
+| **16**  | 令人窒息        | 隐秘            |
+| **17**  | 永恒            | 寂静            |
+| **18**  | 未知            | 闷烧            |
+| **19**  | 未受破坏        | 阳光充足        |
+| **20**  | 蜿蜒            | 野性            |
 
-## The Spirit of the Forest
+## 森林之灵
 
-In some ways, the Wood is a single entity, its brain alive within every tree and plant, connected via a network of thorn and branch. The animals and plants are its limbs, directing its wants, desires, fears, and needs. The creatures that live within its boundaries are its blood, answering its call by delivering much needed defenses and rebuffing interlopers. The Wood will always protect itself and its children. Roll on the [Traits](#traits) and [Forest Agenda](#forest-agenda) tables, writing the results in your notebook. This describes the general attitude of the creatures found in the forest as well as what the forest _wants_ as a whole.
+从某些角度来看，森林是一个单一的实体：它的头脑活在每一棵树木和每一株植物中，并通过荆棘与枝桠组成的网络彼此相连。动物和植物是它的四肢，传达着它的欲望、渴求、恐惧和需求。生活在森林边界内的生物是它的血液，响应它的召唤，提供急需的防御并击退入侵者。森林永远会保护自己和它的孩子。在[特征](#traits)和[森林议程](#forest-agenda)表上掷骰，并将结果写在笔记本中。这描述了森林中生物的总体态度，以及森林作为整体的_愿望_。
 
-### Traits
+### 特征 {#traits}
 
-Roll 1d20 for each column and combine the results.
+每列掷 1d20，然后合并结果。
 
 |         |             |                |
 | ------- | ----------- | -------------- |
-| **d20** | **Virtues** | **Vices**      |
-| **1**   | Adaptive    | Aggressive     |
-| **2**   | Balanced    | Aloof          |
-| **3**   | Brave       | Covetous       |
-| **4**   | Clever      | Detached       |
-| **5**   | Cultivating | Dominating     |
-| **6**   | Empathic    | Doubtful       |
-| **7**   | Enduring    | Invasive       |
-| **8**   | Graceful    | Judgmental     |
-| **9**   | Hardy       | Naive          |
-| **10**  | Harmonious  | Obscuring      |
-| **11**  | Independent | Overzealous    |
-| **12**  | Learned     | Parasitic      |
-| **13**  | Nurturing   | Passive        |
-| **14**  | Observant   | Polluting      |
-| **15**  | Purifying   | Predatory      |
-| **16**  | Resolute    | Prideful       |
-| **17**  | Sensible    | Rigid          |
-| **18**  | Sharp       | Scatterbrained |
-| **19**  | Stable      | Selfish        |
-| **20**  | Trusting    | Territorial    |
+| **d20** | **美德**    | **恶习**       |
+| **1**   | 适应性强    | 好斗           |
+| **2**   | 平衡        | 冷漠           |
+| **3**   | 勇敢        | 贪得无厌       |
+| **4**   | 聪明        | 疏离           |
+| **5**   | 培育        | 支配           |
+| **6**   | 善解人意    | 多疑           |
+| **7**   | 坚韧        | 侵入           |
+| **8**   | 优雅        | 好评判         |
+| **9**   | 强健        | 天真           |
+| **10**  | 和谐        | 遮蔽           |
+| **11**  | 独立        | 过度热心       |
+| **12**  | 博学        | 寄生           |
+| **13**  | 滋养        | 被动           |
+| **14**  | 善于观察    | 污染           |
+| **15**  | 净化        | 掠食           |
+| **16**  | 坚决        | 自负           |
+| **17**  | 明智        | 僵化           |
+| **18**  | 敏锐        | 丢三落四       |
+| **19**  | 稳定        | 自私           |
+| **20**  | 信任        | 领地意识强     |
 
-#### Forest Agenda
+#### 森林议程 {#forest-agenda}
 
-Roll 1d20 for each column and combine the results.
+每列掷 1d20，然后合并结果。
 
 |         |                |              |
 | ------- | -------------- | ------------ |
-| **d20** | **Goal**       | **Obstacle** |
-| **1**   | Abundance     | Agreements    |
-| **2**   | Awakening     | Belief        |
-| **3**   | Balance       | Contamination |
-| **4**   | Cleansing     | Disease       |
-| **5**   | Conservation  | Exploitation  |
-| **6**   | Defense       | Fragmentation |
-| **7**   | Discovery     | Frailty       |
-| **8**   | Emancipation  | Greed         |
-| **9**   | Enrichment    | Ignorance     |
-| **10**  | Evolution     | Infestation   |
-| **11**  | Expansion     | Invasion      |
-| **12**  | Harmony       | Isolation     |
-| **13**  | Healing       | Leadership    |
-| **14**  | Integration   | Oppression    |
-| **15**  | Justice       | Pollution     |
-| **16**  | Metamorphosis | Scarcity      |
-| **17**  | Purification  | Stasis        |
-| **18**  | Rebirth       | Turmoil       |
-| **19**  | Tranquility   | Vulnerability |
-| **20**  | Unity         | Vulnerability |
+| **d20** | **目标**       | **障碍**     |
+| **1**   | 丰饶           | 协议         |
+| **2**   | 觉醒           | 信念         |
+| **3**   | 平衡           | 污染         |
+| **4**   | 清除           | 疾病         |
+| **5**   | 保护           | 开发         |
+| **6**   | 防御           | 分裂         |
+| **7**   | 发现           | 脆弱         |
+| **8**   | 解放           | 贪婪         |
+| **9**   | 丰富           | 无知         |
+| **10**  | 进化           | 侵染         |
+| **11**  | 扩张           | 入侵         |
+| **12**  | 和谐           | 孤立         |
+| **13**  | 治愈           | 领导         |
+| **14**  | 融合           | 压迫         |
+| **15**  | 正义           | 污染         |
+| **16**  | 蜕变           | 稀缺         |
+| **17**  | 净化           | 停滞         |
+| **18**  | 重生           | 动荡         |
+| **19**  | 宁静           | 脆弱         |
+| **20**  | 统一           | 脆弱         |
 
-## Create the Map
+## 创建地图
 
-### Create POIs
+### 创建兴趣点
 
-- Roll **8-12 d6** dice on the dungeon map, ignoring any dice that fall off the page. These are the Points of Interest (POI) in the forest.
-- Write the face-up results on the page using the [Forest Die Drop Table](#forest-die-drop-table). For example, the number **4** would indicate a **Shelter**, which you would denote with the letter "S".
-- Select two opposite points, preferably close to the page border. These are the forest's entrance and exit.
-- Starting with the entrance and ending at the exit, number each POI on the map.
-- Roll on the relevant tables for each point, writing the results in your notebook.
-- Filter the table results through the table results you generated earlier in this process.
+- 在地城地图上掷 **8-12 颗 d6**，忽略掉出页面的骰子。这些就是森林中的兴趣点（POI）。
+- 使用[森林骰子投放表](#forest-die-drop-table)，将朝上的结果写在页面上。例如，数字 **4** 表示一个**庇护所**，你可以用字母“S”标记它。
+- 选择两个相对的点位，最好靠近页面边缘。这些就是森林的入口和出口。
+- 从入口开始，到出口结束，为地图上的每个兴趣点编号。
+- 为每个点位在相关表格上掷骰，并将结果写在笔记本中。
+- 根据这个流程早先生成的表格结果，筛选当前的表格结果。
 
-#### Forest Die Drop Table
+#### 森林骰子投放表 {#forest-die-drop-table}
 
 |         |         |
 | ------- | ------- |
-| **d6**  | **POI** |
-| **1**   | Monster |
-| **2-3** | Ruins   |
-| **4**   | Shelter |
-| **5-6** | Hazard  |
+| **d6**  | **兴趣点** |
+| **1**   | 怪物      |
+| **2-3** | 遗迹      |
+| **4**   | 庇护所    |
+| **5-6** | 危险      |
 
-## Trails
+## 小径
 
-### Trail Types
+### 小径类型 {#trail-types}
 
-- **Standard** trails are obvious or well-trod routes between two points. _Represented by a thick line._
-- **Hidden** trails do not appear on any known maps. Their discovery always requires some kind of cost. _Represented by a dashed line._
-- **Conditional** trails may be blocked, or requires specialized tools (boats, climbing gear, etc.) to cross. Others may even be impossible to navigate without a map or guide. _Represented by a crossed line._
+- **普通**小径是明显的，或经常有人走的两个点位之间的路线。_用粗线表示。_
+- **隐藏**小径不会出现在任何已知地图上。发现它总是需要付出某种代价。_用虚线表示。_
+- **有条件**小径可能被阻挡，或需要专门工具（船、攀爬装备等）才能通过。有些小径甚至没有地图或向导就不可能导航。_用交叉线表示。_
 
-### Draw Trails
+### 绘制小径
 
-- Starting with the entrance, draw 1-4 paths between each point.
-  - Create loops, branching paths, dead-ends, and shortcuts between points.
-  - Some paths are Conditional, represented by a crossed line.
-  - Some paths are Hidden, represented by a dashed line.
-  - If possible, create intersections (crossed lines) with no points in between.
-- Create trails by drawing over paths that connect 3-4 points in an obvious, consistent, or interesting manner. 
-  - Hidden paths and short, isolated routes are not usually a part of a trail.
-  - Use colored pencils or crayons to help distinguish different trails.
-- Roll on the [Trail Types](#trail-types) table for each trail, recording the results in your notebook. 
+- 从入口开始，在每个点位之间绘制 1-4 条路径。
+  - 创建环路、分支路径、死路以及点位之间的捷径。
+  - 有些路径属于有条件小径，用交叉线表示。
+  - 有些路径属于隐藏小径，用虚线表示。
+  - 如果可能，创建没有点位位于其中的交叉路口（交叉线）。
+- 通过覆盖连接 3-4 个点位的路径，创建一条明显、连贯或有趣的小径。
+  - 隐藏路径和短而孤立的路线通常不属于某条小径。
+  - 使用彩色铅笔或蜡笔，帮助区分不同的小径。
+- 为每条小径在[小径类型](#trail-types)表上掷骰，并将结果记在笔记本中。
 
-#### Trail Types
+#### 小径类型
 
-Roll 1d20 for each column and combine the results.
+每列掷 1d20，然后合并结果。
 
-|         |                    |                    |
-| ------- | ------------------ | ------------------ |
-| **d20** | **Type**           | **Marker**         |
-| **1**   | Animal Path        | Bear Rubbings      |
-| **2**   | Bandit's Run       | Bent Trees         |
-| **3**   | Bouldered Way      | Claw Marks         |
-| **4**   | Cloistered Grove   | Damaged Flora      |
-| **5**   | Deer Crossing      | Deer Tracks        |
-| **6**   | Dry Riverbed       | Distant Singing    |
-| **7**   | Fae Passage        | Faint Laughter     |
-| **8**   | Farm Trail         | Fox Prints         |
-| **9**   | Foraging Path      | Fresh Spiderwebs   |
-| **10**  | Hunter's Track     | Giant Feathers     |
-| **11**  | King's March       | Glowing Toadstools |
-| **12**  | Merchant's Road    | Muted Bells        |
-| **13**  | Old Logging Road   | Peripheral Images  |
-| **14**  | Orchard Path       | Rabbit Droppings   |
-| **15**  | Pilgrim's Footpath | Serpent Traces     |
-| **16**  | Spore Saturated    | Smoke              |
-| **17**  | Sticky Sap Path    | Stillness          |
-| **18**  | Trail Tree         | Stone Piles        |
-| **19**  | Treeline Heights   | Swaying Plants     |
-| **20**  | War Route          | Tree Carvings      |
+|         |                      |                 |
+| ------- | -------------------- | --------------- |
+| **d20** | **类型**             | **标记**        |
+| **1**   | 动物小径             | 熊的摩擦痕      |
+| **2**   | 强盗小径             | 弯曲的树木      |
+| **3**   | 巨石道路             | 爪痕            |
+| **4**   | 隐秘林间空地         | 受损的植物      |
+| **5**   | 鹿群穿越处           | 鹿蹄印          |
+| **6**   | 干涸河床             | 远处的歌声      |
+| **7**   | 妖精通道             | 微弱的笑声      |
+| **8**   | 农场小径             | 狐狸脚印        |
+| **9**   | 觅食小径             | 新鲜的蛛网      |
+| **10**  | 猎人小径             | 巨大的羽毛      |
+| **11**  | 国王大道             | 发光的毒菌      |
+| **12**  | 商人道路             | 闷响的铃声      |
+| **13**  | 古老伐木道           | 视野边缘的影像  |
+| **14**  | 果园小径             | 兔子粪便        |
+| **15**  | 朝圣者小径           | 蛇的痕迹        |
+| **16**  | 孢子遍布的小径       | 烟雾            |
+| **17**  | 黏性树脂小径         | 寂静            |
+| **18**  | 标志树               | 石堆            |
+| **19**  | 林线高地             | 摇曳的植物      |
+| **20**  | 战争路线             | 树木雕刻        |
 
-> If some of the results seem incongruous, that's OK! Turn these juxtapositions into questions like "Why _is_ there an old logging road leading to the bandit's hideout?" That said, don't be afraid to choose a more appropriate result if you're having a hard time making it work!
+> 如果某些结果看起来不协调，没关系！把这些并置转化成问题，例如：“为什么_会有_一条古老伐木道通往强盗藏身处？”话虽如此，如果你很难让某个结果发挥作用，也不要害怕选择更合适的结果！
 
-#### Monster
+#### 怪物
 
-Monsters are any dangerous creatures one might encounter in the forest. This does not mean they will attack intruders by default! Monsters are not "waiting around" for characters to stumble upon them, but have their own wants and goals. Some monsters can talk, reason, and even beg for mercy. _People can be monsters, too_.
+怪物是人们可能在森林中遇到的危险生物。这并不意味着它们默认会攻击入侵者！怪物不是单纯“等着角色来找它们”，而是拥有自己的欲望和目标。有些怪物会说话、推理，甚至乞求宽恕。_人也可以是怪物。_
 
-Roll 1d20 for each column and combine the results.
+每列掷 1d20，然后合并结果。
 
 |         |              |              |
 | ------- | ------------ | ------------ |
-| **d20** | **Monster**  | **Activity** |
-| **1**   | Bandit       | Burrowing    |
-| **2**   | Blink Dog    | Burying      |
-| **3**   | Blood Elk    | Destroying   |
-| **4**   | Centaur      | Devouring    |
-| **5**   | Dryad        | Dying        |
-| **6**   | Ettin        | Fighting     |
-| **7**   | Gargoyle     | Foraging     |
-| **8**   | Green Dragon | Guarding     |
-| **9**   | Grizzly Bear | Hiding       |
-| **10**  | Killer Bees  | Hunting      |
-| **11**  | Naga         | Killing      |
-| **12**  | Night Cat    | Mating       |
-| **13**  | Owlbear      | Mourning     |
-| **14**  | Pixie        | Patrolling   |
-| **15**  | Skeleton     | Prowling     |
-| **16**  | Treant       | Recuperating |
-| **17**  | Unicorn      | Scouting     |
-| **18**  | Will-o-Wisp  | Stalking     |
-| **19**  | Wolf         | Torturing    |
-| **20**  | Wood Troll   | Trapped      |
+| **d20** | **怪物**     | **活动**     |
+| **1**   | 强盗         | 掘洞         |
+| **2**   | 闪现犬       | 埋藏         |
+| **3**   | 血鹿         | 破坏         |
+| **4**   | 半人马       | 吞食         |
+| **5**   | 树精         | 濒死         |
+| **6**   | 双头巨人     | 战斗         |
+| **7**   | 石像鬼       | 觅食         |
+| **8**   | 绿龙         | 守卫         |
+| **9**   | 灰熊         | 躲藏         |
+| **10**  | 杀人蜂       | 狩猎         |
+| **11**  | 那伽         | 杀戮         |
+| **12**  | 夜猫         | 交配         |
+| **13**  | 枭熊         | 哀悼         |
+| **14**  | 皮克精       | 巡逻         |
+| **15**  | 骷髅         | 潜行         |
+| **16**  | 树人         | 休养         |
+| **17**  | 独角兽       | 侦察         |
+| **18**  | 鬼火         | 潜伏跟踪     |
+| **19**  | 狼           | 折磨         |
+| **20**  | 木巨魔       | 被困         |
 
-#### Ruins
+#### 遗迹
 
-Forests are wild places, but that does not mean people haven't tried to tame them. The remnants of these attempts still show up from time to time, hinting at the folly of those who would stand against the Wood.
+森林是野性的地方，但这并不意味着人们没有试图驯服它。时不时还能看到这些尝试留下的残迹，暗示着那些试图对抗森林之人的愚蠢。
 
-Roll 1d20 for each column and combine the results.
+每列掷 1d20，然后合并结果。
 
 |         |                     |                                        |
 | ------- | ------------------- | -------------------------------------- |
-| **d20** | **Ruin**            | **Feature**                            |
-| **1**   | Abandoned Manor     | A Forest Spirit, Ready to Die          |
-| **2**   | Broken Sundial      | A Hag, Foraging for Ingredients        |
-| **3**   | Chipped Bell Tower  | A Mirror of Itself                     |
-| **4**   | Collapsed Megalith  | A Self-Obsessed Sprite                 |
-| **5**   | Crumbled Watchtower | A Silent, Ghostly Concert              |
-| **6**   | Decomposed Canoes   | A Very Tiny Ruined Village             |
-| **7**   | Entangled Pavilion  | Bound by an Unbreakable Curse          |
-| **8**   | Exposed Workshop    | Bound Creature                         |
-| **9**   | Flooded Monastery   | Broken Portal                          |
-| **10**  | Moldering Farmhouse | Fresh Corpses                          |
-| **11**  | Neglected Shrine    | Hidden Cache                           |
-| **12**  | Overrun Estate      | Hooded Men Completing a Ritual         |
-| **13**  | Petrified Campsite  | Inaudible Whispers from All Directions |
-| **14**  | Rotted Mill         | Marked by Battles Of Yore              |
-| **15**  | Ruined Cloister     | Overrun with Unusual Flora             |
-| **16**  | Rusted Market       | Realistic Toy Soldiers                 |
-| **17**  | Shattered Bridge    | Remnants of a Failed Ritual            |
-| **18**  | Splintered Obelisk  | The Veil Between Worlds Is Thin        |
-| **19**  | Sunken Gazebo       | Visions of the Past                    |
-| **20**  | Toppled Statue      | Warded Grounds                         |
+| **d20** | **遗迹**            | **特征**                               |
+| **1**   | 废弃庄园            | 一个准备死去的森林之灵                 |
+| **2**   | 破碎日晷            | 一个正在寻找材料的女巫                 |
+| **3**   | 缺角钟楼            | 一面映照自身的镜子                     |
+| **4**   | 坍塌巨石            | 一个自恋的精灵                         |
+| **5**   | 崩塌瞭望塔          | 一场寂静的幽灵音乐会                   |
+| **6**   | 腐朽独木舟          | 一个非常微小的废墟村庄                 |
+| **7**   | 纠缠凉亭            | 被无法打破的诅咒束缚                   |
+| **8**   | 暴露的工坊          | 被束缚的生物                           |
+| **9**   | 被淹没的修道院      | 破碎的界门                             |
+| **10**  | 发霉的农舍          | 新鲜尸体                               |
+| **11**  | 被忽视的圣龛        | 隐藏的储藏物                           |
+| **12**  | 被占据的庄园        | 正在完成仪式的蒙面人                   |
+| **13**  | 石化营地            | 来自四面八方、无法听见的低语           |
+| **14**  | 腐烂磨坊            | 古老战斗留下的痕迹                     |
+| **15**  | 废弃隐修院          | 长满异常植物                           |
+| **16**  | 生锈集市            | 逼真的玩具士兵                         |
+| **17**  | 破碎桥梁            | 失败仪式的残迹                         |
+| **18**  | 断裂方尖碑          | 世界之间的帷幕变得稀薄                 |
+| **19**  | 沉没凉亭            | 过去的幻象                             |
+| **20**  | 倒塌雕像            | 受到守护的区域                         |
 
-#### Shelter
+#### 庇护所
 
-Despite its wild and unpredictable nature, there have always been those brave, skilled, or foolhardy enough to try and build a life in the Wood. And some do succeed, leaving their mark via smoldering campfire or gray tower, offering a welcome respite to weary travelers. 
+尽管森林野性而不可预测，但一直有人足够勇敢、老练或鲁莽，试图在其中建立生活。有些人确实成功了，留下冒烟的篝火或灰色高塔，为疲惫的旅行者提供受欢迎的喘息之地。
 
-Roll 1d20 for each column and combine the results.
+每列掷 1d20，然后合并结果。
 
-|         |                   |                                    |
-| ------- | ----------------- | ---------------------------------- |
-| **d20** | **Shelter**       | **Feature**                        |
-| **1**   | Bandit Hideout    | Abandoned, for Now                 |
-| **2**   | Falconer's Tower  | Attracts Wild Beasts               |
-| **3**   | Fishing Hut       | Built in Defiance of Customs       |
-| **4**   | Forgotten Ruins   | Constructed Within a Giant Tree    |
-| **5**   | Hermit's Cabin    | Forest-Knight Offers a Challenge   |
-| **6**   | Hidden Village    | Guarded by Trained Animals         |
-| **7**   | Hillside Cave     | Haunted by Unhelpful Ghosts        |
-| **8**   | Hollow Tree       | Hides a Powerful Artifact          |
-| **9**   | Hunter's Lodge    | Hunting Is Forbidden               |
-| **10**  | Hut with Legs     | Inhabited by a Supernatural Entity |
-| **11**  | Ivy-Wrapped Tower | Occupied by Army Deserters         |
-| **12**  | Lean-To           | Overrun with Cultists              |
-| **13**  | Lumber Site       | Pale Folk Dinner Locale            |
-| **14**  | Monastic Retreat  | Parasitic Foliage                  |
-| **15**  | Mossy Pool        | Pig Folk Hunting Grounds           |
-| **16**  | Night Market      | Popular with Smugglers             |
-| **17**  | Pale Folk Stable  | Presents a Ready Meal              |
-| **18**  | Ranger's Outpost  | Protected by a Playful Spirit      |
-| **19**  | Smoky Cabin       | Site of an Ancient Murder          |
-| **20**  | Tattered Windmill | Thieves' Camp                      |
+|         |                     |                                    |
+| ------- | ------------------- | ---------------------------------- |
+| **d20** | **庇护所**          | **特征**                           |
+| **1**   | 强盗藏身处          | 暂时废弃                           |
+| **2**   | 猎鹰者高塔          | 吸引野兽                           |
+| **3**   | 渔屋                | 违背习俗建造                       |
+| **4**   | 被遗忘的遗迹        | 建在巨树内部                       |
+| **5**   | 隐士小屋            | 森林骑士发起挑战                   |
+| **6**   | 隐秘村庄            | 受训练有素的动物守卫               |
+| **7**   | 山坡洞穴            | 被帮不上忙的幽灵纠缠               |
+| **8**   | 中空树木            | 藏有强大的遗物                     |
+| **9**   | 猎人小屋            | 禁止狩猎                           |
+| **10**  | 长腿小屋            | 由超自然实体居住                   |
+| **11**  | 常春藤缠绕的高塔    | 被逃兵占据                         |
+| **12**  | 简易棚屋            | 被狂热教徒占据                     |
+| **13**  | 伐木场              | 苍白民的用餐地点                   |
+| **14**  | 修道隐居处          | 寄生植物                           |
+| **15**  | 长满苔藓的水池      | 猪兽的狩猎场                       |
+| **16**  | 夜市                | 走私者常去                         |
+| **17**  | 苍白民马厩          | 提供一顿现成的饭                   |
+| **18**  | 游侠前哨站          | 受到顽皮精魂保护                   |
+| **19**  | 冒烟小屋            | 古老谋杀案的现场                   |
+| **20**  | 破旧风车            | 窃贼营地                           |
 
-#### Hazard
+#### 危险
 
-The Wood is a dangerous place and not to be trifled with. The forest and its inhabitants do what they must to survive, and even sated, are still preparing for their next meal. The trees, the plants, and the earth itself will leave deadly traps and dangers to root out those unworthy to pass beneath the boughs.
+森林是危险的地方，不能轻率对待。森林及其居民会竭尽所能求生，即使已经吃饱，也仍在为下一顿饭做准备。树木、植物乃至大地本身都会留下致命陷阱和危险，清除那些不配从枝叶下方通过的人。
 
-Roll 1d20 for each column and combine the results.
+每列掷 1d20，然后合并结果。
 
 |         |                   |                              |
 | ------- | ----------------- | ---------------------------- |
-| **D20** | **Hazard**        | **Feature**                  |
-| **1**   | Animal Trap       | A Pet Basilisk               |
-| **2**   | Bog Shadows       | A Spell Gone Wrong           |
-| **3**   | Bone Orchard      | Animated Armor               |
-| **4**   | Bramble Tunnels   | Bird Spies                   |
-| **5**   | Frozen Troll      | Bleeding Trees               |
-| **6**   | Giant Spider Nest | Ghosts Trapped in Crystal    |
-| **7**   | Insect Swarm      | Giant Rodent Feeding Grounds |
-| **8**   | Moving Thickets   | Highly Localized Weather     |
-| **9**   | Poisonous Plants  | Howling Stones               |
-| **10**  | Psychic Fog       | Injured Creature             |
-| **11**  | Sap Trap          | Invisible Webs               |
-| **12**  | Sleeping Giant    | Living Scarecrows            |
-| **13**  | Slippery Moss     | Memory Stealers              |
-| **14**  | Slow Quicksand    | Mimic Vines                  |
-| **15**  | Spiked Pit        | Paths that Change Randomly   |
-| **16**  | Stinging Nettles  | Scavengers that Wait         |
-| **17**  | Thorny Thickets   | Watchful Dead                |
-| **18**  | Toxic Spores      | Tracks Erased by Mist        |
-| **19**  | Troll Den         | Trees that Grow From Bones   |
-| **20**  | Unstable Ground   | Will-o-Wisps Congregate      |
+| **D20** | **危险**          | **特征**                     |
+| **1**   | 捕兽夹            | 一只宠物蛇怪                 |
+| **2**   | 沼泽阴影          | 失控的法术                   |
+| **3**   | 骨头果园          | 活化的护甲                   |
+| **4**   | 荆棘隧道          | 鸟类侦察者                   |
+| **5**   | 冻结的巨魔        | 流血的树木                   |
+| **6**   | 巨型蜘蛛巢穴      | 被困在水晶中的幽灵           |
+| **7**   | 昆虫群            | 巨型啮齿动物的觅食场         |
+| **8**   | 移动灌木丛        | 高度局部化的天气             |
+| **9**   | 有毒植物          | 嚎叫的石头                   |
+| **10**  | 心灵迷雾          | 受伤的生物                   |
+| **11**  | 树脂陷阱          | 隐形蛛网                     |
+| **12**  | 沉睡巨人          | 活着的稻草人                 |
+| **13**  | 滑腻苔藓          | 记忆窃取者                   |
+| **14**  | 缓慢流沙          | 模仿藤蔓                     |
+| **15**  | 尖刺陷坑          | 随机变化的路径               |
+| **16**  | 刺人荨麻          | 等待着的食腐者               |
+| **17**  | 多刺灌木丛        | 警觉的亡者                   |
+| **18**  | 有毒孢子          | 被薄雾抹去的踪迹             |
+| **19**  | 巨魔巢穴          | 从骨头中生长出来的树木       |
+| **20**  | 不稳定地面        | 聚集的鬼火                   |
 
-## Example Forest
+## 森林示例
 
-### Map
+### 地图
 
-[![Click Me!](/img/2e/forest-seed-example.webp "Click to embiggen"){:height="60%" width="60%"}](/img/2e/forest-seed-example.webp)
+[![点击查看！](/img/2e/forest-seed-example.webp "点击放大"){:height="60%" width="60%"}](/img/2e/forest-seed-example.webp)
 
-### The Forest
+### 森林
 
-**Description**: Diseased, Frozen
+**描述**：染病、冻结
 
-A thick forest infected with disease and rot. Parts of it are frozen solid.
+一片染上疾病、腐烂不堪的浓密森林。其中部分区域已经彻底冻结。
 
-### Denizens
+### 居民
 
-**Traits**: Stable, Territorial
+**特征**：稳定、领地意识强
 
-Wish to return to the stability they once knew, but are threatened by ancient forest boundaries.
+它们希望回到曾经拥有的稳定状态，但受到古老森林边界的威胁。
 
-**Forest Agenda**: Purification, Infestation
+**森林议程**：净化、侵染
 
-The spirit of the forest wants nothing more than to purify itself of the disease that has taken hold. An infestation of Giant Spiders (**9**) has spun webs throughout, killing far too many creatures and undermining the ecosystem.
+森林之灵只想净化自身，摆脱已经占据森林的疾病。巨型蜘蛛的侵染（**9**）已经在各处织起蛛网，杀死了太多生物，并破坏了生态系统。
 
-### Forest Theme
+### 森林主题
 
-For decades, the order and stability of the forest was maintained through an agreement between the forest witch **Anglwyst** and **Sweeney**, the Wood's champion. The witch would use her magic to keep the trees and animals healthy, while the champion would ensure that hunters never kill any creatures deemed essential to the Wood (indicated by a shock of white in their fur). Their pact was permanent and immalleable, and the forest was divided, barring both the witch and the champion from crossing its boundary.
+几十年来，森林的秩序与稳定一直由森林女巫 **Anglwyst** 和森林的冠军 **Sweeney** 之间的一项协议维持。女巫用魔法保持树木和动物健康，而冠军则确保猎人不会杀死任何被认为对森林至关重要的生物（它们的皮毛上会有一缕白色作为标记）。他们的契约永久有效且不可改变，并将森林分隔开来，使女巫和冠军都无法越过边界。
 
-After the old witch died, one of her spells grew wild, then dangerous. Now a magical disease has begun to infect the trees and creatures, threatening to consume the entire forest. Hunters call it the _Withering_, because it drains the life of everything it touches.
+老女巫死后，她施放的某个法术先是失控，继而变得危险。如今，一种魔法疾病开始感染树木和生物，威胁着要吞噬整片森林。猎人称之为_枯萎症_，因为它会吸干所接触一切事物的生命。
 
-## Trails 
+## 小径
 
-### Old Logging Road, Tree Carvings
+### 古老伐木道、树木雕刻
 
-The path between **1** and **5** is blocked by a broad cliff face, requiring climbing gear to ascend. Carvings from the original loggers of this forest still mar the surface of some trees.
+**1** 和 **5** 之间的路径被一面宽阔的悬崖阻断，需要攀爬装备才能登上去。这片森林最初的伐木工留下的雕刻，仍然损伤着一些树木的表面。
 
-### Treeline Heights, Stone Piles
+### 林线高地、石堆
 
-The monks at **7** left piles of stone alongside the path for each of their fallen members.
+**7** 的僧侣在小径旁为每一位死去的成员留下石堆。
 
-### Foraging Path, Distant Singing
+### 觅食小径、远处的歌声
 
-Anglwyst survived largely on the plentiful fruit found on this trail. Her magic was so powerful that echoes of her presence still mark the path: those who travel it can still hear her faint, chipper singing.
+Anglwyst 主要靠这条小径上丰富的水果生存。她的魔法非常强大，以至于她存在过的回声仍然标记着这条路径：经过这里的人仍能听见她微弱而欢快的歌声。
 
-### Dry Riverbed, Fresh Spiderwebs
+### 干涸河床、新鲜蛛网
 
-A river once ran through the West end of the forest, but it dried up after a drought. Giant spiders travel the path as they make their way to **8**, spinning their web along the trail.
+森林西侧曾经有一条河流，但在一次旱灾后干涸了。巨型蜘蛛沿着这条路径前往 **8**，一路在小径上织网。
 
-### Hunter's Track, Damaged Flora
+### 猎人小径、受损的植物
 
-Sweeney allows outsiders to hunt their quarry on this trail and no other, so long as they never kill any creature with white in their fur.
+只要不杀死任何皮毛上带有白色的生物，Sweeney 就允许外来者在这条小径上、而不是其他地方狩猎猎物。
 
-### POIs
+### 兴趣点
 
-### 1 - Diseased Campsite [Entrance]
+### 1 - 染病营地 [入口]
 
-**Ruin**: _Petrified Campsite_, _Overrun With Unusual Flora_ 
+**遗迹**：_石化营地_、_长满异常植物_
 
-At the forest edge is a dead **campfire** with piles of dark gray **bedding** laid out close by. Plants, flowers, and other **flora** grow thickly over the campsite. A **trail** to the **North** leads into the forest. 
+森林边缘有一堆熄灭的**篝火**，旁边放着几堆深灰色的**铺盖**。植物、花朵和其他**植物**在营地中茂密生长。一条通往**北方**的**小径**通入森林。
 
-- **Campfire**: The remaining wood is stained a deep gray, is very cold to the touch, and is as hard as iron.
-- **Bedding**: Splinters of gray wood are stuck in the cloth.
-  - Icy cold to the touch. The space beneath the cloth is partly blue and red, but gray circles grow out of the wood flecks. 
-- **Flora**: Rare and unique species not common to these parts.
-  - Skilled pruning and a few minutes of careful work produces a **Healing Salve** (restore 1d4 STR, 1 use).
-- **Trail**: Long grooves in the rough shape of a tree trunk are cut into the ground. 
-  - Fine spiderwebs block the forest entry, as if no one had walked through in a long while.
+- **篝火**：剩下的木头染成深灰色，摸起来非常冰冷，而且硬得像铁。
+- **铺盖**：布料中扎着灰色木屑。
+  - 摸起来冰冷刺骨。布料下面的空间有一部分呈蓝色和红色，但灰色圆斑正从木屑处生长出来。
+- **植物**：附近并不常见的稀有独特物种。
+  - 熟练修剪并仔细处理几分钟，就能制成一份**治疗药膏**（恢复 1d4 STR，1 次使用）。
+- **小径**：地面上刻着长长的沟槽，粗略呈树干形状。
+  - 细密蛛网挡住了进入森林的路，就好像很久没有人走过这里。
 
-### 2 - Amber Grave
+### 2 - 琥珀墓
 
-**Hazard**: _Sap Trap_, _Ghost Trapped In Crystal_
+**危险**：_树脂陷阱_、_困在水晶中的幽灵_
 
-A rounded copse of vermilion **trees** surround a wide **puddle** of bubbling sap. A pointy green **object** is just visible in the center of the pool. 
- 
-- **Trees**: The base of each tree bleeds golden sap that runs into the puddle below. They do not appear to be diseased.
-- **Puddle**: 12ft of sticky sap.
-  - Ankle-high and extremely sticky. Irritates the skin.
-- **Object**: Appears crystalline in nature.
-  - Very slippery. Difficult and time-consuming to extract without adequate tools (gloves, a pole, etc.).
-  - Trapped inside the crystal is the spirit of a familiar called **Gundersnatch**.
-  - If shattered, the shadow of a great bird will rise above the party, then disappear. Any characters with the _deprived_ condition will have it resolved. 
+一片圆形的朱红色**树林**环绕着一大片冒泡的树脂**水洼**。水洼中央刚好能看见一个尖锐的绿色**物体**。
+
+- **树木**：每棵树的树根都流出金色树脂，汇入下方的水洼。它们看起来没有染病。
+- **水洼**：12ft 深的黏性树脂。
+  - 齐踝深，极其黏稠，会刺激皮肤。
+- **物体**：看起来是水晶材质。
+  - 非常滑。没有合适的工具（手套、长杆等）就很难花费时间将它取出。
+  - 一个名为 **Gundersnatch** 的使魔精魂被困在水晶中。
+  - 如果将其打碎，一只巨大鸟类的影子会在队伍上方升起，然后消失。任何处于_匮乏_状态的角色都会解除该状态。
 
 #### Gundersnatch
 
-- Can communicate telepathically with anyone holding the crystal. 
-  - Will plead for anyone to destroy the crystal. (A good whack with something hard will do it.) 
-  - In exchange for his freedom, he will give the party a black feather, telling them that with it they can enter the Anglwyst's Chicken Hut at **4**.
+- 可以与任何握住水晶的人进行心灵感应。
+  - 会恳求对方摧毁水晶。（用坚硬的东西狠狠敲一下就行。）
+  - 为换取自由，它会给队伍一根黑色羽毛，并告诉他们，凭借这根羽毛就能进入 **4** 的 Anglwyst 鸡舍。
 
-### 3 - Sweeney's Cabin
+### 3 - Sweeney 的小屋
 
-**Shelter**: _Hermit's Cabin_, _Presents a Ready Meal_
+**庇护所**：_隐士小屋_、_提供一顿现成的饭_
 
-Atop a small hill is a wooden **cabin**. Small **logs** are arranged in rows on the West side of the building, and a tall **rack** is installed on the East wall.
+一座木制**小屋**坐落在小山顶上。建筑西侧整齐排列着小**木头**，东墙上安装着一个高大的**架子**。
 
-- **Cabin**: There is a 3-in-6 chance that Sweeney is here. Otherwise, he is out hunting. A ring of white dust is sprinkled across the doorway. 
-  - If the dust is disturbed, Sweeney will know and come investigate.
-- **Logs**: Arranged in rows of four by four. 
-  - A stained outline of an animal (bear, rabbit, beaver, etc.) is drawn on each. A drop of white is painted on the rabbit. It looks new.
-- **Rack**: Various animal skins are stretched tightly across, drying. 
-  - Stitched together, the skins are equal to two sets of protective clothing (1 Armor) and are highly resistant to environmental damage.  
+- **小屋**：Sweeney 在这里的概率为 3-in-6，否则他外出狩猎。门口撒着一圈白色粉尘。
+  - 如果粉尘受到扰动，Sweeney 会察觉并前来查看。
+- **木头**：以四乘四的方阵排列。
+  - 每根木头上都画着一种动物（熊、兔子、海狸等）的染色轮廓。兔子身上画了一点白色，看起来是新的。
+- **架子**：各种动物皮被绷紧后放在上面晾干。
+  - 把这些皮缝在一起，就相当于两套防护衣物（1 护甲），而且极其耐受环境损害。
 
-#### Inside the Cabin
+#### 小屋内部
 
-Very austere, with only a simple **cot** and small dining **table**.
-  
-- **Cot**: Speckled with green moss and twigs. Smells faintly of rain.
-  - The floor beneath the cot is thick with green moss. If Sweeney places his hands on the moss, it falls away, revealing an underground tunnel to **4**. Only Sweeney can activate this passage.
-- **Table**: On the table is a fully prepared meal of roast duck and root vegetables, equal to a full meal for 2.
-  - A gift from Anglwyst. If eaten, the meal will reform in d12 hours. 
+极其简朴，只有一张简单的**行军床**和一张小小的用餐**桌子**。
+
+- **行军床**：上面散落着绿色苔藓和小树枝，散发着淡淡的雨水气味。
+  - 床下的地面长满厚厚的绿色苔藓。如果 Sweeney 把手放在苔藓上，苔藓就会掉落，露出一条通往 **4** 的地下隧道。只有 Sweeney 能开启这条通道。
+- **桌子**：桌上摆着一顿准备好的烤鸭和根茎蔬菜，相当于 2 人份的完整餐食。
+  - 这是 Anglwyst 送的礼物。如果被吃掉，这顿饭会在 d12 小时后重新出现。
 
 #### Sweeney
 
-12 HP, 2 Armor, 13 STR, 15 DEX, 17 WIL, yew bow (d8)
+12 HP, 2 护甲, 13 STR, 15 DEX, 17 WIL, 紫杉木弓 (d8)
 
-- A cantankerous, mossy old man. If he is injured, the Wood will protect and even heal him. Each time he dies, he returns more green than before.
-- Would like to stop the _Withering_, but cannot enter **6** due to his pact with Anglwyst. As a test of their honor and skill, he will ask the party for help expelling the Giant Spiders at **9**.
-  - If the party successfully completes their first task, he will give the party a **Pendant of Karnon**, as well as the promise of further riches if they can undo the magic that is ravaging the forest at **6**. 
-  - If the party is able to disrupt the _Withering_, he will open the secret path to **4**, telling them that they may enter the hut there.
-  
-#### Pendant of Karnon
+- 一个脾气暴躁、浑身长满苔藓的老人。如果他受伤，森林会保护他，甚至治愈他。每次死亡后，他都会以更加绿色的状态归来。
+- 他想阻止_枯萎症_，但因为与 Anglwyst 的契约，无法进入 **6**。为了考验队伍的荣誉与能力，他会请求队伍帮助驱逐 **9** 的巨型蜘蛛。
+  - 如果队伍成功完成第一个任务，他会给队伍一枚 **Karnon 吊坠**，并承诺：如果他们能解除正在 **6** 肆虐森林的魔法，还会得到更多财富。
+  - 如果队伍能够阻止_枯萎症_，他会打开通往 **4** 的秘密路径，并告诉他们可以进入那里的小屋。
 
-- A wooden amulet of a bearded, horned man. When in the forest, add a Fatigue to borrow the senses of any nearby creature. _Petty_.
+#### Karnon 吊坠
 
-### 4 - Anglwyst's Chicken Hut
+- 一枚刻着留胡子、长角男人形象的木制护符。在森林中时，增加一点疲劳，以借用附近生物的感官。_轻巧_。
 
-**Shelter**: _Hut with Legs_, _Hunting Is Forbidden_
+### 4 - Anglwyst 的鸡舍
 
-A cylindrical, chimneyed **hut** covered in thick **foliage** sits at the edge of a small clearing. A wooden **sign** is pressed into the ground at the West entrance. A long spool of **chicken wire** is installed on the North side.
+**庇护所**：_长腿小屋_、_禁止狩猎_
 
-- **Hut**: The front-facing windows are dark, and there is no light or smoke coming from inside. 
-  - The door has no keyhole and will only open to friends of Anglwyst, Sweeney, or Gundersnatch. 
-  - If the door is forced open or the hut is threatened, two legs will sprout from underneath and the hut will quickly retreat into the forest.
-- **Foliage**: Both the roof and the windows are covered in thick leafy vines. 
-  - None of the vines touch the ground, as they would be torn were the hut to stand.
-- **Sign**: Covered in vines. In red letters it says: "No Hunting Here. Harsh penalties." 
-  - The witch cast a spell of protection over this place. If an animal is killed here by anyone capable of speech, their killer immediately turns to stone (no save).
-  - Nothing dangerous  will follow the party into this part of the wood.
-- **Wire**: Encircles a small, shriveled garden. A vine-covered stone statue of a young hunter stands in the middle.
-  - The shocked-looking hunter (a victim of the clearing's spell) holds a limp rabbit upside-down, a knife held to its throat.
+一座带烟囱的圆柱形**小屋**坐落在一片小型林间空地边缘，外面覆盖着茂密的**植物**。西侧入口处插着一块木制**告示牌**。北侧安装着一大卷**鸡网**。
 
-#### Inside the Hut
+- **小屋**：朝向正面的窗户一片漆黑，里面没有灯光，也没有烟冒出。
+  - 门上没有钥匙孔，只会为 Anglwyst、Sweeney 或 Gundersnatch 的朋友打开。
+  - 如果有人强行开门或威胁小屋，底部会长出两条腿，小屋会迅速退回森林。
+- **植物**：屋顶和窗户都被枝叶茂密的藤蔓覆盖。
+  - 没有一根藤蔓接触地面，否则小屋站立时会把它们扯断。
+- **告示牌**：被藤蔓覆盖。红色字迹写着：“此处禁止狩猎。违者严惩。”
+  - 女巫为这里施加了保护法术。如果任何会说话的人在此杀死动物，凶手会立即变成石头（无豁免）。
+  - 没有危险的东西会跟着队伍进入森林的这片区域。
+- **鸡网**：围住一片小而枯萎的花园。中央立着一尊被藤蔓覆盖的年轻猎人石像。
+  - 这名面露惊愕的猎人是林间空地法术的受害者，手里倒提着一只软绵绵的兔子，刀抵在兔子的喉咙上。
 
-Lavishly decorated. A tall wooden **barrel** is set near the North fireplace, a long broom sticking out. A large **stove** is installed on the East wall. A **string** of herbs and root vegetables hang from the ceiling.
-  - **Barrel**: Joined by thick mortar. Free of dust and empty save for the broom.
-    - The barrel can fit up to one person and is capable of flight. Use the broom to "paddle" the air. 
-  - **Stove**: Warm, and large enough to sleep on. A red scarf is tied around one of the iron handles.
-    - The scarf given to Anglwyst by Sweeney that is otherwise mundane. Sweeney would love to have it back.
-  - **String**: Goods of rare and extinct quality. Worth 500gp to the right buyer. 
-    - A mandrake root hangs from the string. If fed water daily, it will indicate a lie when it hears one. Screams loudly if cut.
+#### 小屋内部
 
-### 5 - Tree at the Crossroads
+内部装饰得极其奢华。北面的壁炉旁放着一个高大的木制**桶**，一把长扫帚从桶中伸出。东墙上安装着一座大型**炉子**。天花板上挂着一条由药草和根茎蔬菜组成的**串饰**。
+  - **桶**：用厚厚的灰浆连接在一起。没有灰尘，除了扫帚外空空如也。
+    - 桶最多能容纳一人，而且能够飞行。用扫帚“划动”空气。
+  - **炉子**：暖和而且足够大，可以睡在上面。一个红色围巾系在其中一根铁把手上。
+    - 这条围巾是 Sweeney 送给 Anglwyst 的，除此之外没有任何特别之处。Sweeney 很想要回它。
+  - **串饰**：稀有且绝迹品质的物品。卖给合适的买家可以得到 500gp。
+    - 串饰上挂着一根曼德拉草根。如果每天给它喂水，它听到谎言时就会指出来。被切开时会发出响亮的尖叫。
 
-**Monster**: _Grizzly_, _Guarding_
+### 5 - 十字路口的树
 
-A long **tree** lays across a small glade at the intersection of two **trails**. A sharp **cliff** to the South offers a steep climb to the bottom.
+**怪物**：_灰熊_、_守卫_
 
-- **Tree**: Enormous and at least partially hollowed out. Bear prints mark the East entrance. 
-  - A Grizzly Bear and her three cubs make this tree their den. They hibernate in the winter, but any other time they are awake. The mother will attack anyone entering the tree (skip the reaction roll). 
-- **Trails**: Broken leaves and tree rubbings on the trail are clear evidence of the bear's habitation.
-- **Cliff**: Metal hoops are pounded into the cliff face.
-  - Installed when the forest was still being logged, but still solid. Perfect for ropes. 
+一棵长长的**树**横卧在两条**小径**交汇处的一片小型林间空地上。南方有一面陡峭的**悬崖**，可以沿着它向下攀爬。
 
-#### Grizzly Bear
+- **树**：巨大，至少有一部分已经中空。东侧入口处有熊的脚印。
+  - 一只灰熊和它的三只幼崽把这棵树当作巢穴。它们冬天冬眠，但其他时候都醒着。母熊会攻击任何进入树内的人（跳过反应掷骰）。
+- **小径**：小径上散落的叶子和树木摩擦痕迹，清楚表明这里有熊出没。
+- **悬崖**：金属环被钉入悬崖表面。
+  - 森林还在伐木时就安装了这些金属环，但如今仍然牢固。非常适合固定绳索。
 
-6 HP, 15 STR, 13 DEX, 5 WIL, claws (d8+d8)
+#### 灰熊
 
-- Reddish-brown bears commonly found in mountains, woodlands, and prairies. 
-- Prefer to eat fish and meat, and will attack the rare unfortunate who crosses their path.
-- **Critical Damage**: Bite the targeting for an additional d6 STR damage. The target bleeds out very quickly.
+6 HP, 15 STR, 13 DEX, 5 WIL, 利爪 (d8+d8)
 
-### 6 - Gray Sanctuary
+- 常见于山地、林地和草原的红棕色熊。
+- 偏好鱼和肉，会攻击偶然经过它们领地的倒霉鬼。
+- **重伤**：咬伤目标，额外造成 d6 STR 伤害。目标会很快失血过多。
 
-**Hazard**: _Frozen Troll_, _A Spell Gone Wrong_
+### 6 - 灰色圣所
 
-A gray forest **sanctuary** stands at the intersection of four trails. In its center, two enormous **statues** appear to be wrestling.
+**危险**：_冻结的巨魔_、_失控的法术_
 
-- **Sanctuary**: All nearby plant life is lifeless and dull, as if all color has been bled away.
-  - The air shimmers with magic, emanating most strongly above the two statues.
-  - The _Withering_ effect is evident even before entering the clearing, as the _Withering_ has begun to spread in all directions.
-  - Plant matter brought into the clearing will soon begin to petrify, even without direct contact.
-- **Statues**: Two wood trolls are fighting over a shiny object held high in the air by the larger of the two.
-  - The object is a **Yore Glass**, a mirror Relic whose magic has disrupted the delicate spell that once made this place a verdant haven for forest life.
-  - The Witch's spell can only be disrupted by removing the mirror from the area or by destroying it completely. It is tightly held by the statue but can be removed by the application of grease, or by breaking the troll's arm.
-  - If the spell is broken, the magical effect will end, and the trolls will slowly awaken. They will immediately try to reclaim the mirror.
+一座灰色森林**圣所**坐落在四条小径的交汇处。中央有两尊巨大的**雕像**，看起来像是在摔跤。
 
-#### Yore Glass
+- **圣所**：附近所有植物都毫无生气、黯淡无光，仿佛所有色彩都被吸干。
+  - 空气中闪烁着魔法的光芒，两个雕像上方的魔法气息尤其强烈。
+  - 即使尚未进入林间空地，也能察觉到_枯萎症_的影响，因为_枯萎症_已经开始向四面八方扩散。
+  - 带入林间空地的植物材料很快就会开始石化，即使没有直接接触也一样。
+- **雕像**：两只木巨魔正争夺一件闪亮的物体，较大的那只把它高举在空中。
+  - 这件物体是**旧日之镜**，一面镜子遗物；它的魔法扰乱了曾经让这里成为森林生命繁茂避风港的精细法术。
+  - 只有把镜子移出这片区域，或将其彻底摧毁，才能打断女巫的法术。镜子被雕像牢牢握住，但可以涂上油脂，或打断巨魔的手臂后将其取出。
+  - 如果法术被打破，魔法效应会结束，巨魔也会慢慢醒来。它们会立即试图夺回镜子。
 
-- Once per day, the holder can replay 5 minutes of their life from the third-person. Long-term use can be addictive. Suffer _deprivation_ if not used regularly.
-- **Recharge**: Catch another's reflection in the glass without them knowing.
+#### 旧日之镜
 
-#### Wood Troll
+- 每天一次，持有者可以从第三人称视角重演自己人生中的 5 分钟。长期使用可能令人上瘾。如果不定期使用，就会陷入_匮乏_。
+- **充能**：在镜中捕捉另一个人的倒影，且不能让对方知道。
 
-10 HP, 15 STR, 12 DEX, 7 WIL, bite (d8), club (d10)
+#### 木巨魔
 
-- Large humanoids with elongated arms made of bark or root. They live in forests, sharing a deep connection with the vegetation around them.
-- If killed, they will slowly regenerate unless their corpse is taken out of the forest or burned with fire.
-- **Critical Damage**: Moss and twigs begin growing out of the target's wounds.
+10 HP, 15 STR, 12 DEX, 7 WIL, 撕咬 (d8), 棍棒 (d10)
 
-### 7 - Flooded Abbey
+- 拥有树皮或根须构成的细长手臂的大型类人。生活在森林中，与周围植被有着深厚联系。
+- 如果被杀死，它们会慢慢再生，除非将尸体带出森林或用火焚烧。
+- **重伤**：苔藓和嫩枝开始从目标的伤口中生长出来。
 
-**Ruins**: _Flooded Monastery_, _Hidden Cache_
+### 7 - 被淹没的修道院
 
-Three flooded **buildings** sprout from the center of a small pond, their **conical** roofs peaking out from beneath the waters. On the North side, a dry riverbed runs directly into the pond. The Eastern path is lined with dozens of piled **stones**.
+**遗迹**：_被淹没的修道院_、_隐藏的储藏物_
 
-- **Buildings**: Archaic, with subtly beautiful religious iconography. Obviously an abbey.
-  - Flooded after the dam at **8** was destroyed. 
-- **Roofs**: The tallest of the three buildings has a glass window high above the water.
-  -  The window is rusted shut but can be pried or broken open to enter the abbey's Chapter House.
-- **Stones**: Piled along the Southern side of the Eastern path. Names are engraved on most.
-  - The monks left piles of stone alongside the path for each of their fallen members.
+三座被淹没的**建筑**从一座小池塘中央冒出，圆锥形**屋顶**从水面下探出。北侧有一条干涸河床直接通入池塘。东侧小径沿线排列着几十堆**石头**。
 
-#### Chapter House
+- **建筑**：古老，带有微妙而美丽的宗教图案。显然是一座修道院。
+  - **8** 的堤坝被摧毁后，这里遭到淹没。
+- **屋顶**：三座建筑中最高的一座，在远高于水面的地方有一扇玻璃窗。
+  - 窗户锈死了，但可以撬开或打碎，从而进入修道院的会堂。
+- **石头**：堆在东侧小径的南边。大多数石头上都刻着名字。
+  - 僧侣在小径旁为每一位死去的成员留下石堆。
 
-**Tapestries** line the walls of this circular room, its wooden **floor** all but rotted away from water damage. A collapsed bannister on the Southwest side is all that remains of the flooded **stairwell** down into the rest of the building. 
+#### 会堂
 
-- **Tapestries**: Moldy and unsalvageable.
-  - Originally depicted the abbey in its former glory and the monks who lived here.
-- **Floor**: One of the wooden boards is less withered than the others. It smells faintly of something floral.
-  - Below the board is a hidden Spellbook, _Yearning Path_.
-- **Stairwell**: Completely underwater. The rooms below contain only floating corpses and ruined books.
+这间圆形房间的墙壁上挂满**挂毯**，木制**地板**几乎因为水损坏而腐烂。一座倒塌的栏杆是唯一残留的东西，通往建筑其他部分的被淹没**楼梯井**就在西南侧。
+
+- **挂毯**：发霉且无法挽救。
+  - 原本描绘了修道院昔日的荣耀，以及生活在这里的僧侣。
+- **地板**：其中一块木板比其他木板没那么腐烂，散发着淡淡的花香。
+  - 木板下面藏着一本法术书：_Yearning Path_。
+- **楼梯井**：完全没入水中。下方房间里只有漂浮的尸体和毁坏的书籍。
 
 #### _Yearning Path_
 
-- Shows the shortest path to the object of a heart's _true_ desire. _Smells of lavender. Adds an extra Fatigue if read more than once per day. The process is cumulative._
+- 显示通往一个人内心_真正_渴望之物的最短路径。_散发薰衣草气味。每天阅读超过一次会增加一点疲劳。这个效果可以累积。_
 
-### 8 - Black Mass
+### 8 - 黑色团块
 
-**Hazard**: _Giant Spider Nest_, _Injured Creature_
+**危险**：_巨型蜘蛛巢穴_、_受伤的生物_
 
-A black **boar** limps noisily near a large **mass** of black thread and trees. Fat, desiccated **carcasses** hang in spun silk from the treetops. A dry **riverbed** to the South is filled with piles of wood. 
+一头黑色**野猪**在一大片由黑色丝线和树木组成的**团块**附近痛苦地跛行。肥硕而干瘪的**尸体**被蛛丝缠住，悬挂在树梢上。南方一条干涸的**河床**中堆满木头。
 
-- **Boar**: Half-wrapped in thick black silk, it mews plaintively. 
-  - Poisoned by the spider bite in its hind quarters. If the party comes to its aid, the Wood will remember.
-- **Mass**: Threads of thick black silk hold together a 10ft pile of wood.
-  - The nest is home to 3 **Black Silk Spiders**. They will attack anyone that that interacts with their food or gets too close to their nest. 
-  - 200gp of black silk can be carefully gathered from the nest. It makes a fine rope (about 60ft) that is also incredibly strong and is sought after for its hydrophobic qualities.
-- **Carcasses**: Mostly animal corpses. A human shape is visible through the black webbing.
-  - The human was a hunter who ignored Sweeney's warnings and hunted North of the _Hunter's Track_. On the corpse are Rations (2 uses left), 33gp, and a hip-knife (d6).
-- **Riverbed**: Large piles of wood are thrown about. Bits of black silk can be seen tied around the longer pieces.
-  - A former beaver dam that kept the water to a trickle. The spiders brought the dam down to build their nest. The subsequent flooding destroyed the monastery at **7**, but the river only dried up after a drought earlier this year. 
+- **野猪**：半个身体裹在厚厚的黑色丝线中，发出哀怨的呜咽。
+  - 它的后腿被蜘蛛咬伤并中毒。如果队伍前来救助，森林会记住这件事。
+- **团块**：粗厚的黑色丝线固定住一堆 10ft 高的木头。
+  - 巢穴里住着 3 只**黑丝蜘蛛**。任何与它们的食物互动，或靠巢穴太近的人，都会遭到攻击。
+  - 可以从巢穴中小心收集价值 200gp 的黑丝。它们可以制成一根精良的绳子（约 60ft），不仅极其坚固，还因为防水特性而受到追捧。
+- **尸体**：大多是动物尸体。透过黑色蛛网可以看见一个人形。
+  - 这个人曾是一名猎人，无视 Sweeney 的警告，在_猎人小径_以北狩猎。尸体上有口粮（还剩 2 次使用）、33gp 和一把腰刀 (d6)。
+- **河床**：木头被随意丢得到处都是。可以看到黑色丝线缠在较长的木头上。
+  - 这里曾是一座海狸坝，使水流保持涓涓细流。蜘蛛拆掉大坝来建造巢穴。随后的洪水摧毁了 **7** 的修道院，但河流直到今年早些时候发生旱灾后才干涸。
 
-#### Boar
+#### 野猪
 
-4 HP, 12 STR, 5 DEX, 6 WIL, tusks (d6+d6)
+4 HP, 12 STR, 5 DEX, 6 WIL, 獠牙 (d6+d6)
 
-#### **Black Silk Spider**
+#### **黑丝蜘蛛**
 
-4 HP, 4 STR, 13 DEX, 5 WIL, bite (d8)
+4 HP, 4 STR, 13 DEX, 5 WIL, 撕咬 (d8)
 
-- **Critical Damage:** Poison paralyzes the victim and deals an additional d4 DEX damage. The victim is then dragged to the spider's nest to be eaten.
+- **重伤**：毒素会使受害者麻痹，并额外造成 d4 DEX 伤害。随后受害者会被拖到蜘蛛巢穴中吃掉。
 
-### 9 - Fishing Hut
+### 9 - 渔屋
 
-**Shelter**: _Fishing Hut_, _Occupied by Army Deserters_ [Exit]
+**庇护所**：_渔屋_、_被逃兵占据_ [出口]
 
-A ramshackle **hut** built beside a small **lake** to the North. **Smoke** streams from a cooking rack on the West side, and loud **voices** echo through the South-facing window.
+一座摇摇欲坠的**小屋**建在北方一座小**湖泊**旁。西侧的烹饪架上升起**烟雾**，南向窗户中传出响亮的**声音**。
 
-- **Hut**: Built from simple logs tied together with rope, which appears fresh. Fishing wire can be seen leading out of the North side and into the lake.
-- **Lake**: Placid, but filled with bugs. A path on the West side leads away from the forest.
-  - The lake hasn't been fished for some time and has become overpopulated. Fishing is easy pickings.
-- **Smoke**: Spills from a wooden cooking rack adjacent to a pile of fried fish (4 x Rations, 3 uses each). 
-- **Voices**: Laughing and muffled speech. At least two voices can be heard from inside.
-  - There are three ex-soldiers squatting in this hut. They are pacifists who were forcibly conscripted into military service. They are seeking refuge in the abbey at **7** but haven't made it that far yet. They are jovial and kind-hearted but absolute cowards. 
-  - They know little about the forest, other than that there used to be a river running South from the lake that ended somewhere near an abbey.
+- **小屋**：用看起来很新的绳子捆住简单木头搭成。可以看到鱼线从北侧伸出，通入湖中。
+- **湖泊**：宁静，但充满虫子。西侧有一条小径离开森林。
+  - 湖泊已经有一段时间没有捕过鱼，鱼类数量过多。很容易在这里有所收获。
+- **烟雾**：从木制烹饪架上冒出，旁边堆着炸鱼（4 份口粮，每份可使用 3 次）。
+- **声音**：笑声和含混不清的说话声。至少能听见屋内传出两种声音。
+  - 三名前士兵暂住在这座小屋里。他们是被强行征召入伍的和平主义者。他们想在 **7** 的修道院避难，但还没有走到那么远。他们开朗善良，却是彻头彻尾的懦夫。
+  - 除了这里曾经有一条河从湖泊向南流去、最后在某座修道院附近终止之外，他们对森林所知甚少。
 
-### Encounters
+### 遭遇
 
 |         |                                                                                            |
 | ------- | ------------------------------------------------------------------------------------------ |
-| **d20** | **Encounter**                                                                              |
-| **1**   | A tiny bearded man argues with a squawking raven. It holds something shiny in its beak.    |
-| **2**   | A dryad sits atop a stone, a purple fungus lining her arms. There is violence in her eyes. |
-| **3**   | A patch of quicksand is disguised as soft ground. A broken spool of rope lies nearby.      |
-| **4**   | A snarling pack of wolves surround a fresh kill. They are not keen to share.               |
-| **5**   | Wild berries grow here in abundance. None have been eaten, not even by birds.              |
-| **6**   | A trap, hastily set and poorly concealed. It smells strongly of urine.                     |
+| **d20** | **遭遇**                                                                                  |
+| **1**   | 一个留着小胡子的小人正和一只嘎嘎叫的乌鸦争吵。乌鸦的喙里叼着什么闪亮的东西。            |
+| **2**   | 一只树精坐在石头顶上，手臂上长满紫色真菌。她的眼中充满暴力。                            |
+| **3**   | 一片流沙伪装成松软的地面。旁边有一卷断掉的绳子。                                        |
+| **4**   | 一群龇牙咆哮的狼围住一具新鲜猎物。它们不愿意分享。                                      |
+| **5**   | 野生浆果在这里大量生长。没有任何浆果被吃过，连鸟也没有吃。                              |
+| **6**   | 一个仓促设置、隐蔽不佳的陷阱。它散发出浓烈的尿味。                                      |

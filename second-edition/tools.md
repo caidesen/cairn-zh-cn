@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Tools
-parent: Second Edition
+title: 工具
+parent: 第二版
 has_children: true
 nav_order: 4
 ---
 
-# Tools
+# 工具

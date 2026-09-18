@@ -1,377 +1,378 @@
 ---
 layout: default
-title: Naming Procedures
-parent: Warden's Guide 
-grand_parent: Second Edition
+title: 命名流程
+parent: 守望者指南
+grand_parent: 第二版
 ---
 
-# Naming Procedures
+# 命名流程 {#naming-procedures}
 
-- Settlements are often named after their unique features: the shape of the river nearby, or the large windmill in the town center. The residents then add a noun or adjective: _Windy Gulch_, _Black Tree Fort_, etc.
-- Important places should have important names, like those of heroes, religious or political figures, and other events. _The Chalet of Saint Ibiz, Queen's Harvest, Light of the Nine_, etc.
-- Proper nouns can be added to or even replace parts of a name, e.g. **Bruna's Ugly Gulch**. 
-- Wild and dangerous places are named after obvious hazards: _Poison Lake_, _Foggy Cliffs_, etc. 
-- Some names tell a story: _Luka's Folly, Dead Man's Path_, etc. 
-- Use the region's local terrain and the location's details where appropriate. 
+- 聚落通常以其独特地貌命名：附近河流的形状，或镇中心的大风车。居民随后会再加上一个名词或形容词，例如：_风鸣峡_、_黑树堡_等。
+- 重要地点应当拥有重要的名字，例如英雄、宗教或政治人物，以及其他事件的名字。比如：_伊比兹圣人的小屋_、_女王的收获_、_九人之光_等。
+- 可以在名字中加入专有名词，甚至用它替换名字的一部分，例如：**布鲁娜的丑陋峡谷**。
+- 荒野而危险的地方会以显而易见的危险命名，例如：_毒湖_、_雾崖_等。
+- 有些名字讲述着一个故事，例如：_卢卡的愚行_、_死者之径_等。
+- 适当使用区域的当地地形和地点细节。
 
-## Generating Names
+## 生成名称 {#generating-names}
 
-- Roll on the [Names Formula](#poi-names-formula) table for each POI. 
-- Roll on the [Adjectives](#adjectives) and [Nouns](#nouns) tables where appropriate.
-- To roll **1d100**, roll **2d10**, using one die for the tens place, and one die for the ones place.
+- 为每个兴趣点在[名称公式](#poi-names-formula)表上掷骰。
+- 视情况在[形容词](#adjectives)和[名词](#nouns)表上掷骰。
+- 要掷 **1d100**，请掷 **2d10**，其中一枚骰子表示十位数，另一枚表示个位数。
 
-> To name regions based on Terrain, swap out "POI" with the terrain type, and consult the [Terrain Synonyms](#terrain-synonyms) table for inspiration. 
+> 要根据地形为区域命名，请将“POI”替换为地形类型，并参考[地形同义词](#terrain-synonyms)表寻找灵感。
 
-### Names Formula
+### 名称公式 {#poi-names-formula}
 
 |        |                                               |
 | ------ | --------------------------------------------- |
-| **d6** | **Formula**                                   |
-| **1**  | (The) **[Noun]** **[POI]**                    |
-| **2**  | (The) **[Adjective]** **[POI]**               |
-| **3**  | **[POI]** of (the) **[Noun]**                 |
-| **4**  | **[Adjective]** **[POI]** of (the) **[Noun]** |
-| **5**  | (The) **[Noun]** **[Adjective]** **[POI]**    |
-| **6**  | **[POI]** of (the) **[Adjective]** **[Noun]** |
+| **d6** | **公式**                                      |
+| **1**  | （该）**[名词]** **[兴趣点]**                 |
+| **2**  | （该）**[形容词]** **[兴趣点]**               |
+| **3**  | **[兴趣点]**之（该）**[名词]**                |
+| **4**  | **[形容词]** **[兴趣点]**之（该）**[名词]**   |
+| **5**  | （该）**[名词]** **[形容词]** **[兴趣点]**     |
+| **6**  | **[兴趣点]**之（该）**[形容词]** **[名词]**    |
 
-## Adjectives
+## 形容词 {#adjectives}
 
 |          |               |          |               |
 | -------- | ------------- | -------- | ------------- |
-| **d100** | **Adjective** | **d100** | **Adjective** |
-| **1**    | Aging         | **51**   | Furious       |
-| **2**    | Amber         | **52**   | Gaping        |
-| **3**    | Ancient       | **53**   | Gleaming      |
-| **4**    | Angry         | **54**   | Glow          |
-| **5**    | Ashen         | **55**   | Granite       |
-| **6**    | Bare          | **56**   | Grim          |
-| **7**    | Battered      | **57**   | Grizzled      |
-| **8**    | Bitter        | **58**   | Hazy          |
-| **9**    | Blackened     | **59**   | Heated        |
-| **10**   | Blazing       | **60**   | Hellish       |
-| **11**   | Bleak         | **61**   | Hideous       |
-| **12**   | Blighted      | **62**   | Jagged        |
-| **13**   | Blistered     | **63**   | Lone          |
-| **14**   | Blistering    | **64**   | Lonely        |
-| **15**   | Blustery      | **65**   | Luminous      |
-| **16**   | Brisk         | **66**   | Lurching      |
-| **17**   | Bright        | **67**   | Lustrous      |
-| **18**   | Broad         | **68**   | Miserable     |
-| **19**   | Calm          | **69**   | Misty         |
-| **20**   | Celestial     | **70**   | Mournful      |
-| **21**   | Choking       | **71**   | Muddy         |
-| **22**   | Cold          | **72**   | Narrow        |
-| **23**   | Colorful      | **73**   | Ominous       |
-| **24**   | Copper        | **74**   | Overgrown     |
-| **25**   | Cracked       | **75**   | Patched       |
-| **26**   | Crimson       | **76**   | Peeling       |
-| **27**   | Crumbling     | **77**   | Plunging      |
-| **28**   | Curled        | **78**   | Ragged        |
-| **29**   | Curling       | **79**   | Rotting       |
-| **30**   | Curved        | **80**   | Salty         |
-| **31**   | Curvy         | **81**   | Savage        |
-| **32**   | Dampened      | **82**   | Shifting      |
-| **33**   | Dark          | **83**   | Shimmering    |
-| **34**   | Dazzling      | **84**   | Shining       |
-| **35**   | Dead          | **85**   | Shivering     |
-| **36**   | Deathly       | **86**   | Shrouded      |
-| **37**   | Diamond       | **87**   | Singed        |
-| **38**   | Dismal        | **88**   | Sinking       |
-| **39**   | Dreary        | **89**   | Slaughter     |
-| **40**   | Empty         | **90**   | Smoky         |
-| **41**   | Endless       | **91**   | Soggy         |
-| **42**   | Fierce        | **92**   | Sour          |
-| **43**   | Flaming       | **93**   | Sputtering    |
-| **44**   | Flashing      | **94**   | Stained       |
-| **45**   | Foggy         | **95**   | Starved       |
-| **46**   | Forbidden     | **96**   | Stinking      |
-| **47**   | Forgotten     | **97**   | Stuffed       |
-| **48**   | Fragile       | **98**   | Sunken        |
-| **49**   | Frayed        | **99**   | Thin          |
-| **50**   | Frozen        | **100**  | Withered      |
+| **d100** | **形容词**    | **d100** | **形容词**    |
+| **1**    | 老旧的        | **51**   | 狂怒的        |
+| **2**    | 琥珀色的      | **52**   | 豁开的        |
+| **3**    | 古老的        | **53**   | 闪耀的        |
+| **4**    | 愤怒的        | **54**   | 发光的        |
+| **5**    | 灰白的        | **55**   | 花岗岩的      |
+| **6**    | 裸露的        | **56**   | 阴森的        |
+| **7**    | 破败的        | **57**   | 斑白的        |
+| **8**    | 苦涩的        | **58**   | 朦胧的        |
+| **9**    | 焦黑的        | **59**   | 炽热的        |
+| **10**   | 炽烈的        | **60**   | 地狱般的      |
+| **11**   | 荒凉的        | **61**   | 丑陋的        |
+| **12**   | 枯萎的        | **62**   | 锯齿状的      |
+| **13**   | 起泡的        | **63**   | 孤独的        |
+| **14**   | 灼热的        | **64**   | 孤寂的        |
+| **15**   | 狂风大作的    | **65**   | 发光的        |
+| **16**   | 凛冽的        | **66**   | 蹒跚的        |
+| **17**   | 明亮的        | **67**   | 光泽的        |
+| **18**   | 宽阔的        | **68**   | 悲惨的        |
+| **19**   | 平静的        | **69**   | 雾气缭绕的    |
+| **20**   | 天界的        | **70**   | 哀伤的        |
+| **21**   | 窒息的        | **71**   | 泥泞的        |
+| **22**   | 寒冷的        | **72**   | 狭窄的        |
+| **23**   | 多彩的        | **73**   | 不祥的        |
+| **24**   | 铜色的        | **74**   | 杂草丛生的    |
+| **25**   | 龟裂的        | **75**   | 拼补的        |
+| **26**   | 深红的        | **76**   | 剥落的        |
+| **27**   | 崩塌的        | **77**   | 陡降的        |
+| **28**   | 蜷曲的        | **78**   | 破烂的        |
+| **29**   | 卷曲的        | **79**   | 腐烂的        |
+| **30**   | 弯曲的        | **80**   | 咸涩的        |
+| **31**   | 曲折的        | **81**   | 野蛮的        |
+| **32**   | 受潮的        | **82**   | 变幻的        |
+| **33**   | 黑暗的        | **83**   | 闪烁的        |
+| **34**   | 炫目的        | **84**   | 闪亮的        |
+| **35**   | 死寂的        | **85**   | 颤抖的        |
+| **36**   | 死亡般的      | **86**   | 笼罩的        |
+| **37**   | 钻石般的      | **87**   | 焦灼的        |
+| **38**   | 阴惨的        | **88**   | 下陷的        |
+| **39**   | 阴郁的        | **89**   | 屠戮的        |
+| **40**   | 空荡的        | **90**   | 烟熏的        |
+| **41**   | 无尽的        | **91**   | 湿透的        |
+| **42**   | 凶猛的        | **92**   | 酸涩的        |
+| **43**   | 燃烧的        | **93**   | 噼啪作响的    |
+| **44**   | 闪烁的        | **94**   | 污迹斑斑的    |
+| **45**   | 雾蒙蒙的      | **95**   | 饥饿的        |
+| **46**   | 禁忌的        | **96**   | 恶臭的        |
+| **47**   | 被遗忘的      | **97**   | 塞满的        |
+| **48**   | 脆弱的        | **98**   | 下沉的        |
+| **49**   | 磨损的        | **99**   | 单薄的        |
+| **50**   | 冰封的        | **100**  | 枯萎的        |
 
-## Nouns
+## 名词 {#nouns}
 
 |          |            |          |           |
 | -------- | ---------- | -------- | --------- |
-| **d100** | **Noun**   | **d100** | **Noun**  |
-| **1**    | Abyss      | **51**   | Haven     |
-| **2**    | Alliance   | **52**   | Horror    |
-| **3**    | Amber      | **53**   | Iron      |
-| **4**    | Ambition   | **54**   | Island    |
-| **5**    | Apple      | **55**   | Jade      |
-| **6**    | Aurora     | **56**   | King      |
-| **7**    | Bastion    | **57**   | Lavender  |
-| **8**    | Black      | **58**   | Life      |
-| **9**    | Blight     | **59**   | Light     |
-| **10**   | Blue       | **60**   | Marble    |
-| **11**   | Bone       | **61**   | Mist      |
-| **12**   | Bright     | **62**   | Mold      |
-| **13**   | Chasm      | **63**   | Moon      |
-| **14**   | Chip       | **64**   | Mud       |
-| **15**   | Copper     | **65**   | Nightmare |
-| **16**   | Country    | **66**   | Patch     |
-| **17**   | Crack      | **67**   | Peril     |
-| **18**   | Crimson    | **68**   | Purple    |
-| **19**   | Curl       | **69**   | Radiance  |
-| **20**   | Darkness   | **70**   | Rag       |
-| **21**   | Dawn       | **71**   | Rain      |
-| **22**   | Dead       | **72**   | Rainbow   |
-| **23**   | Death      | **73**   | Red       |
-| **24**   | Decay      | **74**   | Refuge    |
-| **25**   | Dent       | **75**   | Regret    |
-| **26**   | Desolation | **76**   | Rot       |
-| **27**   | Despair    | **77**   | Ruin      |
-| **28**   | Devil      | **78**   | Shadow    |
-| **29**   | Dirt       | **79**   | Silver    |
-| **30**   | Doom       | **80**   | Skull     |
-| **31**   | Doorway    | **81**   | Sky       |
-| **32**   | Echo       | **82**   | Smoke     |
-| **33**   | Ember      | **83**   | Snake     |
-| **34**   | Fate       | **84**   | Sorrow    |
-| **35**   | Fear       | **85**   | Spark     |
-| **36**   | Fire       | **86**   | Stone     |
-| **37**   | Flame      | **87**   | Storm     |
-| **38**   | Folly      | **88**   | Sun       |
-| **39**   | Fray       | **89**   | Tempest   |
-| **40**   | Frost      | **90**   | Terror    |
-| **41**   | Fury       | **91**   | Thorn     |
-| **42**   | Ghost      | **92**   | Thunder   |
-| **43**   | Giant      | **93**   | Toxic     |
-| **44**   | Glimmer    | **94**   | Tranquil  |
-| **45**   | God        | **95**   | Troll     |
-| **46**   | Gold       | **96**   | Valor     |
-| **47**   | Green      | **97**   | Violet    |
-| **48**   | Harmony    | **98**   | War       |
-| **49**   | Harvest    | **99**   | Whisper   |
-| **50**   | Haunt      | **100**  | Zephyr    |
+| **d100** | **名词**   | **d100** | **名词**  |
+| **1**    | 深渊       | **51**   | 避风港    |
+| **2**    | 联盟       | **52**   | 恐怖      |
+| **3**    | 琥珀       | **53**   | 铁        |
+| **4**    | 野心       | **54**   | 岛        |
+| **5**    | 苹果       | **55**   | 玉        |
+| **6**    | 极光       | **56**   | 国王      |
+| **7**    | 堡垒       | **57**   | 薰衣草    |
+| **8**    | 黑色       | **58**   | 生命      |
+| **9**    | 凋萎       | **59**   | 光        |
+| **10**   | 蓝色       | **60**   | 大理石    |
+| **11**   | 骨         | **61**   | 薄雾      |
+| **12**   | 光明       | **62**   | 霉菌      |
+| **13**   | 裂隙       | **63**   | 月亮      |
+| **14**   | 碎片       | **64**   | 泥        |
+| **15**   | 铜         | **65**   | 噩梦      |
+| **16**   | 国度       | **66**   | 补片      |
+| **17**   | 裂缝       | **67**   | 危险      |
+| **18**   | 深红       | **68**   | 紫色      |
+| **19**   | 卷曲       | **69**   | 光辉      |
+| **20**   | 黑暗       | **70**   | 碎布      |
+| **21**   | 黎明       | **71**   | 雨        |
+| **22**   | 死亡       | **72**   | 彩虹      |
+| **23**   | 死亡       | **73**   | 红色      |
+| **24**   | 腐朽       | **74**   | 避难所    |
+| **25**   | 凹痕       | **75**   | 悔恨      |
+| **26**   | 荒芜       | **76**   | 腐烂      |
+| **27**   | 绝望       | **77**   | 废墟      |
+| **28**   | 恶魔       | **78**   | 阴影      |
+| **29**   | 泥土       | **79**   | 白银      |
+| **30**   | 厄运       | **80**   | 头骨      |
+| **31**   | 门廊       | **81**   | 天空      |
+| **32**   | 回声       | **82**   | 烟        |
+| **33**   | 余烬       | **83**   | 蛇        |
+| **34**   | 命运       | **84**   | 悲伤      |
+| **35**   | 恐惧       | **85**   | 火花      |
+| **36**   | 火焰       | **86**   | 石头      |
+| **37**   | 火焰       | **87**   | 风暴      |
+| **38**   | 愚行       | **88**   | 太阳      |
+| **39**   | 磨损       | **89**   | 暴风      |
+| **40**   | 霜         | **90**   | 恐怖      |
+| **41**   | 狂怒       | **91**   | 荆棘      |
+| **42**   | 鬼魂       | **92**   | 雷霆      |
+| **43**   | 巨人       | **93**   | 毒素      |
+| **44**   | 微光       | **94**   | 宁静      |
+| **45**   | 神         | **95**   | 巨魔      |
+| **46**   | 黄金       | **96**   | 勇气      |
+| **47**   | 绿色       | **97**   | 紫罗兰    |
+| **48**   | 和谐       | **98**   | 战争      |
+| **49**   | 收获       | **99**   | 低语      |
+| **50**   | 鬼魅       | **100**  | 和风      |
 
-## Terrain Synonyms
+<a id="terrain"></a>
+<a id="terrain"></a>
+## 地形同义词 {#terrain-synonyms}
 
 |                |                                                         |
 | -------------- | ------------------------------------------------------- |
-| **Terrain**    | **Synonym**                                             |
-| **Beaches**    | seaside, shore, coast, seaboard, foreshore, marina      |
-| **Bogs**       | marsh, morass, quad, slough, fens                       |
-| **Canyons**    | ravine, chasm, abyss, gulf, gulch                       |
-| **Caverns**    | grotto, cavity, tunnels, dugout, cave                   |
-| **Cliffs**     | precipice, face, crag, bluff, ridge, escarpment, steep  |
-| **Desert**     | dunes, sands, vasts, wastes, blight, erg                |
-| **Farmlands**  | tillage, holding, acreage, steading, grange, plantation |
-| **Forest**     | bush, woods, woodland, weald, grove, copse              |
-| **Grasslands** | pasture, fields, savanna, greenery                      |
-| **Hills**      | hillock, mound, mount, knoll, hummock, slope            |
-| **Hollows**    | dip, hole, pit, cavity, crater, trough, holes           |
-| **Jungle**     | _See forest_                                            |
-| **Lakes**      | pond, pool, tarn, lagoon, loch, bayou                   |
-| **Mountains**  | peaks, ridge, range, summit, pinnacle, butte            |
-| **Oasis**      | spring, well, fountain, haven, watering hole, refuge    |
-| **Plains**     | heath, meadow, veldt, flats, lowlands, sward            |
-| **Plateau**    | uplands, mesa, highlands, downs, reach                  |
-| **River**      | waterway, stream, brook, runnel creek, channel          |
-| **Sea**        | _See beaches_                                           |
-| **Swamp**      | moors, wetlands                                         |
-| **Thickets**   | chaparral, boscage, covert, coppice, fells              |
-| **Tundra**     | expanse, boreal, ley                                    |
-| **Valley**     | dale, vale, basin, gorge, gap, glen                     |
-| **Wasteland**  | _See desert_                                            |
+| **地形**       | **同义词**                                              |
+| **海滩**       | 海边、海岸、海滨、滨海、前滩、码头                      |
+| **沼泽**       | 沼地、泥沼、荒地、泥潭、泥炭沼泽                        |
+| **峡谷**       | 沟壑、裂谷、深渊、深谷、冲沟                            |
+| **洞窟**       | 石窟、洞穴、隧道、掏洞、洞窟                            |
+| **悬崖**       | 绝壁、崖壁、峭壁、高崖、山脊、陡崖、陡坡                |
+| **沙漠**       | 沙丘、沙地、广漠、荒原、荒芜地、沙海                    |
+| **农田**       | 耕地、庄园、大片土地、农庄、谷仓庄园、种植园            |
+| **森林**       | 灌木丛、林地、林野、森林、小树林、小片树林              |
+| **草原**       | 牧场、田野、稀树草原、绿地                              |
+| **丘陵**       | 小丘、土丘、山丘、圆丘、小土丘、斜坡                    |
+| **洼地**       | 凹地、洞、坑、空洞、陨坑、槽谷、洞穴                    |
+| **丛林**       | _见森林_                                                |
+| **湖泊**       | 池塘、水池、山间湖、泻湖、湖、牛轭湖                   |
+| **山脉**       | 山峰、山脊、山系、山顶、尖峰、孤峰                      |
+| **绿洲**       | 泉、井、喷泉、避风港、水坑、避难所                      |
+| **平原**       | 荒原、草甸、草原、平地、低地、草地                      |
+| **高原**       | 高地、台地、高地、丘陵、延伸地                          |
+| **河流**       | 水道、溪流、小溪、小水沟、小溪、河道                    |
+| **海**         | _见海滩_                                                |
+| **沼泽**       | 荒原、湿地                                              |
+| **灌木丛**     | 灌木林、灌木丛、隐蔽林地、矮林、高地                    |
+| **苔原**       | 广袤地、北方林地、草地                                  |
+| **山谷**       | 谷地、山谷、盆地、峡谷、隘口、林间谷                    |
+| **荒地**       | _见沙漠_                                                |
 
-### Faction Names
+### 派系名称 {#faction-names}
 
-1. Roll on the [Faction Names Formula](#faction-names-formula) table below.
-2. Roll on the [Adjectives](#adjectives), [Nouns](#nouns), and [Group Types](#group-types) table where appropriate. 
+1. 在下方的[派系名称公式](#faction-names-formula)表上掷骰。
+2. 视情况在[形容词](#adjectives)、[名词](#nouns)和[群体类型](#group-types)表上掷骰。
 
-#### Group Types
+#### 群体类型 {#group-types}
 
 |         |             |
 | ------- | ----------- |
-| **d20** | **Group**   |
-| **1**   | Assembly    |
-| **2**   | Brotherhood |
-| **3**   | Circle      |
-| **4**   | Clan        |
-| **5**   | Coalition   |
-| **6**   | Collective  |
-| **7**   | Covenant    |
-| **8**   | Enclave     |
-| **9**   | Fellowship  |
-| **10**  | Guild       |
-| **11**  | Horde       |
-| **12**  | League      |
-| **13**  | Legion      |
-| **14**  | Market      |
-| **15**  | Ministry    |
-| **16**  | Movement    |
-| **17**  | Network     |
-| **18**  | Order       |
-| **19**  | Pact        |
-| **20**  | Syndicate   |
+| **d20** | **群体**    |
+| **1**   | 集会        |
+| **2**   | 兄弟会      |
+| **3**   | 圈会        |
+| **4**   | 氏族        |
+| **5**   | 联盟        |
+| **6**   | 集体        |
+| **7**   | 盟约        |
+| **8**   | 小团体      |
+| **9**   | 同盟        |
+| **10**  | 行会        |
+| **11**  | 部落        |
+| **12**  | 联盟        |
+| **13**  | 军团        |
+| **14**  | 市场        |
+| **15**  | 机构        |
+| **16**  | 运动        |
+| **17**  | 网络        |
+| **18**  | 教团        |
+| **19**  | 协约        |
+| **20**  | 财团        |
 
-#### Faction Names Formula
+#### 派系名称公式 {#faction-names-formula}
 
 |        |                                                 |
 | ------ | ----------------------------------------------- |
-| **d6** | **Formula**                                     |
-| **1**  | (The) **[Noun]** **[Group]**                    |
-| **2**  | (The) **[Adjective]** **[Group]**               |
-| **3**  | **[Group]** of (the) **[Noun]**                 |
-| **4**  | **[Adjective]** **[Group]** of (the) **[Noun]** |
-| **5**  | (The) **[Noun]** **[Adjective]** **[Group]**    |
-| **6**  | **[Group]** of (the) **[Adjective]** **[Noun]** |
+| **d6** | **公式**                                        |
+| **1**  | （该）**[名词]** **[群体]**                      |
+| **2**  | （该）**[形容词]** **[群体]**                    |
+| **3**  | **[群体]**之（该）**[名词]**                    |
+| **4**  | **[形容词]** **[群体]**之（该）**[名词]**       |
+| **5**  | （该）**[名词]** **[形容词]** **[群体]**         |
+| **6**  | **[群体]**之（该）**[形容词]** **[名词]**        |
 
-## Realm Names
+## 国度名称 {#realm-names}
 
-1. Roll on the [Ruler Names Formula](#ruler-names-formula) table below.
-2. Roll on the [Adjectives](#adjectives), [Nouns](#nouns), [Terrain](#terrain), and [Ruler Types](#ruler-types) table, and add "of" or "the" where appropriate
+1. 在下方的[统治者名称公式](#ruler-names-formula)表上掷骰。
+2. 在[形容词](#adjectives)、[名词](#nouns)、[地形](#terrain)和[统治者类型](#ruler-types)表上掷骰，并在适当位置加入“的”或“该”。
 
-| Optionally, replace any value with the dominant terrain synonym, e.g. "_The Misty Bluffs_". 
+| 也可以将任意结果替换为主要地形的同义词，例如：_雾蒙蒙的峭壁_。
 
-### Ruler Names Formula
+### 统治者名称公式 {#ruler-names-formula}
 
 |        |                                                  |
 | ------ | ------------------------------------------------ |
-| **d6** | **Formula**                                      |
-| **1**  | (The) **[Noun]** **[Rulers]**                    |
-| **2**  | (The) **[Adjective]** **[Rulers]**               |
-| **3**  | **[Rulers]** of (the) **[Noun]**                 |
-| **4**  | **[Adjective]** **[Rulers]** of (the) **[Noun]** |
-| **5**  | (The) **[Noun]** **[Adjective]** **[Rulers]**    |
-| **6**  | **[Rulers]** of (the) **[Adjective]** **[Noun]** |
+| **d6** | **公式**                                         |
+| **1**  | （该）**[名词]** **[统治者]**                    |
+| **2**  | （该）**[形容词]** **[统治者]**                  |
+| **3**  | **[统治者]**之（该）**[名词]**                  |
+| **4**  | **[形容词]** **[统治者]**之（该）**[名词]**     |
+| **5**  | （该）**[名词]** **[形容词]** **[统治者]**       |
+| **6**  | **[统治者]**之（该）**[形容词]** **[名词]**      |
 
-### Ruler Types
+### 统治者类型 {#ruler-types}
 
 |         |                   |
 | ------- | ----------------- |
-| **d20** | **Ruler**         |
-| **1**   | **Alliance**      |
-| **2**   | **Barony**        |
-| **3**   | **Commonwealth**  |
-| **4**   | **Confederation** |
-| **5**   | **Dominion**      |
-| **6**   | **Ecclesiarchy**  |
-| **7**   | **Empire**        |
-| **8**   | **Federacy**      |
-| **9**   | **Fiefdom**       |
-| **10**  | **Grand Duchy**   |
-| **11**  | **Hegemony**      |
-| **12**  | **Kingdom**       |
-| **13**  | **Monarchy**      |
-| **14**  | **Principality**  |
-| **15**  | **Protectorate**  |
-| **16**  | **Realm**         |
-| **17**  | **Regency**       |
-| **18**  | **Republic**      |
-| **19**  | **State**         |
-| **20**  | **Union**         |
+| **d20** | **统治者**        |
+| **1**   | 联盟              |
+| **2**   | 男爵领            |
+| **3**   | 联邦              |
+| **4**   | 邦联              |
+| **5**   | 领地              |
+| **6**   | 教廷              |
+| **7**   | 帝国              |
+| **8**   | 联合体            |
+| **9**   | 封地              |
+| **10**  | 大公国            |
+| **11**  | 霸权              |
+| **12**  | 王国              |
+| **13**  | 君主国            |
+| **14**  | 公国              |
+| **15**  | 保护国            |
+| **16**  | 国度              |
+| **17**  | 摄政领            |
+| **18**  | 共和国            |
+| **19**  | 邦国              |
+| **20**  | 联盟              |
 
+### 森林名称 {#forest-names}
 
-### Forest Names
-
-- For the adjective, roll a **d10** twice, first for the **tens** place, and then another for the **ones** place. Then repeat the process for the noun.
-- Change it up! The name _Welcoming Grove_ might be more appropriate than _Beckoning Copse_ for your setting.
-- Use contrasting words (e.g. _Twisted Canopy_) to evoke an interesting point about the location.
-- Make it sound nice. Alliteration and pleasing combinations can create pleasant sounds. _Whispering Woods_ is more pleasing to the ear than _Tangled Woods._ 
+- 对形容词掷两次 **d10**：第一次决定**十位数**，第二次决定**个位数**。然后对名词重复这一过程。
+- 换个思路！对你的设定而言，_迎客林_可能比_召唤小树林_更合适。
+- 使用对比鲜明的词语（例如：_扭曲林冠_），突出地点的某个有趣之处。
+- 让名字听起来悦耳。押头韵和令人愉悦的组合能营造动听的音韵。_低语森林_就比_纠缠森林_更悦耳。
 
 |          |                |             |
 | -------- | -------------- | ----------- |
-| **d100** | **Adjectives** | **Nouns**   |
-| **1**    | Abandoned      | Arbors      |
-| **2**    | Ancient        | Arch        |
-| **3**    | Beckoning      | Blossoms    |
-| **4**    | Blooming       | Bogs        |
-| **5**    | Bountiful      | Boughs      |
-| **6**    | Celestial      | Brake       |
-| **7**    | Charmed        | Brambles    |
-| **8**    | Crystal        | Branches    |
-| **9**    | Dappled        | Briar       |
-| **10**   | Dense          | Bridge      |
-| **11**   | Desolate       | Brook       |
-| **12**   | Distant        | Brush       |
-| **13**   | Echoing        | Camp        |
-| **14**   | Eerie          | Canopy      |
-| **15**   | Emerald        | Cascade     |
-| **16**   | Enchanted      | Cave        |
-| **17**   | Enigmatic      | Cavern      |
-| **18**   | Ephemeral      | Chase       |
-| **19**   | Eternal        | Clearing    |
-| **20**   | Ethereal       | Clump       |
-| **21**   | Exotic         | Coppice     |
-| **22**   | Fabled         | Copse       |
-| **23**   | Flourishing    | Crags       |
-| **24**   | Forgotten      | Creek       |
-| **25**   | Forsaken       | Dale        |
-| **26**   | Fragrant       | Dell        |
-| **27**   | Frosty         | Dew         |
-| **28**   | Gentle         | Fell        |
-| **29**   | Glistening     | Fen         |
-| **30**   | Gloomy         | Ferns       |
-| **31**   | Gnarled        | Foliage     |
-| **32**   | Golden         | Forest      |
-| **33**   | Grassy         | Fungi       |
-| **34**   | Harmonious     | Gill        |
-| **35**   | Haunted        | Glade       |
-| **36**   | Hidden         | Glen        |
-| **37**   | Hushed         | Gorge       |
-| **38**   | Illuminated    | Granite     |
-| **39**   | Jagged         | Green       |
-| **40**   | Lavish         | Grotto      |
-| **41**   | Leafy          | Grove       |
-| **42**   | Lonely         | Growth      |
-| **43**   | Looming        | Heath       |
-| **44**   | Lost           | Henge       |
-| **45**   | Luminescent    | Hollow      |
-| **46**   | Luminous       | Horizon     |
-| **47**   | Lush           | Knar        |
-| **48**   | Majestic       | Knoll       |
-| **49**   | Melancholy     | Leaves      |
-| **50**   | Menacing       | Light       |
-| **51**   | Misty          | Loam        |
-| **52**   | Moonlit        | Loom        |
-| **53**   | Mossy          | Marsh       |
-| **54**   | Murmuring      | Meadow      |
-| **55**   | Mysterious     | Mire        |
-| **56**   | Mystic         | Morass      |
-| **57**   | Opulent        | Oak         |
-| **58**   | Overgrown      | Oasis       |
-| **59**   | Precarious     | Orchard     |
-| **60**   | Primeval       | Pass        |
-| **61**   | Pristine       | Passages    |
-| **62**   | Quaint         | Path        |
-| **63**   | Radiant        | Pathway     |
-| **64**   | Roaring        | Pine        |
-| **65**   | Rugged         | Roots       |
-| **66**   | Rustling       | Sanctuary   |
-| **67**   | Sacred         | Shade       |
-| **68**   | Secluded       | Shadows     |
-| **69**   | Serene         | Shelter     |
-| **70**   | Serpentine     | Shrub       |
-| **71**   | Shadowy        | Slope       |
-| **72**   | Shimmering     | Spring      |
-| **73**   | Shrouded       | Stirs       |
-| **74**   | Silent         | Stones      |
-| **75**   | Smoky          | Stream      |
-| **76**   | Somber         | Stump       |
-| **77**   | Spectral       | Swale       |
-| **78**   | Splendid       | Sward       |
-| **79**   | Stark          | Sway        |
-| **80**   | Sturdy         | Tangle      |
-| **81**   | Sunlit         | Thicket     |
-| **82**   | Sunny          | Thistles    |
-| **83**   | Swirling       | Timber      |
-| **84**   | Tangled        | Timberland  |
-| **85**   | Timeless       | Tower       |
-| **86**   | Towering       | Trails      |
-| **87**   | Tranquil       | Trees       |
-| **88**   | Trickling      | Trunks      |
-| **89**   | Twilight       | Underbrush  |
-| **90**   | Twisted        | Undergrowth |
-| **91**   | Unseen         | Understory  |
-| **92**   | Unyielding     | Vines       |
-| **93**   | Veiled         | Waterway    |
-| **94**   | Verdant        | Weald       |
-| **95**   | Vibrant        | Wildwood    |
-| **96**   | Weathered      | Woodland    |
-| **97**   | Weeping        | Woodlot     |
-| **98**   | Whispering     | Woods       |
-| **99**   | Wild           | Yonder      |
-| **100**  | Winding        | Zephyr      |
+| **d100** | **形容词**     | **名词**    |
+| **1**    | 被遗弃的       | 林苑        |
+| **2**    | 古老的         | 拱门        |
+| **3**    | 召唤的         | 花朵        |
+| **4**    | 盛开的         | 沼泽        |
+| **5**    | 丰饶的         | 树枝        |
+| **6**    | 天界的         | 蕨丛        |
+| **7**    | 受祝福的       | 荆棘        |
+| **8**    | 水晶般的       | 枝条        |
+| **9**    | 斑驳的         | 荆棘丛      |
+| **10**   | 茂密的         | 桥          |
+| **11**   | 荒芜的         | 溪流        |
+| **12**   | 遥远的         | 灌木        |
+| **13**   | 回声缭绕的     | 营地        |
+| **14**   | 怪诞的         | 林冠        |
+| **15**   | 翡翠色的       | 瀑布        |
+| **16**   | 魔法的         | 洞穴        |
+| **17**   | 神秘莫测的     | 洞窟        |
+| **18**   | 短暂的         | 追猎        |
+| **19**   | 永恒的         | 林间空地    |
+| **20**   | 空灵的         | 丛          |
+| **21**   | 异域的         | 矮林        |
+| **22**   | 传说中的       | 小树林      |
+| **23**   | 繁茂的         | 峭壁        |
+| **24**   | 被遗忘的       | 溪流        |
+| **25**   | 被遗弃的       | 谷地        |
+| **26**   | 芬芳的         | 小谷        |
+| **27**   | 霜冻的         | 露珠        |
+| **28**   | 温柔的         | 荒山        |
+| **29**   | 闪亮的         | 沼泽        |
+| **30**   | 阴郁的         | 蕨类        |
+| **31**   | 盘曲的         | 叶簇        |
+| **32**   | 金色的         | 森林        |
+| **33**   | 长满青草的     | 真菌        |
+| **34**   | 和谐的         | 溪谷        |
+| **35**   | 闹鬼的         | 林间空地    |
+| **36**   | 隐秘的         | 山谷        |
+| **37**   | 寂静的         | 峡谷        |
+| **38**   | 被照亮的       | 花岗岩      |
+| **39**   | 参差不齐的     | 绿地        |
+| **40**   | 奢华的         | 石窟        |
+| **41**   | 枝叶繁茂的     | 林地        |
+| **42**   | 孤寂的         | 植物        |
+| **43**   | 高耸迫近的     | 荒原        |
+| **44**   | 迷失的         | 石阵        |
+| **45**   | 发光的         | 洼地        |
+| **46**   | 发亮的         | 地平线      |
+| **47**   | 繁盛的         | 树瘤        |
+| **48**   | 雄伟的         | 小丘        |
+| **49**   | 忧郁的         | 叶片        |
+| **50**   | 威胁的         | 光          |
+| **51**   | 雾蒙蒙的       | 壤土        |
+| **52**   | 月光照耀的     | 织机        |
+| **53**   | 长满苔藓的     | 沼泽        |
+| **54**   | 低语的         | 草甸        |
+| **55**   | 神秘的         | 泥潭        |
+| **56**   | 神秘的         | 沼地        |
+| **57**   | 富丽堂皇的     | 橡树        |
+| **58**   | 杂草丛生的     | 绿洲        |
+| **59**   | 危险的         | 果园        |
+| **60**   | 原始的         | 隘口        |
+| **61**   | 未受玷污的     | 通道        |
+| **62**   | 古雅的         | 小径        |
+| **63**   | 光辉灿烂的     | 路径        |
+| **64**   | 咆哮的         | 松树        |
+| **65**   | 崎岖的         | 根系        |
+| **66**   | 沙沙作响的     | 庇护所      |
+| **67**   | 神圣的         | 阴凉处      |
+| **68**   | 隐蔽的         | 阴影        |
+| **69**   | 宁静的         | 避难所      |
+| **70**   | 蛇形的         | 灌木        |
+| **71**   | 阴影笼罩的     | 斜坡        |
+| **72**   | 闪烁的         | 泉          |
+| **73**   | 被笼罩的       | 搅动        |
+| **74**   | 寂静的         | 石头        |
+| **75**   | 烟雾弥漫的     | 溪流        |
+| **76**   | 阴沉的         | 树桩        |
+| **77**   | 幽灵般的       | 洼地        |
+| **78**   | 壮丽的         | 草地        |
+| **79**   | 荒凉的         | 摇曳        |
+| **80**   | 坚固的         | 纠结处      |
+| **81**   | 阳光照耀的     | 灌木丛      |
+| **82**   | 阳光明媚的     | 蓟          |
+| **83**   | 旋转的         | 木材        |
+| **84**   | 纠缠的         | 林区        |
+| **85**   | 永恒的         | 高塔        |
+| **86**   | 高耸的         | 小径        |
+| **87**   | 宁静的         | 树木        |
+| **88**   | 潺潺的         | 树干        |
+| **89**   | 暮光的         | 灌木下层    |
+| **90**   | 扭曲的         | 林下植被    |
+| **91**   | 不可见的       | 林下层      |
+| **92**   | 不屈的         | 藤蔓        |
+| **93**   | 被遮蔽的       | 水道        |
+| **94**   | 翠绿的         | 森林        |
+| **95**   | 充满活力的     | 荒林        |
+| **96**   | 风化的         | 林地        |
+| **97**   | 垂泪的         | 小林地      |
+| **98**   | 低语的         | 森林        |
+| **99**   | 野性的         | 远方        |
+| **100**  | 蜿蜒的         | 和风        |
