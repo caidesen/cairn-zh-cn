@@ -1,46 +1,46 @@
 ---
-title: Hexenbane
+title: 逐巫者
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: 背景
+grand_parent: 第二版
 ---
 
-# Hexenbane
+# 逐巫者
 
-> You are a mere digit on the unerring hand of justice. You go where others fear to tread, unyielding and unbroken.
+> 你不过是公正之手上一个不会出错的指头。你前往他人畏惧踏足之地，坚定不移，毫发无损。
 
-## Names
+## 姓名
 
 Percival, Felix, Isolde, Wolfram, Aldric, Eira, Oswin, Ivor, Brunhilda, Beatrix
 
-## Starting Gear
+## 初始装备
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Vestments of the Order (_petty_)
-- Blessed Tinctures
-- Silver Knife (d6)
-- Crossbow (d8, _bulky_)
+- 3d6 金币
+- 口粮（3 次使用）
+- 火炬（3 次使用）
+- 教团法衣（_轻巧_）
+- 祝福药剂
+- 银刀（d6）
+- 弩（d8，_笨重_）
 
-## To which order do you belong? Roll 1d6:
+## 你属于哪个教团？掷 1d6：
 
 |       |                                                                                                                                                                                                                |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Order of the Crossroads**. Take a **Pocket Leyfinder**. It points to nearby ley lines and other sources of arcane power. If you lose it, the punishment is death.                                            |
-| **2** | **Order of the Bleeding Star**. Take a **Star-Iron Mace** (d8). It shines faintly in darkness and becomes very hot in the presence of witchcraft.                                                   |
-| **3** | **Order of the Glass Sigil**. Take a short sword (d8) and chainmail (2 Armor, _bulky_). You have contacts in most towns (the more rural, the better) willing to provide aid, food, or even weapons.                 |
-| **4** | **Order of the Blank Eye**. Take a **Voidglass Shard**. Peer through it to see invisible marks, creatures, and other magical effects. Lose the use of your eye for an hour afterwards (you are _deprived_). |
-| **5** | **Order of Canaas**. Once per day, you can change into a wolf. Take a **Quicksilver Chain**. Without it, you are unable to shift back.                                                                           |
-| **6** | **Order of the Silent Veil**. Take a **Quell Stone** (2 uses) wrapped in burlap. Extinguishes any nearby flames once exposed to air.                                                                             |
+| **1** | **十字路口教团**。获得一枚**便携式灵脉探测器**。它会指向附近的灵脉和其他奥术能量源。如果你弄丢它，惩罚就是死亡。                                            |
+| **2** | **流血之星教团**。获得一把**星铁钉锤**（d8）。它在黑暗中散发微光，在巫术存在时会变得非常灼热。                                                   |
+| **3** | **玻璃印记教团**。获得一把短剑（d8）和链甲（2 护甲，_笨重_）。你在大多数城镇都有熟人（越偏远的地方越多），他们愿意提供援助、食物，甚至武器。                 |
+| **4** | **空白之眼教团**。获得一块**虚空玻璃碎片**。透过它可以看见隐形的标记、生物和其他魔法效果。之后一小时内失去这只眼睛的使用能力（你处于_匮乏_）。 |
+| **5** | **卡纳斯教团**。每天一次，你可以变成狼。获得一条**水银链**。没有它，你无法变回原形。                                                                           |
+| **6** | **寂静帷幕教团**。获得一块用粗麻布包裹的**熄火石**（2 次使用）。暴露在空气中后会熄灭附近的所有火焰。                                                                             |
 
-## What was your vow? Roll 1d6:
+## 你的誓言是什么？掷 1d6：
 
 |       |                                                                                                                                                                    |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | **Honesty**. Choose a **weapon type** (blunt, blade, etc). Attacks against you of this type are _impaired_. If your vow is broken, you lose d4 WIL.                |
-| **2** | **Poverty**. You carry the _Disassemble_ **Spellbook**. Only you can use it. If your vow is broken, it explodes (d12 STR damage). Disassemble: Any of your body parts may be detached and reattached at will, without causing pain or damage. You can still control them. _Regenerates any torn or defaced pages._                                 |
-| **3** | **Selflessness**. You are immune to **mind-altering magical effects**, such as _charm_, _hatred_, _frenzy_, and so on. If you break this vow, you lose d6 WIL.       |
-| **4** | **Mercy**. Choose a **weapon type** (blunt, blade, etc). Attacks with this weapon are _enhanced_. If your vow is broken, you can never use that weapon type again. |
-| **5** | **Charity**. Once per day you can shrug off a **Fatigue**. If your vow is ever broken, you permanently lose one inventory slot.                                           |
-| **6** | **Valor**. The first time you inflict **Critical Damage**, you receive +d4 HP, returning to the previous limit at the end of combat. If your vow is broken, you die.             |
+| **1** | **诚实**。选择一种**武器类型**（钝器、利刃等）。该类型的攻击对你处于_削弱_。如果你违背誓言，就会失去 d4 WIL。                |
+| **2** | **贫困**。你携带_拆解_**法术书**。只有你能使用它。如果你违背誓言，它就会爆炸（d12 STR 伤害）。拆解：你身体的任何部位都可以随意拆下和装回，不会造成疼痛或伤害。你仍然可以控制它们。_会再生所有被撕破或涂毁的书页。_ |
+| **3** | **无私**。你免疫**改变心智的魔法效果**，例如_魅惑_、_憎恨_、_狂乱_等。如果你违背誓言，就会失去 d6 WIL。       |
+| **4** | **慈悲**。选择一种**武器类型**（钝器、利刃等）。使用这种武器的攻击处于_强化_。如果你违背誓言，就再也无法使用该武器类型。 |
+| **5** | **施舍**。每天一次，你可以摆脱一点**疲劳**。如果你曾经违背誓言，就会永久失去一个物品栏格。                                           |
+| **6** | **勇气**。你第一次造成**重伤**时，获得 +d4 HP，并在战斗结束时恢复到之前的上限。如果你违背誓言，就会死亡。             |

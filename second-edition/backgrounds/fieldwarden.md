@@ -1,46 +1,46 @@
 ---
-title: Fieldwarden
+title: 荒野守望者
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: 背景
+grand_parent: 第二版
 ---
 
-# Fieldwarden
+# 荒野守望者
 
-> Protectors of the harvest, defense against pests, thieves, and beasts. A position of great honor, while it lasts: many guardians do not live out their natural lives. Roll a second time on the **Bonds** table. 
+> 保护收成，抵御害虫、盗贼和野兽。这是一个极其光荣的职位——只要你能一直活着：许多守护者都没能活完自然寿命。在**羁绊**表上再掷一次。
 
-## Names
+## 姓名
 
-Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye 
+Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye
 
-## Starting Gear
+## 初始装备
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Brigandine (1 Armor, _bulky_)
-- Sling (d6)
-- Hand Axe (d6)
-- Repellent (pick the type, 3 uses)
- 
-## What got the better of you? Roll 1d6:
+- 3d6 金币
+- 口粮（3 次）
+- 火把（3 次）
+- 扎甲（1 护甲，_笨重_）
+- 投石索（d6）
+- 手斧（d6）
+- 驱虫剂（自选类型，3 次）
+
+## 什么战胜了你？掷 1d6：
 
 |       |                                                                         |
-| ----- | --------------------------------------------------------------- |
-| **1** | A voracious swarm of pests that swallowed crops and animals alike. With nothing to defend, you left. Take **Gale Seed Extract** (3 uses).  Ingesting it lets you sprint with a speed four times your regular rate. Afterward you add two **Fatigue**.        |
-| **2** | A crop spirit, angered by a poor tithing. The fires consumed nearly everything, and afterward you were able to gather a pouch of **Fireseeds** (d8, _blast_, 4 uses).        |
-| **3** | An antlered, toothy demon that nearly ended you. Take a blood-stained **Bone Knife** (d6). On **Critical Damage**, its next attack becomes _enhanced_ from contact with blood. |
-| **4** | _The Withering_, a type of stem rot from the **Roots**. Take a **Diseased Crop** (6 uses) that quickly decays any plant it touches.                        |
-| **5** | Wolves, or so you thought. You are now a **Werewolf** [8 HP, 15 STR, 14 DEX, claws (d6+d6), bite (d8)]. Your WIL remains the same. You can _turn_ at will (once per day) but must make a WIL save to revert. Anyone left alive from your attacks must make a WIL save to avoid infection. |
-| **6** | Crop thieves. Not all of them survived, but you were outnumbered. Start with +d4 HP and a **Cusped Falchion** (d8).  |
+| ----- | ----------------------------------------------------------------------- |
+| **1** | 一群贪婪的害虫吞噬了庄稼和牲畜，几乎无所不食。没有什么需要你保护了，于是你离开了。获得**狂风种子萃取物**（3 次）。饮用后，你可以以平时四倍的速度冲刺。之后增加两点**疲劳**。        |
+| **2** | 一位因贡赋不足而愤怒的庄稼精魂。大火几乎吞噬了一切，之后你设法收集到一袋**火种**（d8，_爆发_，4 次）。        |
+| **3** | 一只长着鹿角和利齿的恶魔，差点要了你的命。获得一把染血的**骨刀**（d6）。如果造成**重伤**，它的下一次攻击会因沾染血液而获得_强化_。 |
+| **4** | _凋萎病_，一种来自**根系**的茎腐病。获得一株**病变作物**（6 次），它会迅速使接触到的任何植物腐烂。                        |
+| **5** | 狼，至少你当时是这么以为的。你现在是一名**狼人**[8 HP、15 STR、14 DEX、利爪（d6+d6）、撕咬（d8）]。你的 WIL 保持不变。你可以随意_变身_（每天一次），但必须进行 WIL 豁免才能恢复原形。凡是被你攻击后仍活着的人，都必须进行 WIL 豁免以避免感染。 |
+| **6** | 庄稼盗贼。并非所有人都活了下来，但你寡不敌众。以 +d4 HP 和一把**缺口弯刀**（d8）开始。  |
 
-## What tool saved your life? Roll 1d6:
+## 什么工具救了你的命？掷 1d6：
 
 |       |                    |                                                                                                                                               |
 | ----- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Bloodvine Whip** | d8 damage. On **Critical Damage**, it drains the target's blood, granting the weapon's next attack the _blast_ quality             |
-| **2** | **Clatter Keeper** | A hand-cranked device that emits a loud noise, frightening away most creatures.                                                               |
-| **3** | **Sun Stick**      | Provides ample warmth and light for up to one hour. **Recharge**: Leave in heavy sunlight for a full day. 1 use. |
-| **4** | **Root Tether**    | When thrown, binds a creature as large as a wolf to the soil for a short time.                                                                        |
-| **5** | **Greenwhistle**   | A small flute that calms plants, making passage through areas heavy with plant life a bit easier.                                                   |
-| **6** | **Everbloom Band** | A circlet adorned with flowers that never wilt. On **Critical Damage**, the flowers dissolve into dust, but you act as if your save succeeded (STR loss still occurs). |
+| **1** | **血藤鞭**         | d8 伤害。如果造成**重伤**，它会吸走目标的血液，使这把武器的下一次攻击获得_爆发_特性             |
+| **2** | **喧响守卫**       | 一件手摇装置，会发出巨大的声响，吓走大多数生物。                                                               |
+| **3** | **阳光棒**         | 最多提供一小时充足的温暖与光线。**充能**：在强烈阳光下放置一整天。1 次。 |
+| **4** | **根系缚带**       | 投掷后，能将一只狼那么大的生物短暂地束缚在土壤上。                                                                        |
+| **5** | **绿哨**           | 一支能安抚植物的小笛子，让你更容易穿过植物茂密的区域。                                                   |
+| **6** | **常开花环**       | 一枚装饰着永不凋谢花朵的头环。如果造成**重伤**，花朵会化作尘土，但你会视为豁免成功（STR 损失仍然发生）。 |

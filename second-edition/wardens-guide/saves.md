@@ -1,170 +1,170 @@
 ---
 layout: default
-title: Saves
-parent: Warden's Guide 
-grand_parent: Second Edition
+title: 豁免
+parent: 守望者指南
+grand_parent: 第二版
 ---
 
-# Saves
+# 豁免
 
-## Overview
+## 概述
 
-## When To Save
+## 何时进行豁免
 
-There are three common scenarios in which a player character should save:
--  When avoiding the negative outcome of a risky action.
--  When acting in opposition to another player character, NPC, or creature.
--  When aiding one or more characters in a risky action. 
+玩家角色通常应在以下三种情况下进行豁免：
+- 当需要避免危险行动带来的负面结果时。
+- 当与另一名玩家角色、NPC 或生物对抗时。
+- 当协助一名或多名角色进行危险行动时。
 
-## Save Principles
+## 豁免原则
 
-- When in doubt, ask whether the party has the time, resources, skills, or advantage to overcome a problem. If the answer is "no," then a save is usually warranted. If the answer is "I don't know," then a roll with the Die of Fate may be necessary.
-- Feel free to say "no," but remember to offer an alternative. If the party cannot proceed due to circumstances beyond their control, give them another option to consider.
-- Character death should never come as a surprise. If the risk is so great that the outcome might be fatal, make sure the player understands what they're getting into.
-- Always provide multiple viable options for the PCs to choose from. The more choices, the more interesting the situation becomes.
-- The outcome of a save need not be a simple binary. You can tailor the results based on the totality of input: the effort, forethought, resources, and skill that went into the roll.
-- Be transparent with players. This doesn't mean revealing all of the world's secrets, but provide each player with the maximum information their character might have.
-- Avoid requiring a dice roll whenever possible. If a PC can solve a problem using purely narrative components, _do not ask for a roll_.
-- Replace multiple dice rolls with a single dice throw. Simplifying results to a single roll can increase tension while maximizing player input. 
+- 如果不确定，就问问队伍是否有足够的时间、资源、技能或优势来解决问题。如果答案是“没有”，通常就应该进行豁免。如果答案是“我不知道”，可能需要用命运骰进行掷骰。
+- 可以直接说“不行”，但记得提供替代方案。如果队伍因为无法控制的情况而无法继续，就给他们另一个可供考虑的选择。
+- 角色的死亡不应该让人措手不及。如果风险大到可能致命，确保玩家明白自己正在面对什么。
+- 始终为 PC 提供多个可行的选项。选择越多，情境就越有趣。
+- 豁免的结果不必简单地二选一。你可以根据投入的全部因素调整结果：掷骰时付出的努力、事先的思考、使用的资源和具备的技能。
+- 对玩家保持透明。这不意味着要揭露世界的所有秘密，但要向每名玩家提供其角色可能掌握的最大限度信息。
+- 尽可能避免要求掷骰。如果 PC 可以纯粹通过叙事层面的行动解决问题，_就不要要求掷骰_。
+- 用一次掷骰代替多次掷骰。将结果简化为一次掷骰可以增加紧张感，同时最大限度地保留玩家的参与。
 
-## Traditional Saves
+## 传统豁免
 
-### Strength
+### 力量（STR）
 
-> Wolfram dashes through the underground jail cell, a bundle of cloth held tightly to his chest. Lucius and Freya are right behind, fighting off a very large guard and his pet wolf. 
+> Wolfram 冲过地下牢房，怀里紧紧抱着一捆布料。Lucius 和 Freya 紧随其后，一边抵挡一个身材高大的守卫和他的宠物狼。
 
-**Wolfram**: _"Remember, they are innocents! They don't need to die!"_
+**Wolfram**：_“记住，他们都是无辜的！他们不必死！”_
 
-**Freya**: _"Sorry, I can't hear you through the barks and snarling!"_
+**Freya**：_“抱歉，狗叫和狼嚎太大声了，我听不见你在说什么！”_
 
-**Warden**: _"Suddenly, the guard stops and whistles, recalling his pet. He then pulls on a lever behind him, and a loud grating sound starts emanating from the other side of the hallway to the East. Then you see what he's done: a thick iron gate is coming down from the ceiling. If it closes, you'll be locked in this section of the jail! Wolfram, you can probably make it through without any risk. Lucius and Freya will need to each make DEX saves in order to make it."_
+**守望者**：_“突然，守卫停下来吹了声口哨，把他的宠物叫了回来。接着他拉动身后的杠杆，一阵刺耳的摩擦声从走廊东侧的另一头传来。然后你们看到了他做了什么：一道厚重的铁闸正从天花板降下。如果它关上，你们就会被锁在牢房的这一区域里！Wolfram，你大概可以毫无风险地穿过去。Lucius 和 Freya 则必须分别进行 DEX 豁免才能通过。”_
 
-**Wolfram**: _"I'm going to stop and hold the gate for as long as I can. What do I risk?"_
+**Wolfram**：_“我要停下来，尽可能久地撑住闸门。我会冒什么风险？”_
 
-**Warden**: _"The gate is strong. It might break your bones, or you might get stuck underneath."_
+**守望者**：_“闸门很坚固。它可能会压断你的骨头，也可能把你卡在下面。”_
 
-**Wolfram**: _"I toss the bundle through to the other side, then take up a position to grab onto it. Lucius, Freya, you two run ahead. I've got this."_
+**Wolfram**：_“我把布包扔到另一边，然后站好位置抓住它。Lucius、Freya，你们两个先跑。我来处理。”_
 
-> Lucius and Freya agree, and Wolfram rolls a 13: a success!
+> Lucius 和 Freya 同意了，Wolfram 掷出 13：成功！
 
-**Warden**: _"You groan as the iron bars press down against your arms and shoulders. Just as you feel like the gate might crush you in two, Lucius and Freya jog past and into safety. You step back and the gate collapses onto the stone floor with such force that the mechanism itself breaks. There is no going back now! The large guard isn't getting through either, though."_
+**守望者**：_“你呻吟着，铁栅栏压在你的手臂和肩膀上。就在你觉得闸门可能会把你压成两截时，Lucius 和 Freya 跑过你身边，进入安全区域。你向后退开，铁闸狠狠地砸在石头地面上，连机关本身都被震坏了。现在没有回头路了！不过，那个高大的守卫也过不来了。”_
 
-**Wolfram**: _"It's just as I've always said: 'Through strength, there is virtue.' Or was it, 'There is virtue in strength?' Ah, anyway... Hey, wait for me!"_
+**Wolfram**：_“我一直都这么说：‘力量之中蕴含美德。’还是‘美德源于力量？’唉，不管了……嘿，等等我！”_
 
-### Dexterity
+### 敏捷（DEX）
 
-> Freya crouches atop the rafters of a decrepit tavern, spying on a gang of heavily-armed thugs below. 
+> Freya 蹲在一间破败酒馆的房梁上，监视着下方一群全副武装的暴徒。
 
-**Warden**: _"After twenty minutes of cramped discomfort, the care and caution you put into this venture are finally rewarded as one of the men below speaks aloud the location of their hideout. Your mission is complete! What do you do now?_"
+**守望者**：_“在狭窄难受的地方待了二十分钟后，你在这次行动中投入的谨慎终于得到回报：下方的一个男人说出了他们藏身处的位置。你的任务完成了！你现在要做什么？”_
 
-**Freya**: _"I need to skedaddle without these jokers knowing I was ever here. Does it look like they are nearly finished?"_
+**Freya**：_“我得在不让这些蠢货知道我来过的情况下溜走。看起来他们快结束了吗？”_
 
-**Warden**: _"Actually, one of them is pulling out a deck of cards, and the others are nodding in approval. It looks like they'll be here for a while yet."_
+**守望者**：_“其实，其中一个人正拿出一副纸牌，其他人也点头表示赞同。看起来他们还会在这里待上一阵子。”_
 
-**Freya**: _"Rats. Well, no time like the present, right? I'm going to sneak back the way I came._"
+**Freya**：_“真倒霉。不过，现在出发也不迟，对吧？我要沿原路偷偷溜回去。”_
 
-**Warden**: _"That's fine, but when you passed earlier there was no one here. That is no longer the case! You'll need to make a DEX save to avoid detection._"
+**守望者**：_“可以，但你之前经过时这里还没有人。现在已经不是这样了！你需要进行一次 DEX 豁免来避免被发现。”_
 
-> Freya rolls a 16: a fail!
+> Freya 掷出 16：失败！
 
-**Warden**: _"As you crest the final beam, it creaks. All six of the men look up and see you leap into the crawlspace leading out of the main hall and into the kitchens. They didn't get a bead on your face, but they know you're up there! They shout and draw their weapons."_
+**守望者**：_“当你越过最后一根横梁时，它发出吱呀声。六个男人全都抬头，看见你跳进了通往厨房的爬行通道。虽然他们没有看清你的脸，但知道你在上面！他们大喊着拔出武器。”_
 
-**Freya**: _"I have one smoke bomb left, and I plan on using it. I'm going to drop into the kitchens to find a pot. If I recall correctly, water makes the smoke go crazy..."_
+**Freya**：_“我还剩一枚烟雾弹，打算用掉它。我要跳进厨房找个锅。如果我没记错，水会让烟雾变得特别厉害……”_
 
-### WIL
+### 意志（WIL）
 
-> Lucius has been captured after helping a client try to break into the ancient vault of Der Thunn. In a sudden glut of courage, he allowed himself be taken so that the others could escape.
+> Lucius 帮助一名客户试图闯入 Der Thunn 的古老宝库后被捕。在一阵突如其来的勇气驱使下，他主动让自己被抓，好让其他人逃走。
 
-**Wolfram**: _"Pity about Lucius. But we have to deliver our client to the vault immediately. We can rescue him after."_
+**Wolfram**：_“真遗憾，Lucius 被抓了。但我们必须立刻把客户送到宝库。之后再去救他。”_
 
-**Freya**: _"I am NOT leaving him behind. You should still go, but I'm going to get him out. I'm a cutpurse, so I have friends everywhere, right? Or perhaps there's some kind of thieves' cant I can use to make connections here?"_
+**Freya**：_“我才不会把他丢下。你们还是继续走，但我会把他救出来。我是扒手，所以到处都有朋友，对吧？或者这里有没有什么盗贼黑话之类的东西，可以让我和人搭上线？”_
 
-**Warden**: _"Indeed. You can spend the night trying to make connections among your kind, if you like._"
+**守望者**：_“当然。如果你愿意，可以花一晚上的时间在同道中建立联系。”_
 
-> The party splits up, and Freya learns what she needs to from a local fence. (It costs her one of the Twins, and she is not happy about it). Lucius is awaiting his sentence in a jail beneath the constabulary.
+> 队伍分头行动，Freya 从一名当地黑市掮客那里得知了需要的信息。（这让她失去了 Twins 中的一把匕首，她对此很不高兴。）Lucius 正在治安机构下方的牢房里等待宣判。
 
-**Warden**: _"In the dim light of the early dawn, you notice a note slipped through the street vent. It reads, 'Speak the following, and you will be free: "The Pale Man Longs To Die." You have but one chance.'"_
+**守望者**：_“在黎明前的昏暗光线中，你注意到一张纸条从街道通风口里塞了进来。上面写着：‘说出下面这句话，你就会自由："The Pale Man Longs To Die." 你只有一次机会。’”_
 
-**Lucius**: _"...What? OK. Someone gave this to me? And I have to speak it aloud... but at the right time, or to the right person?"_
+**Lucius**：_“……什么？好吧。有人把这个给了我？而且我必须大声说出来……但要在正确的时间，或者对正确的人说？”_
 
-**Warden**: _"You hear footsteps as the jailer approaches. He jingles his keys as if he intends to open your cell. What do you do?_"
+**守望者**：_“你听到狱卒走近的脚步声。他摇响钥匙，似乎打算打开你的牢门。你要做什么？”_
 
-**Lucius**: _"OK! This is not the right person, I think. Perhaps I'll talk to someone higher up?"_
+**Lucius**：_“好！我觉得他不是正确的人。也许我应该和更高层的人谈谈？”_
 
-**Warden**: _"He opens your cell and beckons for you to come out."_
+**守望者**：_“他打开你的牢门，示意你出来。”_
 
-**Lucius**: _"Hello friend! Might I speak to your superior? I have some important news that might be very interesting to them..."_
+**Lucius**：_“你好，朋友！我可以和你的上司谈谈吗？我有一些重要消息，相信他们会很感兴趣……”_
 
-**Warden**: _"The jailer smirks as he unlocks raises a pair of manacles._"
+**守望者**：_“狱卒咧嘴一笑，解锁后举起一副镣铐。”_
 
-**Lucius**: _""THE PALE MAN LONGS TO DIE!"_
+**Lucius**：_“‘THE PALE MAN LONGS TO DIE!’”_
 
-**Warden**: _"The jailer stops in his tracks, then lowers the manacles. He nods once, then gestures that you follow him."_
+**守望者**：_“狱卒停下脚步，放下镣铐。他点了一下头，然后示意你跟他走。”_
 
-**Lucius**: _"Well, that was lucky. What is this, some code for jailers? Executioners? Well, whatever it is, I'm following."_
+**Lucius**：_“真走运。这是什么，狱卒的暗号？还是刽子手的？不管了，我跟着就是。”_
 
-**Warden**: _"The jailer guides you into the darkness of the jail, far from the light. As he reaches the far wall, he taps three times on a stone high above his head. After a moment, the wall swings inward, and the guard walks confidently inside, where a dark-haired woman waits at a desk. She smiles at you and gestures that you sit at the chair across from her."_
+**守望者**：_“狱卒带你走进远离光线的牢房深处。当他走到尽头的墙边时，他在头顶高处的一块石头上敲了三下。片刻后，墙壁向内打开，守卫自信地走了进去。里面有一位黑发女子坐在桌旁。她朝你微笑，示意你坐到她对面的椅子上。”_
 
-**Lucius**: _"Uh oh. Can I go back to my cell, please? I kid, I kid. I take a seat."_
+**Lucius**：_“糟糕。我可以回牢房吗？开玩笑，开玩笑。我坐下。”_
 
-**Warden**: _The jailor leaves as you take a seat. The room is small, with only one door on the other side of the woman. A very large man stands outside, his head visible through a small window on the door. The woman smiles again, saying, 'Welcome Mr... Well, it doesn't matter. There is only one reason you are here. You've spoken a code known only to thieves and scoundrels. And which one are you, I wonder?"_
+**守望者**：_“你坐下时，狱卒离开了。房间很小，女子身后的另一侧只有一扇门。一个身材魁梧的男人站在门外，头部从门上的小窗里露出来。女子再次微笑着说道：‘欢迎你，先生……算了，这不重要。你来到这里的原因只有一个。你说出了只有盗贼和恶棍才知道的暗号。我倒想知道，你是哪一种？’”_
 
-**Lucius**: _"What happens now? I don't have anything to barter... Except for perhaps the truth? But that means I have to make a WIL save, right? So that I seem 'convincing?'"_
+**Lucius**：_“接下来会发生什么？我没什么东西可以拿来交易……也许只有真相？但这意味着我需要进行一次 WIL 豁免，对吧？这样我看起来才‘可信’？”_
 
-**Warden**: _"You'd need to make a WIL save even if you weren't telling the truth. You're definitely the most at risk here, and despite your experience as a charlatan, you think she can probably see through any lie. She and you might not be so different."_
+**守望者**：_“即便你不说真话，也需要进行 WIL 豁免。在这里，显然你承担着最大的风险；尽管你有江湖骗子的经验，但你觉得她大概能看穿任何谎言。她和你也许并没有太大不同。”_
 
-**Lucius**: _"OK. Madam: I'll be straight with you. My friends and I are here to sneak into the vault of Der Thunn. I only learned of that phrase a few minutes ago. I believe one of my friends (a cutpurse named Freya, you might know her) left me that note. If you set me free, I'll be sure to mention... what's your name, again?"_
+**Lucius**：_“好吧，女士：我就直说了。我和朋友们来这里，是为了潜入 Der Thunn 的宝库。我几分钟前才知道那句话。我想我的一位朋友（一个叫 Freya 的扒手，你可能认识她）把纸条留给了我。如果你放我走，我会提到……呃，你叫什么名字来着？”_
 
-**Warden**: _"Katja. And please, tell me everything._"
+**守望者**：_“Katja。请把一切都告诉我。”_
 
-> Lucius describes the party's , and their efforts so far. He makes a WIL save. He rolls a 5, a success! Katja is convinced of his sincerity.
+> Lucius 描述了队伍的经历和迄今为止的努力。他进行了一次 WIL 豁免，掷出 5，成功！Katja 相信了他的诚意。
 
-**Warden** _"As she listens to your story, Katja frowns, then finally smiles. 'Alright, alright, I believe you. Let's make a deal! You introduce me to this "client" of yours whom you've so kindly escorted into my town, and I'll make sure no one is watching while you slip away. But we have to go right now, before this place implodes. And if that happens, even I can't guarantee your safety..."_ 
+**守望者**：_“Katja 听着你的故事，先是皱眉，最后却笑了。‘好吧，好吧，我相信你。我们做个交易！你把那位你如此好心护送到我城里的“客户”介绍给我，我就确保没人监视你们，让你们悄悄离开。但我们必须马上行动，在这里爆炸之前离开。如果真的发生了那种事，就连我也无法保证你的安全……’”_
 
-> An hour later, Lucius finds Freya, but not the others. She explains that Wolfram and their client have already left for the vault. She agrees to take them there, but says that she needs to make a quick stop first. Something about reclaiming one of her daggers...
+> 一小时后，Lucius 找到了 Freya，但没有找到其他人。她解释说，Wolfram 和他们的客户已经前往宝库。她同意带他们过去，但说自己需要先快速停留一下。似乎是要取回她的一把匕首……
 
-## Opposed Saves
+## 对抗豁免
 
-> The party has cornered their opponents (two Bandits and their Hobgoblin chief) against a steep cliff side. Lucius and Wolfram are able to take their turns right away, but Freya failed her initial DEX save and has to go after their opponents. As her friends take on each of their smaller foes, she only narrowly avoids getting her head bashed in by the Hobgoblin!
+> 队伍将对手（两名强盗和他们的 Hobgoblin 首领）逼到了陡峭的悬崖边。Lucius 和 Wolfram 可以立刻行动，但 Freya 初次的 DEX 豁免失败，必须在对手行动之后才能行动。当她的朋友们分别对付较弱的敌人时，她差点被 Hobgoblin 一棍砸破脑袋！
 
-**Freya**: _"I don't think I can survive another bout with their leader, so I'm going to try and knock him off the cliff!"_
+**Freya**：_“我觉得自己撑不过和他们首领的下一轮交锋，所以我要试着把他推下悬崖！”_
 
-**Warden**: _"You are most at risk in this situation, meaning that if you try and push him, you will need to make the appropriate save!"_
+**守望者**：_“在这种情况下，你承担着最大的风险，所以如果你试图推他，就必须进行相应的豁免！”_
 
-**Freya**: _"And if I fail, I go off the cliff, right? Alright.. I think I can do this. But just in case, I'm going to make sure I'm wearing my Catring!"_
+**Freya**：_“如果我失败，我也会掉下悬崖，对吧？好吧……我想我能做到。不过为了保险起见，我要确保自己戴着 Catring！”_
 
-> Freya rolls a STR save to try and grapple the Hobgoblin and toss him off the cliff. She rolls a 17, a fail!
+> Freya 进行一次 STR 豁免，试图擒抱 Hobgoblin 并将其推下悬崖。她掷出 17，失败！
 
-**Warden**: _"Their leader picks you up and flings you backward, sending you careening off the cliff. Fortunately the Catring activates its final charge, and you are able to gracefully catch a tree branch jutting off the mountainside 10ft below. It will take you two turns to climb back up, or you'll need to make a DEX save to do it quickly._"
+**守望者**：_“他们的首领抓起你，把你向后甩去，使你旋转着飞出悬崖。幸运的是，Catring 激活了最后一次充能，你优雅地抓住了山腰下方 10 英尺处伸出的一根树枝。你需要两个回合才能爬回去，或者可以进行一次 DEX 豁免来快速完成。”_
 
-**Freya**: _"Damn. Well, hopefully my comrades will fare well enough without me until I return..."_
+**Freya**：_“该死。希望在我回来之前，我的同伴们还能撑得住……”_
 
-## Aiding an Ally
+## 协助盟友
 
-> The party have just arrived at the entrance to the second level of a long-forgotten mountain tomb. Freya leads the group, followed by Lucius, with Wolfram taking up the rear. Wolfram holds a lit torch, but the others have their hands free.
+> 队伍刚刚抵达一座被遗忘已久的山中陵墓第二层入口。Freya 走在队伍最前面，Lucius 跟在她后面，Wolfram 殿后。Wolfram 手里举着一支点燃的火把，但其他人双手空着。
 
-**Warden**: _"The path to the North veers over a twisted archway positioned atop a dark chasm. To the East, a rocky path leads downward into the murk below. What do you do?"_
+**守望者**：_“北面的道路越过一座扭曲的拱桥，拱桥架在黑暗的深渊上方。东面，一条岩石小路向下通入下方的昏暗中。你们要做什么？”_
 
-**Wolfram**: _"Our quarry is said to be at the top of this blasted place! I think we should press on to the North."_
+**Wolfram**：_“据说我们的目标就在这该死地方的顶部！我觉得我们应该继续向北。”_
 
-**Warden**: _"The rest of you agree? Alright, then. Assuming you continue with the same marching orders..."_
+**守望者**：_“你们其他人也同意？好吧，假设你们继续保持现在的行进顺序……”_
 
-**Wolfram**: _"Wait! Let me go first. My Order can reveal that which is hidden, and I feel something sinister lies ahead in the darkness. I will take the lead, stepping as cautiously as possible, my Voidglass Shard at the ready."_
+**Wolfram**：_“等等！让我走在最前面。我的教团能揭示隐藏之物，而且我感觉黑暗中有不祥之物。我会带头，尽可能谨慎地迈步，同时准备好 Voidglass Shard。”_
 
-**Warden**: _"Wolfram, you carefully start across the bridge, which moans and creaks with each step. It feels solid beneath your feet, though. As the party reaches the midway point, the ground begins to shudder violently, then blossoms with cracks. It looks like it's going to collapse from behind!"_
+**守望者**：_“Wolfram，你小心地踏上桥面，每走一步，桥都发出呻吟和吱嘎声。不过脚下感觉还算坚固。当队伍走到桥中央时，地面开始剧烈震动，随后裂纹如花朵般绽开。看起来桥要从后方塌下去了！”_
 
-**Wolfram**: _"If we run to the opposite side, does it look like we can make it safely?"_
+**Wolfram**：_“如果我们跑到对面，看起来能安全抵达吗？”_
 
-**Warden**: _"You and Lucius are the farthest ahead and likely the least at risk. But Freya is last and will need to make a DEX save to arrive there safely."_
+**守望者**：_“你和 Lucius 在最前面，承担的风险可能最小。但 Freya 在最后，她需要进行一次 DEX 豁免才能安全抵达。”_
 
-**Freya**: _"You just had to take the lead, didn't you, Wolfie? I have a rope. Do I have time to toss it to one of the others?"_
+**Freya**：_“Wolfie，你非得走在最前面吗？我有一根绳子。我有时间把它扔给其他人吗？”_
 
-**Warden**: _"Yes, you can do that. Wolfram has his hands full, so Lucius is your best bet. You can easily throw a rope to him, but a STR save will be required. As you will be the most at risk, you will need to make the save."_
+**守望者**：_“有。Wolfram 双手都在忙，所以 Lucius 是最合适的人选。你可以轻松地把绳子扔给他，但需要进行一次 STR 豁免。因为你承担的风险最大，所以由你进行豁免。”_
 
-**Freya**: _"A friend and a rope still seems like a good deal to me. Let's do it!"_
+**Freya**：_“一个朋友加一根绳子，听起来还是很划算。来吧！”_
 
-> Freya rolls a 5: a success!
+> Freya 掷出 5：成功！
 
-**Warden**: _"As the bridge collapses, Wolfram and Lucius dash to the opposite side with Freya right behind. Just as the ground disappears beneath her feet, she tosses Lucius her rope. As the bridge collapses behind her, she slams into the wall, hanging onto the rope for dear life. Slowly, she climbs along the wall, straining to reach the ledge a few feet above her. Finally, she pulls herself onto the dusty floor."_
+**守望者**：_“桥塌下时，Wolfram 和 Lucius 冲向对面，Freya 紧随其后。就在地面从她脚下消失的瞬间，她把绳子扔给 Lucius。桥在她身后崩塌，她撞上墙壁，拼命抓住绳子。她慢慢沿着墙壁攀爬，竭力够向上方几英尺处的平台。最后，她爬上了积满尘土的地面。”_
 
-**Freya**: _"That was fun. What's next?"_
+**Freya**：_“真有意思。接下来呢？”_

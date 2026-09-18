@@ -1,47 +1,46 @@
 ---
-title: Half Witch
+title: 半巫
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: 背景
+grand_parent: 第二版
 ---
 
-# Half Witch
+# 半巫
 
-> Born of both the mortal world and the unseen, you are an enigma to some and feared by many. Yours is the tale of what happens when two worlds collide.
+> 你生于凡世与不可见世界之间，对某些人而言是谜，对许多人而言则令人畏惧。你的故事，正是两个世界碰撞后的结果。
 
-## Names
+## 姓名
 
 Solena, Veles, Bryn, Sabine, Razvan, Rowena, Galen, Nyx, Vex, Iwan
 
-## Starting Gear
+## 初始装备
  
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Spellbook (Thicket: A thicket of trees and dense
-brush up to 50ft wide suddenly sprouts up. _Wrapped in vines that must be destroyed again with each use._)
-- Iron Dagger (d6)
-- Herbs Pouch (restore 1 STR, 3 uses)
-- Ghillie Suit
+- 3d6 金币
+- 口粮（3 次使用）
+- 火炬（3 次使用）
+- 法术书（荆棘林：一片宽达 50ft、由树木和茂密灌木组成的灌木丛突然生长出来。_每次使用时都必须再次摧毁缠绕其上的藤蔓。_）
+- 铁匕首（d6）
+- 草药袋（恢复 1 STR，3 次使用）
+- 伪装服
 
-## What did you bring back from the Unseelie Court? Roll 1d6:
+## 你从无善庭带回了什么？掷 1d6：
 
 |       |                                                                                                                                                                                                                                                               |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | A **Black Rose Fiddle** (_bulky_). Its music causes intense sadness and immobility in nearby mortals. (Others are merely fascinated.) You don't know how to play.                                                                                              |
-| **2** | **Paper legs**. You are extremely light, and can fall a few stories without getting hurt. Try to avoid tearing them or getting them wet.                                                                                                                                |
-| **3** | A **Living Nightmare** that dwells within you but manifests whenever you are in danger. It has your same **Attributes** and **HP** and attacks with claws (d8+d8). It disappears on **Critical Damage** (take 1d4 WIL damage), re-appearing again on the next full moon. |
-| **4** | A **Raven Familiar** [8 HP, 3 STR, 11 DEX, 13 WIL, beak, (d6)]. It speaks as an intelligent being and is entirely devoted to you.                                                                                                                             |
-| **5** | A **Briar Thorn**. It can pierce any organic material (quite painfully) but when removed leaves no trace of the intrusion.                                                                                                                                    |
-| **6** | A Fae creature's **True Name**. Use it to summon its owner for an act of great service, but only once. It could also fetch a hefty price, from the right buyer.                                                                                               |
+| **1** | 一把**黑玫瑰提琴**（_笨重_）。它的音乐会让附近的凡人陷入强烈悲伤和僵硬。（其他人只会着迷。）你不会演奏它。                                                                                              |
+| **2** | **纸腿**。你极其轻盈，从几层楼高处坠落也不会受伤。尽量避免把它们撕破或弄湿。                                                                                                                                |
+| **3** | 一个寄居在你体内的**活体梦魇**，每当你身陷危险就会显现。它拥有与你相同的**属性**和**HP**，并用利爪攻击（d8+d8）。受到**重伤**时它会消失（你受到 1d4 WIL 伤害），并在下一个满月重新出现。 |
+| **4** | 一只**乌鸦使魔** [8 HP, 3 STR, 11 DEX, 13 WIL, 喙, (d6)]。它会像有智慧的生物一样说话，并完全效忠于你。                                                                                                                             |
+| **5** | 一根**荆棘刺**。它可以刺穿任何有机材料（相当疼），但拔出后不会留下入侵痕迹。                                                                                                                                    |
+| **6** | 一只妖精生物的**真名**。用它召唤其主人来完成一件大事，但只能使用一次。它也可能从合适的买家那里换来一笔高价。                                                                                               |
 
-## What concoction do you carry, and what rare ingredients did you gather to make it? Roll 1d6:
+## 你携带什么药剂？为了制作它，你收集了哪些稀有材料？掷 1d6：
 
 |       |                      |                                                                                                                                                                                |
 | ----- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | **Rebirth Ash**      | Remnants of a bark spirit. Sprinkle to reignite a fire that has died or return to life a creature that has died only moments before. 3 uses.                                  |
-| **2** | **Glamour Feather**  | Plume of a firebird. Can make any creature appear convincingly as someone (or something) else. 1 use.                                                                         |
-| **3** | **Hawthorn Seed**    | An acorn from the other side, gathered on the spring equinox. When planted, it sprouts a luxurious shelter, collapsing at moonrise the next day. 1 use.                         |
-| **4** | **Stonetree Sap**    | Sap obtained in exchange for blood. Hardens when rubbed on any surface (+1 Armor). 3 uses.        |
-| **5** | **Nightdust Powder** | Made from the ritual burning of six owls. When tossed in the air, day turns to night for a short while. 2 uses.                                                             |
-| **6** | **Hex Stone**        | Gathered from a river that flows from the _other side_. Removed from its iron tin, it can absorb the effects of an active magical effect. If destroyed, the magic is released. 1 use. |
+| **1** | **重生灰烬**         | 树皮精魂的残余物。撒在熄灭的火上可以重新点燃它，或让刚死去不久的生物死而复生。3 次使用。                                  |
+| **2** | **幻容羽毛**         | 火鸟的羽毛。可以让任何生物令人信服地伪装成其他人（或其他东西）。1 次使用。                                                                         |
+| **3** | **山楂种子**         | 在春分时从彼岸收集的橡子。种下后会长成一处豪华的庇护所，在次日月升时坍塌。1 次使用。                         |
+| **4** | **石树树液**         | 以鲜血换来的树液。涂抹在任何表面上并摩擦后会硬化（+1 护甲）。3 次使用。        |
+| **5** | **夜尘粉末**         | 由六只猫头鹰仪式性焚烧制成。撒向空中后，白昼会短暂变成黑夜。2 次使用。                                                             |
+| **6** | **妖咒石**           | 从一条发源于_彼岸_的河流中收集而来。从铁罐中取出后，它可以吸收一个正在生效的魔法效果。若它被摧毁，魔法就会释放出来。1 次使用。 |

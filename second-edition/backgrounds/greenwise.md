@@ -1,47 +1,47 @@
 ---
-title: Greenwise
+title: 绿智者
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: 背景
+grand_parent: 第二版
 ---
 
-# Greenwise
+# 绿智者
 
-> You delve deep into the **Wood**, prying its secrets from between rough boughs and whispering leaves. To this verdant kingdom, you are no mere scholar but its confidant as well.
+> 你深入**森林**，在粗糙枝桠与低语叶片之间窥探它的秘密。对于这个翠绿王国，你不仅是学者，也是它的知己。
 
-## Names
+## 姓名
 
 Gunther, Moss, Fern, Lichen, Root, Willow, Sage, Yarrow, Rowan, Ash
 
-## Starting Gear
+## 初始装备
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Iron Pot
-- Root Knife (d6)
-- Healing Salve (restore 1d4 STR, 1 use)
-- Twine Bauble (_petty_, _Ward_ once per day)
-_Ward_: A silver circle 50ft across appears on the ground. Choose one species that cannot cross it.
+- 3d6 金币
+- 口粮（3 次使用）
+- 火炬（3 次使用）
+- 铁锅
+- 根刃（d6）
+- 治疗药膏（恢复 1d4 STR，1 次使用）
+- 线结饰物（_轻巧_，每天一次_结界_）
+_结界_：地面出现一个直径 50ft 的银色圆环。选择一个无法穿过它的物种。
 
-## How has the Wood failed you ? Roll 1d6:
+## 森林如何辜负了你？掷 1d6：
 
 |       |                                                                                                                                                                                               |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | An ill-tempered forest spirit cursed you for stealing, marking you as an enemy of their kind. Take a **Bezoar Stone**. Ingesting it cures any poison (1 use, unless retrieved).             |
-| **2** | A close friend disappeared into the forest. Now you see their face in any tea you brew. Take a **Soporific Concoction** (3 uses).                                                                                 |
-| **3** | You were poisoned, losing your sense of taste and smell. You can now withstand noxious fumes and always carry **Antitoxin** (2 uses).                                                        |
-| **4** | Your radical experiments turned your skin green, and you now gain nourishment as a plant. You don't need **Rations**, but a day without sufficient sunlight and water leaves you _deprived_. |
-| **5** | Your impressive corpseflower won a local contest then promptly killed a judge. You fled, but not without the **Prize Money (100gp)** and a warrant for your arrest.                    |
-| **6** | You created a restorative tincture that also causes accidental infertility. Take a **Healing Potion** that completely restores STR. Only you know of its unintended side-effects.                       |
+| **1** | 一位脾气恶劣的森林精灵因你偷窃而诅咒你，把你标记为它们一族的敌人。获得一块**胃石**。吞下它可以治愈任何毒素（1 次使用，除非找回）。             |
+| **2** | 一位亲密朋友消失在森林里。现在，无论你泡什么茶，都能在茶中看见对方的脸。获得一份**催眠药剂**（3 次使用）。                                                                                 |
+| **3** | 你中毒了，失去味觉和嗅觉。现在你能抵抗有害烟雾，并总是携带**解毒剂**（2 次使用）。                                                        |
+| **4** | 你激进的实验让皮肤变绿，现在你能像植物一样获得营养。你不需要**口粮**，但一天没有充足日照和水分就会处于_匮乏_。 |
+| **5** | 你培育的惊艳尸花赢得当地比赛，却立刻杀死了一名评委。你逃走了，但没忘带上**奖金（100gp）**，以及一张要逮捕你的通缉令。                    |
+| **6** | 你创造出一种恢复药剂，却意外导致不育。获得一瓶**治疗药水**，完全恢复 STR。只有你知道它那意想不到的副作用。                       |
 
-## What keeps you safe while in the Wood? Roll 1d6:
+## 你在森林中靠什么保持安全？掷 1d6：
 
 |       |                  |                                                                                                          |
 | ----- | ---------------- | -------------------------------------------------------------------------------------------------------- |
-| **1** | **Amadou**       | A vermilion fungus that catches fire quite easily. 3 uses.                                              |
-| **2** | **Delphinium**   | Breathe water for up to one hour. 1 use, but can be divided into fractional doses.                       |
-| **3** | **Tacky Stalk**  | A woody reed that hardens into a permanent adhesive when chewed. 2 uses.                                 |
-| **4** | **Wisp Lantern** | Caged in wrought iron, provides a dim light so long as the wisp is able to feed on nearby pain and fear. |
-| **5** | **Seed Bomb**    | A canvas sack filled with seeds that explode on impact. d6 damage (_blast_, 3 uses).                     |
-| **6** | **Briarvine**    | Entangles any creature up to horse size (STR to break free). Reusable.                                   |
+| **1** | **火绒菌**       | 一种很容易着火的朱红色真菌。3 次使用。                                              |
+| **2** | **飞燕草**       | 可以在水下呼吸至多一小时。1 次使用，但可以分成若干份使用。                       |
+| **3** | **黏茎**         | 一种木质芦苇，咀嚼后会硬化成永久性黏合剂。2 次使用。                                 |
+| **4** | **鬼火提灯**     | 被锻铁笼罩，只要鬼火能以附近的痛苦与恐惧为食，就能提供昏暗的光线。 |
+| **5** | **种子炸弹**     | 装满种子的帆布袋，撞击时会爆炸。d6 伤害（_爆发_，3 次使用）。                     |
+| **6** | **荆棘藤**       | 可以缠住任何马匹大小以内的生物（STR 脱困）。可重复使用。                                   |

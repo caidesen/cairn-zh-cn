@@ -1,46 +1,45 @@
 ---
-title: Bonekeeper
+title: 骨守
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: 背景
+grand_parent: 第二版
 ---
 
-# Bonekeeper
+# 骨守
 
-> You are a shepherd to the departed. You listen to the final whispers of the dead as they descend into the cold, unyielding earth. You know that to fully celebrate the gift of life, we must honor its finale as well. 
+> 你是亡者的牧人。你聆听死者沉入冰冷而不可动摇的大地时留下的最后低语。你知道，要充分庆祝生命的馈赠，也必须向它的终结致敬。
 
-## Names
+## 姓名
 
 Rook, Ebon, Moro, Yew, Pall, Leth, Bea, Barnaby, Vesper, Leder
 
-## Starting Gear
+## 初始装备
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Lantern
-- Oil Can (6 uses)
-- Stake (d6)
-- Chains (10ft)
+- 3d6 金币
+- 口粮（3 次）
+- 提灯
+- 油罐（6 次）
+- 木桩（d6）
+- 链条（10 英尺）
 
-## What did you take from the dead? Roll 1d6:
+## 你从死者那里拿走了什么？掷 1d6：
 
 |       |                                                                                                                                                                                                                                                                                                                                      |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | A **crow-shaped amulet**. You can ask a question of the dead but must add a **Fatigue** each time. They do not always speak truthfully.                                                                                                                                                                                              |
-| **2** | A **mortal wound** from a freed _revenant_. You were healed, but the disfigurement has made you a pariah. You require neither air nor sustenance but are still subject to pain and death. Trapped between worlds, the dead see you as one of their own.                                                                              |
-| **3** | A **Blood Pail** (_bulky_) from a local death-cult. Empty it to raise a servant built from whatever is buried below, with 6 HP, 1 Armor, 13 STR, 11 DEX, 4 WIL, and shard fists (d8+d8). Only one servant can be raised at a time. If destroyed, you permanently lose 1d4 STR. **Recharge**: Fill with the blood of a dying warrior. |
-| **4** | A **burial wagon** (+6 slots, _slow_) from your last job. It came with a stubborn old **donkey** (+4 slots, only +2 slots if pulling wagon).                                                                                                                                                                                         |
-| **5** | The **Detect Magic** Spellbook, stolen from an ancient library. Your family worked in service to an obscure underworld deity, but you lost your faith. Though exiled, you continue to serve, even as an apostate. Detect Magic: You can see or hear nearby magical auras. _Becomes warm to the touch when magic is used nearby._     |
-| **6** | A **plague doctor's mask**, after its owner succumbed to the disease that wiped out everyone you once knew. They should have kept it on.                                                                                                                                                                                             |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | 一枚**乌鸦形护符**。你可以向死者提问，但每次都必须增加一点**疲劳**。它们不总是说真话。                                                                                                                                                                                              |
+| **2** | 一名被释放的_亡魂复生者_留下的**致命伤**。你虽然痊愈，却因毁容而被众人排斥。你既不需要空气，也不需要食物，但仍然会感到疼痛，也仍然会死亡。你被困在两个世界之间，死者把你视为同类。                                                                              |
+| **3** | 一个来自当地死亡崇拜的**血桶**（_笨重_）。将它倒空，就能召起一个由地下埋葬之物构成的仆从：6 HP、1 护甲、13 STR、11 DEX、4 WIL，以及碎片拳（d8+d8）。一次只能召起一个仆从。如果仆从被摧毁，你将永久失去 1d4 STR。**充能**：用垂死战士的血将其装满。 |
+| **4** | 你上一次工作得到的一辆**葬仪马车**（+6 格，_缓慢_）。它还配有一头顽固的老**驴**（+4 格；拉车时仅 +2 格）。                                                                                                                                                                                         |
+| **5** | 从古老图书馆偷来的**探测魔法**法术书。你的家族曾侍奉一位不为人知的冥界神祇，但你失去了信仰。即便遭到放逐，你仍继续侍奉它，哪怕成了叛教者。探测魔法：你能看见或听见附近的魔法灵光。_附近有人使用魔法时，它会摸起来发热。_     |
+| **6** | 一副**瘟疫医生面具**；它原本的主人死于那场毁掉你曾认识的一切的瘟疫。他们本该一直戴着它。                                                                                                                                                                                             |
 
-## What tool was invaluable in your work? Roll 1d6:
+## 哪件工具对你的工作不可或缺？掷 1d6：
 
 |     |               |                                                                                                                            |
 | --- | ------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Manacles**  | Though old, it's still effective even against the very strong. You don't have the key.                                     |
-| 2   | **Sponge**    | Supposedly made from the remains of a rare sea creature. It never seems to dry out.                                        |
-| 3   | **Pulley**    | Great for moving gravestones, rocks, or even bodies.                                                                       |
-| 4   | **Incense**   | Perfect for rituals or to keep the flies at bay. Cools the blood.                                                         |
-| 5   | **Crowbar**   | d6 damage. Sometimes you just need to get the damn thing open!                                                             |
-| 6   | **Repellent** | Powerful stuff. Its faded label makes it unclear what it is actually _meant_ to repel, though. Perhaps everything. 3 uses. |
-
+| 1   | **镣铐**      | 虽然很旧，但即使对极其强壮的人也依然有效。你没有钥匙。                                     |
+| 2   | **海绵**      | 据说由一种稀有海洋生物的遗骸制成。它似乎永远不会干。                                        |
+| 3   | **滑轮**      | 非常适合搬运墓碑、岩石，甚至尸体。                                                                       |
+| 4   | **熏香**      | 非常适合仪式，也能驱赶苍蝇。它会冷却血液。                                                         |
+| 5   | **撬棍**      | d6 伤害。有时你就是得把那该死的东西撬开！                                                             |
+| 6   | **驱虫剂**    | 非常厉害。褪色的标签让人看不清它究竟是用来驱赶什么的——或许什么都能驱赶。3 次。        |

@@ -1,46 +1,46 @@
 ---
-title: Scrivener
+title: 抄写员
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: 背景
+grand_parent: 第二版
 ---
 
-# Scrivener
+# 抄写员
 
-> You copy ancient texts and illuminate manuscripts, recording the voices of the clever, the great, and the powerful. You will prove that the pen truly is mightier than the sword.
+> 你抄录古老文本并为手稿绘制彩饰，记录聪慧者、伟大者和掌权者的声音。你将证明，笔确实比剑更有力量。
 
-## Names
+## 姓名
 
 Lazlo, Stilo, Akshara, Pisa, Ji-Yun, Kalamos, Hugo, Shui, Kalam, Julius
 
-## Starting Gear
+## 初始装备
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Quill & Ink
-- Blank Book
-- Awl (d6)
-- Badge (_petty_)
+- 3d6 金币
+- 口粮（3 次使用）
+- 火炬（3 次使用）
+- 羽毛笔与墨水
+- 空白书
+- 锥子（d6）
+- 徽章（_轻巧_）
 
-## What work did you keep for yourself? Roll 1d6:
+## 你把什么工作留给了自己？掷 1d6：
 
 |       |                                                                                                                                                                                                           |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **The Wild Tongue**. A bundle of leather-bound scrolls. A seminal work, cataloging the hidden languages of beasts and how to understand them.                                                            |
-| **2** | **The Silent Symphony**. Bound in fluorescent wrap. Very rare, it chronicles the subtle signs used by those employing invisibility magic.                                                                 |
-| **3** | **A Treatise on the Abyss**. A nondescript black book. An in-depth, largely theoretical text describing the **Roots**, as well as information about the location of a nearby **Gate**.                  |
-| **4** | **The Star Waltz**. A comet-shaped clasp bound in a fine leather cover. Detailed astronomical charts, celestial movements, and stellar festivals. Highly valued (100gp) for its usefulness to travelers. |
-| **5** | **The Cathedral and the Canopy**. Large-leaf binding over vellum. Nominally a children's storybook, the margins detail information about traveling, eating, and sleeping in the cloud forests.            |
-| **6** | **Garden of Glass**. Bound in the cover of another book. A heretical work, it describes the materials, procedures, and optimal locations required to open a **Gate**.                                     |
+| **1** | **野性之语**。一捆皮革装订的卷轴。一本开创性的著作，记录了野兽的隐秘语言，以及理解它们的方法。                                                            |
+| **2** | **寂静交响曲**。用荧光封皮装订。这本极为稀有的书记录了施展隐形魔法者使用的细微信号。                                                                 |
+| **3** | **深渊论**。一本不起眼的黑书。内容深入且大多属于理论，描述了**根系**，并记载着附近一处**界门**的位置。                  |
+| **4** | **星之华尔兹**。精美皮革封面上系着一枚彗星形扣子。书中有详细的天文图表、天体运动和星辰节庆。因对旅行者很有用而价值不菲（100gp）。 |
+| **5** | **大教堂与树冠**。羊皮纸上覆盖着大叶片装订。名义上是一本儿童故事书，页边却详细记载了在云雾森林中旅行、饮食和睡眠的信息。            |
+| **6** | **玻璃花园**。装在另一本书的封皮里。这是一本异端著作，描述了打开**界门**所需的材料、步骤和最佳地点。                                     |
 
-## How do you transcribe sensitive information? Roll 1d6:
+## 你如何抄录敏感信息？掷 1d6：
 
 |       |                   |                                                                                                                           |
 | ----- | ----------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Fib Ink**       | Glows when used to write true statements but fades if used to write false ones.                                           |
-| **2** | **Cipher Stone**  | A pair of sharp black stones. Each one decrypts any message written by the other.                                         |
-| **3** | **Everquill**     | A quill that writes on any surface. You still need ink. _Petty_.                                                          |
-| **4** | **Whisper Vial**  | Whisper a message into the vial, and it will play it back to whoever opens it next.                                      |
-| **5** | **Sanguine Lens** | Extracts blood from a target without their knowledge. A stolen drop placed on the eye reveals memories from the past day. |
-| **6** | **Echo Leaf**     | A blank parchment. Whomever unfurls it sees their actions of the day slowly revealed in a tight scrawl. _Petty_.          |
+| **1** | **纤维墨水**      | 用来书写真实陈述时会发光，用来书写虚假陈述时则会褪色。                                           |
+| **2** | **密码石**        | 一对锋利的黑色石头。每一块都能解密另一块写下的任何信息。                                         |
+| **3** | **恒写笔**        | 一支可以在任何表面书写的羽毛笔。你仍然需要墨水。_轻巧_。                                                          |
+| **4** | **耳语瓶**        | 对着瓶子低声说出消息，下一个打开它的人就会听到回放。                                      |
+| **5** | **血红透镜**      | 在目标不知情的情况下抽取其血液。把偷来的血滴放在眼睛上，可以看见过去一天的记忆。 |
+| **6** | **回声叶**        | 一张空白羊皮纸。展开它的人会看到自己当天的行动逐渐以紧密的小字显现出来。_轻巧_。          |

@@ -1,46 +1,46 @@
 ---
-title: Rill Runner
+title: 溪流行者
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: 背景
+grand_parent: 第二版
 ---
 
-# Rill Runner
+# 溪流行者
 
-> You sing the stories of rivers and lakes, your talents soothing friends and the elements alike. You've seen more than most, but somehow it never seems to be enough.
+> 你歌唱河流与湖泊的故事，你的才华能同时安抚朋友与元素。你见过的东西比大多数人都多，但不知为何，这似乎永远不够。
 
-## Names
+## 姓名
 
 Gale, Piper, Brook, Adair, Stone, Dale, Wren, Cliff, Rain, Robin
 
-## Starting Gear
+## 初始装备
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Water Shoes
-- Brigandine (1 Armor, _bulky_)
-- Compass
-- Dagger (d6)
+- 3d6 金币
+- 口粮（3 次使用）
+- 火炬（3 次使用）
+- 涉水鞋
+- 链甲（1 护甲，_笨重_）
+- 罗盘
+- 匕首（d6）
 
-## What songs are you best known for? Roll 1d6:
+## 你最出名的是哪些歌曲？掷 1d6：
 
 |       |                                                                                                                                                                                                                                          |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | _The Tinker's Two-Step_. A humorous fairy tale about a gift-giving traveler. Start with a **Reed Whistle**. Anyone in earshot must pass a WIL save to perform an act of violence.                                                       |
-| **2** | _The Sylph and Her Lover_. A bawdy tale of lost love. Start with a **Breeze Knot** (3 charges). Creates a strong breeze. **Recharge**: Tie it to a mast during a storm.                                                         |
-| **3** | _Harper's Devotion_. A sad, short tale about a musician that falls in love with a star. Start with a **Celestial Lute**. Reveals the constellations above, no matter the weather.                                                              |
-| **4** | _The Reed Fisher_. A celebrated song about a massive carp that always seems to get away. Begin with a spool of **River Twine** (5 uses). Each dip into the river guarantees a catch, though it might not be pleasant.                              |
-| **5** | _Song of the Silver Stream_. A wordless lullaby that mimics flowing water. Take a **Stone Flute** that can calm almost any river.                                                                                             |
-| **6** | _The Thrush and the Meadow_. A moody tale told in alternating chorus. Start with a **Feather Quill** (1 use, _petty_). A map drawn with this quill reveals the most expedient course between any two points. |
+| **1** | _工匠二步舞_。一则讲述赠礼旅行者的幽默童话。初始拥有一支**芦笛**。所有听到它的人都必须通过 WIL 豁免，才能做出暴力行为。                                                       |
+| **2** | _精灵与她的爱人_。一则关于失恋的色情故事。初始拥有一个**微风结**（3 次充能）。制造强风。**充能**：在暴风雨中将它系在桅杆上。                                                         |
+| **3** | _竖琴手的奉献_。一则悲伤的短篇故事，讲述一位爱上星星的音乐家。初始拥有一把**天际鲁特琴**。无论天气如何，都能显现头顶的星座。                                                              |
+| **4** | _芦苇渔夫_。一首广受赞誉的歌曲，讲述一条总是逃脱的大鲤鱼。初始拥有一卷**河绳**（5 次使用）。每次伸入河中都能保证有所收获，不过收获可能并不愉快。                              |
+| **5** | _银溪之歌_。一首模仿流水的无词摇篮曲。获得一支可以安抚几乎所有河流的**石笛**。                                                                                             |
+| **6** | _画眉与草甸_。一则以交替合唱形式讲述的忧郁故事。初始拥有一支**羽毛笔**（1 次使用，_轻巧_）。用这支笔绘制的地图会显示任意两点之间最便捷的路线。 |
 
-## What pays your way across the land? Roll 1d6:
+## 你如何在这片土地上谋生？掷 1d6：
 
 |       |                     |                                                                                                                                             |
 | ----- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Performance**     | Performing at taverns always yields both room and board. Sometimes you even get tips! Start with an extra **10gp**.                          |
-| **2** | **Bodyguard**       | You are a protector for those afraid to travel alone. Start with a **Rapier** (d8).                                                          |
-| **3** | **Wares**           | You buy low and sell high, always making just enough to get by. Take a **single item** worth **20gp** (or less) from the [gear](/second-edition/players-guide/marketplace#gear) table.                              |
-| **4** | **Transport**       | You deliver "delicate" packages throughout the lands. You have at least one contact in any major town.                                        |                                                    
-| **5** | **Sailor's Friend** | Over troubled waters and dangerous winds, you always make sure a ship reaches its destination. For you, passage is always free.  |
-| **6** | **Guide**           | You shepherd caravans and travelers across water-soaked lands. Start a **map** (_petty_) relevant to your next journey. |
+| **1** | **表演**            | 在酒馆表演总能换来食宿。有时你甚至还能得到小费！初始拥有额外 **10gp**。                          |
+| **2** | **护卫**            | 你为那些害怕独自旅行的人提供保护。初始拥有一把**细剑**（d8）。                                                          |
+| **3** | **货物**            | 你低价买进、高价卖出，总是刚好能维持生计。从[装备](/second-edition/players-guide/marketplace#gear)表中获得一件价值 **20gp**（或更低）的**单件物品**。                              |
+| **4** | **运输**            | 你在各地运送“精细”包裹。在任何大城镇里，你至少都有一个熟人。                                        |                                                    |
+| **5** | **水手之友**        | 无论水域多么动荡、风暴多么危险，你总能确保船只抵达目的地。对你而言，通行永远免费。  |
+| **6** | **向导**            | 你带领商队和旅行者穿越水汽弥漫的土地。初始拥有一张与你下一段旅程相关的**地图**（_轻巧_）。 |

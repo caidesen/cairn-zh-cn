@@ -1,46 +1,46 @@
 ---
-title: Barber-Surgeon
+title: 理发外科医
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: 背景
+grand_parent: 第二版
 ---
 
-# Barber-Surgeon
+# 理发外科医
 
-> You walk the line between healer and harrower, knowing the frailty of the flesh but also the secrets that lie within. With the right tools, life and death are merely words.
+> 你行走在治疗者与施害者之间，既了解血肉的脆弱，也知晓其中隐藏的秘密。有了合适的工具，生与死不过是两个词。
 
-## Names
+## 姓名
 
-Wilmot, Patch, Lancet, Sawbones, Theo, Cutwell, Humor, Landsford, Goodeye, Johanna  
+Wilmot, Patch, Lancet, Sawbones, Theo, Cutwell, Humor, Landsford, Goodeye, Johanna
 
-## Starting Gear
+## 初始装备
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Bonesaw (d6)
-- Bandages (3 uses)
-- Leech (restores 1 STR, 3 uses)
-- Stained Medical Finery (_petty_)
+- 3d6 金币
+- 口粮（3 次）
+- 火把（3 次）
+- 骨锯（d6）
+- 绷带（3 次）
+- 水蛭（恢复 1 STR，3 次）
+- 污渍斑斑的医用华服（_轻巧_）
 
-## How have you "improved" yourself? Roll 1d6:
+## 你如何“改造”了自己？掷 1d6：
 
 |       |                                                                                                                                                                                                                                                            |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | You have a replacement **eye** that can magnify objects, act as a telescope, and provide minimal night vision. You cannot wear anything metal on your head, and the presence of strong magnets make you _deprived_.                                                |
-| **2** | One **foot** is mostly metal (kick, d6), and you treat some Tough terrain as **Easy**. Carry a **Oil Can** (6 uses). Without a daily application, you are _deprived_ and noisy.    |
-| **3** | One of your fingers has been swapped, the bone replaced by gold and iron. Take a **Hook** and a **Screwdriver** that can attach to the fingertip.                                                                                                            |
-| **4** | Both **ears** have been surgically enhanced, tripling your hearing. You can focus on a specific sound, such as a conversation, at a great distance. You wear an ear flap to protect against sudden loud noises (WIL save to avoid temporary paralysis). |
-| **5** | Your **chest** is lined with alchemical sigils, _toughening the skin_ (1 Armor). Wearing other metallic armor nullifies the effect.                                                                                                                              |
-| **6** | One **arm** is fully metal and comes off at the shoulder. It can be used as a weapon (d8, _bulky_ when not attached) and can move independently if you are within sight of it.                                                                                 |
+| **1** | 你有一只替换的**眼睛**，可以放大物体、充当望远镜，并提供最低限度的夜视能力。你不能在头上佩戴任何金属物品；强磁场会让你陷入_匮乏_。                                                |
+| **2** | 你的一只**脚**大部分由金属制成（踢击，d6），并且可以将部分_困难_地形视为_容易_地形。携带一个**油罐**（6 次）。如果每天不涂油，你就会陷入_匮乏_并发出噪音。    |
+| **3** | 你的一根手指被替换了，骨头由金铁取代。获得一个**抓钩**和一把**螺丝刀**，它们可以安装在指尖上。                                                                                                            |
+| **4** | 你的双**耳**都经过外科强化，听力变为原来的三倍。你可以专注于某个特定声音，例如远处的谈话。你戴着耳罩来抵御突如其来的巨响（进行 WIL 豁免，否则暂时瘫痪）。 |
+| **5** | 你的**胸口**刻满炼金符文，_使皮肤变得坚韧_（1 护甲）。穿戴其他金属护甲会使该效果失效。                                                                                                                              |
+| **6** | 你的一只**手臂**完全由金属制成，可以从肩膀处卸下。它可以作为武器使用（d8；未连接时为_笨重_），只要你能看见它，就能让它独立移动。                                                                                 |
 
-## What rare tool is essential to your work? Roll 1d6:
+## 哪件稀有工具对你的工作不可或缺？掷 1d6：
 
 |       |                    |                                                                                                                                                                   |
 | ----- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Regrowth Salve** | Regrows a body part over the course of a day. 1 use.                                                                                                                    |
-| **2** | **Graftgrub**      | A small worm that can fuse inanimate objects with parts of the body.  1 use.                                                                                      |
-| **3** | **Woundwax**       | Heals wounds from fire or chemicals (restoring full STR) but nothing else. 2 uses.                                                                               |
-| **4** | **Quicksilver**    | A stimulant. Go first in combat, and automatically pass any WIL saves for one hour. _Addictive_: Save STR or become _deprived_ after 24 hours without it. 4 uses. |
-| **5** | **Pneuma Pump**    | Portable iron lungs (_bulky_). Enables life-saving surgery or underwater breathing.                                                                               |
-| **6** | **Lodestone**      | Draws out dangerous elements from the body and acts as a powerful magnetic force.                                                                                 |
+| **1** | **再生药膏**       | 用一天时间重新长出一个身体部位。1 次。                                                                                                                    |
+| **2** | **嫁接虫**         | 一条小虫，可以将无生命的物体与身体部位融合。1 次。                                                                                      |
+| **3** | **伤口蜡**         | 治愈火焰或化学品造成的伤口（恢复全部 STR），但对其他伤口无效。2 次。                                                                               |
+| **4** | **水银**           | 一种兴奋剂。战斗中优先行动，并在一小时内自动通过所有 WIL 豁免。_会成瘾_：进行 STR 豁免；如果 24 小时没有服用，就会陷入_匮乏_。4 次。 |
+| **5** | **气泵**           | 便携式铁肺（_笨重_）。可用于救命手术或水下呼吸。                                                                               |
+| **6** | **磁石**           | 抽出体内的危险元素，并能产生强大的磁力。                                                                                 |

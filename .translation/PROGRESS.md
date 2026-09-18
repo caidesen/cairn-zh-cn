@@ -56,6 +56,16 @@
 | Gate | 界门 | 通往根系的入口 |
 | Vald | 瓦尔德 | 游戏世界/王国 |
 | Fae | 妖精 | 森林中的古老族群 |
+| Round | 回合 | 战斗中的时间单位 |
+| Turn | 轮次 | 探索流程中的行动单位 |
+| Watch | 时段 | 荒野旅行时间单位 |
+| Action | 行动 | 角色在轮次或时段中的行为 |
+| Downtime | 休整 | 游戏场次之间的活动 |
+| Milestone | 里程碑 | 休整目标的阶段 |
+| Cost | 代价 | 完成里程碑所需付出的东西 |
+| Source | 来源 | 研究行动中的信息来源 |
+| Critical Damage | 重伤 | HP 降至零以下后的伤害状态 |
+| Scar | 创伤 | HP 恰好降至零时的结果 |
 
 ## 进度与 TODO
 
@@ -65,18 +75,25 @@
 - [x] `second-edition/players-guide/overview-and-principles.md`
 - [x] `second-edition/players-guide/character-creation.md`
 - [x] `second-edition/players-guide/core-rules.md`
-- [ ] `second-edition/players-guide/procedures.md`
+- [x] `second-edition/players-guide/procedures.md`
 - [x] `second-edition/players-guide/marketplace.md`
 - [x] `second-edition/players-guide/vald.md`
 
 ### 第二版背景
 
-- [ ] `second-edition/backgrounds.md`
-- [ ] `second-edition/backgrounds/` 下的 20 个背景
+- [x] `second-edition/backgrounds.md`
+- [x] `second-edition/backgrounds/` 下的 20 个背景
 
 ### 第二版守望者指南与工具
 
-- [ ] `second-edition/wardens-guide.md`
+- [x] `second-edition/wardens-guide.md`
+- [x] `second-edition/wardens-guide/about-the-example-party.md`
+- [x] `second-edition/wardens-guide/bonds-and-omens.md`
+- [x] `second-edition/wardens-guide/combat.md`
+- [x] `second-edition/wardens-guide/detachments.md`
+- [x] `second-edition/wardens-guide/knowledge-and-perception.md`
+- [x] `second-edition/wardens-guide/saves.md`
+- [x] `second-edition/wardens-guide/variable-difficulty.md`
 - [ ] `second-edition/wardens-guide/` 下的规则、探索、战斗、怪物和法术内容
 - [ ] `second-edition/tools/`
 - [ ] `second-edition/game-files.md`
@@ -98,12 +115,14 @@
 
 | 批次 | 内容 | 状态 | 校对 | 提交 |
 | --- | --- | --- | --- | --- |
-| 0 | 建立范围、术语表和进度文件 | 已完成 | 已检查 | 待提交 |
+| 0 | 建立范围、术语表和进度文件 | 已完成 | 已检查 | `a82058d4` |
 | 1 | 第二版玩家指南：总览与原则、核心规则 | 已完成 | 已检查 | `a82058d4` |
-| 2 | 第二版玩家指南：角色创建、市场、Vald | 已完成 | 已检查 | 待提交 |
-| 3 | 第二版背景 | 未开始 | 待做 | 待提交 |
+| 2 | 第二版玩家指南：角色创建、市场、Vald | 已完成 | 已检查 | `e567d2a6` |
+| 3 | 第二版玩家流程与背景 | 已完成 | 已检查 | 待提交 |
+| 4 | 守望者指南：战斗、分队、知识与感知、豁免、可变难度 | 已完成 | 已检查 | 待提交 |
 
 ## 验证记录
 
 - 2026-09-18：第一批、第二批均通过 `git diff --check`，并手工检查了 Front Matter、内部锚点和规则术语。
+- 2026-09-18：第三、四批的 27 个文件通过 `git diff --check`；已补齐翻译后失效的内部锚点，并修复对话引用的 Markdown 斜体闭合。
 - 2026-09-18：尝试运行 Jekyll 构建，但当前环境缺少 `Gemfile.lock` 要求的 Bundler 2.5.22；待补齐构建环境后复验。

@@ -1,47 +1,47 @@
 ---
-title: Outrider
+title: 斥候骑手
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: 背景
+grand_parent: 第二版
 ---
 
-# Outrider
+# 斥候骑手
 
-> Your coin comes from escorting caravans, tracking fugitives, or lending your blade to a cause. You've been a savior, an executioner, a hero, and even a villain. Yours is not a solitary path, however: you'll always have your horse.
+> 你靠护送商队、追踪逃犯或把刀交给某项事业来赚钱。你曾是救世主、刽子手、英雄，甚至恶棍。但你的道路并不孤独：你总会有自己的马。
 
-## Names
+## 姓名
 
 Drake, Cyra, Keir, Darius, Valen, Rorik, Yara, Rui, Talon, Jory
 
-## Starting Gear
+## 初始装备
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Long Sword (d10, _bulky_)
-- Leather Jerkin (1 Armor)
-- Crossbow (d8, _bulky_)
-- Spyglass
+- 3d6 金币
+- 口粮（3 次使用）
+- 火炬（3 次使用）
+- 长剑（d10，_笨重_）
+- 皮短褂（1 护甲）
+- 弩（d8，_笨重_）
+- 望远镜
 
-## What personal code or principle do you uphold? Roll 1d6:
+## 你遵守什么个人准则或原则？掷 1d6：
 
 |       |                                                                                                                                                                                                                                                                                       |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **No innocent blood**: No bystander will come to harm on your watch. Take a **Steadymade Buckler** (+1 Armor). While holding this shield, you cannot be moved so long as both feet are planted on firm ground.                                                                         |
-| **2** | **Revere the tools of death**: Weapons are to be respected and maintained. Take a **Wyrmbone Whetstone**. Following a half-hour ritual sharpening, attacks with the weapon are _enhanced_ until STR damage is dealt.                                                                  |
-| **3** | **To the death, always**: You never back down from a fight, no matter the odds. Take a **Death-Whistle**, 1 charge. Its scream frightens away all who hear it (save WIL or flee). **Recharge**: Capture the final breath of a dying warrior.                                          |
-| **4** | **Revere the dead**: Death is a journey we all take, and it deserves respect. Take an extra **30gp**. You always place two gold pieces on the eyelids of a slain foe. Somehow, you always find the coin.                                                                              |
-| **5** | **Loyalty to the work**: Your word is your bond. Once you've accepted a job, you see it through to the end. Take a weathered **Tally Stick**. Once a vow is marked onto its face, the stick hardens (d8) until it is complete. The stick will snap in half if the vow is ever broken. |
-| **6** | **Always pay your debts**: You always repay what you owe, whether in coin or in kind. You expect nothing less from all others. Take a **Blacked-Out Ledger**, then roll a second time on the **Bonds** table.                                                                         |
+| **1** | **不流无辜者之血**：在你的守护下，不会有旁观者受到伤害。获得一面**稳固小圆盾**（+1 护甲）。只要双脚踩在坚实地面上，手持这面盾牌时你就不会被移动。                                                                         |
+| **2** | **敬重死亡之器**：武器应得到尊重和保养。获得一块**龙骨磨刀石**。经过半小时仪式般的打磨后，该武器的攻击处于_强化_，直到造成 STR 伤害为止。                                                                  |
+| **3** | **永远战至最后一刻**：无论胜算如何，你从不在战斗中退缩。获得一支**死亡哨**，1 次充能。它的尖啸会吓退所有听到它的人（WIL 豁免，否则逃跑）。**充能**：捕获一名垂死战士的最后一口气。                                          |
+| **4** | **敬重死者**：死亡是我们都会踏上的旅程，值得尊重。获得额外 **30gp**。你总会在死去敌人的眼皮上放两枚金币。不知为何，你总能找到这些钱。                                                                              |
+| **5** | **忠于工作**：你的承诺就是你的纽带。一旦接受工作，就会将它完成。获得一根风化的**刻痕木棒**。一旦把誓言刻在表面，木棒就会硬化（d8），直到誓言完成。如果誓言被违背，木棒会从中折断。 |
+| **6** | **总要偿还债务**：无论是用钱还是用其他方式，你总会偿还所欠的一切。你也要求其他人做到同样的事。获得一本**涂黑账簿**，然后在**纽带**表上再掷一次。                                                                         |
 
 
-## What breed is your horse? Roll 1d6:
+## 你的马是什么品种？掷 1d6：
 
 |       |                       |                                                                                                                 |
 | ----- | --------------------- | --------------------------------------------------------------------------------------------------------------- |
-| **1** | **Heavy Destrier**    | A beast built for war, an imposing creature. 8 HP, 1 Armor, hooves (d10+d10), +2 slots.                         |
-| **2** | **Blacklegged Dandy** | Hardy and adaptable. **Tough** or **Perilous** terrain are one step easier. 6 HP. +4 slots.                     |
-| **3** | **Rivertooth**        | Impressively strong, capable of carrying heavy loads. 4 HP. +6 slots (only +2 slots if carrying two people).    |
-| **4** | **Piebald Cob**       | Intelligent, it can understand simple commands and even has an instinct for danger. 6 HP. +4 slots.            |
-| **5** | **Linden White**      | Highly trained and agile, it can perform intricate maneuvers in a time of need (no DEX save to flee). 4 HP. +3 slots. |
-| **6** | **Stray Fogger**      | Wild but very fast (even in **Tough** terrain). Rides light. 4 HP. +2 slots.                                 |
+| **1** | **重型战马**          | 为战争而生的野兽，气势逼人。8 HP，1 护甲，蹄（d10+d10），+2 格。                         |
+| **2** | **黑腿花马**          | 健壮且适应性强。**艰难**或**险恶**地形的难度降低一级。6 HP。+4 格。                     |
+| **3** | **河牙马**            | 强壮得惊人，能够搬运重物。4 HP。+6 格（若载有两人，则只有 +2 格）。    |
+| **4** | **花斑矮马**          | 聪明，能理解简单命令，甚至具有危险直觉。6 HP。+4 格。            |
+| **5** | **椴木白马**          | 训练有素且敏捷，需要时能完成复杂动作（逃跑时无需进行 DEX 豁免）。4 HP。+3 格。 |
+| **6** | **流浪雾马**          | 野性十足但速度极快（即使在**艰难**地形中也是如此）。轻装骑行。4 HP。+2 格。                                 |

@@ -1,45 +1,45 @@
 ---
-title: Aurifex
+title: 金匠
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: 背景
+grand_parent: 第二版
 ---
 
-# Aurifex
+# 金匠
 
-> You are an artisan of the arcane, a smith of subtle forces. In the crucible of your workshop, the laws that govern this world are warped to suit your needs. 
+> 你是一名奥术工匠，锻造微妙力量的铁匠。在你的工作坊坩埚中，支配这个世界的法则被扭曲，以适应你的需要。
 
-## Names
+## 姓名
 
 Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Jazia
 
-## Starting Gear
+## 初始装备
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Lantern
-- Oil Can (6 uses)
-- Needle-knife (d6)
-- Protective Gloves (_petty_)
+- 3d6 金币
+- 口粮（3 次）
+- 提灯
+- 油罐（6 次）
+- 针刀（d6）
+- 防护手套（_轻巧_）
 
-## What went horribly wrong? Roll 1d6:
+## 什么事情糟糕地出错了？掷 1d6：
 
 |       |                                                                                                                                                                                                                                     |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | There was an explosion, and you lost your sense of smell. Well, almost: you can sniff out gold as a pig does truffles. Take a **Tin of Snuff** (6 uses) to dampen the impact. Use it every day or become _deprived_.                                  |
-| **2** | You dematerialized a beloved pet. Now it follows you around, invisible but always present. Although it cannot interact with the physical realm, you are able to share its senses. (Add a **Fatigue** each time.) It follows basic commands. |
-| **3** | You were exposed to a long-acting truth serum whose effects have yet to wear off. The disorder has its advantages: you cannot repeat lies you've heard, either.                                                                     |
-| **4** | You were adept at creating _fake_ gold, which is almost as good. Eventually, your ruse was discovered, and you had to make a hasty retreat. Take a heavy **Metal Ingot** and **Gold Powder** (3 uses).                                                    |
-| **5** | Your alchemical recipe worked, but a rival stole the blueprint before your claims could be proven. Take a prototype **Blunderbuss** (d12, _blast_, _bulky_) that takes one round to reload, and a taste for revenge.                                                      |
-| **6** | Ridiculed for discovering how to turn gold into _lead_, you were a laughing stock. Take a bottle of **Universal Solvent** (2 uses) that dissolves anything it touches into its constituent parts.                                   |
+| **1** | 发生了一场爆炸，你失去了嗅觉。好吧，几乎失去：你现在能像猪嗅松露一样嗅出金子。获得一罐**鼻烟**（6 次）来减轻影响。每天使用一次，否则就会陷入_匮乏_。                                  |
+| **2** | 你让心爱的宠物失去了实体。它现在跟在你身边，隐形却始终存在。虽然它无法与物质世界互动，但你可以共享它的感官。（每次这样做都增加一点**疲劳**。）它会服从基本命令。 |
+| **3** | 你接触到一种长效吐真剂，药效至今未消退。这个毛病也有好处：你无法复述自己听到过的谎言。                                                                     |
+| **4** | 你擅长制造几乎以假乱真的金子。最终，你的骗局被揭穿，只好仓促逃走。获得一块沉重的**金属锭**和一些**金粉**（3 次）。                                                    |
+| **5** | 你的炼金配方成功了，但在成果得到证实前，一名对手偷走了蓝图。获得一把原型**喇叭枪**（d12，_爆发_，_笨重_）；它需要一回合重新装填。你还因此落下了复仇的执念。                                                      |
+| **6** | 你因为发现如何把金子变成_铅_而遭到嘲笑，成了众人的笑柄。获得一瓶**万能溶剂**（2 次），它会将接触到的任何东西溶解成构成它的基本成分。                                   |
 
-## What alchemical marvel is the product of your latest ingenuity? Roll 1d6:
+## 你最近的巧思制造出了什么炼金奇物？掷 1d6：
 
 |       |                    |                                                                                                                                                                                                                      |
 | ----- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Pyrophoric Gel** | A sticky green fluid that catches fire when exposed to air, then burns for 8 hours. Cannot be extinguished (1 use).                                                                                                |
-| **2** | **Blast Sphere**   | A head-sized iron ball filled with explosive powder that detonates on impact (d12, _blast_, _bulky_, 1 use).                                                                                                             |
-| **3** | **Aqua Vita**      | Purifies any liquid, converting it to pure water. Drinking it cures 1d6 STR (1 use).                                                                                                                                         |
-| **4** | **Mimic Stone**    | Records a short phrase that can later be played back.                                                                                                                                                     |
-| **5** | **Spark Dust**     | Ignites easily and quickly. Useful for starting a fire or as an incendiary device (3 uses).                                                                                                                           |
-| **6** | **Homunculus**     | A miniature clay replica of yourself that follows your every command. It hates being enthralled to you and complains bitterly whenever possible. Any damage done to the homunculus is also done to you. 3 HP, 4 STR, 13 DEX, 5 WIL |
+| **1** | **发火胶**         | 一种黏稠的绿色液体，接触空气就会着火，随后持续燃烧 8 小时。无法扑灭（1 次）。                                                                                                |
+| **2** | **爆裂球**         | 一颗装满爆炸粉末、头颅大小的铁球，撞击时会引爆（d12，_爆发_，_笨重_，1 次）。                                                                                                             |
+| **3** | **生命之水**       | 净化任何液体，将其转化为纯水。饮用后恢复 1d6 STR（1 次）。                                                                                                                                         |
+| **4** | **拟声石**         | 记录一段短语，之后可以将其播放出来。                                                                                                                                                     |
+| **5** | **火花粉**         | 容易且迅速地点燃。可用于生火或作为燃烧装置（3 次）。                                                                                                                           |
+| **6** | **人造小人**       | 一个缩小的黏土版自己，会服从你的每一个命令。它痛恨受你驱使，只要有机会就会尖刻地抱怨。对人造小人造成的任何伤害也会作用于你。3 HP、4 STR、13 DEX、5 WIL |

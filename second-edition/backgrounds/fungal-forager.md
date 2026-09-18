@@ -1,46 +1,46 @@
 ---
-title: Fungal Forager
+title: 采菌人
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: 背景
+grand_parent: 第二版
 ---
 
-# Fungal Forager
+# 采菌人
 
-> You follow the whisperings of the deep earth, the rhythmic pulse of the mycelium forest that grows beneath the surface. The dark holds no terror for you. Also, you really love mushrooms.
+> 你追随着深层大地的低语，以及地表之下生长的菌丝森林那有节律的脉动。黑暗对你不构成任何恐惧。而且，你真的很喜欢蘑菇。
 
-## Names
+## 姓名
 
 Unther, Woozy, Hilda, Current, Leif, Ratan, Mourella, Lal, Per, Madrigal
 
-## Starting Gear
+## 初始装备
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Sharpened Trowel (d6)
-- Candle Helmet (+1 Armor, dim, 6 uses)
-- Rope (25ft)
-- Metal Pail
+- 3d6 金币
+- 口粮（3 次）
+- 磨利的园艺铲（d6）
+- 蜡烛头盔（+1 护甲，微光，6 次）
+- 绳子（25 英尺）
+- 金属桶
 
-## What strange fungus did you discover? Roll 1d6:
+## 你发现了什么奇异真菌？掷 1d6：
 
 |       |                                                                                                                                                                                |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | **Shrieking Trumpet**. When exposed to light, it screams so loudly that all nearby attacks (including your own) are _impaired_. 2 uses.                                        |
-| **2** | **Torch Fungus**. When crushed, it creates a cold blue light for a short while. 2 uses.                                                                                        |
-| **3** | **Murderous Truffle**. Pungent, highly toxic, and very rare (worth 50gp to assassins).  Illegal pretty much everywhere. 1 use.                                                 |
-| **4** | **Hellcap**. Exposure to its aroma causes intense nausea and vomiting. Either way, it clears the room. Bottled (1 use).                                                        |
-| **5** | **Sproutcup**. Ingest to shrink down to the size of a mouse. (Your belongings stay the same size.) You return to normal size within the hour, often in fits and starts. 1 use. |
-| **6** | **Rootflower**. A white fungus found only on corpses deep underground. Ingest to restore d6 WIL. You will dream of the dead and their stories. 1 use.                          |
- 
+| **1** | **尖啸喇叭菌**。暴露在光线下时，它会发出极其响亮的尖叫，使附近所有攻击（包括你的攻击）受到_削弱_。2 次。                                        |
+| **2** | **火把菌**。捣碎后，会在短时间内产生冰冷的蓝光。2 次。                                                                                        |
+| **3** | **凶杀松露**。气味刺鼻，毒性极强，而且极其稀有（对刺客来说价值 50gp）。几乎在任何地方都属非法。1 次。                                                 |
+| **4** | **地狱帽**。接触它的气味会引起剧烈的恶心与呕吐。无论如何，它都能清空房间。装瓶（1 次）。                                                        |
+| **5** | **芽杯菌**。服下后会缩小到老鼠大小。（你的物品保持原有大小。）一小时内会恢复正常体型，而且过程常常断断续续。1 次。 |
+| **6** | **根花菌**。一种只生长在地下深处尸体上的白色真菌。服下后恢复 d6 WIL。你会梦见死者及其故事。1 次。                          |
 
-## What keeps you sane, even in utter darkness? Roll 1d6:
+
+## 究竟是什么让你在彻底的黑暗中保持理智？掷 1d6：
 
 |       |                     |                                                                                                |
 | ----- | ------------------- | ---------------------------------------------------------------------------------------------- |
-| **1** | **Glowsnail**       | Casts a soft, bioluminescent light. Feeds on one ration every two days.                        |
-| **2** | **Silk Moth Shawl** | A weatherproof blanket, it can also douse a fire without being damaged.                        |
-| **3** | **Milkflower**      | A gentle stimulant. Chewing it makes you immune to _panic_ for the next hour. 3 uses.          |
-| **4** | **Luxcompass**      | Hums softly as it moves closer to the Sun. Eventually the noise becomes unbearably loud.       |
-| **5** | **Sloth-Tarp**      | A tough and weatherproof fabric, useful for hanging off trees. When inside, you have +1 Armor. |
-| **6** | **Miner's Grease**  | Great for dislodging a gem, tool, or limb from a tight crack. Highly explosive. 3 uses.        |
+| **1** | **发光蜗牛**        | 发出柔和的生物荧光。每两天消耗一份口粮。                        |
+| **2** | **蚕蛾披肩**        | 一条防风雨的毯子，也能在不受损的情况下扑灭火焰。                        |
+| **3** | **奶花**            | 一种温和的兴奋剂。咀嚼后，你在接下来一小时内免疫_恐慌_。3 次。          |
+| **4** | **日向罗盘**        | 当它朝太阳靠近时会发出轻柔的嗡鸣。最终，声音会变得震耳欲聋。       |
+| **5** | **树懒篷布**        | 一种坚韧且防风雨的布料，适合挂在树上。进入其中时，你获得 +1 护甲。 |
+| **6** | **矿工油脂**        | 非常适合将宝石、工具或肢体从狭窄的裂缝中取出。极易爆炸。3 次。        |

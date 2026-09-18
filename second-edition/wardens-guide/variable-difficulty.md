@@ -1,171 +1,171 @@
 ---
 layout: default
-title: Variable Difficulty
-parent: Warden's Guide 
-grand_parent: Second Edition
+title: 可变难度
+parent: 守望者指南
+grand_parent: 第二版
 ---
-# Variable Difficulty
+# 可变难度
 
-## Introduction
+## 简介
 
-In Cairn, players are encouraged to overcome problems by asking questions, thinking critically, and working within the fiction of the game world to curry advantage. The following principles and examples should help Wardens create consistent and fair rulings that both challenge and reward players for their effort.
+在 Cairn 中，鼓励玩家通过提问、批判性思考，并利用游戏世界的虚构情境来争取优势，从而克服困难。以下原则和示例应能帮助守望者做出一致且公平的裁定，既考验玩家，也奖励他们付出的努力。
 
-## Principles For Variable Difficulty 
+## 可变难度原则
 
-- Reward thinking outside the box. This may be a simple mitigation of risk, a new piece of knowledge, character growth, and more.
-- Modify outcomes according to the effort that went into them. If the PCs worked really hard to make something succeed despite the danger involved, enhance the result to match their trouble.
-- Emphasize fictional consequences rather than mechanical buffs. Purely mechanical rewards are usually hollow and lack the potential of in-world benefits.
-- Many dangers can be mitigated or extinguished given time, effort, and skill. If there is no real risk, just skip the roll!
-- Create situations that emphasize non-mechanical solutions. A problem is more interesting when the key to solving it can be understood purely within the fiction.
+- 奖励跳出常规的思考。这可以是简单地降低风险、获得新的知识、角色成长，或其他形式的奖励。
+- 根据投入的努力调整结果。如果 PC 为了让某件事成功而在危险面前付出了极大努力，就相应地强化结果，以匹配他们的付出。
+- 强调虚构情境中的后果，而不是机制性加成。纯粹的机制奖励通常很空洞，也缺乏转化为游戏世界内收益的潜力。
+- 只要投入时间、努力和技能，许多危险都可以得到缓解或消除。如果确实没有风险，就跳过掷骰！
+- 创造突出非机制性解决方案的情境。当解决问题的关键可以纯粹从虚构情境中理解时，问题会更有趣。
 
-## Examples
+## 示例
 
-### Evening The Odds
+### 扭转劣势
 
-> Freya is facing off against a Wood Troll after being separated from the rest of the party. Pinned between the creature and a cave wall, she has no choice but to engage in direct combat. She has already passed her initial DEX save and thus gets to attack before her opponent.
+> Freya 与队伍其他成员失散后，正与一只 Wood Troll 对峙。她被困在生物和洞壁之间，只能正面战斗。她已经通过初始的 DEX 豁免，因此可以在对手之前攻击。
 
-**Freya**: _"I know I can't beat this guy fair and square, so I'd like to know if there is anything nearby that might even the odds a bit. I grew up on the streets, which means I know how to fight dirty. I'd like to try and blind him without getting clobbered in the process. What are my options?"_
+**Freya**：_“我知道自己不可能公平地打赢这个家伙，所以我想看看附近有没有什么东西能稍微扭转局势。我在街头长大，知道怎么用脏手段战斗。我想在不被他打伤的情况下设法弄瞎他。我有哪些选择？”_
 
-**Warden**: _"I'll roll a Die of Fate to see how dusty things are around here. A 4! Alright, there is definitely some dust between you and your opponent, but you might need to get close to him in order to scoop some up. You'll need to make a DEX save."_ 
+**守望者**：_“我掷一次命运骰，看看这里到底有多大灰尘。是 4！好吧，你和对手之间确实有一些灰尘，但你可能需要靠近他才能捞起一些。你需要进行一次 DEX 豁免。”_
 
-> Freya rolls a 13: a success!
+> Freya 掷出 13：成功！
 
-**Warden**: _"You grab a fistful of dust off the ground in front of you and toss it straight into your opponent's face. He staggers backward and is unable to defend himself as he fights to clear the grit from his eyes!"_
+**守望者**：_“你从面前的地面抓起一把灰尘，径直扔进对手的脸里。他踉跄着向后退去，忙着清理眼中的砂砾，根本无法防御！”_
 
-> The Wood Troll loses a turn as he tries to remove the dust from his face. He cannot rely on HP in this state; damage will go directly to STR!
+> Wood Troll 花费一个回合试图清除脸上的灰尘。在这种状态下，它无法依靠 HP；伤害会直接扣除 STR！
 
-**Freya**: _"I know I should run for it... but I can't help but take advantage of this situation. I'd like to introduce this fellow to the Twins."_
+**Freya**：_“我知道自己应该逃跑……但我忍不住要利用这个机会。我要让这个家伙见识一下 Twins。”_
 
-> Freya rolls d6+d6 for her daggers (a 3 and a 5), dealing 5 damage directly to the Wood Troll's STR Attribute. The Warden then makes a Critical Damage save for the Troll, rolling a 19: a fail!
+> Freya 为她的匕首掷出 d6+d6（结果为 3 和 5），直接对 Wood Troll 的 STR 属性造成 5 点伤害。随后，守望者为 Troll 进行一次重伤豁免，掷出 19：失败！
 
-**Warden**: _"You stab him with both blades, green blood gushing from open wounds as the creature roars out in anger. Let's see if it survives the attack! Oooh, it fails its STR save and takes **Critical Damage**! It's down!"_
+**守望者**：_“你用两把刀刺中它，绿色的血液从伤口中喷涌而出，生物愤怒地咆哮起来。看看它能否撑过这次攻击！噢，它的 STR 豁免失败，受到**重伤**！它倒下了！”_
 
-**Freya**: _"Alright, I'm taking this as a sign. Time to make my exit!"_
+**Freya**：_“好吧，我把这当作某种征兆。该撤了！”_
 
-> Freya flees the scene (no DEX save required), leaving the Wood Troll to bleed out. If she had known that it can slowly regenerate its health, she might have stayed...
+> Freya 逃离现场（不需要进行 DEX 豁免），留下 Wood Troll 流血至死。如果她知道它能慢慢恢复生命值，也许就会留下来……
 
-### Teamwork
+### 团队合作
 
-> Wolfram, Lucius, and Freya are investigating rumors of an invisible creature that has been attacking locals in the Wood. They've tracked the creature to its island den just 40ft from the shoreline of a poison lake. The lake is separated from the surrounding forest by heavy mud flats.
+> Wolfram、Lucius 和 Freya 正在调查有关一种隐形生物的传闻，据说它一直在袭击森林中的居民。他们追踪生物来到它在一座小岛上的巢穴，岛屿距离毒湖岸边只有 40 英尺。湖泊周围是大片泥滩，将湖水与森林隔开。
 
-**Warden**: _"The creature's footprints end at the shore of a roiling lake that bubbles and swirls violently. Knowing the history of the region, you realize that if the lake water doesn't kill you, the toxic fumes coming from its surface definitely will!"_
+**守望者**：_“生物的脚印在一座翻滚的湖泊岸边消失了。湖水剧烈冒泡、旋转。你们了解这片地区的历史，知道即使湖水不杀死你们，湖面升起的毒气也一定会杀死你们！”_
 
-**Wolfram**: _"We know that the blasted thing makes its home on that pile of rocks out there. Obviously we can't swim across, but I have an idea about how we might draw it out! Lucius, I'm sorry but of the three of us, you're the most... soft. In other words, the perfect bait! Let's make it seem as if your cart is stuck in the mud. I've had a blanket rolled up in my pack for a while now. Perhaps Freya and I can hide under it, then pounce on the creature at just the right moment?"_
+**Wolfram**：_“我们知道那个该死的东西住在那堆岩石上。显然我们不能游过去，但我有办法把它引出来！Lucius，抱歉，不过我们三个人里你最……柔弱。换句话说，你是最完美的诱饵！让我们假装你的车陷在泥里。我背包里有条毯子，已经卷起来放了一阵子。也许 Freya 和我可以藏在毯子下面，然后在恰当的时机扑向生物？”_
 
-**Lucius**: _"I knew I shouldn't have sported my fancy hat today! Fine, let's proceed."_
+**Lucius**：_“我就知道今天不该戴那顶漂亮帽子！好吧，开始吧。”_
 
-**Warden**: _"The party executes their plan as described, creating the perfect bait for their unsuspecting quarry. I'm going to roll a Die of Fate to determine whether the creature even takes notice... a 5! Alright, that means that the creature definitely wants to investigate the situation, but there's a wrinkle as well: it's starting to get dark."_
+**守望者**：_“队伍按描述执行了计划，为毫无戒心的目标设下了完美诱饵。我掷一次命运骰，决定生物是否注意到情况……是 5！好吧，这意味着生物肯定想来调查，但还有一个变数：天开始黑了。”_
 
-**Freya**: _"Presumably this means that Wolfram and I are able to spy on the island while we hide, right? And that Lucius is still looking the opposite way, pretending to fuss over a stuck wheel?"_
+**Freya**：_“这大概意味着，在藏身期间，Wolfram 和我还能观察那座岛，对吧？而 Lucius 仍然背对着岛，假装在为卡住的车轮忙碌？”_
 
-**Warden**: _"Correct. Both Wolfram and Freya can still see through the cart slats that something clambered out from beneath the pile of rocks on the island, scattering them as it moves towards the water. You can't actually tell what moved the rocks, though. It really is invisible! As you watch, something slips into the toxic waters, making a quiet splash. And its ripples are heading in your direction!"_
+**守望者**：_“没错。Wolfram 和 Freya 仍能透过车板缝隙看到，岛上那堆岩石下有什么东西爬了出来，移动时将岩石四处撞开。但你们无法看清究竟是什么移动了那些岩石。它确实是隐形的！你们看着某种东西滑入毒水，发出轻微的落水声。水面的涟漪正朝你们的方向而来！”_
 
-**Wolfram**: _"Well, I guess this is as good a time as ever to bring out my Voidglass Shard! It lets me see invisible creatures but packs a wallop! I won't be able to see out of one eye for an hour, during which time my fighting skills will be... less effective. Might I be able to get a shot with the crossbow while looking through the glass?"_
+**Wolfram**：_“嗯，我想现在正是拿出 Voidglass Shard 的好时候！它能让我看见隐形生物，但代价也不小！接下来一小时内，我的一只眼睛什么也看不见，在此期间我的战斗能力会……没那么好。我能不能一边透过玻璃看，一边用弩射击？”_
 
-**Warden**: _"You need two hands for the crossbow."_
+**守望者**：_“使用弩需要两只手。”_
 
-**Freya**: _"I can hold the Voidglass Shard up to his eye."_
+**Freya**：_“我可以把 Voidglass Shard 举到他的眼睛前。”_
 
-**Warden**: _"That will work, but you won't have an action of your own until after the creature has a chance to react."_
+**守望者**：_“这样可以，但在生物有机会作出反应之前，你不能进行自己的行动。”_
 
-**Lucius**: _"Um, what about me? I won't be able to see the creature at all, let alone defend myself! I'd like to prepare an action for the moment Wolfram gets a shot off. I still have the large sack from our last caper. I wonder if I could leap on the creature when it approaches, trapping it like a giant fish?"_
+**Lucius**：_“呃，那我呢？我根本看不见生物，更别说保护自己了！我想为 Wolfram 射出那一箭的时刻准备一个行动。我还留着上次行动用的大袋子。也许我可以在生物靠近时扑上去，用袋子把它困住，就像抓一条大鱼？”_
 
-**Warden**: _"That works! You each prepare yourselves for what is to come. Freya and Wolfram, you wait in silence as the ripples come ever closer. Finally, they stop! Freya places the Voidglass Shard on Wolfram's eye as he raises his crossbow. Wolfram, you see a slimy, fish-like creature climbing out of the water, yellowed scales crisscrossing its multi-limbed body. There is a brief, breathless pause and then a loud TWANG as he lets loose a crossbow bolt."_
+**守望者**：_“可以！你们各自为接下来要发生的事做好准备。Freya 和 Wolfram 静静等待，涟漪越来越近。终于，涟漪停了！Freya 将 Voidglass Shard 放到 Wolfram 的眼睛上，而 Wolfram 举起了弩。Wolfram，你看到一只黏糊糊的鱼状生物从水里爬出来，泛黄的鳞片交错覆盖在它多肢的身体上。短暂而令人屏息的停顿后，一声响亮的 TWANG 传来，你射出了弩箭。”_
 
-> Wolfram rolls a d8, resulting in a 6! As the creature was unaware of its attackers, the damage goes directly to STR. It makes a Critical Damage save, and the result is a 3: a success. 
+> Wolfram 掷出 d8，结果为 6！由于生物没有察觉攻击者，伤害直接扣除 STR。它进行一次重伤豁免，结果为 3：成功。
 
-**Warden**: _"The creature is impaled by the bolt, green fluid spurting out of its body. Where it lands, the surface hisses as if in contact with acid. It turns towards the cart, but before it can react, Lucius throws his large sack over it. The creature thrashes about inside the sack, twisting in every which way."_
+**守望者**：_“弩箭刺穿生物，绿色液体从它身上喷出。液体落下的地方发出嘶嘶声，仿佛接触到了酸液。它转向马车，但还没来得及反应，Lucius 就把大袋子套到了它身上。袋子里的生物扭动挣扎，身体朝各个方向扭曲。”_
 
-> The Warden makes a DEX save for the creature to see if it can quickly break free from the sack. Out of water, it has only 8 DEX. It rolls a 12: a fail. Unable to defend itself, the creature is quickly tied up and placed in the cart, along with a jar of the toxic water for the journey. Working together, the party quickly heads back towards town.
+> 守望者为生物进行一次 DEX 豁免，看看它能否迅速挣脱袋子。离开水后，它只有 8 DEX。它掷出 12：失败。生物无法防御自己，很快就被捆住，和一罐毒水一起放进马车。队伍合作着迅速返回城镇。
 
-### Character History
+### 角色经历
 
-> The party are escorting an agent of the Alsace faction deep in enemy territory. Their destination is hidden in a small village protected by tall wooden walls. Their job is to sneak their client into the heavily guarded town and then into the ancient vault of Der Thunn. As they approach the village, the sun is just beginning to set, and Lucius has been sent ahead to investigate, posing as a troubadour from the South.
+> 队伍正护送 Alsace 派系的一名特工深入敌境。他们的目的地藏在一座小村庄里，村庄由高大的木墙保护。他们的任务是把客户偷偷送进戒备森严的城镇，再送入 Der Thunn 的古老宝库。当他们接近村庄时，太阳刚开始落山，Lucius 被派到前方侦察，伪装成来自南方的吟游诗人。
 
-**Warden**: _"You approach the walled village, following the dirt trail that leads directly to the town's front gate. Two guards stand on either side of the gate, which is closed. The guards are nearly identical save for a weak mustache sported by one."_
+**守望者**：_“你们靠近有城墙的村庄，沿着泥土小路直达城门。城门紧闭，两名守卫分别站在两侧。他们几乎一模一样，只有其中一人留着一撇稀疏的小胡子。”_
 
-**Lucius**: _"Ho there, fine gentlemen! May one such as myself inquire as to whether entry to your village would be permissible on this fine evening? I've had a long journey but am flush with gold and would love to spread some of my good luck!"_
+**Lucius**：_“喂，那边两位体面的先生！像我这样的人可以请问一下，今天晚上能否获准进入你们的村子？我长途跋涉而来，腰缠万贯，正想把好运分享出去！”_
 
-**Warden**: _"The men exchange a look. The mustachioed guard replies, 'No entry after dark. That's the rule.'"_
+**守望者**：_“两人交换了一个眼神。留着胡子的守卫回答：‘天黑后不许入内。这是规矩。’”_
 
-> At this point, Lucius is putting on all his charm and is essentially trying to bribe the guards to gain entry. He is also the most at risk in this situation, as the two men are well-equipped to handle a lone traveler and have backup besides. If it were required, Lucius would make the WIL save and not the guards.
+> 此时，Lucius 正在施展全部魅力，本质上是想贿赂守卫以进入村子。在这个情境中他承担的风险最大，因为两个装备精良的男人足以对付一名独行旅客，而且他们还有援兵。如果需要，进行 WIL 豁免的应该是 Lucius，而不是守卫。
 
-**Lucius**: _"Yes, I understand. But it isn't quite dark yet, is it? The Sun is only just setting. May I please enter? I'd happily start sharing my newfound wealth with you two first, if you catch my drift. Perhaps I could bring you each a well-earned beer? To show my appreciation, of course._"
+**Lucius**：_“是的，我明白。但现在还不算完全天黑，对吧？太阳才刚刚落山。我可以进去吗？如果你们明白我的意思，我很乐意先和两位分享我新近得到的财富。也许我可以请你们各喝一杯辛苦应得的啤酒？算是表达谢意。”_
 
-**Warden**: _"The two men exchange looks once more, but this time the other man replies, smirking. 'Well... perhaps this once. The Sun hasn't truly set just yet. And we are quite thirsty, after all.'"_
+**守望者**：_“两人再次交换眼神，但这次是另一个男人回答，脸上带着笑意：‘嗯……这次也许可以。太阳还没有真正落山。而且我们确实很渴。’”_
 
-> The Warden made a ruling based on what was known about these men: they were simple village guards, they'd been working a long day, and they love beer. Perhaps with another character, this wouldn't have worked, but Lucius is a Mountebank, and his capacity for winning the confidence of his targets has been well established. The guards let him in. 
+> 守望者根据已知情况作出裁定：这两人只是普通的村庄守卫，辛苦工作了一整天，而且喜欢啤酒。换成另一个角色，也许就不会成功；但 Lucius 是一名 Mountebank，而且他赢得目标信任的能力已经得到充分证明。守卫放他进去了。
 
-### Greater Risk For Greater Reward 
+### 风险越大，回报越高
 
-> The party has sent Freya under the cover of darkness to spy on an enemy encampment. Her goal is to ascertain their enemy's total number as well as what sort of dangers might await there.
+> 队伍让 Freya 在夜色掩护下侦察敌方营地。她的目标是确认敌人的总人数，以及那里可能存在什么样的危险。
 
-**Warden**: _"Halfway to the camp, you see a light flickering along the trail. Someone is coming toward you! What do you do?"_
+**守望者**：_“走到营地一半时，你看见小路上有灯光闪烁。有人朝你走来！你要做什么？”_
 
-**Freya**: _"I slip into the foliage on the side of the trail, keeping as quiet as possible. Does that require a save?"_
+**Freya**：_“我躲进小路一侧的植物里，尽可能保持安静。需要豁免吗？”_
 
-**Warden**: _"No, because you've got enough of a distance from this person and you don't have any light sources lit. You may hide without risk of being found."_
+**守望者**：_“不需要，因为你与那个人之间有足够的距离，而且你没有点亮任何光源。你可以无风险地藏起来，不会被发现。”_
 
-**Freya**: _"If it seems to me like this person might belong to the same faction as our enemy, I would like to ambush them and steal their clothes. I don't want to raise the alarm, so I will need to be fast and furious."_
+**Freya**：_“如果看起来这个人可能属于我们的敌对派系，我想伏击他并偷走他的衣服。我不想拉响警报，所以必须又快又狠。”_
 
-**Warden**: _"OK. They will need to make a DEX save to react in time to fend off your attack, then. It might not go as cleanly as you hope!"_
+**守望者**：_“好。那么他需要进行一次 DEX 豁免，看看能否及时反应并挡住你的攻击。事情可能不会像你希望的那么顺利！”_
 
-**Freya**: _"What if instead I just knock them unconscious by dropping a tree branch on top of them? I have a hand ax in here somewhere."_
+**Freya**：_“那如果我用树枝砸在他头上把他打晕呢？我记得这里有一把手斧。”_
 
-**Warden**: _"That might work. You'll need to sprint back a bit, climb a tree, and then save STR to determine if you can cut the branch down at just the right moment, without notifying your target. If you fail, you will come down with the branch as well, potentially taking damage and putting yourself in a very vulnerable position."_
+**守望者**：_“可以试试。你需要先跑回去一点、爬上一棵树，然后进行 STR 豁免，判断自己能否在不惊动目标的情况下，于恰当的时机砍断树枝。如果失败，你也会和树枝一起掉下来，可能受到伤害，并陷入非常脆弱的处境。”_
 
-> Freya rushes back down the trail, climbs a tree, and begins hacking at one of the branches with her ax. She rolls a STR save: a 7, a success! She thwacks the branch at just the right moment, and it falls atop the lone traveler below her, knocking them unconscious. Freya steals their clothes and their torch, then sets off down the trail towards the camp. 
+> Freya 沿小路跑回去，爬上一棵树，开始用斧头砍其中一根树枝。她进行 STR 豁免，掷出 7：成功！她在恰当的时机砍断树枝，树枝落到下方的独行者身上，将其打晕。Freya 偷走了对方的衣服和火把，然后沿小路朝营地走去。
 
-## Combat Is War
+## 战斗即战争
 
-> **Wolfram**, **Lucius**, and **Freya** are on the run from a _detachment_ of twelve city guards [4 HP, 1 Armor, 11 STR, 14 DEX, 12 WIL, short sword (d6)], and they are taking shelter in a burnt-out old outpost at the edge of a forest, accessible only by a single ladder. The soldiers each carry a short sword and bow, except for their leader, a tall man with a bright blue epaulet on his shoulder. The soldiers know that the party has taken refuge in the outpost, and are talking among themselves at a safe distance away, just North of where the party is hunkering down. The _detachment_ will be treated as a single entity until they take Critical Damage. 
+> **Wolfram**、**Lucius** 和 **Freya** 正在逃离一支由十二名城市守卫组成的_分队_ [4 HP, 1 护甲, 11 STR, 14 DEX, 12 WIL, 短剑 (d6)]，他们躲进了森林边缘一座烧毁的旧哨站。哨站只有一架梯子可以进入。除首领外，士兵们每人都带着短剑和弓；他们的首领是一个高大的男人，肩膀上佩戴着鲜蓝色的肩章。士兵们知道队伍躲进了哨站，正在远处的安全位置交谈，就在队伍藏身处的正北方。这支_分队_会作为一个整体处理，直到它受到重伤。
 
-**Warden**: _"The outpost is partly shielded by what remains of its walls, and through the slats, you see the soldiers split off: six head towards the Southwest, adjacent to the treeline, while the rest (including the tall man) move Southeast, where the walls are the most damaged. It looks like they are planning some kind of pincer attack. You have less than a minute to act before they reach the open-side of the shield wall! What do you do?"_
+**守望者**：_“哨站的残墙提供了一些遮挡。透过墙板缝隙，你看到士兵们分开了：六人朝西南方、树线旁边走去，其余人（包括那个高大的男人）朝东南方移动，那里墙体受损最严重。看起来他们打算发动某种钳形攻势。在他们抵达防护墙开口的一侧之前，你们只有不到一分钟可以行动！你们要做什么？”_
 
-**Wolfram**: _"I was in the military, so I know how this goes. That man with the fancy tassel is their leader. If we take him out, the rest might flee. I'm going to wait until he is as close as possible, then fire my crossbow at him. If that leaves me exposed, then so be it!"_
+**Wolfram**：_“我以前当过兵，所以知道事情会怎么发展。那个戴着漂亮流苏的人是他们的首领。只要干掉他，其他人也许会逃跑。我要等他尽可能靠近，然后用弩射他。如果那会让我暴露，那就随它去吧！”_
 
-**Lucius**: _"You're always so direct, Wolfie! I'm going to pour some of my famous Miracle Oil on the ladder leading up here. That should both prove effective and entertaining!"_
+**Lucius**：_“你总是这么直接，Wolfie！我要把一些我著名的 Miracle Oil 倒在通往这里的梯子上。效果应该既好又有趣！”_
 
-**Freya**: _"And what exactly will stop them from simply firing into our hiding spot from the giant holes on the South side? At the very best, they'll just wait until we run out of food. I have another idea: I'll poke my head through the trapdoor and toss  Smoke Bombs towards each side of the building. That'll give us an advantage for when these other two plans inevitably fail!_
+**Freya**：_“南侧墙壁上有那么大的洞，他们只要从那里向我们的藏身处射击，究竟有什么能阻止他们？最好的结果也不过是他们等到我们食物耗尽。我还有个主意：我会把头伸出活板门，向建筑两侧各扔一枚 Smoke Bomb。这样，等另外两个计划不可避免地失败时，我们至少能占据优势！”_
 
-**Lucius**: _"Uh, I guess I’ll use my oil just after she tosses the Smoke Bombs, then?”_
+**Lucius**：_“呃，那我就等她扔完 Smoke Bomb 后再使用我的油？”_
 
-**Warden**: _"That should be fine, yes. But be aware that combat officially breaks out as soon as Wolfram stands to fire. And since you're all at the ready, there is no need to make a DEX save: you go first."_
+**守望者**：_“可以。但要注意，Wolfram 一站起来射击，战斗就正式开始。既然你们都已经做好准备，就不需要进行 DEX 豁免：你们先行动。”_
 
-**Warden**: _"The soldiers continue their trajectory, until finally the leader draws his sword into the air and screams, 'Charge!' And the soldiers rush towards you. Everything happens at once. Wolfram stands and fires his crossbow at the leader. Since the leader is part of a detachment, Wolfram can only roll a d4."_
+**守望者**：_“士兵们继续向前，直到首领终于将剑举向空中，大喊：‘冲锋！’士兵们朝你们冲来。一切同时发生。Wolfram 站起来，向首领射出弩箭。由于首领属于一支分队，Wolfram 只能掷 d4。”_
 
-> The result of Wofram's attack is a 3, and as the leader's helmet absorbs 1 point of damage, he loses only 2 HP.
+> Wolfram 的攻击结果为 3，而首领的头盔吸收了 1 点伤害，因此他只损失 2 HP。
 
-**Warden**: _"The arrow whizzes past the leader's shoulder, tearing his brightly-colored shoulder epaulet. He grimaces and rushes forward towards the East side of the building. Freya, at the same time, you pop your head through the trap door and toss Smoke Bombs on the East and West sides of the building - mark off 2 uses please. Lucius, you stand behind her, and the moment she moves away, you pour some Miracle Oil on the stepladder."_
+**守望者**：_“箭矢擦过首领的肩膀，撕裂了他颜色鲜艳的肩章。他咬牙朝建筑东侧冲去。与此同时，Freya，你把头伸出活板门，向建筑东侧和西侧扔出 Smoke Bomb——请记下 2 次使用次数。Lucius，你站在她身后，她一离开，你就把一些 Miracle Oil 倒在折梯上。”_
 
-**Warden**: _"As smoke fills either side of the building, it becomes impossible to tell friend from foe. A few of the men try to climb the ladder but immediately slide off, landing at the bottom in a heap. Your enemies have essentially lost their turn, but the smoke is starting to dissipate. Amidst coughing and shouts, you hear a voice cry, 'Burn it to the ground!'"_
+**守望者**：_“烟雾充满建筑两侧后，你们无法分辨敌我。几个人试图爬上梯子，却立刻滑了下来，成堆地摔在底部。敌人基本上失去了本回合的行动，但烟雾开始消散。在咳嗽声和喊叫声中，你们听到有人喊：‘把它烧成灰！’”_
 
-**Wolfram**: _"Well that bought us some time, at least. Hey, Lucius, how flammable is that oil of yours?"_
+**Wolfram**：_“至少这给我们争取了一点时间。嘿，Lucius，你的油有多易燃？”_
 
-**Lucius**: _"Very. And it seems we may be running out of options."_
+**Lucius**：_“非常易燃。而且看来我们的选择越来越少了。”_
 
-**Freya**: _"Well, it's been fun, but I'd rather die fighting down there than get burned alive up here with you lot! No offense."_
+**Freya**：_“好吧，和你们一起待着很开心，但我宁愿下去战斗而死，也不想和你们一起在这里被烧死！没有冒犯的意思。”_
 
-**Wolfram**: _"None taken. See if you can take out their leader while we try to open up an escape route."_
+**Wolfram**：_“没有冒犯。你去干掉他们的首领，我们想办法打开逃生路线。”_
 
-**Wolfram**: _"I'm going to cast Disassemble on myself, then scream 'he's going to tear my arms off!' I will then drop down to the ground and start running around in circles. Lucius, when my arms are removed, I want you to pick them up and come after me."_
+**Wolfram**：_“我要对自己施放 Disassemble，然后大喊‘他要把我的胳膊撕下来了！’接着我会跳到地面，开始绕圈奔跑。Lucius，等我的胳膊被拆下来后，把它们捡起来追上我。”_
 
-**Lucius**: _"OK. I really hope this works... And if not, well at least we'll go down fighting! Or screaming. Probably the latter."_
+**Lucius**：_“好吧。我真希望这能奏效……如果不行，至少我们会战斗到最后！或者一路尖叫。大概是后者。”_
 
-**Warden**: _"Freya, who will be your target and what weapon?"_
+**守望者**：_“Freya，你的目标是谁，使用什么武器？”_
 
-**Freya**: _"Their leader, and I'll be using the Twins._"
+**Freya**：_“他们的首领，我要用 Twins。”_
 
-**Warden**: _"Alright. Freya leaps down to the smokey earth, making a beeline for the leader. She draws her twin daggers, but as she is still attacking a detachment, she must still roll only a d4 each dagger."_
+**守望者**：_“好。Freya 跳下哨站，落到烟雾弥漫的地面上，直奔首领而去。她拔出双匕首，但由于她仍在攻击一支分队，每把匕首仍然只能掷 d4。”_
 
-> Freya makes two d4 rolls, a 4 and a 1. She keeps the higher, and the leader's helmet again absorbs 1 point of damage. The remaining 3 damage is enough to trigger a Critical Damage save on the behalf of the detachment. The result is a 15 (a fail), and with the defeat of their leader, the detachment is both broken and routed.
+> Freya 掷出两个 d4，结果为 4 和 1。她保留较高的结果，而首领的头盔再次吸收了 1 点伤害。剩余的 3 点伤害足以迫使这支分队进行一次重伤豁免。结果为 15（失败）；随着首领被击败，这支分队瓦解并溃散。
 
-**Warden**: _"Freya slashes at the leader, but her dagger misses as he takes a lucky step back. He is less fortunate on her second attack, however, as she stabs him in the chest. He slumps over, and those closest to him shout in surprise; some even begin backing away. It is at this moment that you hear a scream, and then see Wolfram leap onto the ground from the outpost and begin running in circles, followed by Lucius, holding both of his friend's arms. The others then pick up their leader and hightail it back to the edge of the hill amid screams of 'Sorcery!' and 'We weren't trained for this!'"_ 
+**守望者**：_“Freya 向首领挥砍，但他幸运地向后退了一步，躲过了她的匕首。不过，他没能躲过她的第二次攻击：她将匕首刺进他的胸膛。他瘫倒下去，身边的人惊叫起来，有些人甚至开始后退。就在这时，你们听到一声尖叫，然后看到 Wolfram 从哨站跳到地面上开始绕圈奔跑，Lucius 紧随其后，手里抱着朋友的两条胳膊。其他人抬起他们的首领，伴随着‘巫术！’和‘我们没受过应对这种情况的训练！’的喊声，狼狈地逃回山丘边缘。”_
 
-**Wolfram**: _"I knew that would work!"_
+**Wolfram**：_“我就知道这招管用！”_
 
-**Freya**: _"I'm pretty sure this was all me, but whatever._"
+**Freya**：_“我很确定这全是我的功劳，不过算了。”_
 
-**Lucius** _"Who cares? Let's just get out of here while the getting's good._"
+**Lucius**：_“谁在乎？趁现在情况还不错，我们赶紧离开这里。”_
 
-**Warden** _"You have an opportunity to flee into the nearby Wood, or across the open fields if you think you can run fast enough. What do you do?"_
+**守望者**：_“你们现在有机会逃进附近的森林，或者穿过开阔的田野——如果你们觉得自己跑得够快的话。你们要怎么做？”_

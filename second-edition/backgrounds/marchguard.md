@@ -1,45 +1,45 @@
 ---
-title: Marchguard
+title: 边境卫
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: 背景
+grand_parent: 第二版
 ---
 
-# Marchguard
+# 边境卫
 
-> Bound by blood Oath to patrol the border and protect the realm. Once sworn, the Oath cannot be broken. The Guard always finds their own.
+> 你受血之誓约束，巡逻边境，保护国土。一旦立誓，誓约便不可违背。卫队总会找到自己人。
 
-## Names
+## 姓名
 
 Gann, Light, Saoirse, Frost, Thorn, Reed, Dirk, Ragnar, Brie, Aasim
 
-## Starting Gear
+## 初始装备
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Lantern
-- Oil Can (6 uses)
-- Long Sword (d10, _bulky_)
-- Boiled Leather (1 Armor)
+- 3d6 金币
+- 口粮（3 次使用）
+- 提灯
+- 油罐（6 次使用）
+- 长剑（d10，_笨重_）
+- 熟皮甲（1 护甲）
 
-## Why did you take the Oath?
+## 你为何立下誓约？
 
 |       |                                                                                                                                                                                                                                                                     |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | Your family has a long tradition of serving, and you were trained from an early age on how to survive in the wild. When taking the Supply action, your yield increases by one step (e.g. 1d4 > 1d6). |
-| **2** | As a convict, the Oath was simply a means of avoiding punishment. Take a set of **Lockpicks** and the **Key** (_petty_) to a safehouse.                                                                                                                                          |
-| **3** | Noble-born, you joined to escape family trouble. Take a **Goosefelt Tarp** (fits two) that you stole before leaving home.                                                                                                                                           |
-| **4** | When your family lost everything, you took the Oath to avoid becoming a burden. Take extra **Rations** (3 uses) and a brace of **Throwing Knives** (d6).                                                                                                               |
-| **5** | Your life was saved by a member of the **Marchguard**, and you were inspired to join their ranks. Take a **Snare Trap** and a **Sketchbook** filled with detailed drawings.                                                                                         |
-| **6** | You were in a dark place and decided that your life needed a little direction. You're still not so sure it was the right choice. Take an **Oilskin Coat** and **Mapping Paper**.                                                                                   |
+| **1** | 你的家族有着长期服役的传统，你从小就接受了如何在荒野中生存的训练。执行补给行动时，你的收获提高一个档次（例如 1d4 > 1d6）。 |
+| **2** | 作为囚犯，誓约只是你逃避惩罚的手段。获得一套**开锁工具**和一把通往安全屋的**钥匙**（_轻巧_）。                                                                                                                                          |
+| **3** | 你出身贵族，为了逃避家族麻烦而加入。获得一块你离家前偷走的**鹅绒油布**（可容纳两人）。                                                                                                                                           |
+| **4** | 当你的家族失去一切时，你立下誓约，避免成为负担。获得额外**口粮**（3 次使用）和一套**飞刀**（d6）。                                                                                                               |
+| **5** | 一名**边境卫**救了你的性命，你受到鼓舞，加入了他们的队伍。获得一个**套索陷阱**和一本画满详细图画的**写生簿**。                                                                                         |
+| **6** | 你曾身处黑暗之中，决定让生活有一点方向。你仍不太确定这是否是正确的选择。获得一件**油布外套**和**制图纸**。                                                                                   |
 
-## What do you carry as proof of your Oath?
+## 你携带什么来证明自己的誓约？
 
 |       |                    |                                                                                                                                                                          |
 | ----- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | **Impressive Pin** | A metal badge of honor from the Guard. It can open doors but leaves a trail. _Petty_.                                                                                            |
-| **2** | **Oath Compass**   | Points not towards North, but instead to the nearest member of the Guard. It also lets you know when they're getting close.                                              |
-| **3** | **Pullstones**     | Two jet-black stones. When separated, the stones will always roll toward one another.                                                                         |
-| **4** | **Fireflask**      | Highly alcoholic, yet strangely delicious. When thrown, it creates a wall of flames 10ft high that burns out after a few minutes. 1 use.                                                                    |
-| **5** | **Pain Band**      | Touch an injured creature to transfer their wounds to you. (Exchange their lost STR with your own.) **Recharge**: Wear the ring while in perfect health. You will lose 1 STR, permanently. _Petty_. |
-| **6** | **Poacher's Woe**  | Strongly-scented arrows (3 uses). The scent is powerful enough to track with ease.                                                                                       |
+| **1** | **醒目徽章**       | 卫队授予的荣誉金属徽章。它可以打开一些门，但也会留下踪迹。_轻巧_。                                                                                            |
+| **2** | **誓约罗盘**       | 它不指向北方，而是指向最近的卫队成员。它还会让你知道他们何时正在接近。                                              |
+| **3** | **牵引石**         | 两块乌黑的石头。分开后，它们总会朝彼此滚去。                                                                         |
+| **4** | **火焰瓶**         | 酒精含量极高，却出奇地美味。投掷后会制造一道 10ft 高的火墙，几分钟后熄灭。1 次使用。                                                                    |
+| **5** | **痛苦带**         | 触碰受伤的生物，将它们的伤势转移给自己。（用你的 STR 交换它们损失的 STR。）**充能**：在完全健康时佩戴这枚戒指。你会永久失去 1 STR。_轻巧_。 |
+| **6** | **偷猎者之灾**     | 气味浓烈的箭（3 次使用）。气味强烈到足以让人轻松追踪。                                                                                       |

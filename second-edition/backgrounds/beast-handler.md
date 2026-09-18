@@ -1,47 +1,47 @@
 ---
-title: Beast Handler
+title: 驯兽师
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: 背景
+grand_parent: 第二版
 ---
 
-# Beast Handler
+# 驯兽师
 
-> You alone can walk among the creatures of the wild, fearless and in control. You share a connection with animals that others can only dream of... so long as you don't become their snack.
+> 只有你能无所畏惧地走入野兽之间，并掌控它们。你与动物之间的联系，是其他人只能梦想拥有的……只要你不会变成它们的食物。
 
-## Names
+## 姓名
 
 Amara, Wulf, Mireille, Soren, Freki, Aster, Gerrik, Boreas, Veda, Matheus
 
-## Starting Gear
+## 初始装备
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses)   
-- Leather Whip (d6)
-- Soporific Darts (STR save or fall asleep, 6 uses)
-- Lure
-- Rope (25ft)
+- 3d6 金币
+- 口粮（3 次）
+- 火把（3 次）
+- 皮鞭（d6）
+- 催眠飞镖（STR 豁免，否则陷入睡眠，6 次）
+- 诱饵
+- 绳子（25 英尺）
 
-## What creature is your specialty? Roll 1d6:
+## 你的专长生物是什么？掷 1d6：
 
 |       |               |                                                                                                                                                                                   |
 | ----- | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Arachnids** | Take a **Quick-Flame Rod** and an **Oil Can** (6 uses). It can destroy a large spider nest in seconds.                                                                            |
-| **2** | **Felines**   | Take a sack of **Whiskerwort**. Its odor can calm and control even the largest of cats.                                                                                           |
-| **3** | **Canines**   | Take a wreath of **Wolfsbane** and a **Large Net**. Effective against werewolves as well.                                                                                         |
-| **4** | **Birds**     | Take a **Warble-Whistle** (3 charges). It can imitate any bird call and can even be used to send simple messages. **Recharge**: Feed a baby bird as its mother would, then blow. |
-| **5** | **Rodents**   | Take a **Pan Flute** that emits a high-pitched sound that only rodents can hear. So long as you play, they will follow, even to their deaths.                                     |
-| **6** | **Serpents**  | Take a **Warming Stone** that generates an irresistible heat and a vial of **Antitoxin** (2 uses).                                                                               |
+| **1** | **蛛形纲动物** | 获得一根**速燃棒**和一个**油罐**（6 次）。它能在几秒内摧毁一个大型蜘蛛巢。                                                                            |
+| **2** | **猫科动物**   | 获得一袋**须草**。它的气味甚至能安抚并控制最大的猫科动物。                                                                                           |
+| **3** | **犬科动物**   | 获得一串**狼毒草**和一张**大网**。对狼人同样有效。                                                                                         |
+| **4** | **鸟类**       | 获得一枚**鸟鸣哨**（3 点充能）。它能模仿任何鸟叫，甚至可以用来传递简单消息。**充能**：像鸟妈妈一样喂一只雏鸟，然后吹响哨子。 |
+| **5** | **啮齿动物**   | 获得一支**排箫**，能发出只有啮齿动物听得见的高频声音。只要你持续吹奏，它们就会跟随你，哪怕走向死亡。                                     |
+| **6** | **蛇类**       | 获得一块**温热石**，能产生无法抗拒的热量，以及一小瓶**解毒剂**（2 次）。                                                                               |
 
 
-## What have you learned from the creatures of the wild? Roll 1d6: 
+## 你从野兽那里学到了什么？掷 1d6：
 
 |       |                                                                                                                                                                                          |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | That there is far more to the world than meets the eye. With quiet concentration, you can borrow the senses of a nearby creature of your **specialty**.                                       |
-| **2** | That the behavior of beasts is a language in itself. When observing beasts of your **specialty** you gain insight into weather patterns and impending disasters.                             |
-| **3** | That the pulse of the hunt is a powerful impulse. You have a sense for when predators, even those **not of your specialty** are near.                                                        |
-| **4** | That the land is a language unto itself. Your chance of becoming lost in a terrain dominated by the beasts of your **specialty** is reduced by one step (e.g. 4-in-6 becomes 3-in-6).             |
-| **5** | That nature's symphony can be heard if you attune to its rhythm. When surrounded by creatures of your **specialty**, they can alert you to approaching danger before it arrives.               |
-| **6** | That survival is all about adaptability. Once per day, you may take on a simple feature from a creature of your **specialty** (webbed fingers, night vision, etc.). Add a **Fatigue** each time. |
+| **1** | 世界远比表面看起来广阔。只要安静地集中精神，你就能借用附近一只**专长**生物的感官。                                       |
+| **2** | 野兽的行为本身就是一种语言。观察你的**专长**生物时，你可以洞察天气模式和即将发生的灾害。                             |
+| **3** | 狩猎的脉搏是一种强大的冲动。你能感知捕食者——即使它们**不属于你的专长**——是否在附近。                                                        |
+| **4** | 大地本身就是一种语言。在由你的**专长**生物主宰的地形中，你迷路的概率降低一级（例如从 4-in-6 降为 3-in-6）。             |
+| **5** | 只要调谐于自然的节奏，就能听见它的交响乐。当你被**专长**生物包围时，它们会在危险到来之前提醒你。               |
+| **6** | 生存全靠适应。每天一次，你可以获得一种来自**专长**生物的简单特征（蹼状手指、夜视能力等）。每次这样做都增加一点**疲劳**。 |

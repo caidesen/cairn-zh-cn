@@ -1,46 +1,46 @@
 ---
-title: Jongleur
+title: 杂耍艺人
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: 背景
+grand_parent: 第二版
 ---
 
-# Jongleur
+# 杂耍艺人
 
-> What inspires the soul more than song, words, and spectacle? Why practice for years to master the arcane when you've already got real magic inside? 
+> 还有什么比歌声、言语和表演更能鼓舞灵魂？既然你体内已经拥有真正的魔法，又何必花上数年练习来掌握奥术？
 
-## Names
+## 姓名
 
-Jax, Selene, Baladria, Ada, Mort, Saylor, Tripp, Lantos, Echo, Jubilo   
+Jax, Selene, Baladria, Ada, Mort, Saylor, Tripp, Lantos, Echo, Jubilo
 
-## Starting Gear
+## 初始装备
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Costume
-- Simple Instrument (Pipes, Lute, etc.)
-- Lucky Jerkin (+1 Armor)
-- Sling (d6)
+- 3d6 金币
+- 口粮（3 次使用）
+- 火炬（3 次使用）
+- 戏服
+- 简单乐器（笛子、鲁特琴等）
+- 幸运短夹克（+1 护甲）
+- 投石索（d6）
 
-## What happened at your final performance? Roll 1d6:
+## 你的最后一场演出发生了什么？掷 1d6：
 
 |       |                                                                                                                                                                                                                                                        |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | Despite your training in the deadly arts, an actor died and you were blamed. Take a light-weight **Rapier** (d6) and a false identity.                                                                                                                 |
-| **2** | The crowd loved your catchy tune about a noble and his romantic failings. The noble in question, not so much. Take the _Read Mind_ **Spellbook** and a warrant for your arrest. Read Mind: You can hear the surface thoughts of nearby creatures. _Long-term possession can cause the reader to mistake the thoughts of others as their own._                                                                        |
-| **3** | Your debut composition reduced the audience to a gibbering mess, murmuring of bright creatures descending from the night sky. Later you noticed that the notes resembled stellar constellations. Take a **Book On Astronomy**, and a lot of questions. |
-| **4** | You mocked a forgotten trickster god and were cursed for it. You speak only in perfect rhyme. Ironically, this has only made you more popular among your peers. Take a **Thesaurus** (20gp). Without it, you are _deprived_.               |
-| **5** | You were scarred in an on-stage accident. The crowd cheered, thinking it was part of the act. Take well-worn **Stage Mail** (1 Armor), a memorable scar, and a fear of applause.                                                                       |
-| **6** | Your respectable puppeteering skills were matched only by your mimicry. You were so good you were branded a witch (literally) and banished. Take an **Uncanny Hand-Puppet** and a **Rabbit Skull** (_petty_) that protects against charms.     |
+| **1** | 尽管你接受过致命技艺的训练，一名演员还是死了，而你被归了罪。获得一把轻便的**细剑**（d6）和一个假身份。                                                                                                                 |
+| **2** | 观众喜欢你那首讲述贵族及其爱情失败的上口小调。歌里的贵族本人可不喜欢。获得_读心_**法术书**和一张要逮捕你的通缉令。读心：你可以听见附近生物的表层思想。_长期持有会让读心者误以为他人的思想是自己的。_ |
+| **3** | 你的处女作让观众变成喃喃自语的呆滞人群，嘴里念叨着明亮生物从夜空降临。后来你注意到，那些音符竟与星座相似。获得一本**天文学书籍**，以及一大堆问题。 |
+| **4** | 你嘲弄了一位被遗忘的骗子神，因此受到诅咒。你只能说完美押韵的话。讽刺的是，这反而让你在同行中更受欢迎。获得一本**同义词词典**（20gp）。没有它，你处于_匮乏_。               |
+| **5** | 你在台上事故中留下了伤疤。观众以为这是表演的一部分，竟然欢呼起来。获得一件磨损的**舞台锁子甲**（1 护甲）、一道令人难忘的伤疤，以及对掌声的恐惧。                                                                       |
+| **6** | 你出色的木偶戏技艺只有模仿能力可以与之匹敌。你演得太好了，结果被打上女巫的烙印（真的烙上了）并遭到放逐。获得一个**诡异手偶**和一枚能抵抗魅惑的**兔头骨**（_轻巧_）。     |
 
-## What trinket were you unable to leave behind? Roll 1d6:
+## 什么小饰品让你无法割舍？掷 1d6：
 
 |       |                    |                                                                                                             |
 | ----- | ------------------ | ----------------------------------------------------------------------------------------------------------- |
-| **1** | **False Cuffs**    | Comfortable, realistic-looking cuffs. Only you know the trick to get out of them.                           |
-| **2** | **Pocket Theatre** | A set of small puppets and a folding stage. Good for quick distractions.                                    |
-| **3** | **Ghost Violin**   | A dark-gray violin that plays a haunting tune, mirrored by an invisible, distant twin.                      |
-| **4** | **Tragic Tales**   | Banned in proper company, this book becomes less bawdy and more harrowing towards the end. Worth **100gp**. |
-| **5** | **Mythos Mask**    | A plaster mask that allows one to take on a monster's countenance. Once it comes off, add a **Fatigue**.    |
-| **6** | **Rebreak Glass**  | A wine flute that can be broken multiple times, reforming after 24 hours. Makes a really loud noise.        |
+| **1** | **假手铐**         | 舒适而逼真的手铐。只有你知道脱身的诀窍。                           |
+| **2** | **袖珍剧场**       | 一组小木偶和一座折叠舞台。适合快速制造干扰。                                    |
+| **3** | **幽灵小提琴**     | 一把深灰色小提琴，奏出令人毛骨悚然的曲调，远处还有一把隐形的孪生琴与之应和。                      |
+| **4** | **悲剧故事集**     | 在正经场合遭到禁售的一本书，越到结尾，内容就越不淫秽而越令人恐惧。价值 **100gp**。 |
+| **5** | **神话面具**       | 一副石膏面具，可以让人拥有怪物的面容。摘下后增加一点**疲劳**。    |
+| **6** | **自复酒杯**       | 一只可以反复打碎的酒笛，24 小时后会重新成形。会发出非常响亮的声音。        |

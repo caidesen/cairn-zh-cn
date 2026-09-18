@@ -1,48 +1,47 @@
 ---
-title: Kettlewright
+title: 炉匠
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: 背景
+grand_parent: 第二版
 ---
 
-# Kettlewright
+# 炉匠
 
-> You are known by the smell of molten metal and the jingle of tin. You are no mere merchant but an artisan of fire and metal. 
+> 你因熔融金属的气味和锡器的叮当声而闻名。你不只是商人，更是火与金属的工匠。
 
-## Names
+## 姓名
 
 Fergus, Eon, Bram, Idris, Hester, Darragh, Seren, Rónán, Berek, Lorenz
 
-## Starting Gear
+## 初始装备
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Pincers
-- Roll of Tin
-- Gloves (_petty_)
-- Hammer (d6)
+- 3d6 金币
+- 口粮（3 次使用）
+- 火炬（3 次使用）
+- 钳子
+- 一卷锡
+- 手套（_轻巧_）
+- 锤子（d6）
 
-## What is your trade? Roll 1d6:
+## 你的手艺是什么？掷 1d6：
 
 |       |                                                                                                                                                                                                                 |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | You build small contraptions for local guilds (and don't ask too many questions). Take an extra 40gp and a wanted poster with your face on it. Given time and materials, you can open almost any door or vault. |
-| **2** | You deal in home goods and tools, hawking your wares to townspeople across the lands. Take 20gp worth of items from the [gear](/second-edition/players-guide/marketplace#gear) table. You are fluent in the _Traveler's Cant_.       |
-| **3** | You were a military smelter, before peace destroyed your livelihood. Take a **smelting hammer** (d10, _bulky_) and a **tin helm** (+1 Armor). Given time and adequate materials, you can repair armor.          |
-| **4** | You sell rare and quality items to monasteries and nobles alike. Take a **Spyglass**, a **Necklace** (_petty_) worth 20gp, and a **Scroll** of Mirrorwalk (_petty_).                      |
-| **5** | You offer protection as a service, quietly watching for threats as money exchanges hands. You start with **+d4 HP**, and carry a **Long Sword** (d10, _bulky_) and a **Gambeson** (+1 Armor).         |
-| **6** | You scavenge raw tin and iron from battlefields, pulling teeth from still-twitching corpses. Start with a young **Donkey** (+4 slots, slow), a **Crossbow** (d8 damage, _bulky_), and a **Saw** (d6).           |
+| **1** | 你为本地行会制造小型机关（而且不会问太多问题）。获得额外 40gp 和一张印有你脸的通缉令。只要有时间和材料，你几乎可以打开任何门或保险库。 |
+| **2** | 你经营家居用品和工具，把货物兜售给各地的居民。从[装备](/second-edition/players-guide/marketplace#gear)表中获得价值 20gp 的物品。你精通_旅行者黑话_。       |
+| **3** | 和平摧毁了你的生计之前，你曾是军队的冶炼工。获得一把**冶炼锤**（d10，_笨重_）和一顶**锡盔**（+1 护甲）。只要有时间和足够材料，你就能修理护甲。          |
+| **4** | 你向修道院和贵族兜售稀有而优质的物品。获得一具**望远镜**、一条价值 20gp 的**项链**（_轻巧_）和一张**镜行术卷轴**（_轻巧_）。                      |
+| **5** | 你以提供保护为生，在钱款交换时默默留意威胁。你的初始 **HP** 为 +d4，并携带一把**长剑**（d10，_笨重_）和一件**软甲**（+1 护甲）。         |
+| **6** | 你从战场上搜集锡和铁矿，从仍在抽搐的尸体上拔下牙齿。初始拥有一头年轻的**驴**（+4 格，缓慢）、一把**弩**（d8 伤害，_笨重_）和一把**锯**（d6）。           |
 
-## What never fails to get you out of trouble? Roll 1d6:
+## 什么东西总能帮你摆脱麻烦？掷 1d6：
 
 |     |                    |                                                                                                                                                                  |
 | --- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Fire Eggs**      | Six small pellets made of sea salt, wood, and crockery-dust. They explode at low heat (d8, _blast_) but the flames dissipate quickly.                            |
-| 2   | **Black Tar**      | Versatile: both sticky and highly flammable. 3 uses.                                                                                                             |
-| 3   | **Spiked Boots**   | Cracks heads (d8) as easily as it does ice and muck. Travel is also a bit slower, but easier.                                                                    |
-| 4   | **Tinker's Paste** | Seals shut any fist-sized opening. 3 uses.                                                                                                                       |
-| 5   | **Fireworks**      | A dazzling albeit dangerous display. Enough explosive material to blow off a finger or three. 2 uses remain.                                                    |
-| 6   | **Carrion Cat**    | A clever pet, small enough to hide in your pack (_bulky_), but strong enough to scare off smaller predators. Requires one **Ration** a day, and it must be meat. |
+| 1   | **火焰蛋**         | 六枚由海盐、木头和陶器粉尘制成的小球。它们在低温下爆炸（d8，_爆发_），但火焰很快就会消散。                            |
+| 2   | **黑焦油**         | 用途广泛：既黏又极易燃。3 次使用。                                                                                                             |
+| 3   | **尖刺靴**         | 像凿开冰雪和泥泞一样轻松地砸碎脑袋（d8）。旅行速度也会稍慢，但更容易。                                                                    |
+| 4   | **工匠膏**         | 封住任何拳头大小的开口。3 次使用。                                                                                                                       |
+| 5   | **烟火**           | 绚丽却危险的表演。足够炸掉一两根手指，甚至三根。还剩 2 次使用。                                                    |
+| 6   | **腐肉猫**         | 聪明的宠物，小到可以藏进你的背包（_笨重_），却强壮到足以吓退较小的捕食者。每天需要一份**口粮**，而且必须是肉。 |
 |     |                    |                                                                                                                                                                  |
-

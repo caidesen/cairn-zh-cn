@@ -1,46 +1,46 @@
 ---
-title: Prowler
+title: 潜行者
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: 背景
+grand_parent: 第二版
 ---
 
-# Prowler
+# 潜行者
 
-> You are a specter in the night, a fleeting shadow that slips by its prey, unseen. Each kill is a test of cunning and animal determination, a contest between life and death. You know that one day you will lose. You look forward to it. 
+> 你是夜里的幽灵，是掠过猎物身旁而不被察觉的短暂阴影。每次杀戮都是对狡黠与兽性决心的考验，是生与死之间的较量。你知道自己终有一天会输。你对此翘首以盼。
 
-## Names
+## 姓名
 
 Winda, Brielle, Theron, Chayse, Nuja, Dev, Raven, Arawan, Sable, Baruani
 
-## Starting Gear
+## 初始装备
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Tarp
-- Boiled Leather (1 Armor)
-- Short Sword (d6)
-- Spring-Loaded trap (4 STR damage)
+- 3d6 金币
+- 口粮（3 次使用）
+- 火炬（3 次使用）
+- 防水布
+- 熟皮甲（1 护甲）
+- 短剑（d6）
+- 弹簧陷阱（4 STR 伤害）
 
-## What did you last hunt? Roll 1d6:
+## 你最近猎杀了什么？掷 1d6：
 
 |       |                                                                                                                                                                                                                                           |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | A _mock firefly_, baiting water carriers with its glowing lure. Take an **Alchemical Limb** (d8, _petty_ when worn) to replace the one it tore off and an **Oil Can** (6 uses). The limb is immune to heat and poison. Needs to be oiled daily. |
-| **2** | An _ice nettle_, trapping and draining sheep. You lost your commission when the fungus you introduced killed half the flock. Take a **Rime Seed** (1 use). It freezes any body of water, no matter the size. Don't eat it.                |
-| **3** | A _silver marsh crawler_ that killed someone close to you. You now carry its **Tooth** (_petty_) on a chain around your neck as a warning to others of its kind. _The tooth hums softly when something is stalking you_.                  |
-| **4** | A malicious _forest spirit_ that poisoned a homestead. You saved a **Heartseed** from the roots of a dying tree. (Plant it to create a new forest.) Also, take **Iron Bracers** (+1 Armor, _bulky_).                                        |
-| **5** | A _hollow wolf_ that had been frightening travelers. You took pity on the half-starved creature and nursed it back to health. Now it is loyal to you unto death. It is also a great tunneler. 5 HP, 11 STR, 13 DEX, 8 WIL, teeth (d6).  |
-| **6** | An _azure warbler_. The gametes attract a sizeable profit, if properly extracted. You succeeded but left its nest to the wolves. Take a **Paring Knife** (d6), **an extra 20gp**, and a pang of regret.                                  |                                                               |
+| **1** | 一只用发光诱饵引诱运水工的_拟火萤_。获得一条**炼金义肢**（d8，佩戴时_轻巧_），替代它撕掉的那条肢体，以及一罐**油罐**（6 次使用）。义肢免疫高温和毒素。每天需要上油。 |
+| **2** | 一株捕捉并吸食绵羊的_冰荨麻_。你引入的真菌杀死了一半羊群，于是失去了这份差事。获得一枚**霜冻种子**（1 次使用）。它可以冻结任何水体，无论大小。不要吃它。                |
+| **3** | 一只杀死你亲近之人的_银色沼泽爬行者_。现在你把它的**牙齿**（_轻巧_）挂在脖子上的链子上，警告同类不要靠近。_当有东西正在跟踪你时，这颗牙会轻轻嗡鸣_。                  |
+| **4** | 一个毒害农庄的恶毒_森林精灵_。你从一棵垂死树木的根部救出了一颗**心种**。（种下它可以创造一片新森林。）此外，获得一对**铁护腕**（+1 护甲，_笨重_）。                                        |
+| **5** | 一头曾吓坏旅行者的_空心狼_。你同情这只半饿的生物，把它养回了健康。现在它对你忠贞至死，也是出色的掘洞者。5 HP，11 STR，13 DEX，8 WIL，牙（d6）。  |
+| **6** | 一只_蔚蓝莺_。如果能恰当地提取，它的配子能带来可观利润。你成功了，却把它的巢留给了狼群。获得一把**削皮刀**（d6）、**额外 20gp**，以及一阵悔意。                                  |                                                               |
 
-## What tool is always in your pack? Roll 1d6:
+## 你的包里总会有什么工具？掷 1d6：
 
 |       |                       |                                                                                                     |
 | ----- | --------------------- | --------------------------------------------------------------------------------------------------- |
-| **1** | **Fermented Spirits** | Keeps you warm at the best of times and as an explosive at the worst. 3 Uses.                       |
-| **2** | **Trail Shaker**      | A noisy instrument that reveals nearby trails, even when deeply hidden.                             |
-| **3** | **Drowse Balm**       | A wax bar. If boiled in water, the steam acts as a soporific agent.                                 |
-| **4** | **Spike and Cord**    | For traversing difficult terrain or for creating makeshift traps and structures.      |
-| **5** | **Iron Rattle**       | A noisemaker for distracting or scaring your quarry. Sounds convincingly like a snake.              |
-| **6** | **Hardening Glue**    | Makes any flat material (cloth, leather, sand) as hard as stone. Expensive (20gp a bottle, 3 uses). |
+| **1** | **发酵酒**            | 最好的时候让你保暖，最糟的时候可以当作爆炸物。3 次使用。                       |
+| **2** | **寻迹摇铃**          | 一种嘈杂的仪器，即使附近的踪迹藏得很深，也能将它们显现出来。                             |
+| **3** | **催眠香膏**          | 一根蜡条。放在水中煮沸后，蒸汽会起到催眠剂的作用。                                 |
+| **4** | **尖桩与绳索**        | 用于穿越困难地形，或制造临时陷阱和结构。      |
+| **5** | **铁响铃**            | 用来分散或吓跑猎物的发声器。听起来与蛇极为相似。              |
+| **6** | **硬化胶**            | 能让任何平面材料（布、皮革、沙子）硬得像石头。价格昂贵（每瓶 20gp，3 次使用）。 |

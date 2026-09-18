@@ -1,46 +1,46 @@
 ---
-title: Mountebank
+title: 江湖骗子
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: 背景
+grand_parent: 第二版
 ---
 
-# Mountebank
+# 江湖骗子
 
-> Wits are your sharpest weapon, a facade your strongest shield. But when you do lose, you lose badly. 
+> 机智是你最锋利的武器，伪装是你最坚固的盾牌。但当你真的输掉时，会输得很惨。
 
-## Names
+## 姓名
 
 Ambrose, Lucius, Beauregard, Cornelius, Aria, Toph, Indigo, Delphine, Solene, Noa
 
-## Starting Gear
+## 初始装备
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Cart (+4 slots, _bulky_ when pulled)
-- Trick Playing Cards 
-- Fancy Hat (_petty_)
-- Cane Sword (d6)
+- 3d6 金币
+- 口粮（3 次使用）
+- 火炬（3 次使用）
+- 马车（+4 格，被拉动时_笨重_）
+- 戏法扑克牌
+- 华丽帽子（_轻巧_）
+- 手杖剑（d6）
 
-## How was your fraud exposed? Roll 1d6:
+## 你的骗局是如何败露的？掷 1d6：
 
 |       |                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | Your "patients" kept reporting miraculous recoveries, despite your lack of training. Start with **Bandages** (3 uses) and a knack for healing.                                                                                                                                                                                                                                                                 |
-| **2** | After seducing a wealthy patron, their family hired a criminal gang to retrieve you. You got away and need to lay low. Start with **Beauty Cream**, 2 uses. Apply to appear irresistibly beautiful for the next 12 hours.                                                                                                                                                                                      |
-| **3** | You were a peddler of fake prophesies, but when one turned out to be true, it drew unwanted attention. Roll on the **Omens** table, but keep the result to yourself. Start with a concealable **Knife** (d6, _petty_).                                                                                                                                                                                         |
-| **4** | Your latest stunt destroyed a priceless artifact and injured a dozen bystanders. Start with a **Captain's Uniform** (_petty_), a **Ceremonial Sword** (harmless, 60gp), and a **Bouquet of Flowers**.                                                                                                                                                                                                          |
-| **5** | You were cursed by a hedgewitch for fooling some innocent village folk. Magic acts unpredictably in your hands (_WIL save to avoid disaster_). If you are the target of magic, the same applies to its wielder.                                                                                                                                                                                                |
-| **6** | Your "seances" with the dead were in actuality a ruse involving a cleverly hidden spellbook of Auditory Illusion. Inevitably, a patron discovered your secret. Start with the **Spellbook** and a bundle of scarves. Auditory Illusion: You create illusory sounds that seem to come from a direction of your choice. _Produces random and occasionally inopportune sounds throughout the day_. |
+| **1** | 尽管你没有接受过训练，你的“病人”还是不断声称自己奇迹般地康复了。初始拥有**绷带**（3 次使用）和治疗方面的天赋。                                                                                                                                                                                                                                                                 |
+| **2** | 你勾引了一位富有的赞助人后，对方的家人雇了一伙罪犯来抓回你。你逃脱了，现在需要低调行事。初始拥有**美容霜**，2 次使用。涂抹后，你在接下来的 12 小时里会显得极其美丽。                                                                                                                                                                                      |
+| **3** | 你曾兜售虚假的预言，但其中一个成真了，引来了不必要的注意。掷**预兆**表，但不要把结果告诉别人。初始拥有一把可藏匿的**刀**（d6，_轻巧_）。                                                                                                                                                                                         |
+| **4** | 你最近的把戏摧毁了一件无价之宝，还让十几个旁观者受伤。初始拥有一套**队长制服**（_轻巧_）、一把**仪式剑**（无害，60gp）和一束**鲜花**。                                                                                                                                                                                                          |
+| **5** | 你因为愚弄无辜的村民而被一位篱笆女巫诅咒。魔法在你手中会不可预测地行动（_WIL 豁免以避免灾难_）。如果你是魔法的目标，对施法者也会产生同样影响。                                                                                                                                                                                                |
+| **6** | 你与死者进行的“降神会”其实是一场骗局：你巧妙地藏起了一本听觉幻象法术书。最终，一名赞助人发现了你的秘密。初始拥有这本**法术书**和一捆围巾。听觉幻象：你制造出听起来仿佛来自任意方向的幻觉声音。_一天之中会随机产生偶尔不合时宜的声音_。 |
 
-## What keepsake could always identify you? Roll 1d6:
+## 什么纪念品总能证明你的身份？掷 1d6：
 
 |       |                       |                                                                                                                                                                                  |
 | ----- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Royal Crest**       | Born into royalty, you chose a different life. The crest grants you access but also alerts your family of your whereabouts. _Petty_.                                            |
-| **2** | **Miracle Oil**       | A smelly, slippery concoction. 2 uses.                                                                                                                                           |
-| **3** | **Surgeon's Soap**    | A lye and ash block that makes skin temporarily transparent, revealing the anatomy within. 4 uses.                                                                               |
-| **4** | **Goat Powder**       | Derived from the placenta of a baby goat.  Temporarily cures any affliction, but symptoms return within hours.                                                                   |
-| **5** | **Cursed Sapphire**   | Worth **200gp**, it noticeably returns to your pocket shortly after you spend it. You can't seem to get rid of it.                                                             |
-| **6** | **Alchemical Tattoo** | A dog, cat, or bird that can leave your body on demand. It follows your commands to the best of its abilities and can pass its injuries (_as STR loss_) back onto you. _Petty_. |
+| **1** | **王室纹章**         | 你出生于王室，却选择了另一种生活。这枚纹章能让你获得通行，但也会让家人知道你的行踪。_轻巧_。                                            |
+| **2** | **奇迹油**           | 一种气味难闻、滑腻的混合物。2 次使用。                                                                                                                                           |
+| **3** | **外科皂**           | 一块由碱液和灰烬制成的皂块，能让皮肤暂时变得透明，显露出其中的解剖结构。4 次使用。                                                                               |
+| **4** | **山羊粉**           | 由小山羊的胎盘制成。暂时治愈任何病症，但症状会在几小时内复发。                                                                   |
+| **5** | **诅咒蓝宝石**       | 价值 **200gp**，在你花掉它后不久就会明显地回到你的口袋里。你似乎无法摆脱它。                                                             |
+| **6** | **炼金纹身**         | 一只狗、猫或鸟，可以按你的要求离开你的身体。它会尽力服从你的命令，也能把自身伤势（_以 STR 损失的形式_）转移给你。_轻巧_。 |

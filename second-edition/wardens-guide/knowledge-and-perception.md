@@ -1,48 +1,48 @@
 ---
 layout: default
-title: Knowledge And Perception
-parent: Warden's Guide 
-grand_parent: Second Edition
+title: 知识与感知
+parent: 守望者指南
+grand_parent: 第二版
 ---
 
-# Knowledge And Perception
+# 知识与感知
 
-## Introduction
+## 引言
 
-Cairn differs from many modern roleplaying games by not including mechanics for knowledge or expertise. Instead, it is assumed that a character has the necessary knowledge so long as it can be justified in the fiction. Similarly, there are no mechanics that govern a character's perception or ability to "detect" important details in their environment. Instead, the Warden should provide unlimited relevant information about every detail a character can perceive with their basic senses.
+Cairn 与许多现代角色扮演游戏不同，它没有关于知识或专业技能的规则机制。只要能在虚构情境中找到依据，就应当认为角色拥有所需的知识。同样，游戏也没有用于规定角色感知能力，或让他们“侦测”环境中重要细节的机制。相反，守望者应当为角色凭借基本感官所能感知的每个细节，提供无限且相关的信息。
 
-## Knowledge
+## 知识
 
-Character knowledge is limited only by what can be explained by elements in the fiction. If it is known that a PC comes from an impoverished background and learned how to survive by any means necessary, then their player may argue that their character is better able to track down a notable NPC hiding in the slums. They may know whom to speak to and what sorts of trades might be required to collect the information they need about their target's whereabouts. 
+角色的知识只受虚构情境中能够解释的元素限制。如果已知某名 PC 出身贫困，并学会了用一切必要手段求生，那么玩家可以主张，该角色更擅长在贫民窟中追踪一名重要 NPC。他们可能知道该找谁交谈，也知道需要进行哪种交易，才能收集目标下落所需的信息。
 
-If a character has no justifiable knowledge of a subject, then they simply do not know anything about it! However, the Warden may decide to roll the **Die of Fate** to determine if the character has a chance of knowing _something_. The higher the result, the more they might (reasonably) know.
+如果角色对某个主题没有任何合理的知识，那么他们就确实一无所知！不过，守望者可以选择掷**命运骰**，判断角色是否有机会知道_某些事情_。结果越高，他们合理能够知道的信息就越多。
 
-### Relics
+### 遗物
 
-When a character first acquires a Relic they are not familiar with, they can either spend time learning more about it (using a Downtime action) or experiment with it. The latter carries some dangers and may even require a successful WIL save to avoid negative consequences. However, it is often more interesting to allow the player to ask as many questions as they like about it and (eventually) to simply _tell them how it works_.
+角色第一次获得一件自己不熟悉的遗物时，可以花时间进一步了解它（使用一次休整行动），也可以直接进行实验。后者会带来一些危险，甚至可能需要一次成功的 WIL 豁免，才能避免负面后果。不过，通常更有趣的做法是允许玩家随意询问与遗物有关的问题，并（最终）直接_告诉他们它如何运作_。
 
-## Perception
+## 感知
 
-When informing the players of what their PCs can perceive, the Warden should provide maximal sensory information pertaining to the objects, characters, dangers, and interactive elements in the given situation. Consider what can be gained by limiting what the PCs know or do not know. Do secrets help create interesting choices and decision points? Do they raise interesting questions? Do they give the players a sense of control over their own actions? The answer to these questions is almost always an emphatic _No_. 
+当向玩家说明 PC 能感知到什么时，守望者应当针对当前情境中的物体、角色、危险和可互动元素，提供尽可能完整的感官信息。想想看，限制 PC 知道或不知道的内容能带来什么。秘密能否创造有趣的选择和决策点？它们能否引出有趣的问题？能否让玩家感觉自己掌控着行动？这些问题的答案几乎总是斩钉截铁的_不能_。
 
-Players should feel that the consequences of their character's actions are _earned_, and that they are _deserved_, even if the results aren't always in their favor. True agency comes from providing the players with everything they need to know to make an interesting decision, even if that is simply asking a question about what their character might perceive. 
+玩家应当觉得，角色行动的后果是_应得的_，也是_理所当然的_，即使结果并不总是对他们有利。真正的能动性来自于向玩家提供做出有趣决定所需的一切信息，即使那只是回答一个关于角色可能感知到什么的问题。
 
-Take for example the following keyed location:
+例如，考虑下面这个带编号的地点：
 
-A colony of **bees** furiously circles a massive hive hanging from the branch of a large oak tree. A **man** observes in the shadows beneath the tree, and a rusted **sword** lies on the ground not far from the tree.
+一群**蜜蜂**疯狂地围绕着一座巨大的蜂巢飞舞，蜂巢悬挂在一棵高大橡树的树枝上。树下的阴影中站着一个**男人**，离树不远的地面上躺着一把生锈的**剑**。
 
-- **Bees**: Their buzzing is nearly deafening, creating a wall of sound around the tree.
-  - The hive is dripping with honey. It is delicious, and mundane.
-  - Any attempt to take honey from the hive is met with an aggressive response from the colony [3 HP, 3 STR, 12 DEX, 4 WIL, sting (d6), _detachment_].
-- **Man**: Leans against a long staff, his gaze fixed on the hive. He appears unfazed by the swarm. 
-  - The man is a magical illusion created by the beekeeper as a means to drive away any potential predators. He will not react to any direct stimuli.
-  - If the hive is damaged in any way, the man will scream very loudly, then disappear.
-- **Sword**: Shoe prints in the earth lead towards it but stop abruptly a few feet away. 
-  - The weapon belongs to the skeleton buried just beneath the earth. It is a regular short sword (d6), strangely preserved.
-  - Bloodvines [3 HP, 4 STR, 13 DEX, 1 WIL, tendrils (d6, _blast_)] attack anyone that steps close to the sword, sapping 1 STR per round from their target (STR save to escape after the first round).
+- **蜜蜂**：它们的嗡嗡声几乎震耳欲聋，在树周围形成了一堵声音之墙。
+  - 蜂巢正滴落着蜂蜜。蜂蜜很美味，也很普通。
+  - 任何试图从蜂巢取蜜的行为都会遭到蜂群的猛烈反击[3 HP、3 STR、12 DEX、4 WIL、螫刺（d6）、_分队_]。
+- **男人**：他靠在一根长杖上，目光锁定蜂巢。他看起来完全不受蜂群影响。
+  - 这个男人是养蜂人制造的魔法幻象，用来驱赶潜在的捕食者。他不会对任何直接刺激做出反应。
+  - 如果蜂巢以任何方式受损，男人会大声尖叫，然后消失。
+- **剑**：泥土上的鞋印通向它，却在几英尺外突然停止。
+  - 这把武器属于埋在地表下的骷髅。它是一把普通的短剑（d6），却被奇怪地保存得很好。
+  - **血藤**[3 HP、4 STR、13 DEX、1 WIL、藤蔓（d6，_爆发_）]会攻击任何靠近剑的人，每回合从目标的 STR 中吸取 1 点（第一回合结束后可进行 STR 豁免以逃脱）。
 
-In this example, there are three potential dangers: the bees, the man, and the Bloodvine plant. The danger from bees is more obvious, as the PCs can clearly see the danger and are familiar with bees already. The man is an unknown entity and could be friend or foe, while the Bloodvines are hidden and act as a sort of trap. The Warden should therefore communicate exactly what the PCs can see, hear, and smell. 
+这个例子中有三个潜在危险：蜜蜂、男人和血藤植物。蜜蜂带来的危险更加明显，因为 PC 能清楚看到危险，而且他们已经熟悉蜜蜂。男人是一个未知存在，可能是朋友，也可能是敌人；血藤则隐藏起来，像一个陷阱。因此，守望者应该准确传达 PC 能看到、听到和闻到的内容。
 
-The PCs will likely try to interact with the man first or perhaps ask questions about the sword, as these are both fairly passive ways to engage with the scene. When the PCs realize that the man does not respond, they may try to get a closer look or perhaps toss a rock in his direction (avoiding the hive), and so on. If the PCs ask questions about the sword or try to interact with it, the Warden should tell them about the shoe prints in the grass right away. 
+PC 很可能会先尝试与男人互动，或者询问有关剑的事情，因为这两种方式都相对被动。当 PC 发现男人没有反应时，他们可能会试着走近观察，或朝男人的方向扔一块石头（避开蜂巢），如此等等。如果 PC 询问剑，或尝试与剑互动，守望者应立即告诉他们草地上的鞋印。
 
-If the PCs decide to engage with the bee hive, the Warden should "warn" them with a hint of some kind: the bees begin to fly in a more aggressive manner, or the noise they create gets louder, and so on. It is up to the players whether to ignore the clues in front of them and continue, or to stop and ask questions. 
+如果 PC 决定接近蜂巢，守望者应该用某种暗示“警告”他们：蜜蜂开始更具攻击性地飞舞，或它们制造的声音变得更大，等等。要不要忽视眼前的线索继续行动，还是停下来提问，由玩家自己决定。

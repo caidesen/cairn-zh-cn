@@ -1,68 +1,68 @@
 ---
 layout: default
-title: Detachments
-parent: Warden's Guide 
-grand_parent: Second Edition
+title: 分队
+parent: 守望者指南
+grand_parent: 第二版
 ---
 
-# Detachments
+# 分队
 
-## Introduction
+## 简介
 
-Detachments are large groups of enemies treated as a single entity. They are more difficult to hit and deal damage to multiple opponents at the same time. Crucially, they remain a single unit until they take critical damage, after which they are broken up or defeated entirely. Occasionally, a large creature (such as a dragon or giant) will be treated as a detachment as well. 
+分队是作为一个整体处理的大型敌人群体。分队更难命中，并且能同时对多个对手造成伤害。重要的是，在分队受到重伤之前，它始终是一个整体；受到重伤后，它会溃散或被彻底击败。偶尔，大型生物（例如龙或巨人）也会作为分队处理。
 
-## Example
+## 示例
 
-> The party is setting up camp deep in the forest, adjacent to a modest waterfall. It is nearly nightfall, and everyone is on high alert. Unbeknownst to the party, a colony of Traitor-Rats [3 HP, 5 STR, 15 DEX, 4 WIL, bite (d6), _detachment_] makes its home here.
+> 队伍正在森林深处、一道不大的瀑布旁边扎营。天色将晚，每个人都保持着高度警惕。队伍不知道的是，一群叛徒鼠 [3 HP, 5 STR, 15 DEX, 4 WIL, 咬 (d6), _分队_] 就住在这里。
 
-**Warden**: _"Just as the sun finally dips behind the trees, you each hear an unusual noise, not unlike the tsk-tsk-tsk of an overbearing uncle. As you listen, it begins to grow both in volume and tempo, then quickly becomes somewhat uncomfortable to listen to. As you survey the perimeter of the campsite, you see dozens of small, rat-like creatures with enormous eyes watching your party. They appear to be the source of the strange sound, and they are moving closer! By the way, we're going to treat these creatures as a detachment until further notice."_
+**守望者**：_“太阳终于沉到树后时，你们每个人都听到一种奇怪的声音，像一个爱管闲事的叔叔发出的啧啧声。你们听着，声音越来越大，节奏也越来越快，很快变得令人难以忍受。你们环顾营地周围，看见几十只长着巨大眼睛的小型鼠状生物正盯着队伍。它们似乎就是怪声的来源，而且正在靠近！顺便说一下，接下来我们会把这些生物作为一支分队处理。”_
 
-**Freya**: _"Will we need to make DEX saves in order to attack before these things? Assuming they intend to do us harm, that is."_
+**Freya**：_“我们需要进行 DEX 豁免才能抢在这些东西之前攻击吗？当然，前提是它们打算伤害我们。”_
 
-**Warden**: _"No, you have enough time to make the first move."_
+**守望者**：_“不需要，你们有足够的时间先行动。”_
 
-**Freya**: _"OK. I'm going to see how many of these things I can take out at once."_
+**Freya**：_“好吧，我要看看自己一次能干掉多少只。”_
 
-**Wolfram**: _"I'm going to find their queen and shoot her. Assuming there even is a queen!"_
+**Wolfram**：_“我要找到它们的女王然后射死她。前提是它们真的有女王！”_
 
-**Lucius**: _"I hate to do this, but I am going to sacrifice 1 use of my bandages to use as stuffing for my ears. Just in case._"
+**Lucius**：_“我不想这么做，但我要牺牲绷带的 1 次使用次数，把它们塞进耳朵里。以防万一。”_
 
-**Warden**: _"Let's start with Lucius, who sacrifices 1 use of bandages and stuffs them in his ears. The sound all but disappears. That ends his turn. Freya, go ahead and roll your attack dice."_
+**守望者**：_“先从 Lucius 开始。他牺牲绷带的 1 次使用次数，把绷带塞进耳朵。声音几乎完全消失了。他的回合结束。Freya，来掷你的攻击骰。”_
 
-> Freya rolls two d4 dice, resulting in a 2 and a 2.
+> Freya 掷出两枚 d4，结果分别为 2 和 2。
 
-**Warden**: _"Freya, you run into the mess of creatures, stabbing two of them with the Twins. They perish easily, but two more quickly fill their place. Even at the edge of the swarm, the sound they make is intense. You start to feel confused."_
+**守望者**：_“Freya，你冲进这群生物中，用 Twins 刺死其中两只。它们轻易地死去，但另外两只很快填补了空缺。即使在鼠群边缘，它们发出的声音也震耳欲聋。你开始感到困惑。”_
 
-**Warden**: _"Wolfram, you move into the colony, passing through the swarm as you search for any sign of a queen. You spend your entire turn searching and are unable to take another action. However, in the fading light, you see a taller creature in the distance, a white stripe on its stomach."_
+**守望者**：_“Wolfram，你走进群落，在鼠群中穿行，寻找女王的踪迹。你花费整个回合进行搜索，无法采取其他行动。不过在逐渐暗下来的光线中，你看到远处有一只更高大的生物，腹部有一条白色条纹。”_
 
-**Wolfram**: _"Bingo. That's the one. A careful shot, that's all I need."_
+**Wolfram**：_“找到了。就是它。我只需要仔细射击。”_
 
-**Warden**: _"Standing amongst all the creatures, the sound becomes unbearable for both Freya and Wolfram. Please make a WIL save, each of you."_
+**守望者**：_“站在这些生物之间时，声音对 Freya 和 Wolfram 来说都变得难以忍受。请你们两人分别进行一次 WIL 豁免。”_
 
-**Freya**: _"Uh oh. I rolled a 15, a fail."_
+**Freya**：_“糟糕。我掷出 15，失败。”_
 
-**Wolfram**: _"I roll an 11, a success!"_
+**Wolfram**：_“我掷出 11，成功！”_
 
-**Warden**: _"Freya collapses on the ground, the noise in her ears has grown so loud it has become an explosion of agony. Wolfram, you grit your teeth and carry on. Lucius is unaffected."_
+**守望者**：_“Freya 倒在地上，耳中的声音变得如此响亮，已经像痛苦爆发一样。Wolfram，你咬紧牙关继续行动。Lucius 没有受到影响。”_
 
-**Freya**: _"Eek. Do I lose my next turn?"_
+**Freya**：_“啊。我会失去下一个回合吗？”_
 
-**Warden**: _"That's right, but you can try to succeed at a WIL save to snap out of it. A few of the creatures nearby begin to nibble at your clothes as you writhe around. Finally, they attack both you and Wolfram!"_
+**守望者**：_“没错，但你可以尝试进行一次 WIL 豁免来摆脱这种状态。附近的几只生物开始啃咬你的衣服，而你在地上痛苦地扭动。最后，它们向你和 Wolfram 同时发起攻击！”_
 
-> As a detachment, the Traitor-Rats have both the _blast_ property and deal _enhanced_ damage. The Warden rolls a d12 twice, dealing 1 damage to Freya and 6 to Wolfram.
+> 作为一支分队，叛徒鼠同时拥有_爆发_特性，并会造成_强化_伤害。守望者掷出两次 d12，分别对 Freya 和 Wolfram 造成 1 点和 6 点伤害。
 
-**Warden**: _"Freya, you do not have HP as you are prone. However, your leather armor has protected you from taking any damage from the rats nipping at your back. Wolfram, you take 6 damage, but your HP and armor absorb the bulk of it. Next time you might not be so lucky."_
+**守望者**：_“Freya，你倒在地上，没有 HP。不过你的皮甲保护了你，使你没有受到老鼠啃咬后背造成的伤害。Wolfram，你受到 6 点伤害，但你的 HP 和护甲吸收了其中大部分。下次你可能就没这么幸运了。”_
 
-**Wolfram**: "_That's OK, because there won't be a next time! I take aim at the taller creature and fire. I realize I have to roll a d4, but that's the best we've got!"_
+**Wolfram**：_“没关系，因为不会有下次！我要瞄准那只高大的生物并开火。我知道自己必须掷 d4，但这已经是我们能做到的最好结果了！”_
 
-**Freya**: "_All I can do is make a WIL save... and it's a success! Phew."_
+**Freya**：_“我能做的只有进行 WIL 豁免……成功了！呼。”_
 
-**Lucius**: _"I rush towards Freya and try to drag her out of that mess."_
+**Lucius**：_“我要冲向 Freya，试着把她从那群东西里拖出来。”_
 
-> Wolfram rolls a 2, which is enough to deal damage to STR. The detachment must now make a Critical Damage save using its STR Attribute. The Warden rolls a 7, a fail.
+> Wolfram 掷出 2，足以造成 STR 伤害。分队现在必须使用自己的 STR 属性进行一次重伤豁免。守望者掷出 7，失败。
 
-**Warden**: _"The crossbow bolt zings through the air, striking the white-furred creature in the heart. It screeches and keels over, and immediately the terrible noise stops, as the creatures begin to run off! Lucius, you pull Freya out of the danger zone just as she is coming around."_
+**守望者**：_“弩箭划过空中，射中那只白毛生物的心脏。它尖叫着倒下，恐怖的声音立刻停止，其他生物开始逃跑！Lucius，你在 Freya 恢复意识的瞬间把她从危险区域拖了出来。”_
 
-**Wolfram**: _"Thank goodness that's done with. I'm going to go grab whatever I just shot, though. Might make for a good dinner."_ 
+**Wolfram**：_“谢天谢地，终于结束了。我去把刚才射中的东西捡回来。说不定能当顿好晚餐。”_
 
-> The party rests for the night, and dines well.
+> 队伍休息了一晚，吃了一顿丰盛的饭。

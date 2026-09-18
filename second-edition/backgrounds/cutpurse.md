@@ -1,48 +1,46 @@
 ---
-title: Cutpurse
+title: 扒手
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: 背景
+grand_parent: 第二版
 ---
 
-# Cutpurse
+# 扒手
 
-> You live in the grey space between those who have power and those who don’t. You find opportunity where others see only chaos. With nimble fingers, you unburden both the richest merchant and the lowliest guard. 
+> 你生活在掌权者与无权者之间的灰色地带。别人眼中只有混乱的地方，你却能发现机会。凭借灵巧的手指，你既能让最富有的商人卸下负担，也能让最卑微的守卫失去财物。
 
-## Names
+## 姓名
 
 Arlo, Lyra, Eamon, Salina, Elara, Freya, Bull, Sparrow, Ivy, Silas
 
-## Starting Gear
- 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Twin Daggers (d6+d6, _bulky_)
-- Padded Leather (1 Armor)
-- Lockpicks
-- Black Outfit (_petty_)
+## 初始装备
 
-## What was your last big job? Roll 1d6:
+- 3d6 金币
+- 口粮（3 次）
+- 火把（3 次）
+- 双匕首（d6+d6，_笨重_）
+- 软皮甲（1 护甲）
+- 开锁工具
+- 黑色服装（_轻巧_）
+
+## 你上一次大买卖是什么？掷 1d6：
 
 |       |                                                                                                                                                                                                   |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | A noble's summer home. The place was full of fancy wine (+20gp) but not much else. Take **Fence Cutters**.                                                                                        |
-| **2** | A bank. (You were caught.) You bear a brand only visible by firelight, and anyone who sees the mark can ask you for a beer. Take **Retractable Wires**.                                           |
-| **3** | A guild warehouse. Take a **Ladder** (_bulky_, 10ft) and **Blinding Powder** (1 use).                                                                                                             |
-| **4** | Moneylender. Someone beat you to the job but left behind a **Scroll** of _Arcane Eye_ (_petty_). _Arcane Eye_: You can see through a magical floating eyeball that flies around at your command. |
-| **5** | Constable's quarters. You escaped but left some friends behind. Take **Strong Silk Rope** (30ft) and a queasy feeling.                                                                           |
-| **6** | A university. You were seen but not pursued. You still don't know why. Take **Smoke Pellets** (3 uses).                                                                                          |
+| **1** | 一位贵族的避暑别墅。那里有满屋美酒（+20gp），却没什么别的东西。获得**剪锁钳**。                                                                                        |
+| **2** | 一家银行。（你被抓住了。）你身上有一道只有在火光下才能看见的烙印；任何看见它的人都可以向你讨一杯啤酒。获得**伸缩钢丝**。                                           |
+| **3** | 一个行会仓库。获得一架**梯子**（_笨重_，10 英尺）和一些**致盲粉**（1 次）。                                                                                                             |
+| **4** | 放贷人的住处。有人抢先完成了这桩买卖，却留下了一张装有_奥术之眼_的**卷轴**（_轻巧_）。_奥术之眼_：你可以透过一只绕着你飞行的魔法浮空眼球看见事物。 |
+| **5** | 治安官的住所。你逃了出来，却把一些朋友留在了那里。获得一条**结实的丝绸绳**（30 英尺），以及一阵恶心的不安感。                                                                           |
+| **6** | 一所大学。有人看见了你，却没有追捕。你至今不知道为什么。获得**烟雾弹**（3 次）。                                                                                          |
 
-## What helps you steal? Roll 1d6:
+## 什么能帮助你偷窃？掷 1d6：
 
 |       |                       |                                                                                                                                                    |
 | ----- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Catring**           | 2 charges. Climb up walls and fall safely. **Recharge**: Place the ring on a stray cat's tail.                                                     |
-| **2** | **Gildfinger**        | 1 charge. A finger glove that mimics any mundane key. **Recharge**: Bundle it with at least 100gp for a night.                                     |
-| **3** | **Glimpse Glass**     | 3 uses. A monocle that lets you see through walls or other obstructions. It shatters after the last use.                                        |
-| **4** | **Sweetwhistle**      | 1 charge. Listeners hear a soft, familiar voice in the distance that they cannot resist following. **Recharge**: Lose a dear memory. (Describe it.) |
-| **5** | **Vagrant's Veil**    | 1 charge. Wear it to blend seamlessly into crowds, appearing as a simple pauper. **Recharge**: Donate the day's winnings to the poor. _Petty_      |
-| **6** | **Reverse Teetotum** | 1 use. When spun, time skips backwards 30 seconds. Everyone remembers what happened.                                                                                    |
-
-
+| **1** | **猫戒**              | 2 点充能。沿墙攀爬并安全落地。**充能**：把戒指套在一只流浪猫的尾巴上。                                                     |
+| **2** | **金指**              | 1 点充能。一只可以模仿任何普通钥匙的手指手套。**充能**：将它与至少 100gp 放在一起一晚。                                     |
+| **3** | **透视镜**            | 3 次。一枚能让你看穿墙壁或其他障碍物的单片眼镜。最后一次使用后会碎裂。                                        |
+| **4** | **甜哨**              | 1 点充能。听者会在远处听到柔和而熟悉的声音，无法抗拒地跟随它。**充能**：失去一段珍贵的记忆。（描述这段记忆。） |
+| **5** | **流浪者面纱**        | 1 点充能。戴上它，你就能完美融入人群，看起来只是一个普通的穷人。**充能**：将当天的收入捐给穷人。_轻巧_      |
+| **6** | **逆转陀螺**          | 1 次。转动它时，时间会倒退 30 秒。所有人都记得发生过什么。                                                                                    |

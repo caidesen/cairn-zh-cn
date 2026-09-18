@@ -1,46 +1,46 @@
 ---
-title: Fletchwind
+title: 逐风者
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: 背景
+grand_parent: 第二版
 ---
 
-# Fletchwind
+# 逐风者
 
-> You strike from afar, but that does not make you a coward. You are a musician, the song of your bowstring naught but a warning, singing the silent promise of a quick death. 
+> 你从远处出击，但这并不意味着你是懦夫。你是一名音乐家，弓弦之歌只是警告，唱出快速死亡的无声承诺。
 
-## Names
+## 姓名
 
 Flint, Feather, Crier, Thunder, Falcon, Pluck, Needle, Warsong, Hawk, Cai
 
-## Starting Gear
+## 初始装备
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Bow (see table)
-- Serrated Knife (d6)
-- Boiled Leather (1 Armor)
-- Heartroot Salve (restores 1d4 STR, 1 use)
+- 3d6 金币
+- 口粮（3 次）
+- 火把（3 次）
+- 弓（见下表）
+- 锯齿刀（d6）
+- 熟皮甲（1 护甲）
+- 心根药膏（恢复 1d4 STR，1 次）
 
-## How did you earn your bow? Roll 1d6:
+## 你的弓是怎么得到的？掷 1d6：
 
 |       |                                                                                                                                                                                                             |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **War**. If you are first to attack, your bow gains the _blast_ property for the first round.                                                                                                               |
-| **2** | **Falconry**. You keep a falcon [3 hp, 5 STR, 16 DEX, 4 WIL, claws (d6+d6), bite (d8)]. It only eats live game.                                                                                             |
-| **3** | **Hunting**. When taking the Supply action, your ability to secure **Rations** increases by **one step** (e.g. 1d4 becomes 1d6).          |
-| **4** | **Tournaments**. Attacks with your bow are _enhanced_ if the target is immobile.                                                                                                                            |
-| **5** | **Training**. If you are the first to attack, melee attacks against you are _impaired_ until you take STR damage.                                                                                           |
-| **6** | **Scouting**. When taking the Travel action, your presence decreases the chance of getting lost by one step (e.g. 4-in-6 becomes 3-in-6). |
+| **1** | **战争**。如果你第一个发动攻击，你的弓在第一回合获得_爆发_特性。                                                                                                               |
+| **2** | **驯鹰**。你养着一只猎鹰[3 hp、5 STR、16 DEX、4 WIL、利爪（d6+d6）、啄咬（d8）]。它只吃活物。                                                                                             |
+| **3** | **狩猎**。执行补给行动时，你获取**口粮**的能力提高一级（例如从 1d4 变为 1d6）。          |
+| **4** | **比武**。如果目标无法移动，使用你的弓进行的攻击会获得_强化_。                                                                                                                            |
+| **5** | **训练**。如果你第一个发动攻击，在你受到 STR 伤害之前，针对你的近战攻击都会受到_削弱_。                                                                                           |
+| **6** | **侦察**。执行旅行行动时，你的存在会使迷路概率降低一级（例如从 4-in-6 降为 3-in-6）。 |
 
-## What kind of wood is your bow made from? Roll 1d6:
+## 你的弓由什么木材制成？掷 1d6：
 
 |       |                                                                                                          |
 | ----- | -------------------------------------------------------------------------------------------------------- |
-| **1** | **Western Yew** (d6, _bulky_). Can be wielded as a blunt weapon (d6). Noisy.                             |
-| **2** | **Sessile Oak** (d8, _bulky_). Slams into targets. On **Critical Damage** something is torn off.         |
-| **3** | **Stone Pine** (d6, _bulky_). Produces one use of **Sticky Sap** per day. The sap is highly explosive.   |
-| **4** | **White Ash** (d6, _bulky_). Can be used in place of a shield in melee combat (+1 Armor).                |
-| **5** | **Striped Bamboo** (d6). Collapsible, it only requires one slot (but still requires both hands).         |
-| **6** | **Wych Elm** (d6, _bulky_). Protects the bearer from poisons and toxins, so long as they are holding it. |
+| **1** | **西方紫杉**（d6，_笨重_）。可以作为钝器使用（d6）。会发出噪音。                             |
+| **2** | **无梗栎**（d8，_笨重_）。会猛撞目标。如果造成**重伤**，就会撕下目标的某个部位。         |
+| **3** | **石松**（d6，_笨重_）。每天产生一次**黏性树脂**。树脂具有极强的爆炸性。   |
+| **4** | **白蜡树**（d6，_笨重_）。近战中可以代替盾牌使用（+1 护甲）。                |
+| **5** | **斑纹竹**（d6）。可以折叠，只占一格（但仍需要双手使用）。         |
+| **6** | **山榆**（d6，_笨重_）。只要持有它，就能保护持有者免受毒药和毒素侵害。 |

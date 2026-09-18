@@ -1,301 +1,302 @@
 ---
 layout: default
-title: Procedures
-parent: Player's Guide
-grand_parent: Second Edition
+title: 流程
+parent: 玩家指南
+grand_parent: 第二版
 ---
 
-# Procedures
+# 流程
 
-## Dungeon Exploration
+## 地城探索
 
-### The Basics
+### 基础
 
-- The dungeon exploration cycle (see below) is divided into a series of **Turns**, **Actions**, and their consequences. 
-- On their **turn**, a character can move a distance equal to their torchlight's perimeter (about 40ft), and perform one **action**. Players can use their **action** to move up to three times that distance though that will increase the chance of triggering a roll on the [**Dungeon Events**](#dungeon-events) table.
-- The **Warden** should present obvious information about an area and its dangers freely and at no cost. Moving quickly or without caution may increase the chance of encountering a wandering monster, springing a trap, or triggering a roll on the [**Dungeon Events**](#dungeon-events) table.
+- 地城探索循环（见下文）由一系列**轮次**、**行动**及其后果组成。
+- 在自己的**轮次**中，角色可以移动相当于其火炬光照周长的距离（约 40ft），并进行一次**行动**。玩家可以用自己的**行动**移动最多三倍的距离，但这会增加触发[**地城事件**](#dungeon-events)表掷骰的概率。
+- **守望者**应免费、直接地提供区域及其危险的显著信息。快速或不加谨慎地移动，可能增加遭遇游荡怪物、触发陷阱或在[**地城事件**](#dungeon-events)表上掷骰的概率。
 
-> Although the term "dungeon" is used here, it can mean any dangerous locale (mansions, farmhouses, adventure site, etc).
+> 此处虽然使用了“地城”一词，但它可以指任何危险地点（庄园、农舍、冒险地点等）。
 
-### Dungeon Exploration Cycle
+### 地城探索循环
 
-1. The **Warden** describes the party's surroundings and any immediate dangers (combat, traps, surprises, etc.). The players then declare their character's intended movements and **actions**. 
-2. The Warden resolves the **actions** of each character simultaneously, along with any **actions** that are already in progress. Remember, the Die of Fate can be a useful tool whenever the Warden is in doubt!
-3. The players record any loss of resources and any new conditions (i.e. item use, _deprivation_, etc). The cycle then begins again. If appropriate, the **Warden** should roll on the [**Dungeon Events**](#dungeon-events) table. Keep common sense in mind when interpreting the results! 
+1. **守望者**描述队伍周围的环境以及任何迫在眉睫的危险（战斗、陷阱、突袭等）。然后，玩家声明角色打算进行的移动和**行动**。
+2. 守望者同时结算每个角色的**行动**，以及已经在进行中的任何**行动**。记住，只要守望者无法确定情况，命运骰就可能是有用的工具！
+3. 玩家记录资源损失和新增状态（例如物品使用、_匮乏_等）。然后循环重新开始。如有必要，**守望者**应在[**地城事件**](#dungeon-events)表上掷骰。解读结果时要运用常识！
 
-### Dungeon Events
+### 地城事件 {#dungeon-events}
 
-Exploring a dungeon is always dangerous, and time must always be weighed against the risk of awakening the location's denizens, natural hazards, and worse.  
-When the party:
+探索地城始终充满危险，必须时刻权衡时间与唤醒此地居民、触发自然灾害以及更糟情况的风险。
+当队伍：
 
-- Spends more than one dungeon cycle in a single room or location 
-- Moves quickly or haphazardly through a room
-- Moves into a new area, level, or zone
-- Creates a loud disturbance 
+- 在同一房间或地点中进行超过一个地城循环
+- 快速或杂乱无章地穿过房间
+- 进入新的区域、层级或地带
+- 制造巨大的声响
 
-**Roll on the table below.**
+**在下表上掷骰。**
 
 |       |                 |                                                                                                           |
 | :---: | :-------------: | :-------------------------------------------------------------------------------------------------------: |
-| **1** |  **Encounter**  |    Roll on an encounter table. Possibly **hostile**. (See [Reactions](/second-edition/players-guide/core-rules/#reactions).)    |
-| **2** |    **Sign**     |                  A clue, spoor, track, abandoned lair, scent, victim, etc is discovered.                  |
-| **3** | **Environment** |      Surroundings shift or escalate. Water rises, ceilings collapse, a ritual nears completion, etc.      |
-| **4** |    **Loss**     | Torches are blown out, an ongoing spell fizzles, etc. The party must resolve the effect before moving on. |
-| **5** | **Exhaustion**  |   The party must rest (triggering another roll on this table), add a **Fatigue**, or consume a ration.    |
-| **6** |    **Quiet**    |                          The party is left alone (and safe) for the time being.                           |
+| **1** |     **遭遇**    |    在遭遇表上掷骰。遭遇可能是**敌对的**。（见[反应](/second-edition/players-guide/core-rules/#reactions)。）    |
+| **2** |     **迹象**    |                  发现线索、踪迹、足迹、废弃巢穴、气味、受害者等。                  |
+| **3** |     **环境**    |      周围环境发生变化或升级。水位上涨、天花板坍塌、仪式即将完成等。      |
+| **4** |     **损失**    | 火炬熄灭、正在持续的法术失效等。队伍必须在继续前进前解决这一影响。 |
+| **5** |     **耗竭**    |   队伍必须休息（从而再次在此表上掷骰）、增加一点**疲劳**，或消耗一份口粮。    |
+| **6** |     **平静**    |                          暂时无人打扰队伍，队伍也处于安全之中。                           |
 
-### Actions
+### 行动
 
-- **Actions** are any non-passive activities, such as _searching for traps_, _forcing open a door_, _listening for danger_, _disarming a trap_, _engaging an enemy in combat_, _casting a spell_, _dodging a trap_, _running away_, _resting_, etc. 
-- Some **actions** have special rules (see below), while others may take multiple **turns** to complete. 
-- Loud or noticeable **actions** may also trigger an **encounter** with the dungeon's denizens. 
+- **行动**是任何非被动活动，例如_寻找陷阱_、_强行打开门_、_倾听危险_、_解除陷阱_、_与敌人交战_、_施放法术_、_躲避陷阱_、_逃跑_、_休息_等。
+- 有些**行动**有特殊规则（见下文），而其他行动可能需要多个**轮次**才能完成。
+- 喧闹或引人注意的**行动**也可能触发与地城居民的**遭遇**。
 
-#### Searching
+#### 搜索
 
-- A character can spend a **turn** performing an _exhaustive_ search of **one** object or location in an area, revealing any relevant hidden treasure, traps, secret doors, etc. 
-- Larger rooms and difficult or complex dungeon terrain may take a few **turns** to properly search.
-- Searching a room _first_ is a safer way to explore the dungeon, but it has a steep cost: time.
+- 角色可以花费一个**轮次**，对一个区域中的一件物品或一个地点进行_彻底_搜索，从而发现任何相关的隐藏宝藏、陷阱、秘密门等。
+- 较大的房间以及困难或复杂的地城地形，可能需要几个**轮次**才能彻底搜索。
+- _先_搜索房间是探索地城更安全的方式，但代价很高：时间。
 
-#### Resting
+#### 休息
 
-- A character can spend a turn **resting** to restore all **HP**.
-- A light source and a _safe location_ are required to **rest**. Present or oncoming danger makes **rest** impossible.
-- **Resting** does not restore **Fatigue**, as it is impossible to safely **Make Camp** in a dungeon.
+- 角色可以花费一个轮次进行**休息**，以恢复全部 **HP**。
+- **休息**需要光源和一个_安全地点_。眼前或即将发生的危险会使**休息**无法进行。
+- **休息**不会恢复**疲劳**，因为在地城中无法安全地进行**扎营**。
 
-### Panic
+### 恐慌
 
-- A character that is surrounded by enemies, enveloped by darkness, or facing their greatest fears may experience _panic_. A **WIL** **save** is typically required to avoid losing control and becoming _panicked_. 
-- A _panicked_ character must make a **WIL** **save** to overcome their condition as an **action** on their **turn**.
-- A _panicked_ character has 0 **HP**, does not act in the first round of combat, and all of their attacks are _impaired_.  
+- 被敌人包围、被黑暗笼罩或面对自己最大的恐惧时，角色可能陷入_恐慌_。通常需要进行一次 WIL **豁免**，以避免失去控制并变得_恐慌_。
+- 处于_恐慌_状态的角色必须在自己的**轮次**中，将一次 WIL **豁免**作为一次**行动**，以克服该状态。
+- 处于_恐慌_状态的角色拥有 0 **HP**，不会在战斗的第一回合行动，并且其所有攻击都处于_削弱_状态。
 
-### Dungeon Elements
+### 地城要素
 
-#### Light
-- Torches and other radial sources of light illuminate 40ft of dungeon and beyond that only a dim outline of objects. Torches last until they are put out by a character or their environment.
-- A torch can be lit 3 times before permanently degrading. A lantern can be relit 6 times per oil can, but requires more inventory slots.
-- Characters without a light source may suffer from _panic_ until their situation is remedied. 
+#### 光照
 
-#### Doors
+- 火炬和其他向四周照射的光源可以照亮 40ft 的地城，再远处只能照出物体的模糊轮廓。火炬会一直燃烧，直到被角色或环境熄灭。
+- 一支火炬可以点燃 3 次，之后会永久损坏。每罐油可以重新点燃提灯 6 次，但提灯需要更多物品栏格。
+- 没有光源的角色可能会陷入_恐慌_，直到问题得到解决。
 
-- Doors and entryways may be locked, stuck, or blocked entirely. Characters can try to force a door open (or wedge it shut) using available resources (spikes, glue) or through raw ability. 
-- The party's marching order determines who is most impacted by whatever lies beyond a door.
-- A character can detect, through careful observation (listening, smelling, etc.), signs of life and other hazards through nearby doors and walls.
+#### 门
 
-#### Traps 
+- 门和入口可能上锁、卡住或完全堵塞。角色可以使用现有资源（尖刺、胶水）或单纯依靠蛮力，尝试强行打开一扇门（或把它楔住关紧）。
+- 队伍的行进顺序决定了门后事物会最先影响谁。
+- 角色可以通过仔细观察（倾听、嗅闻等），发现附近门后和墙后的生命迹象及其他危险。
 
-- A cautious character should be presented with any and all information that would allow them the opportunity to _avoid_ springing a trap. An unwitting character will trigger a trap according to the fiction, or otherwise will have a 2-in-6 chance.
-- **Traps** can usually be detected by carefully **searching** a room.
-- Damage from traps is taken from Attributes (usually **STR** or **DEX**) and _not_ from **HP**. Armor can reduce damage, but only if applicable (e.g. a shield would not reduce damage from noxious gas).
+#### 陷阱
 
-## Wilderness Exploration
+- 对于谨慎的角色，应提供所有能够让其有机会_避免_触发陷阱的信息。毫无察觉的角色会根据故事情境触发陷阱，否则就有 2-in-6 的概率触发。
+- **陷阱**通常可以通过仔细**搜索**房间来发现。
+- 陷阱造成的伤害取自属性（通常是 **STR** 或 **DEX**），而_不是_ **HP**。护甲可以减免伤害，但只有在适用时才能减免（例如，盾牌无法减免有毒气体造成的伤害）。
 
-### Watches
+## 荒野探索
 
-- A day is divided into three **watches**, called _morning_, _afternoon_, and _night_. 
-- Each character can choose _one_ [**Wilderness Action**](#wilderness-actions) per **watch**. 
-- If the characters split up, each group is treated as an independent entity.
+### 时段
 
-### Points
+- 一天分为三个**时段**，分别称为_上午_、_下午_和_夜间_。
+- 每名角色在每个**时段**可以选择一个[**荒野行动**](#wilderness-actions)。
+- 如果角色们分头行动，每个小组都视为一个独立实体。
 
-- Potential destinations on a map are called **points**. 
-- One or more **watches** may be required to journey between two **points** on a map, depending on the path, terrain, weather, and party status.
-- The party has a rough idea of the challenges involved to get to their destination, but rarely any specifics. 
+### 点位
 
-### Travel Duration
+- 地图上潜在的目的地称为**点位**。
+- 根据路径、地形、天气和队伍状态，在地图上的两个**点位**之间旅行可能需要一个或多个**时段**。
+- 队伍大致知道抵达目的地所涉及的挑战，但很少知道具体细节。
 
-Travel time in Cairn is counted in watches, divided into three eight-hour segments per day. However, as most parties elect to spend the third watch of the day resting, one can use "days" as a shorthand for travel time.
+### 旅行时长
 
-To determine the distance between two points, combine all penalties from the path, terrain, and weather difficulty tables, taking into account any changes to those elements along the route. For travel via waterways, refer to the surrounding terrain difficulty. For especially vast terrain, assign a penalty of up to +2 watches to the journey.
+Cairn 中的旅行时间按时段计算，每天分为三个八小时的时段。不过，由于大多数队伍会选择在一天的第三个时段休息，因此也可以用“天”作为旅行时间的简称。
 
-The weather, terrain, darkness, injured party members, and other obstacles can impact travel or even make it impossible! In some cases, the party may need to add **Fatigue** or expend resources in order to sustain their pace. Mounts, guides, and maps can increase the party’s travel speed or even negate certain penalties.
+要确定两个点位之间的距离，请合并路径、地形和天气难度表中的所有惩罚，并考虑沿途这些要素的任何变化。沿水路旅行时，参照周围地形的难度。对于特别广阔的地形，为旅程增加最多 +2 个时段的惩罚。
 
-### Path Difficulty
+天气、地形、黑暗、受伤的队员和其他障碍都会影响旅行，甚至使旅行无法进行！在某些情况下，队伍可能需要增加**疲劳**或消耗资源，才能保持行进速度。坐骑、向导和地图可以提高队伍的旅行速度，甚至抵消某些惩罚。
+
+### 路径难度
 
 |            |             |                          |
 | ---------- | ----------- | ------------------------ |
-| **Path**   | **Penalty** | **Odds of Getting Lost** |
-| Roads      | None        | None                     |
-| Trails     | +1 Watch    | 2-in-6                   |
-| Wilderness | +2 Watches  | 3-in-6                   |
+| **路径**   | **惩罚**    | **迷路概率**             |
+| 道路       | 无          | 无                       |
+| 小径       | +1 时段     | 2-in-6                   |
+| 荒野       | +2 时段     | 3-in-6                   |
 
 |                   |             |
 | ----------------- | ----------- |
-| **Path Distance** | **Penalty** |
-| Short             | +1 Watch    |
-| Medium            | +2 Watches  |
-| Long              | +3 Watches  |
+| **路程**          | **惩罚**    |
+| 短                | +1 时段     |
+| 中                | +2 时段     |
+| 长                | +3 时段     |
 
-## Terrain Difficulty
+## 地形难度
 
 |                |                               |             |                                                                                                       |
 | -------------- | ----------------------------- | ----------- | ----------------------------------------------------------------------------------------------------- |
-| **Difficulty** | **Terrain**                   | **Penalty** | **Factors**                                                                                           |
-| **Easy**       | **Plains, plateaus, valleys** | none        | _Safe areas for rest, fellow travelers, good visibility_                                              |
-| **Tough**      | **Forests, deserts, hills**   | +1 Watch    | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_            |
-| **Perilous**   | **Mountains, jungles, swamp** | +2 Watches  | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
+| **难度**       | **地形**                      | **惩罚**    | **因素**                                                                                              |
+| **简单**       | **平原、高原、山谷**          | 无          | _适合休息的安全区域、同行者、良好的能见度_                                                          |
+| **艰难**       | **森林、沙漠、丘陵**          | +1 时段     | _野生动物、洪水、损坏的装备、落石、不安全的庇护所、猎人的陷阱_                                      |
+| **危险**       | **山脉、丛林、沼泽**          | +2 时段     | _流沙、泥潭、令人窒息的藤蔓、不洁的水、有毒的植物和动物、糟糕的导航_                                |
 
-### Weather
+### 天气
 
-Each day, the Warden should roll on the weather table for the appropriate season. If the "**Extreme**" weather result is rolled twice in a row, the weather turns to "**Catastrophic**". A squall becomes a hurricane, a storm floods the valley, etc.
+每天，守望者应根据相应季节在天气表上掷骰。如果连续两次掷出“**极端**”天气，天气就会变成“**灾难性**”。狂风骤雨会变成飓风，暴风雨会淹没山谷，等等。
 
-#### Weather Type
+#### 天气类型
 
 |        |            |            |            |            |
 | :----: | :--------: | :--------: | :--------: | :--------: |
-| **d6** | **Spring** | **Summer** |  **Fall**  | **Winter** |
-| **1**  |    Nice    |    Nice    |    Fair    |    Fair    |
-| **2**  |    Fair    |    Nice    |    Fair    | Unpleasant |
-| **3**  |    Fair    |    Fair    | Unpleasant | Inclement  |
-| **4**  | Unpleasant | Unpleasant | Inclement  | Inclement  |
-| **5**  | Inclement  | Inclement  | Inclement  |  Extreme   |
-| **6**  |  Extreme   |  Extreme   |  Extreme   |  Extreme   |
+| **d6** | **春季**   | **夏季**   | **秋季**   | **冬季**   |
+| **1**  |    良好    |    良好    |    适宜    |    适宜    |
+| **2**  |    适宜    |    良好    |    适宜    |    不适    |
+| **3**  |    适宜    |    适宜    |    不适    |    恶劣    |
+| **4**  |    不适    |    不适    |    恶劣    |    恶劣    |
+| **5**  |    恶劣    |    恶劣    |    恶劣    |    极端    |
+| **6**  |    极端    |    极端    |    极端    |    极端    |
 
-#### Weather Difficulty
+#### 天气难度
 
 |                  |                                                                                                         |                                                           |
 | :--------------: | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-|   **Weather**    | **Effect**                                                                                              | **Examples**                                              |
-|     **Nice**     | Favorable conditions for travel.                                                                        | _Clear skies, sunny_                                      |
-|     **Fair**     | Favorable conditions for travel.                                                                        | _Overcast, breezy_                                        |
-|  **Unpleasant**  | Add a **Fatigue** _or_ add one **watch** to the journey.                                                | _Gusting winds, rain showers, sweltering heat, chill air_ |
-|  **Inclement**   | Add a **Fatigue** _or_ add **+1 watch**. Increase terrain **Difficulty** by a step.  | _Thunderstorms, lightning, rain, muddy ground_           |
-|   **Extreme**    | Add a **Fatigue** _and_ add **+1 watch**. Increase terrain **Difficulty** by a step. | _Blizzards, freezing winds, flooding, mud slides_         |
-| **Catastrophic** | Most parties cannot travel under these conditions.                                                      | _Tornados, tidal waves, hurricane, volcanic eruption_     |
+|    **天气**      | **效果**                                                                                               | **示例**                                                  |
+|     **良好**     | 有利于旅行的条件。                                                                                     | _晴空万里、阳光明媚_                                      |
+|     **适宜**     | 有利于旅行的条件。                                                                                     | _阴天、有风_                                              |
+|     **不适**     | 增加一点**疲劳**，_或_为旅程增加一个**时段**。                                                         | _阵风、阵雨、闷热、冷空气_                                |
+|     **恶劣**     | 增加一点**疲劳**，_或_增加 **+1 时段**。将地形**难度**提高一级。                                         | _雷暴、闪电、降雨、泥泞的地面_                            |
+|     **极端**     | 增加一点**疲劳**，_并且_增加 **+1 时段**。将地形**难度**提高一级。                                       | _暴风雪、刺骨的寒风、洪水、泥石流_                        |
+|   **灾难性**     | 大多数队伍无法在这种条件下旅行。                                                                       | _龙卷风、海啸、飓风、火山喷发_                            |
 
-### Wilderness Exploration Cycle
+### 荒野探索循环
 
-1. The **Warden** describes the current **point** or **region** on the map and how the path, weather, terrain, or party status might affect **travel speed**. The party plots or adjusts a given course towards their destination. 
-2. Each party member chooses a single **Wilderness Action**. The **Warden** narrates the results and then rolls on the [**Wilderness Events**](#wilderness-events) table. The party responds to the results.
-3. The **players** and the **Warden** record any loss of resources and new conditions (i.e. torch use, _deprivation_, etc), and the cycle repeats. 
+1. **守望者**描述地图上当前的**点位**或**区域**，以及路径、天气、地形或队伍状态可能如何影响**旅行速度**。队伍规划或调整前往目的地的路线。
+2. 每名队员选择一个**荒野行动**。**守望者**叙述结果，然后在[**荒野事件**](#wilderness-events)表上掷骰。队伍根据结果做出应对。
+3. **玩家**和**守望者**记录资源损失和新增状态（例如火炬使用、_匮乏_等），循环继续。
 
-### Wilderness Events
+### 荒野事件 {#wilderness-events}
 
 |       |                 |                                                                                                                                                                                                                            |
 | ----- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Encounter**   | Roll on an encounter table for that terrain type or location. Don’t forget to roll for NPC [reactions](/second-edition/players-guide/core-rules.md/#reactions) if applicable.                                                                               |
-| **2** | **Sign**        | The party discovers a clue, spoor, or indication of a nearby encounter, locality, hidden feature, or information about a nearby area.                                                                                      |
-| **3** | **Environment** | A shift in weather or terrain.                                                                                                                                                                                             |
-| **4** | **Loss**        | The party is faced with a choice that costs them a resource (rations, tools, etc), time, or effort.                                                                                                                        |
-| **5** | **Exhaustion**  | The party encounters a barrier, forcing effort, care or delays. This might mean spending extra time (and an additional **Wilderness Action**) or adding **Fatigue** to the PC's inventory to represent their difficulties. |
-| **6** | **Discovery**   | The party finds food, treasure, or other useful resources. The **Warden** can instead choose to reveal the primary feature of the area.                                                                                    |
+| **1** | **遭遇**        | 针对该地形类型或地点在遭遇表上掷骰。如果适用，别忘了为 NPC 的[反应](/second-edition/players-guide/core-rules.md/#reactions)掷骰。                                                                                       |
+| **2** | **迹象**        | 队伍发现附近遭遇、地点、隐藏特征的线索或迹象，或发现附近区域的信息。                                                                                                                                                |
+| **3** | **环境**        | 天气或地形发生变化。                                                                                                                                                                                                     |
+| **4** | **损失**        | 队伍面临一个会消耗资源（口粮、工具等）、时间或精力的选择。                                                                                                                                                              |
+| **5** | **耗竭**        | 队伍遇到障碍，被迫付出努力、谨慎应对或延误。这可能意味着花费额外时间（以及额外的**荒野行动**），或在 PC 的物品栏中增加**疲劳**来体现他们遇到的困难。 |
+| **6** | **发现**        | 队伍找到食物、宝藏或其他有用资源。**守望者**也可以选择揭示该区域的主要特征。                                                                                                                                            |
 
-### Wilderness Elements
+### 荒野要素
 
-#### Night
+#### 夜间
 
-- The party can choose to travel during the night and rest during the day, but night travel is far slower and more treacherous!
-- Traveling at night is always more dangerous! The **Warden** should roll _twice_ on the [**Wilderness Events**](#wilderness-events) table.
-- Some terrain and weather may be easier to traverse at night (desert, for example). The **Warden** should balance these challenges along with any other.
+- 队伍可以选择在夜间旅行、白天休息，但夜间旅行慢得多，也危险得多！
+- 夜间旅行始终更加危险！**守望者**应在[**荒野事件**](#wilderness-events)表上掷骰_两次_。
+- 某些地形和天气在夜间可能更容易穿越（例如沙漠）。**守望者**应将这些挑战与其他因素一并权衡。
 
-#### Sleep
+#### 睡眠
 
-- The last **watch** of the day is typically reserved for the [**Make Camp**](#make-camp) action.
-- Characters typically need to sleep each day. Anything beyond a minor interruption can negate or cancel the benefits of sleep.
-- If the party skips the **Make Camp** action, they each add a **Fatigue** to their inventory and are _deprived_. Additionally, traveling when sleep-deprived raises the terrain **Difficulty** by a step (i.e. _Easy_ becomes _Tough_).
+- 一天的最后一个**时段**通常留给[**扎营**](#make-camp)行动。
+- 角色通常每天都需要睡眠。任何超过轻微程度的干扰，都可能抵消或取消睡眠带来的益处。
+- 如果队伍跳过**扎营**行动，每名队员都要在物品栏中增加一点**疲劳**，并处于_匮乏_状态。此外，睡眠不足时旅行会将地形**难度**提高一级（即_简单_变为_艰难_）。
 
-#### Light
+#### 光照
 
-- Torches and other radial sources of light illuminate 40ft ahead of the party, but beyond that only provides a dim outline of objects.
-- Characters without a light source may suffer from _panic_ until their situation is remedied. 
-- Environmental conditions (sudden gusts of wind, dust, water, etc.) can easily blow out a torch.
+- 火炬和其他向四周照射的光源可以照亮队伍前方 40ft，但再远处只能照出物体的模糊轮廓。
+- 没有光源的角色可能会陷入_恐慌_，直到问题得到解决。
+- 环境条件（突然的阵风、灰尘、水等）很容易吹灭火炬。
 
-##### Light Sources
+##### 光源
 
-- A torch can be lit 3 times before degrading. 
-- A lantern can be relit indefinitely but requires a separate oil can (6 uses).
+- 一支火炬可以点燃 3 次，之后会损坏。
+- 提灯可以无限次重新点燃，但需要单独的油罐（6 次使用次数）。
 
-### Wilderness Actions
+### 荒野行动 {#wilderness-actions}
 
-#### Travel
+#### 旅行
 
-- Travel begins. Obvious locations, features, and terrain of nearby areas are revealed according to their distance. This action is typically taken by the entire party as one.
-- The party rolls 1d6 to see if they get lost along the way. This risk can increase or decrease, depending on path **Difficulty**, maps, party skills, and guides.
-- If lost, the party may need to spend a **Wilderness Action** to recover their way. Otherwise, the party reaches the next **point** along their route. 
+- 开始旅行。根据附近区域与队伍的距离，揭示显而易见的地点、特征和地形。通常由全体队伍共同进行此行动。
+- 队伍掷 1d6，查看自己是否在途中迷路。路径**难度**、地图、队伍技能和向导都会使这一风险增加或降低。
+- 如果迷路，队伍可能需要花费一个**荒野行动**来找回路线。否则，队伍会抵达路线上的下一个**点位**。
 
-> Remember to compare the results of getting lost to the relevant path **Difficulty**. 
+> 记得将迷路结果与相关路径**难度**进行比较。
 
-#### Explore
+#### 探索
 
-- One or more party members search a large area, searching for hidden features, scouting ahead, or treading carefully.
-- A Location (shelter, village, cave, etc.) or Feature (geyser, underground river, beached ship, etc.) is discovered.
-- The **Travel** action is still required to _leave_ the current area, even if it has been completely explored.
+- 一名或多名队员搜索大片区域，寻找隐藏特征、向前侦察或谨慎行进。
+- 随后发现一个地点（庇护所、村庄、洞穴等）或特征（间歇泉、地下河、搁浅的船等）。
+- 即使当前区域已经完全探索过，要离开该区域仍然需要进行**旅行**行动。
 
-#### Supply
+#### 补给
 
-- One or more party members may hunt, fish, or forage for food, collecting 1d4 **Rations** (3 uses each). The chance of a greater bounty increases with each additional participant (e.g. 1d4 becomes 1d6, up to a maximum of 1d12). 
-- Relevant experience or equipment may also increase the bounty collected.
-- The party may encounter homes and small villages, spending gold and a full **watch** to resupply. 
+- 一名或多名队员可以狩猎、捕鱼或采集食物，收集 1d4 份**口粮**（每份可使用 3 次）。每增加一名参与者，获得更多收获的概率都会提高（例如从 1d4 变为 1d6，最多可变为 1d12）。
+- 相关经验或装备也可能增加收集到的收获。
+- 队伍可能会遇到住家和小村庄，花费金币和完整的一个**时段**来补充物资。
 
-#### Make Camp
+#### 扎营 {#make-camp}
 
-- The party stops to set up camp in the wilds. Each party member (and their mounts) consumes a **Ration**.
-- A **lookout rotation** is set so that the party can sleep unmolested. A smaller party may need to risk sleeping unguarded or switch off sleeping over multiple days.
-- Party members that were able to rest remove all of **Fatigue** from their inventory.
+- 队伍停下来，在荒野中搭建营地。每名队员（以及他们的坐骑）消耗一份**口粮**。
+- 队伍会安排_守望轮换_，以便安稳睡眠。人数较少的队伍可能需要冒险在无人看守的情况下睡觉，或在多天内轮流睡眠。
+- 能够休息的队员从物品栏中移除所有**疲劳**。
 
-## Downtime
+## 休整
 
-Between game sessions, players can engage in a variety of activities such as research, following up on leads, improving skills, or building relationships. A PC is limited to one **Downtime Action** at a time. These actions cannot be undertaken in unsafe conditions or while a character is in recovery. A character cannot perform an action if it would put their safety at risk.
+在游戏场次之间，玩家可以进行各种活动，例如研究、跟进线索、提升技能或建立关系。PC 一次只能进行一个**休整行动**。在不安全的条件下，或角色处于恢复期时，不能进行这些行动。如果某项行动会危及角色安全，角色不能进行该行动。
 
-### Milestones
+### 里程碑
 
-For activities requiring multiple steps, the **Warden** assigns 1-5 **Milestones** for players to track progress. Each **Milestone** represents a comprehensive, non-interactive task. The **Warden** may present different strategies to achieve these goals, each with distinct **Milestones**. Depending on the unfolding events in the game, the **Warden** is also empowered to introduce new **Milestones** or discard existing ones.
+对于需要多个步骤的活动，**守望者**会指定 1-5 个**里程碑**，供玩家追踪进度。每个**里程碑**都代表一项完整且无需互动的任务。**守望者**可以提供多种达成目标的策略，每种策略都有不同的**里程碑**。随着游戏事件展开，**守望者**也可以加入新的**里程碑**或舍弃现有的里程碑。
 
-### Costs
+### 代价
 
-PCs can complete individual **Milestones** by taking a **Downtime Action** and paying its respective **Cost**. If a character is unable to pay the **Cost**, they may have to find some other way to achieve their goal. A few examples of **Cost**: 
-- **Gold**: Direct payment of gold from a character's inventory.
-- **Resources**: Non-monetary costs such as material goods, specific common items, and so on. 
-- **Reputation**: Betting on a character's renown, personality, presence, social connections, etc.
-- **Loss**: Offering something specific and unique. A finger, a soul, a **Relic**, etc.
+PC 可以通过进行一次**休整行动**并支付相应的**代价**，完成单个**里程碑**。如果角色无法支付**代价**，就可能必须另想办法实现目标。以下是一些**代价**的例子：
+- **金币**：直接从角色物品栏中支付金币。
+- **资源**：非金钱代价，例如材料、特定的常见物品等。
+- **声望**：押上角色的名望、个性、影响力、社会关系等。
+- **损失**：献出某种具体且独特的东西。一根手指、一个灵魂、一件**遗物**等。
 
-Some **Costs** can be reduced or disregarded through character skills, connections, or force of will. For example, a PC may have already acquired the necessary reputation to gain access to a renowned institution, and thus the **cost** is abated. On the other hand, another character may not be so lucky and must rely on their force of personality instead. In this case, the Warden should state the risk (a permanent ban on entry, a loss of reputation, etc.). The PC then makes a **WIL** save; on a success, the cost is either reduced or avoided entirely. 
+通过角色的技能、关系或意志力，可以降低或免除某些**代价**。例如，PC 可能已经积累了足够的声望，可以进入某个著名机构，因此**代价**得以免除。另一方面，另一个角色可能没有这么幸运，只能依靠自己的个人魅力。在这种情况下，守望者应说明风险（永久禁止进入、损失声望等）。随后，PC 进行一次 WIL 豁免；如果成功，代价会降低或完全避免。
 
-## Downtime Actions
+## 休整行动
 
-The following activities represent some of the most common **Downtime Actions** a players can choose. The **Warden** can also create custom actions based on the needs of play.
+以下活动代表玩家可以选择的一些最常见的**休整行动**。**守望者**也可以根据游戏需要创建自定义行动。
 
-### Research
+### 研究
 
-A PC investigates a question about a bit of lost or forgotten lore, the location of a lost item, the whereabouts of an important NPC, and so on. To take this action, the player must have a clearly formulated question they'd like to answer and a **Source** of knowledge in the game world that their character can interact with. If the PC does not have a **Source**, then they can spend a **Downtime Action** trying to find one. There is no guarantee that they will be successful. Once a question is posed and an appropriate **Source** has been identified, the **Warden** should provide any **Milestones** and associated **Costs**. 
+PC 调查一个问题，例如某段遗失或被遗忘的知识、失物的位置、重要 NPC 的下落等。要进行此行动，玩家必须有一个想要解答的明确问题，以及游戏世界中角色能够与之互动的知识**来源**。如果 PC 没有**来源**，就可以花费一次**休整行动**尝试寻找来源。但不能保证一定成功。提出问题并找到合适的**来源**后，**守望者**应提供相关的**里程碑**和**代价**。
 
-#### Questions
+#### 问题
 
-As always, the question must come from an experience that occurred during play.
+一如既往，问题必须来自游戏过程中发生过的经历。
 
-**Examples:**
+**示例：**
 
-- "Where is the **Lost Temple of East Nipoor**?" 
-- "Who in **Fortune City** might know how to crack an ancient vault?"
-- "Where can I find the cure to **curly sickness**?" 
+- “尼普尔东部的**失落神殿**在哪里？”
+- “**幸运城**里谁可能知道如何打开一座古代金库？”
+- “我在哪里能找到治疗**卷曲病**的方法？”
 
-#### Sources
+#### 来源
 
-A **Source** is a person, place, faction, or entity that holds either a part or whole answer that the character seeks. They can be NPCs, Factions, spirits, or even other PCs. 
+**来源**是掌握角色想要寻找的部分或全部答案的人、地点、派系或实体。来源可以是 NPC、派系、灵体，甚至其他 PC。
 
-##### Examples: 
+##### 示例：
 
-- **Kewr the Mouth**, a frequent contact for the **Conclave of Merchants**. Despite their excellent relationship with this faction, asking for help in an illicit activity might come at a high cost.
-- A **Woodwose** who makes his home deep in the **Forest of Knives**. The party encountered him in an earlier expedition and the meeting did not end well. Still, he is said to know the nature of every herb and their healing properties.
-- The **Temple of Puppets**, a nomadic circus troupe who have travelled the known and unknown lands. The party assisted one of their members during the **Rain of Fire**, when even the creatures of the Wood were preparing to flee their homes. If anyone has heard of forgotten places, it's them.
+- **“嘴”库尔**是**商人密会**的常部联系人。尽管他与该派系关系极佳，但请他协助进行非法活动可能代价高昂。
+- 一名居住在**刀锋森林**深处的**林野人**。队伍曾在早先的一次远征中遇到过他，那次会面并不愉快。不过，据说他了解每种草药的性质及其疗效。
+- **木偶神殿**是一支游历已知与未知土地的流动马戏团。在**火雨**期间，连森林中的生物都准备逃离家园时，队伍曾帮助过其中一名成员。如果有人听说过被遗忘的地方，那一定就是他们。
 
-### Training
+### 训练
 
-A character can improve their skills with an item or ability, with clear narrative or mechanical results. They might be interested in dealing greater damage with a particular weapon, decreasing their chances of getting lost in rough weather, or learning to read the languages of the ancients. A PC might spend multiple **Downtime Actions** sparring with a particular weapon, improving their skills week by week. Or they may need to travel to the home of a distant sage, improving themselves through short but intense study.
+角色可以通过物品或能力提升技能，并产生明确的叙事或机制结果。他们可能希望使用某种武器造成更高伤害、降低在恶劣天气中迷路的概率，或学会阅读古代语言。PC 可能会花费多个**休整行动**，每周使用某种武器进行对练，逐步提升自己的技能。或者，他们可能需要前往一位遥远贤者的住处，通过短暂但高强度的学习提升自己。
 
-The player must describe precisely what they'd like to improve and a **Master** whom they might train with. And of course, the character's inspiration to improve should come from an experience in play. The **Warden** should provide any **Milestones** and associated **Costs**. 
+玩家必须准确描述想要提升的内容，以及可以与之训练的**导师**。当然，角色提升自己的动机也应来自游戏中的经历。**守望者**应提供相关的**里程碑**和**代价**。
 
-**Examples:**
+**示例：**
 
-- **The Two-Handed Parry**: When fighting with one hand free, a PC's HP temporarily increases by 1d4. The party took on a hireling from the **Cratered Lands**, whose fighters emphasize avoiding enemy attacks. She has agreed to train anyone who can best her in hand to hand combat.
-- **Herbology**: Given proper ingredients, a PC can create a **Healing Salve** (restores 4 STR) as a **Downtime Action**. After receiving care from an elderly herbalist in the **Verdant Glades**, the wounded PC asked to be trained in the healing arts. The **Master** has agreed, but asked that they collect three rare herbs before training can begin. 
-- **Troutmaster**: When taking the Supply **Action**, **Rations** gathered near cold freshwater sources increase by one step (e.g. 1d4 becomes 1d6). The party escorted a stranded naturalist from the famously dreadful **Silver Wastes** safely back to the city. As thanks, she has offered to train a PC to identify and capture a common lakefish that frequents colder waters.
+- **双手招架**：一只手空着进行战斗时，PC 的 HP 暂时增加 1d4。队伍招募了一名来自**陨坑之地**的雇工，那里的战士强调避开敌人的攻击。她同意训练任何能在徒手格斗中击败她的人。
+- **草药学**：拥有合适的材料时，PC 可以通过一次**休整行动**制作一份**治疗药膏**（恢复 4 STR）。一名受伤的 PC 曾接受一位年长草药师的照料，于是请求学习疗愈技艺。**导师**同意了，但要求他们先收集三种稀有草药。
+- **鳟鱼大师**：进行补给**行动**时，在寒冷淡水水源附近收集的**口粮**提高一级（例如从 1d4 变为 1d6）。队伍曾将一名受困的博物学家从臭名昭著的**银色荒原**安全护送回城。为表谢意，她愿意训练一名 PC 辨认并捕捉常见的湖鱼——这种鱼经常出没于更寒冷的水域。
 
-### Strengthening Ties
+### 加深关系
 
-A character fosters a connection with an NPC or Faction in the game world. First, they must identify the entity with whom they wish to strengthen ties, as well as a specific **intent** (e.g., building trust, mending a friendship, seeking membership in a Faction, forming an alliance, and so on). The **Warden** then provides concrete measures (described as **Milestones** and **Costs**) that the PC can undertake to advance the relationship. With each completed **Milestone**, the **Warden** describes how the PC's relationship has grown or changed. 
+角色与游戏世界中的 NPC 或派系建立联系。首先，他们必须确定希望加深关系的实体，以及一个具体的**意图**（例如建立信任、修复友谊、申请加入某个派系、结成联盟等）。随后，**守望者**会提供具体的措施（称为**里程碑**和**代价**），PC 可以通过这些措施推进关系。每完成一个**里程碑**，**守望者**就会描述 PC 的关系如何发展或改变。
 
-**Examples:**
+**示例：**
 
-- After returning from an unsuccessful delve into the **Roots**, a PC discovers that they'd unknowingly brought along a stowaway: an eyeless devourer, barely hatched. They decide to keep the creature and train it in secret. 
-- During a play session, a PC becomes friendly with an agent of the **Order of the Helm**. Impressed by the Order's values, the PC asks what the requirements are to join.
-- An agent for a powerful faction dies during the **Battle of Frogs** while under the party's care. Now those responsible wish to provide redress, so that the party can once again perform tasks for that faction.
+- 一次失败的根系探险归来后，一名 PC 发现自己在不知情的情况下带回了一个偷渡者：一只刚孵化不久的无眼吞噬者。他们决定秘密留下并训练这只生物。
+- 在一次游戏过程中，一名 PC 与**头盔之序**的一名代理人变得友好。PC 对该组织的价值观印象深刻，于是询问加入需要满足什么条件。
+- 一名强大派系的代理人在队伍照料下于**青蛙之战**中死亡。如今，责任人希望作出补偿，以便队伍能够再次为该派系执行任务。

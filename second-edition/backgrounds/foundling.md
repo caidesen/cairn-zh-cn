@@ -1,47 +1,47 @@
 ---
-title: Foundling
+title: 弃儿
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: 背景
+grand_parent: 第二版
 ---
 
-# Foundling
+# 弃儿
 
-> An odd birthmark, a strange smell: somehow, the touch of _elsewhere_ still lingers. Wherever you are, you have trouble fitting in. Roll on the **Omens** table (even if you're not the youngest player), but keep the results private for now.
- 
-## Names
+> 一个奇怪的胎记，一种陌生的气味：不知为何，_彼方_的触碰仍然萦绕在你身上。无论身在何处，你都难以融入其中。在**预兆**表上掷骰（即便你不是最年轻的玩家），但暂时将结果保密。
+
+## 姓名
 
 Faunus, Snowdrop, Wisp, Silverdew, Brim, Solstice, Steeleye, Artea, Gossamer, Hazel
 
-## Starting Gear
+## 初始装备
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Salt Pouch
-- Heirloom Amulet (_petty_, glows in the presence of magic)
-- Sling (d6)
-- Dagger (d6) 
+- 3d6 金币
+- 口粮（3 次）
+- 火把（3 次）
+- 盐袋
+- 传家护符（_轻巧_，在魔法出现时发光）
+- 投石索（d6）
+- 匕首（d6）
 
-## Who took you in? Roll 1d6:
+## 谁收养了你？掷 1d6：
 
 |       |                                                                                                                                                                                                                          |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | An old hunter. You were both quite happy, until it all ended. Take a **Weathered Longbow** (d8, _bulky_) and a **Leather Jerkin** (1 Armor).                                                                             |
-| **2** | A wizened apothecary, who taught you the healing arts but maintained a clinical detachment. Take a **Healing Unguent** (restores d4 STR, 1 use).                                                                                 |
-| **3** | A druid, who taught you the language of trees. When it came time to , you took with you only a **Gnarled Staff** (d8) and left a promise that one day you would return.                                                 |
-| **4** | A gruff blacksmith from a sleepy river town. You were always kept at arm's length. Now the forge is cold, and you've moved on. Take a **Smith's Apron** (_petty_) and a set of **Oft-mended Chain Mail** (2 Armor, _bulky_). |
-| **5** | A troupe of traveling entertainers. For a time, they were like family to you. One day you woke up and they were gone with no explanation. Take a **Storybook**, a **Dagger** (d6), and some burning questions.           |
-| **6** | The monks of a secluded forest monastery. When their rules became too strict, and you snuck away. Take a **Monk's Habit** (warm, _petty_) and a **Spellbook** of _Control Plants_. Control Plants: Nearby plants and trees obey you and gain the ability to move at a slow pace. _Leaves grow along the spine, and it smells faintly of decay._                                        |
+| **1** | 一位老猎人。你们曾经都很快乐，直到一切结束。获得一把**风化长弓**（d8，_笨重_）和一件**皮短上衣**（1 护甲）。                                                                             |
+| **2** | 一位年迈的药剂师，教会了你治疗之术，却始终与你保持临床式的疏离。获得一剂**疗伤药膏**（恢复 d4 STR，1 次）。                                                                                 |
+| **3** | 一位德鲁伊，教会了你树木的语言。到了该离开的时候，你只带走一根**盘曲法杖**（d8），并留下承诺：有朝一日你会回来。                                                 |
+| **4** | 一位来自沉寂河镇、脾气粗鲁的铁匠。你一直只能与他保持距离。如今炉火已冷，你也继续上路。获得一件**铁匠围裙**（_轻巧_）和一套**缝补多次的锁子甲**（2 护甲，_笨重_）。 |
+| **5** | 一群巡演艺人。有一段时间，他们像你的家人。一天早晨你醒来，却发现他们毫无解释地消失了。获得一本**故事书**、一把**匕首**（d6），以及一些灼热的问题。           |
+| **6** | 一座隐秘森林修道院里的僧侣。当他们的戒律变得过于严苛时，你偷偷离开了。获得一件**僧袍**（保暖，_轻巧_）和一本**控制植物**法术书。控制植物：附近的植物和树木会服从你，并获得缓慢移动的能力。_书脊上长出叶子，还散发着淡淡的腐败气味。_                                        |
 
 
-## What keeps bad tidings at bay? Roll 1d6:
+## 什么能阻挡坏消息？掷 1d6：
 
 |       |                   |                                                                                                                                         |
 | ----- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Pipeweed**      | Your good luck charm. Conversations tend to flow more easily after a smoke. 6 uses.                                                     |
-| **2** | **Stink Jar**     | Shattering this jar releases an odor so foul all nearby must make a STR save or immediately vomit. 1 use.                                 |
-| **3** | **Ivy Worm**      | A green worm often mistaken for a weed. Swallowed whole, it absorbs any toxins or rot in the body before exiting through the usual way. |
-| **4** | **Dream Stone**   | A smooth blue stone that helps recall dreams more clearly. Overuse can cause dream-addiction.                                           |
-| **5** | **Drowning Rod**  | A finger-sized wooden stick that doubles in size each time it is fully submerged in water. It does not shrink down again.         |
-| **6** | **Rabbit's Foot** | You were wearing it when they found you. They say it is the foot of she who left you and that it protects you from witch magic. _Petty_.       |
+| **1** | **烟草**          | 你的幸运符。抽烟后，谈话往往更容易进行。6 次。                                                     |
+| **2** | **臭气罐**        | 打碎这个罐子会释放出极其恶臭的气味，附近所有人都必须进行 STR 豁免，否则立即呕吐。1 次。                                 |
+| **3** | **常春藤虫**      | 一种常被误认为杂草的绿色虫子。整只吞下后，它会吸收体内的任何毒素或腐败，然后从通常的出口离开身体。 |
+| **4** | **梦石**          | 一块光滑的蓝色石头，能帮助你更清晰地回忆梦境。过度使用可能导致梦境成瘾。                                           |
+| **5** | **溺水棒**        | 一根手指大小的木棒，每次完全浸入水中都会变成原来的两倍大小。它不会再缩回去。         |
+| **6** | **兔脚**          | 他们发现你时，你正戴着它。他们说这是抛下你的那个人的脚，并且能保护你免受巫术侵害。_轻巧_。       |
