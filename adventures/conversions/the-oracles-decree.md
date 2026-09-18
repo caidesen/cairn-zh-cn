@@ -32,10 +32,10 @@ redirect_from: /resources/adventure-conversions/the-oracles-decree/
 - 10 分钟后停止工作。
 - 免疫普通武器。
 
-## 陷阱 {#traps}  
-- **落石陷阱**：d8 伤害  
-- **尖刺坑**：d6 伤害  
-- **虚弱**：射线造成 d6 伤害  
+## 陷阱 {#traps}
+- **落石陷阱**：d8 伤害
+- **尖刺坑**：d6 伤害
+- **虚弱**：射线造成 d6 伤害
 
 ## 物品 {#items}
 ### 硬煮矛 {#hardboiled-spear}

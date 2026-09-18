@@ -7,7 +7,7 @@ title: Grotto of Golden Gargoyle
 
 # 黄金石像鬼洞窟 {#grotto-of-golden-gargoyle}
 
-- [《Grotto of Golden Gargoyle》](https://pocket-sized-perils.itch.io/grotto-of)：Brendan Barnett 创作
+- [《Grotto of Golden Gargoyle》](https://pocket-sized-perils.itch.io/grotto-of)：[Brendan Barnett](https://dexsave.blogspot.com) 创作
 - 转换：Yochai Gal
 
 ## 说明 {#notes}

@@ -28,7 +28,7 @@ redirect_from: /resources/adventure-conversions/winters-daughter/
 - “年轻女子”（荆棘安妮）是标准 NPC，但 WIL 相对较高（4 HP，10/10/15）。
 
 #### 兜帽人（又名德鲁恩） {#hooded-men-aka-drunes}
-12 HP, 9 STR, 12 DEX, 14 WIL, 绿焰缠绕的法杖（d8）、法术书（_魅惑人类、魔法飞弹、定身术、推倒巨石_）  
+12 HP, 9 STR, 12 DEX, 14 WIL, 绿焰缠绕的法杖（d8）、法术书（_魅惑人类、魔法飞弹、定身术、推倒巨石_）
 - _魅惑人类：_目标将施法者视为朋友，直到 WIL 豁免成功。
 - _定身术：_目标陷入麻痹，直到 WIL 豁免成功。不死生物_不受_影响。
 - _魔法飞弹：_一道奥术绿光造成 d6 伤害，忽略普通护甲。

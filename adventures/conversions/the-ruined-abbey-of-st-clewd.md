@@ -9,13 +9,13 @@ title: The Ruined Abbey of St Clewyd
 
 - 由 Gavin Norman 和 Yves Geens 创作的[原作](https://necroticgnome.com/products/the-ruined-abbey-of-st-clewyd)转换而来。
 - 转换：[River Grimm](https://rivergrimm.itch.io/the-ruined-abbey-of-st-clewyd-conversion-for-cairn)
- 
+
 ## 魔法物品 {#magic-items}
 
-- **St. Elsa 的慈悲：**对不死生物的伤害得到_强化_。  
-- **St. Signis 之手：**每天施放一次 *Ward*。  
-- **St Dougan 的背包：**吃下一个苹果恢复 1 点 STR。  
-- **日晷针：**持有此书的神圣施法者可以让自己的法术得到_强化_。  
+- **St. Elsa 的慈悲：**对不死生物的伤害得到_强化_。
+- **St. Signis 之手：**每天施放一次 *Ward*。
+- **St Dougan 的背包：**吃下一个苹果恢复 1 点 STR。
+- **日晷针：**持有此书的神圣施法者可以让自己的法术得到_强化_。
 
 ## 怪物图鉴 {#bestiary}
 
@@ -62,7 +62,7 @@ title: The Ruined Abbey of St Clewyd
 
 - 普通武器的攻击受到_削弱_，而银制武器的攻击造成正常伤害。
 - **尖啸**（每天一次）：10 英尺内的所有生物必须成功通过 WIL 豁免，否则会被定在原地（无法移动，攻击受到_削弱_）1 轮。
-- **物品：**每只拥有 1d4 根 *Ghost Crow Quills*（见《Enchanted Oddments》，DCB）。 
+- **物品：**每只拥有 1d4 根 *Ghost Crow Quills*（见《Enchanted Oddments》，DCB）。
 
 ### 鬼僧 {#ghostly-monks}
 
@@ -86,7 +86,7 @@ title: The Ruined Abbey of St Clewyd
 
 ### Rag-N-Bone 先生 {#mister-rag-n-bone}
 
-10 HP, 14 STR, 10 DEX, 16 WIL, claws (d8+d8) or flock (d4) as *detachment* 
+10 HP, 14 STR, 10 DEX, 16 WIL, claws (d8+d8) or flock (d4) as *detachment*
 
 - 免疫生物性效果和影响心灵的法术。
 - 人形态下，非银制武器的攻击受到_削弱_。
@@ -137,7 +137,7 @@ title: The Ruined Abbey of St Clewyd
 	  4. **Politude：**毒咬。STR 豁免失败则陷入永恒长眠。
 	  5. **Mermidor：**施放 *Phantasm*、*Confusion* 和 *Dominate*（每个每天一次）。
 	  6. **Seemee：**疯狂大笑。30 英尺内的所有生物必须进行 WIL 豁免，否则失聪并晕头转向 1d3 轮。
-	  7. **She-Who-Damns：**诅咒一个目标。WIL 豁免失败则永久失去 1d6 WIL（最低降至 3）。 
+	  7. **She-Who-Damns：**诅咒一个目标。WIL 豁免失败则永久失去 1d6 WIL（最低降至 3）。
 
 ### 不死修道院长 {#undead-abbots}
 

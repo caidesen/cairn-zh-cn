@@ -14,17 +14,17 @@ title: The Sinister Secret of Peacock Point
 
 8 HP, 1 Armor, 14 STR, 12 DEX, 15 WIL, kick (d6)
 
-* **呕吐昆虫：**DEX 豁免，否则受到 d8 伤害。附近的昆虫群会使其 STR 增加 d8。*此能力每天只能使用 3 次。*  
-* **召唤昆虫：**召唤一群昆虫或 d3 只火甲虫。它们会在 d2 轮后抵达。  
-* **群聚形态：**可以变成一群甲虫。  
+* **呕吐昆虫：**DEX 豁免，否则受到 d8 伤害。附近的昆虫群会使其 STR 增加 d8。*此能力每天只能使用 3 次。*
+* **召唤昆虫：**召唤一群昆虫或 d3 只火甲虫。它们会在 d2 轮后抵达。
+* **群聚形态：**可以变成一群甲虫。
 * **群步：**可以通过 2 英里内的昆虫群传送。
 
 ## **臭鼬地精** {#skunk-goblins}
 
-4 HP, 8 STR, 12 DEX, 8 WIL, dagger (d6) or sling (d6)  
+4 HP, 8 STR, 12 DEX, 8 WIL, dagger (d6) or sling (d6)
 （普通地精属性）
 
-## **Leggero** {#leggero} 
+## **Leggero** {#leggero}
 
 4 HP, 1 Armor, 14 DEX, shortsword (d6)
 
@@ -56,6 +56,6 @@ title: The Sinister Secret of Peacock Point
 
 6 HP, 12 STR, 14 DEX, 8 WIL, 生锈砍刀 (d8)
 
-## **机械牛头人** {#the-mektaur} 
+## **机械牛头人** {#the-mektaur}
 
-5 HP, 3 Armor, 15 STR, 长柄武器 (d10)  
+5 HP, 3 Armor, 15 STR, 长柄武器 (d10)

@@ -18,7 +18,7 @@ grand_parent: Adventures
 **Orn Mountain 至 Fersera’s Lair**：短途、路径、危险 = **4 个时段**
 **Farharbor 至 Whitmere**：长途、道路、容易 = **3 个时段**
 **Donendar 至 Whitmere**：短途、路径、困难 + 中等、道路、容易 = **5 个时段**
-**Whitemere 至 Orn Mountain**：中等、道路、容易 = **2 个时段**  
+**Whitemere 至 Orn Mountain**：中等、道路、容易 = **2 个时段**
 
 ## Orn Mountain 洞穴 {#orn-mountain-caves}
 
