@@ -1,12 +1,12 @@
 ---
 layout: default
-title: About the Example Party
-parent: Warden's Guide 
-grand_parent: Second Edition
+title: 示例队伍说明
+parent: 守望者指南
+grand_parent: 第二版
 ---
 
-# About the Example Party
+# 示例队伍说明
 
-- **Wolfram**: A _Hexenbane_ belonging to the _Order of the Blank Eye_. Besides the usual equipment, he carries a Voidglass Shard and the _Disassemble_ Spellbook. He has taken a _Vow of Poverty_. 
-- **Lucius**: A _Mountebank_. Besides the usual equipment he carries Bandages (3 uses) and Miracle Oil (2 uses).
-- **Freya**: A _Cutpurse_. Besides the usual equipment she carries Smoke Pellets (3 uses) and a Catring (2 charges).
+- **沃尔弗拉姆**：一名属于_空眼教团_的_逐巫者_。除了通常的装备外，他还携带一块虚空玻璃碎片和法术书《_拆解_》。他立下了_贫困誓言_。
+- **卢修斯**：一名_江湖骗子_。除了通常的装备外，他还携带绷带（3 次）和奇迹油（2 次）。
+- **芙蕾雅**：一名_扒手_。除了通常的装备外，她还携带烟雾弹（3 次）和一只卡特林（2 次充能）。

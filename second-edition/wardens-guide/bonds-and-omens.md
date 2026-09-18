@@ -1,33 +1,33 @@
 ---
 layout: default
-title: Bonds and Omens
-parent: Warden's Guide 
-grand_parent: Second Edition
+title: 纽带与预兆
+parent: 守望者指南
+grand_parent: 第二版
 ---
 
-# Bonds and Omens
+# 纽带与预兆
 
-## Introduction
+## 引言
 
-Bonds and Omens provide new player characters with adventure hooks, starting gear, and abilities. And while they are distinct from character Backgrounds, they are equally useful for building a setting, or even a complete adventure!
+纽带与预兆会为新创建的玩家角色提供冒险钩子、初始装备和能力。它们虽然不同于角色的**背景**，却同样适合用于构建一个设定，甚至完整的冒险！
 
-## Bonds
+## 纽带
 
-Bonds can often tie a player character to another PC, the setting, and its characters. A PC can resolve a Bond by discovering the truth behind its mysteries or by solving its root cause. In this case, the character should experience Growth of some kind, and the Warden can optionally create a new Bond for the PC. Player characters are not required to resolve their Bonds. 
+纽带通常会把玩家角色与另一名 PC、游戏设定及其中的人物联系起来。PC 可以通过揭开谜团背后的真相，或解决造成问题的根源，来化解一条纽带。在这种情况下，角色应当经历某种**成长**；守望者也可以选择为该 PC 创建一条新的纽带。玩家角色不必一定化解自己的纽带。
 
-### Bonds Should...
+### 纽带应当……
 
-- Give a character an item (often _petty_) _or_ a unique ability.
-- Encourage character engagement with the implied setting.
-- Flesh out a character's history without relying on events tied to specific Backgrounds. 
-- Provide a character with a quest, opportunity, or plan of action. 
+- 给予角色一件物品（通常是_轻巧_物品）或一种独特能力。
+- 鼓励角色投入默认设定。
+- 丰富角色的历史，但不依赖与特定背景绑定的事件。
+- 为角色提供任务、机会或行动计划。
 
-## Omens
+## 预兆
 
-Omens are the seeds of an adventure yet to come, premonitions of a future disaster, or the cause of a problem the characters are currently facing. An Omen is resolved when the characters reveal the truth behind its origin or resolve its dangers. Resolving an Omen should yield Growth of some kind, either for the party as a collective or to an entangled individual. If an Omen is ignored, it should come to pass and wreak whatever havoc it may.
+预兆是尚未发生的冒险种子、未来灾难的预示，或角色当前正面临的问题根源。当角色揭示其起源背后的真相，或解决它带来的危险时，一个预兆就算被化解。化解预兆应当带来某种**成长**，成长对象可以是整个队伍，也可以是受到牵连的某个个体。如果预兆被忽视，它就应当成真，并带来相应的灾祸。
 
-### Omens Should...
+### 预兆应当……
 
-- Never rely on a specific player character for relevance.
-- Alway tell the characters something about the setting they did not already know.
-- Reveal a pattern or other obvious indicator that something terrible is going on. 
+- 不能依赖某个特定玩家角色才能产生意义。
+- 总是告诉角色一些他们原本不知道的设定信息。
+- 揭示某种模式或其他明显迹象，表明某件可怕的事情正在发生。
