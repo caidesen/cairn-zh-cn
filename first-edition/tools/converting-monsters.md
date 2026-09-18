@@ -6,27 +6,27 @@ grand_parent: First Edition
 redirect_from: /tools/converting-monsters/
 ---
 
-# Converting Monsters
+# 转换怪物
 
-There is no perfect system for converting from other systems.  
-Below are some tips that might help with the process!
+没有哪一种从其他系统转换的方法是完美的。\
+下面是一些可能有助于转换过程的建议！
 
-## The Basics
+## 基础
 
-Review the instructions in the [SRD](https://cairnrpg.com/cairn-srd/#creating-monsters). A couple of things to keep in mind:
-- OSE (or B/X) has really great stat blocks that can be easily truncated for quick conversion. See this [page](https://oldschoolessentials.necroticgnome.com/srd/index.php/General) and this [PDF](https://necroticgnome.com/products/old-school-essentials-adaptation-guidelines) for more.
-- Dungeon World has some great monster "moves" that translate to Critical Damage quite nicely, so looking for an equivalent creature in that system can really help! See this example [here](http://codex.dungeon-world.com/monster/5698559156420608).
-- Sometimes a direct stat to stat translation isn't an option. That's OK! There is a [way](/resources/tools/converting-monsters/#use-the-fiction)!
+请查看 [SRD](https://cairnrpg.com/cairn-srd/#creating-monsters) 中的说明。需要牢记以下几点：
+- OSE（或 B/X）拥有非常优秀的 stat blocks，可以轻松删减，用于快速转换。更多信息请参见此[页面](https://oldschoolessentials.necroticgnome.com/srd/index.php/General)和此 [PDF](https://necroticgnome.com/products/old-school-essentials-adaptation-guidelines)。
+- Dungeon World 有一些很棒的怪物“moves”，转换为 Critical Damage 时效果很好，因此在该系统中寻找等价的生物会很有帮助！示例见[这里](http://codex.dungeon-world.com/monster/5698559156420608)。
+- 有时无法直接逐项转换 stats。没关系！这里有一种[方法](/resources/tools/converting-monsters/#use-the-fiction)！
 
-### Health, Armor & Abilities
+### Health、Armor 与 Abilities
 
-- **Hit Protection** is _not_ health. It's the creature's ability to avoid danger, whether through toughness, speed, or skill. If the PCs will have a tough time landing a blow that actually causes damage, the creature has high **HP**. A good rule of thumb is to give the creature +1 HP for every **HD**, on top of a minimum **3 HP** (the average person). I usually think of **HD** as equivalent to a d6, which has a _mean_ of 3.5. Always start with a creature's **HP** _first_, _then_ do their **STR**.
-- **Armor** is generally easy to map; phrases like "as leather" and "as plate" are really helpful. Generally ignore THAC0 and use descending AC (7 = Leather, 5 = Chainmail, 3 = Plate mail). If only ascending AC is given you can use (12 = Leather, 14 = Chainmail, 16 = Plate mail). Whichever system you're converting from, the Armor values range from 1-3.
-- **Strength** is both health and physical power.  It also tracks constitution & resistance to poisons.  Look at the creature's **HD** and **HP** (even if you've already done so for **Hit Protection**). **STR** is the ability of a creature to survive a direct hit, not its ability to avoid danger! If a creature is difficult to kill but _not_ because they are good at avoiding injury, give them more **STR** (_not_ more **HP**). A good rule of thumb is to compare them to the average person (10 **STR**) and go up or down from there.
-- **Dexterity** is probably the easiest of the bunch. Start with **10** as a base and if the creature is particularly quick (sometimes called speed or SP), agile or nimble-fingered make it go up. If it is slow to respond, bulky, or clumsy, lower the number. See [Saving Throws](#saving-throws) below for more tricks!
-- **Willpower** is tricky. It rarely comes up but when it does, it's nice to have. High **WIL** is strong personality, spirit or presence. **Morale** (**ML**) can be a good guidepost for **Willpower** as well. Morale typically ranges between 2-12; some games use a "Morale Check" is used to determine if a monster flees (in Cairn a **WIL** save is used instead). The referee rolls 2d6; if the result is higher than the monster's **ML** score, they flee.  
+- **Hit Protection** _不是_ health。它代表生物躲避危险的能力，无论依靠的是坚韧、速度还是技巧。如果 PC 很难真正击中并造成伤害，那么该生物的 **HP** 就很高。一个不错的经验法则是：在最低 **3 HP**（普通人的数值）的基础上，每个 **HD** 为生物增加 +1 HP。我通常认为 **HD** 相当于一个 d6，而 d6 的 _均值_ 是 3.5。务必先确定生物的 **HP**，_再_处理它的 **STR**。
+- **Armor** 通常很容易映射；“as leather”和“as plate”这样的表述非常有帮助。通常忽略 THAC0，使用下降式 AC（7 = Leather，5 = Chainmail，3 = Plate mail）。如果只给出了上升式 AC，可以使用（12 = Leather，14 = Chainmail，16 = Plate mail）。无论从哪种系统转换，Armor 的数值范围都是 1-3。
+- **Strength** 同时代表 health 和 physical power，也反映体质以及抵抗毒素的能力。查看生物的 **HD** 和 **HP**（即使你已经为了 **Hit Protection** 查看过一次）。**STR** 代表生物承受直接命中的能力，而不是躲避危险的能力！如果一个生物很难杀死，_但不是因为它擅长避免受伤_，就给它更多 **STR**（_而不是_更多 **HP**）。一个不错的经验法则是将它与普通人（10 **STR**）比较，再据此上调或下调。
+- **Dexterity** 可能是最容易处理的属性。以 **10** 为基础；如果生物特别迅速（有时称作 speed 或 SP）、敏捷或手指灵巧，就提高数值。如果它反应迟缓、体格笨重或行动笨拙，就降低数值。更多技巧请见下面的 [Saving Throws](#saving-throws)！
+- **Willpower** 比较棘手。它很少派上用场，但需要时，有这个数值总是不错的。高 **WIL** 代表强大的性格、精神或气场。**Morale**（**ML**）也可以作为衡量 **Willpower** 的参考。Morale 通常在 2-12 之间；有些游戏会使用“Morale Check”来判断怪物是否逃跑（而 Cairn 使用 **WIL** save）。守望者掷 2d6；如果结果高于怪物的 **ML**，它们就会逃跑。\
 
-The following table offers a decent guide on converting **ML** to **WIL**.
+下表为将 **ML** 转换为 **WIL** 提供了一个不错的参考。
 
 |         |   |    |    |    |
 |---------|---|----|----|----|
@@ -35,29 +35,29 @@ The following table offers a decent guide on converting **ML** to **WIL**.
 
 ### Combat
 
-- Attack **damage** is pretty straightforward coming from games like OSE (or B / X); you can usually just copy them as-is. Double-check with the [weapons table](/cairn-srd/#weapons) if unsure.
-- Multiple attacks (e.g. 2 x claw, 1 x sting) typically convert to [_Blast_](/cairn-srd#Blast) and/or the "two weapons" rule (e.g. d6+d6 is roll 2d6, keep highest).
-- When in doubt, think about how much serious damage the creature is supposed to do. Remember that instead of raising attack damage a step, think about making it _enhanced_ in certain situations or use the _Blast_ and "two weapons" rule.
+- 来自 OSE（或 B / X）等游戏的攻击 **damage** 很容易处理；通常直接照抄即可。如果不确定，请对照[武器表](/cairn-srd/#weapons)。
+- 多重攻击（例如 2 x claw、1 x sting）通常转换为 [_Blast_](/cairn-srd#Blast) 和/或“两件武器”规则（例如 d6+d6 就是掷 2d6，取最高值）。
+- 如果不确定，想想该生物应该造成多少严重伤害。记住，与其提高一档攻击伤害，不如考虑让它在特定情况下变得 _enhanced_，或使用 _Blast_ 和“两件武器”规则。
 
-### Abilities & Magic
+### Abilities 与 Magic
 
-- Sometimes the mechanics of the original system simply _do not translate_. That's OK; try to take what's cool about the creature and write a "version" of their ability more appropriate to Cairn.
-- If the monster has an attack that asks the PCs to attempt to dodge or save against some ability, consider making the ability an out-of-combat "trap" that the PCs can trigger. Otherwise _make it succeed automatically_ during combat. The Warden can always telegraph the danger prior to combat to better prepare the PCs against the danger.
-- Abilities can sometimes be made into weapons, and assign a damage die, making Critical Damage reveal the damage. More often you should simply let the ability or attack _happen_. Combat is dangerous, and it is up to the Warden to properly telegraph danger before the fighting begins.
+- 原系统的机制有时就是 _无法转换_。没关系；试着提取生物身上最酷的部分，为它的能力写一个更适合 Cairn 的“版本”。
+- 如果怪物有一项攻击要求 PC 躲避或针对某项能力进行 save，可以考虑把这项能力变成一种战斗外的“陷阱”，让 PC 有机会触发。否则，就让它在战斗中 _自动成功_。Warden 总是可以在战斗前预告危险，让 PC 更好地应对。
+- 有时可以把能力变成武器，并为其指定一个伤害骰，让 Critical Damage 揭示其伤害。更多时候，你应该简单地让这项能力或攻击 _发生_。战斗很危险，Warden 有责任在战斗开始前恰当地预告危险。
 
 ### Magic
 
-- Magical creatures can just "know" a bunch of spells. In this case, make their corpses magical (and dangerous)!
-- Spells are tricky; you can give magic-users Spellbooks but remember, they might _drop_ them when defeated.
-- I like to make 1d4 dropped Spellbooks implode ([Die of Fate](/cairn-srd#die-of-fate)), just to mix it up!
+- 魔法生物可以“知晓”一堆法术。这种情况下，让它们的尸体也充满魔法（并且危险）！
+- 法术比较棘手；你可以给施法者 Spellbooks，但记住，他们被击败时可能会把 Spellbooks _掉落_。
+- 我喜欢让 1d4 本掉落的 Spellbooks 内爆（[Die of Fate](/cairn-srd#die-of-fate)），这样能增加一点变化！
 
 ### Saving Throws
 
-- You can rely on _saving throws_ to glean more information about a creature's abilities, specifically their ability to avoid death by physical trauma, magic, or poison. See the [OSE SRD](https://oldschoolessentials.necroticgnome.com/srd/index.php/Checks,_Damage,_Saves) for more details.
-- Occasionally stat blocks will use a shorthand like (E1) or (F1) (Level 1 [Elf](https://oldschoolessentials.necroticgnome.com/srd/index.php/Elf) or [Fighter](https://oldschoolessentials.necroticgnome.com/srd/index.php/Fighter) respectively). These are really helpful for quickly identifying at the creature's abilities.
-- Consider adding descriptive tags such as "immune to toxic gas" or "good at dodging bullets" based on the saving throws.
+- 你可以通过 _saving throws_ 进一步了解生物的能力，尤其是它们避免因身体创伤、魔法或毒素而死亡的能力。详情请见 [OSE SRD](https://oldschoolessentials.necroticgnome.com/srd/index.php/Checks,_Damage,_Saves)。
+- stat blocks 偶尔会使用类似 (E1) 或 (F1) 的缩写（分别代表 1 级 [Elf](https://oldschoolessentials.necroticgnome.com/srd/index.php/Elf) 或 [Fighter](https://oldschoolessentials.necroticgnome.com/srd/index.php/Fighter)）。这些缩写非常有助于快速判断生物的能力。
+- 可以根据 saving throws 添加描述性标签，例如“免疫毒气”或“擅长躲避子弹”。
 
-The following table should help determine which saving throws should result in an increase in one of the relevant ability scores.
+下表应该有助于判断哪些 saving throws 应该使相关属性值之一提高。
 
 |                                |            |
 | ------------------------------ | ---------- |
@@ -69,65 +69,66 @@ The following table should help determine which saving throws should result in a
 
 ### Stat Block Structure
 
- There are many ways to do this, but try to be consistent! In Cairn I write it like this:
+有很多种写法，但尽量保持一致！在 Cairn 中，我会这样写：
 **Name**
 X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, _qualities_), special items
-- Engaging descriptor of appearance or demeanor
-- Quirk, tactic, or peculiarity making this NPC unique
-- Special effect or critical damage consequence
+- 吸引人的外貌或举止描述
+- 让这个 NPC 独一无二的怪癖、战术或特异之处
+- 特殊效果或 critical damage 后果
 
-## Use The Fiction
+<a id="use-the-fiction"></a>
+## 利用虚构设定
 
-Read the original stat block and surrounding commentary, then write a few sentences about the creature. Then convert what you've written to the Cairn monster stat block.
+阅读原始 stat block 及其周围的说明，然后用几句话描述这个生物。接着，将你写下的内容转换为 Cairn 怪物 stat block。
 
-Take for example this creature:
+以这个生物为例：
 
 #### Foxwoman
 
-Can take the form of a fox, a woman, or a 7' tall fox-headed.  
+可以变成狐狸、女人，或一个 7' 高的狐首人身生物。\
 _HD 5, Speed 120', Armor 14, Morale 11, Attack: +4 d8hp (claw, bite or choke)_
-- Defense: Cannot be harmed by metal
-- Special: Can transform into a fox or a maiden with one fox leg hidden (same stats) at will
+- Defense：无法被金属伤害
+- Special：可以随意变成狐狸，或变成藏起一条狐狸腿的少女（stats 相同）
 
-_**Using the example above, I can see that she:**_  
-- Appears as a 7-foot tall with a human woman with the head of a fox.
-- Looking at the stats, it seems like she doesn't have too high HP, and she's quite fast.
-- Her **ML** is pretty high. She's obviously quite willful.
-- Agile and lithe.
-- Attacks with deadly teeth and claws (choking her prey if possible).
-- Transforms into a fox at will.
-- Immune to metal weapons.
+_**通过上面的例子，我可以看出她：**_\
+- 外表是一个 7 英尺高、长着狐狸头的女人。
+- 从 stats 来看，她的 HP 似乎不太高，但速度相当快。
+- 她的 **ML** 很高。她显然相当有意志力。
+- 敏捷而轻盈。
+- 用致命的牙齿和爪子攻击（如果可能，还会勒死猎物）。
+- 可以随意变成狐狸。
+- 免疫金属武器。
 
-_**What can we learn from this?**_  
-- She's fast, and probably savvy in a fight. Starting from **3 HP**, then counting 1 **HP** per additional **HD** is **8 HP**.
-- I don't think foxes have protective hides, and she's otherwise human beside her head. **No Armor**.
-- She is decently strong. Normal human is 10 and she's bigger. **12 STR**.
-- I can imagine her hunting prey over the snowy tundra. She's fast. **14 DEX**.
-- Her **ML** is high but not the max. And foxes are pretty cunning, right? She'll stick it out in a tough situation. **15 WIL**.
-- I'd go with **bite (d6)** for the teeth attack, and **claws (d8+d8)**, the same as any two-handed weapon.
+_**我们能从中了解到什么？**_\
+- 她速度很快，在战斗中可能也很老练。从 **3 HP** 开始，每增加一个 **HD** 计 1 **HP**，就是 **8 HP**。
+- 我不认为狐狸有保护性的皮毛；除了头部，她其他地方都像人类。**No Armor**。
+- 她的力量相当不错。普通人是 10，而她更高大。**12 STR**。
+- 我可以想象她在雪原上猎杀猎物。她速度很快。**14 DEX**。
+- 她的 **ML** 很高，但不是最高。而且狐狸很狡猾，对吧？在艰难的处境中，她会坚持下去。**15 WIL**。
+- 我会将牙齿攻击设为 **bite (d6)**，爪子设为 **claws (d8+d8)**，与任何双手武器相同。
 
-_**In summary, that leaves us with the following opening stat block:**_  
-_8 HP, 12 STR, 14 DEX, 15 WIL, teeth (d6), claws (d8+d8)_
+_**总而言之，我们得到以下初始 stat block：**_\
+_8 HP, 12 STR, 14 DEX, 15 WIL, teeth (d6), claws (d8+d8)_\
 
-_**Now on to her abilities:**_  
-This is pretty straightforward. We simply read the fictional stat block we created earlier!
-- We know what she looks like, and that she can transform into a fox at will.
-- She cannot be harmed by metal; I'm taking this to mean she's immune to _metal weapons_.
-- She chokes her victims.
+_**接下来处理她的 abilities：**_\
+这很简单。我们只需阅读之前创建的虚构 stat block！
+- 我们知道她长什么样，也知道她可以随意变成狐狸。
+- 她不会受到金属伤害；我将其理解为她免疫 _metal weapons_。
+- 她会勒死受害者。
 
-_**Easy, right? Now to make it useful:**_  
-- Appears as a 7-foot tall with a human woman with the head of a fox.
-- Transforms into a fox at will.
-- Immune to attacks from metal weapons.
-- Critical damage: victim is choked unconscious, to be fed on soon after.
+_**很简单，对吧？现在让它变得实用：**_\
+- 外表是一个 7 英尺高、长着狐狸头的女人。
+- 可以随意变成狐狸。
+- 免疫金属武器的攻击。
+- Critical damage：受害者被勒至失去意识，不久后会被吃掉。
 
-_**And that's it!**_
-_**Behold, a converted Cairn monster:**_
+_**就这样！**_
+_**看，这就是转换后的 Cairn 怪物：**_
 
 #### Foxwoman
 
 8 HP, 12 STR, 14 DEX, 15 WIL, claws or hands (d8+d8)
 
-- Can take the form of a fox, or a woman with a single, hidden fox led.
-- Immune to attacks from metal weapons.
-- **Critical damage**: Victim is choked unconscious.
+- 可以变成狐狸，或变成藏起一条狐狸腿的女人。
+- 免疫金属武器的攻击。
+- **Critical damage**：受害者被勒至失去意识。
