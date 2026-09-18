@@ -1,194 +1,193 @@
 ---
 layout: default
-title: Character Creation
-parent: Player's Guide
-grand_parent: Second Edition
+title: 角色创建
+parent: 玩家指南
+grand_parent: 第二版
 ---
 
-# Character Creation 
+# 角色创建
 
-## Roll or choose a Background
+## 掷骰或选择背景
 
-- First, roll or choose from the [Backgrounds](#backgrounds) table below and note the page number. You will refer to that page for the next few steps.
-- Choose a name from the available list, then record each of your character's starting items. See [Inventory](#inventory) and [Inventory Slots](#inventory-slots) for how to record items. 
-- Roll on each of the included tables in the background. Record your character's items, skills, or abilities from each result. Some backgrounds may ask you to refer to the tables in the [Marketplace](/second-edition/players-guide/marketplace) as well.
+- 首先，从下方的[背景](#backgrounds)表中掷骰或选择一个，并记下页码。接下来的几步会用到该页的信息。
+- 从可用名单中选择一个姓名，然后记录角色的每件初始物品。如何记录物品，请参阅[物品栏](#inventory)和[物品栏格](#inventory-slots)。
+- 在背景附带的每张表上掷骰。根据每次结果，记录角色获得的物品、技能或能力。有些背景还会要求你查阅[市场](/second-edition/players-guide/marketplace)中的表。
 
-## Backgrounds
+## 背景 {#backgrounds}
 
 |         |                                                                                 |        |                                                                             |
 | ------- | ------------------------------------------------------------------------------- | ------ | --------------------------------------------------------------------------- |
-| **d20** | **Background**                                                                  |        |                                                                             |
-| **1**   | [Aurifex](/second-edition/backgrounds/aurifex)               | **11** | [Half-Witch](/second-edition/backgrounds/half-witch)     |
-| **2**   | [Barber-Surgeon](/second-edition/backgrounds/barber-surgeon) | **12** | [Hexenbane](/second-edition/backgrounds/hexenbane)       |
-| **3**   | [Beast Handler](/second-edition/backgrounds/beast-handler)   | **13** | [Jongleur](/second-edition/backgrounds/jongleur/)        |
-| **4**   | [Bonekeeper](/second-edition/backgrounds/bonekeeper/)        | **14** | [Kettlewright](/second-edition/backgrounds/kettlewright) |
-| **5**   | [Cutpurse](/second-edition/backgrounds/cutpurse)             | **15** | [Marchguard](/second-edition/backgrounds/marchguard/)    |
-| **6**   | [Fieldwarden](/second-edition/backgrounds/fieldwarden/)      | **16** | [Mountebank](/second-edition/backgrounds/mountebank)     |
-| **7**   | [Fletchwind](/second-edition/backgrounds/fletchwind)         | **17** | [Outrider](/second-edition/backgrounds/outrider)         |
-| **8**   | [Foundling](/second-edition/backgrounds/foundling)           | **18** | [Prowler](/second-edition/backgrounds/prowler)           |
-| **9**   | [Fungal Forager](/second-edition/backgrounds/fungal-forager) | **19** | [Rill Runner](/second-edition/backgrounds/rill-runner)   |
-| **10**  | [Greenwise](/second-edition/backgrounds/greenwise/)          | **20** | [Scrivener](/second-edition/backgrounds/scrivener)       |
+| **d20** | **背景**                                                                        |        |                                                                             |
+| **1**   | [金匠](/second-edition/backgrounds/aurifex)                   | **11** | [半巫](/second-edition/backgrounds/half-witch)             |
+| **2**   | [理发外科医](/second-edition/backgrounds/barber-surgeon)       | **12** | [逐巫者](/second-edition/backgrounds/hexenbane)            |
+| **3**   | [驯兽师](/second-edition/backgrounds/beast-handler)            | **13** | [杂耍艺人](/second-edition/backgrounds/jongleur/)           |
+| **4**   | [骨守](/second-edition/backgrounds/bonekeeper/)                | **14** | [炉匠](/second-edition/backgrounds/kettlewright)            |
+| **5**   | [扒手](/second-edition/backgrounds/cutpurse)                  | **15** | [边境卫](/second-edition/backgrounds/marchguard/)           |
+| **6**   | [荒野守望者](/second-edition/backgrounds/fieldwarden/)        | **16** | [江湖骗子](/second-edition/backgrounds/mountebank)          |
+| **7**   | [逐风者](/second-edition/backgrounds/fletchwind)              | **17** | [斥候骑手](/second-edition/backgrounds/outrider)            |
+| **8**   | [弃儿](/second-edition/backgrounds/foundling)                 | **18** | [潜行者](/second-edition/backgrounds/prowler)              |
+| **9**   | [采菌人](/second-edition/backgrounds/fungal-forager)          | **19** | [溪流行者](/second-edition/backgrounds/rill-runner)        |
+| **10**  | [绿智者](/second-edition/backgrounds/greenwise/)              | **20** | [抄写员](/second-edition/backgrounds/scrivener)             |
 
-## Attributes, Hit Protection, and Traits 
+## 属性、命中防护与特征
 
-- Roll for your Characters **Attributes** and **Hit Protection**.
-- Roll for the rest  of your character's [Traits](#character-traits-d10), and then on the the [Bonds](#bonds) table.
-- Finally, roll for your character's **Age** (2d20+10). If you are the _youngest_ character, roll on the [Omens](#omens) table. The result should be read aloud to the other players. The Warden should incorporate Omens into the setting as they see fit.
+- 为角色的**属性**和**命中防护**掷骰。
+- 为角色其余的[特征](#character-traits-d10)掷骰，然后在[纽带](#bonds)表上掷骰。
+- 最后，为角色的**年龄**掷骰（2d20+10）。如果你是队伍中_最年轻_的角色，就在[预兆](#omens)表上掷骰，并将结果朗读给其他玩家。守望者应酌情将预兆融入环境。
 
-## Attributes
+## 属性
 
-- Player Characters have just three Attributes: (**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**). 
-- Roll 3d6 for each of your character's **Attributes**, in order. You may then swap any two of the results. 
-- Attributes are not universal descriptors. A character with a low STR is not necessarily hopelessly weak; they can still attempt to lift a heavy door or survive a deadly fight! Their risk is simply higher. 
+- 玩家角色只有三项属性：（**力量（STR）**、**敏捷（DEX）**和**意志（WIL）**）。
+- 按顺序为角色的每项**属性**掷 3d6。之后，你可以交换任意两项结果。
+- 属性不是万能的描述。STR 较低的角色不一定弱得无可救药；他们仍然可以尝试抬起沉重的门，或在致命战斗中活下来！他们只是承担着更高的风险。
 
-## Hit Protection
+## 命中防护
 
-- Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. It does not indicate a character’s health or fortitude, nor do they lose it for very long. See [Healing & Recovery](/second-edition/players-guide/core-rules#healing--recovery). 
-- If an attack would take a PC's HP exactly to 0, the player must roll on the [**Scars**](/second-edition/players-guide/core-rules#scars) table.
+- 掷 1d6，决定 PC 的初始**命中防护**（HP）。它代表角色在战斗中避免受伤的能力，并不表示角色的健康或体魄，而且通常不会长时间损失。参阅[治疗与恢复](/second-edition/players-guide/core-rules#healing--recovery)。
+- 如果一次攻击会使 PC 的 HP 恰好降至 0，玩家必须在[**创伤**](/second-edition/players-guide/core-rules#scars)表上掷骰。
 
-## Inventory
+## 物品栏 {#inventory}
 
-- Characters have a total of ten inventory slots but can only carry four or five items comfortably without the help of bags, backpacks, horses, carts, etc.
-- Each PC starts with a **Backpack** that can hold up to six slots of items or **Fatigue**. Carts (which must be pulled with both hands), horses, or mules can make a huge difference in how much a PC can bring with them on an adventure. **Hirelings** can also be paid to carry equipment. 
-- Inventory is abstract, dependent only on the fiction as adjudicated by the Warden. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP. A character cannot fill more than ten slots.
+- 角色总共有十个物品栏格，但如果没有袋子、背包、马匹、马车等帮助，通常只能舒适地携带四到五件物品。
+- 每名 PC 初始拥有一个**背包**，最多可以容纳六格物品或**疲劳**。马车（必须用双手拉动）、马或骡子都能显著增加 PC 在冒险中可以携带的东西。也可以付钱雇佣**雇工**来搬运装备。
+- 物品栏是抽象的，具体判定完全取决于守望者裁定的游戏情境。物品栏已满（即填满全部 10 格）的角色 HP 降为 0。角色的物品栏不能超过十格。
 
-### Inventory Slots
+### 物品栏格 {#inventory-slots}
 
-- Most items take up one slot unless otherwise indicated. 
-- _Petty_ items do not take up any slots. _Bulky_ items take up **two** slots. 
-- A bag of coins worth less than 100gp is _petty_ and does not occupy a slot.
+- 除非另有说明，大多数物品占用一格。
+- _轻巧_物品不占用任何格子。_笨重_物品占用**两格**。
+- 价值低于 100gp 的一袋金币属于_轻巧_物品，不占用格子。
 
-## Character Traits (d10)
+## 角色特征（d10） {#character-traits-d10}
 
-### Physique
+### 体格
 
 |       |          |        |            |
 | ----- | -------- | ------ | ---------- |
-| **1** | Athletic | **6**  | Scrawny    |
-| **2** | Brawny   | **7**  | Short      |
-| **3** | Flabby   | **8**  | Statuesque |
-| **4** | Lanky    | **9**  | Stout      |
-| **5** | Rugged   | **10** | Towering   |
+| **1** | 健壮     | **6**  | 瘦弱       |
+| **2** | 壮硕     | **7**  | 矮小       |
+| **3** | 肥胖     | **8**  | 高挑       |
+| **4** | 瘦长     | **9**  | 结实       |
+| **5** | 粗犷     | **10** | 高大       |
 
-### Skin
+### 皮肤
 
 |       |             |        |           |
 | ----- | ----------- | ------ | --------- |
-| **1** | Birthmarked | **6**  | Soft      |
-| **2** | Marked      | **7**  | Tanned    |
-| **3** | Oily        | **8**  | Tattooed  |
-| **4** | Rosy        | **9**  | Weathered |
-| **5** | Scarred     | **10** | Webbed    |
+| **1** | 带胎记      | **6**  | 柔软      |
+| **2** | 有斑痕      | **7**  | 晒黑      |
+| **3** | 油腻        | **8**  | 有纹身    |
+| **4** | 红润        | **9**  | 饱经风霜  |
+| **5** | 带疤        | **10** | 有蹼      |
 
-### Hair
-
-|       |         |        |           |
-| ----- | ------- | ------ | --------- |
-| **1** | Bald    | **6**  | Long      |
-| **2** | Braided | **7**  | Luxurious |
-| **3** | Curly   | **8**  | Oily      |
-| **4** | Filthy  | **9**  | Wavy      |
-| **5** | Frizzy  | **10** | Wispy     |
-
-### Face
-
-|       |           |        |         |
-| ----- | --------- | ------ | ------- |
-| **1** | Bony      | **6**  | Perfect |
-| **2** | Broken    | **7**  | Rakish  |
-| **3** | Chiseled  | **8**  | Sharp   |
-| **4** | Elongated | **9**  | Square  |
-| **5** | Pale      | **10** | Sunken  |
-
-### Speech
+### 头发
 
 |       |         |        |            |
 | ----- | ------- | ------ | ---------- |
-| **1** | Blunt   | **6**  | Gravelly   |
-| **2** | Booming | **7**  | Precise    |
-| **3** | Cryptic | **8**  | Squeaky    |
-| **4** | Droning | **9**  | Stuttering |
-| **5** | Formal  | **10** | Whispery   |
+| **1** | 秃顶    | **6**  | 长发       |
+| **2** | 编辫    | **7**  | 华丽       |
+| **3** | 卷曲    | **8**  | 油腻       |
+| **4** | 污秽    | **9**  | 波浪       |
+| **5** | 蓬乱    | **10** | 稀疏       |
 
-### Clothing
+### 面容
+
+|       |           |        |         |
+| ----- | --------- | ------ | ------- |
+| **1** | 瘦削      | **6**  | 完美     |
+| **2** | 破相      | **7**  | 风流     |
+| **3** | 棱角分明  | **8**  | 尖削     |
+| **4** | 狭长      | **9**  | 方正     |
+| **5** | 苍白      | **10** | 凹陷     |
+
+### 说话方式
+
+|       |         |        |            |
+| ----- | ------- | ------ | ---------- |
+| **1** | 直白    | **6**  | 沙哑       |
+| **2** | 洪亮    | **7**  | 精确       |
+| **3** | 隐晦    | **8**  | 尖细       |
+| **4** | 单调    | **9**  | 结巴       |
+| **5** | 正式    | **10** | 耳语       |
+
+### 衣着
 
 |       |         |        |        |
 | ----- | ------- | ------ | ------ |
-| **1** | Antique | **6**  | Frayed |
-| **2** | Bloody  | **7**  | Frumpy |
-| **3** | Elegant | **8**  | Livery |
-| **4** | Filthy  | **9**  | Rancid |
-| **5** | Foreign | **10** | Soiled |
+| **1** | 古旧    | **6**  | 磨损   |
+| **2** | 带血    | **7**  | 邋遢   |
+| **3** | 优雅    | **8**  | 制服   |
+| **4** | 污秽    | **9**  | 腐臭   |
+| **5** | 异域    | **10** | 脏污   |
 
-### Virtue
+### 美德
 
 |       |             |        |           |
 | ----- | ----------- | ------ | --------- |
-| **1** | Ambitious   | **6**  | Honorable |
-| **2** | Cautious    | **7**  | Humble    |
-| **3** | Courageous  | **8**  | Merciful  |
-| **4** | Disciplined | **9**  | Serene    |
-| **5** | Gregarious  | **10** | Tolerant  |
+| **1** | 有野心      | **6**  | 正直      |
+| **2** | 谨慎        | **7**  | 谦逊      |
+| **3** | 勇敢        | **8**  | 仁慈      |
+| **4** | 自律        | **9**  | 沉静      |
+| **5** | 合群        | **10** | 宽容      |
 
-### Vice
+### 恶习
 
 |       |            |        |          |
 | ----- | ---------- | ------ | -------- |
-| **1** | Aggressive | **6**  | Lazy     |
-| **2** | Bitter     | **7**  | Nervous  |
-| **3** | Craven     | **8**  | Rude     |
-| **4** | Deceitful  | **9**  | Vain     |
-| **5** | Greedy     | **10** | Vengeful |
+| **1** | 好斗       | **6**  | 懒惰     |
+| **2** | 苦涩       | **7**  | 紧张     |
+| **3** | 怯懦       | **8**  | 粗鲁     |
+| **4** | 欺诈       | **9**  | 虚荣     |
+| **5** | 贪婪       | **10** | 记仇     |
 
-## Bonds
+## 纽带 {#bonds}
 
 |         |                                                                                                                                                                                                                                                                                          |
 | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **D20** | **Bond**                                                                                                                                                                                                                                                                                 |
-| **1**   | You inherited a **Single Gem** (500gp, cold and brittle) from a long-dead relative. It arrived with a warning: squander your newfound riches, and a debt long thought forgotten would be called in.                                                                                       |
-| **2**   | A distant cousin left you a small inheritance. Take **20Gp** and a **Strange Compass** (_petty_) that always points towards something deep in the Wood.                                                                                                                              |
-| **3**   | You carry a **Portrait** in a locket (_petty_) of a past love who disappeared into the Wood long ago. Somehow you know that they are still alive.                                                                                                                                    |
-| **4**   | You found a **Tiny Crystal Prism** (_petty_) buried in the dirt. When held up to the light, it shows visions of an unknown location deep within the Wood. Sometimes you feel a presence looking back at you.                                                                         |
-| **5**   | You once freed a Naiad from a choked stream. In return, it gave you some **Silver Moss** (petty). Swallow it near water, and the creature will come, once, to repay its debt.                                                                                                                    |
-| **6**   | You inherited an old **Journal**, bound in bark. Each evening, its pages are filled with the events of the day, crassly written from the journal's perspective. The writing is crude but accurate.                                                                                       |
-| **7**   | You protect a long-dormant family secret. Take one half of an **Ancient Key** (_petty_). They say that if joined with its twin, it opens a **Gate** through any door.                                                                                                                    |
-| **8**   | You received a **Letter** (_petty_) detailing incontrovertible proof that your true parentage is that of Fae nobility. The note also indicates a date and location where you are to meet the letter's author, deep in the the Wood.                                                  |
-| **9**   | You owe a great debt to a member of the nobility and carry their **Signet Ring** (_petty_), which serves as proof of their protection as well as your obligation.                                                                                                                        |
-| **10**  | You consumed a **Mischievous Spirit** that wreaks havoc on your insides, demanding to be taken home, deep in the Wood. It occupies one slot but absorbs one **Fatigue** each day. It wants you alive (for now). |
-| **11**  | A roaming storyteller once spun you tales of great treasure hidden deep in the Wood. You thought it naught but fancy, till they gave you **A Rolled-Up Map** (_petty_) marked with an X.                                                                                             |
-| **12**  | During your travels, you met a dying hunter who asked you to deliver a message to their loved ones. Take a **Letter** (_petty_), sealed with tree sap. It is addressed only to the **Lord Of Winter**.                                                                                   |
-| **13**  | You found a wounded beast in the forest but chose to ignore it. You see it everywhere now, but only when you're alone. It looks sad but not angry. You cannot become _panicked_ when acting alone.                                                                                       |
-| **14**  | You promised a childhood friend that you'd bring them back a rare gift, something unique in all the world. Take a **Bracelet** (_petty_) woven from twine and wildflowers.                                                                                                               |
-| **15**  | You crossed a creature of the Wood, and it cursed you with a **Stone Heart**. With each passing month, the stone grows heavier by one slot. Until your debt is lifted, you cannot truly die.                                                                      |
-| **16**  | You carved a **Whistle** (_petty_) from an **Oak Lord's** branch. Your act did not go unnoticed. You cannot seem to rid yourself of the whistle either.                                                                                                                                  |
-| **17**  | The **Dawn Brigade** did your family a service, giving you a dried **Blood-Red Flower** (_petty_) as proof. When the flower turns white, it means the favor is owed.                                                                                                                     |
-| **18**  | An entertainer once visited your home, filling it with story and song. He left one day without a word, leaving behind only **A Miniature Lute**. Something rattles inside.                                                                                                               |
-| **19**  | A white crow appeared to you in a dream, holding a twig in its mouth. You awoke the next morning with the **Twig** (_petty_) in your hand. You believe it brings you luck. It smells faintly of sulfur.                                                                                  |
-| **20**  | One of your ancestors wronged a **Moss Witch**, who cursed their bloodline. Your visage causes mirrors to shatter. You've noticed that the shards can sometimes reveal illusions.                                                                                                        |
+| **D20** | **纽带**                                                                                                                                                                                                                                                                                 |
+| **1**   | 你从一位早已去世的亲属那里继承了**单颗宝石**（价值 500gp，冰冷而脆弱）。它随一则警告而来：挥霍你新得的财富，一笔被遗忘已久的债务就会被要求偿还。 |
+| **2**   | 一位远房表亲留给你一笔小小的遗产。获得**20 金币**和一枚总是指向森林深处某个事物的**奇异罗盘**（_轻巧_）。 |
+| **3**   | 你在挂坠盒里携带着一幅昔日恋人的**肖像**（_轻巧_）；那位恋人很久以前消失在森林中。不知为何，你知道他们仍然活着。 |
+| **4**   | 你在泥土中发现了一枚被掩埋的**微型水晶棱镜**（_轻巧_）。把它举向光线时，它会显现森林深处某个未知地点的幻象。有时，你会感觉到某种存在正在回望你。 |
+| **5**   | 你曾经从一条被堵塞的溪流中解救了一位水泽仙女。作为回报，它给了你一些**银苔**（_轻巧_）。在水边吞下银苔，这个生物会来一次，偿还它的债务。 |
+| **6**   | 你继承了一本用树皮装订的旧**日志**。每天晚上，书页都会写满当天发生的事，措辞粗鲁，仿佛是从日志本身的角度写成。文字粗糙，却很准确。 |
+| **7**   | 你守护着一个沉睡已久的家族秘密。获得半枚**古老钥匙**（_轻巧_）。据说，如果把它与另一半拼起来，它就能打开穿过任意门的**界门**。 |
+| **8**   | 你收到一封**信件**（_轻巧_），其中写着无可辩驳的证据，证明你的真正血统属于妖精贵族。信中还写明了日期和地点，让你在森林深处与写信人会面。 |
+| **9**   | 你欠贵族中的一员一大笔债，并携带着他们的**印戒**（_轻巧_）。它既是对方庇护的证明，也是你所负义务的凭证。 |
+| **10**  | 你吞下了一个在体内大闹不止的**顽皮精灵**，它要求你把自己带回森林深处的家。它占用一格，但每天会吸收一点**疲劳**。它希望你活着（暂时如此）。 |
+| **11**  | 一位云游的说书人曾向你讲述森林深处隐藏着的巨大宝藏。你原以为那只是幻想，直到对方给了你一张用 X 标记过的**卷起的地图**（_轻巧_）。 |
+| **12**  | 旅途中，你遇见一位垂死的猎人，对方请求你向亲人传递一条消息。获得一封用树汁封口的**信件**（_轻巧_）。信上只写着收信人：**冬之领主**。 |
+| **13**  | 你曾在森林中发现一头受伤的野兽，却选择对它置之不理。现在你总能看到它，但只有独处时才会出现。它看起来悲伤，却并不愤怒。独自行动时，你不会陷入_恐慌_。 |
+| **14**  | 你曾向儿时的朋友承诺，要带给对方一件稀有的礼物，一件世上独一无二的东西。获得一条用麻绳和野花编成的**手链**（_轻巧_）。 |
+| **15**  | 你得罪了森林中的某个生物，对方用**石心**诅咒了你。每过一个月，石心就会变重一格。在你偿清债务之前，你无法真正死去。 |
+| **16**  | 你用一位**橡树领主**的树枝雕刻了一支**哨子**（_轻巧_）。你的行为没有逃过它的注意，而且你似乎也无法摆脱这支哨子。 |
+| **17**  | **黎明旅**曾帮你的家族办过一件事，并给了你一朵干燥的**血红花**（_轻巧_）作为凭证。当花朵变白，就意味着该还人情了。 |
+| **18**  | 一位艺人曾到访你的家，为它填满故事与歌声。有一天，他一言不发地离开了，只留下**一把微型鲁特琴**。里面有什么东西在发出嘎嘎声。 |
+| **19**  | 一只嘴里叼着树枝的白乌鸦出现在你的梦中。第二天早晨，你醒来时发现手里握着那根**树枝**（_轻巧_）。你相信它能带来好运，但它散发着淡淡的硫磺味。 |
+| **20**  | 你的某位祖先曾经得罪一位**苔藓女巫**，对方诅咒了你的血脉。你的面容会让镜子碎裂。你注意到，碎片有时能揭示幻象。 |
 
-
-## Omens
+## 预兆 {#omens}
 
 |         |                                                                                                                                                                                                                                                    |
 | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **d20** | **Omen**                                                                                                                                                                                                                                           |
-| **1**   | The once rich waters of a life-giving river have turned black and putrid, tainting the land and sickening those who drink from it. A village elder points to some recent desecration as the cause, but most do not heed their words.               |
-| **2**   | It feels like winter has arrived too quickly this year, frost and snows making their appearance much earlier than expected. There is talk of a pattern to the frost found in windows, ponds, and cracks in the ground. It almost looks like a map. |
-| **3**   | A thick, unnatural fog has begun encroaching upon an ancient and holy grove. It is said to be the work of a great forest spirit, angered by nearby deforestation.                                                                                  |
-| **4**   | The night sky grows dimmer each evening, as if stars are disappearing one by one. Rumors of hellish creatures capturing farmers and pulling them into the Roots are spreading like wildfire. Village elders believe the two are connected.     |
-| **5**   | The songbirds of the Wood have fallen eerily silent as of late. Hunters claim that a spectral figure has been spotted wandering the forest, gazing longingly at anyone it encounters.                                                          |
-| **6**   | Strange, tear-shaped stones have been found throughout the region, sparking a "gold rush" of sorts for jewelers and thieves alike. The locals believe they are the tears of the earth itself, weeping for a great tragedy yet to come.             |
-| **7**   | Swarming pests gnaw away at the edges of dreams, and farmers speak of a loud buzzing sound emanating from deep within the Wood. They also say that the sound is getting closer.                                                                |
-| **8**   | There is a village known far and wide for its impressive “mother tree," said to shelter the town’s secrets in its boughs. Recently it has begun bleeding red sap, worrying the elders.                                                             |
-| **9**   | The moon turns a deep crimson, bathing the night in an eerie, blood-red light. Some say it heralds a time of chaos and strife, as the boundaries between the Wood and the mortal realm grow thin.                                              |
-| **10**  | Strange cracks have appeared in the night sky, revealing a swirling vortex of light and color. Some say that the divide between realms is at its weakest in centuries and fear what may emerge from the other side.                                |
-| **11**  | A night-blooming flower once thought extinct is sprouting up throughout the Wood. Its scent is intoxicating but also causes vivid nightmares.                                                                                                  |
-| **12**  | Local livestock have grown increasingly agitated and unmanageable as of late. An old shepherd says it is due to an unsettling howl that emanates from the Wood each full moon.                                                                 |
-| **13**  | Swarms of insects are fleeing from the Wood in droves, destroying any wooden structures they come across. The sound of their wings hum a familiar tune as they pass overhead, like a forgotten nursery rhyme.                                  |
-| **14**  | Hunters talk of a curse that befalls any who kill a beast with a streak of white fur: soon after, they are found dead in their homes. Each day, there are fewer and fewer creatures to hunt.                                                                    |
-| **15**  | Folks say that a faint laughter can be heard echoing out of wells all over the city, and that the echoes change to sobs at night.                                                                                                                  |
-| **16**  | The constellations have slowly started shifting in the night sky, forming unfamiliar patterns that have stargazers and sages perplexed. Even the animals seem disturbed.                                                                           |
-| **17**  | An ancient tree at the heart of a sleepy village has suddenly withered and died, despite showing no signs of disease. After its trunk was cut, a bloody hand was found in its core.                                                                |
-| **18**  | Statues have been weeping blood for months on end, and the wombs of the village have lain barren since.  A single child has been the only exception, hidden away by elders overcome with fear and dread.                                           |
-| **19**  | The local fauna is behaving oddly, displaying heightened aggression or fleeing the area entirely. Hunters talk of a shadowy figure that roams the Wood, calling to the animals.                                                                |
-| **20**  | Border towns have become riotous in recent weeks after multiple claims of a red-robed figure appearing in their children's dreams, uttering the same warning: A fire is coming, and it will consume everything.                                    |
+| **d20** | **预兆**                                                                                                                                                                                                                                           |
+| **1**   | 一条曾经水源丰沛、滋养生命的河流变得漆黑腐臭，污染了土地，也让饮水者染病。一位村庄长老将原因指向最近发生的亵渎，但大多数人都不理会他们的话。 |
+| **2**   | 今年的冬天似乎来得太快了，霜雪比预期更早出现。人们开始谈论窗户、池塘和地面裂缝中的霜所形成的图案。它们看起来几乎像一张地图。 |
+| **3**   | 一片古老而神圣的树林开始被浓厚而不自然的雾气侵蚀。据说这是某个伟大森林精灵的所作所为，它因附近的滥伐而感到愤怒。 |
+| **4**   | 夜空每晚都变得更加昏暗，仿佛星星正在一颗接一颗地消失。关于地狱生物捕捉农夫、将他们拖入根系的传言像野火一样蔓延。村庄长老相信这两件事有关联。 |
+| **5**   | 最近，森林里的鸣禽诡异地陷入寂静。猎人声称曾看到一个幽灵般的身影在森林中游荡，带着渴望注视它遇到的每个人。 |
+| **6**   | 整个地区都发现了奇怪的泪滴状石头，给珠宝商和盗贼都引发了一场“淘金热”。当地人相信那是大地本身的眼泪，为一场即将到来的巨大悲剧哭泣。 |
+| **7**   | 成群的害虫啃食梦境的边缘，农夫们说，森林深处传来一阵巨大的嗡嗡声。他们还说，那声音越来越近了。 |
+| **8**   | 有个村庄因令人赞叹的“母树”而远近闻名，据说树枝庇护着这座城镇的秘密。最近它开始流出红色树汁，让长老们忧心忡忡。 |
+| **9**   | 月亮变成深红色，以诡异的血色光芒沐浴夜晚。有人说这预示着混乱与纷争的时代，因为森林与凡人领域之间的边界正在变薄。 |
+| **10**  | 夜空出现奇怪的裂缝，露出由光与色彩组成的旋转漩涡。有人说，数百年来两个领域之间的隔膜从未如此脆弱，并担心另一边会有什么东西出现。 |
+| **11**  | 曾被认为已经灭绝的夜开花，正在森林各处发芽。它的气味令人陶醉，却也会带来生动的噩梦。 |
+| **12**  | 最近，当地牲畜越来越焦躁，难以控制。一位老牧羊人说，这是因为每逢满月，森林里都会传出令人不安的嚎叫。 |
+| **13**  | 成群的昆虫正蜂拥逃离森林，摧毁沿途遇到的所有木制建筑。它们飞过头顶时，翅膀的声音会哼唱一段熟悉的曲调，像一首被遗忘的童谣。 |
+| **14**  | 猎人们谈论着一个诅咒：凡是杀死带有白色毛纹野兽的人，很快就会被发现死在家中。可供捕猎的生物每天都在减少。 |
+| **15**  | 人们说，整座城市的水井里都能听到微弱的笑声回荡，而到了夜里，回声会变成啜泣。 |
+| **16**  | 夜空中的星座开始缓慢移动，形成令观星者和贤者困惑的陌生图案。就连动物似乎也受到了惊扰。 |
+| **17**  | 一棵位于沉睡村庄中心的古树突然枯萎死去，尽管此前没有任何疾病迹象。树干被锯开后，人们在树心里发现了一只血淋淋的手。 |
+| **18**  | 雕像已经持续数月流血，而村庄的子宫自那时起便不再孕育生命。唯一的例外是一个孩子；恐惧和惊骇压垮了长老们，他们把孩子藏了起来。 |
+| **19**  | 当地动物的行为变得奇怪，或表现出异常的攻击性，或彻底逃离这片区域。猎人们谈论着一个在森林中游荡、向动物呼唤的阴影身影。 |
+| **20**  | 最近几周，边境城镇变得喧闹不安，因为有多人声称，一个身穿红袍的身影出现在孩子们的梦中，反复说着同一个警告：火焰将至，它会吞噬一切。 |

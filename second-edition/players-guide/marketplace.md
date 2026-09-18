@@ -1,124 +1,123 @@
 ---
 layout: default
-title: Marketplace
-parent: Player's Guide
-grand_parent: Second Edition
+title: 市场
+parent: 玩家指南
+grand_parent: 第二版
 ---
 
-# Marketplace 
+# 市场
 
-> All prices are in gold pieces  
+> 所有价格均以金币计算
 
-## Armor
+## 护甲
 
 |                               |     |
 | ----------------------------- | --- |
-| Shield (+1 Armor)             | 10  |
-| Helmet (+1 Armor)             | 10  |
-| Gambeson (+1 Armor)           | 15  |
-| Brigandine (1 Armor, _bulky_) | 20  |
-| Chainmail (2 Armor, _bulky_)  | 40  |
-| Plate (3 Armor, _bulky_)      | 60  |
+| 盾牌（+1 护甲）               | 10  |
+| 头盔（+1 护甲）               | 10  |
+| 软甲（+1 护甲）               | 15  |
+| 扎甲（1 护甲，_笨重_）        | 20  |
+| 锁子甲（2 护甲，_笨重_）      | 40  |
+| 板甲（3 护甲，_笨重_）        | 60  |
 
-## Weapons
+## 武器
 
-|                                                             |     |
-| ----------------------------------------------------------- | --- |
-| Dagger, Cudgel, Sickle, Staff, etc. (d6 damage)             | 5   |
-| Spear, Sword, Mace, Axe, Flail, etc. (d8 damage)            | 10  |
-| Halberd, War Hammer, Long Sword, etc. (d10 damage, _bulky_) | 20  |
-| Sling (d6 damage)                                           | 5   |
-| Bow (d6 damage, _bulky_)                                    | 20  |
-| Crossbow (d8 damage, _bulky_)                               | 30  |
+|                                                               |     |
+| ------------------------------------------------------------- | --- |
+| 匕首、棍棒、镰刀、法杖等（d6 伤害）                           | 5   |
+| 长矛、剑、钉头锤、斧、链枷等（d8 伤害）                       | 10  |
+| 长柄斧、战锤、长剑等（d10 伤害，_笨重_）                      | 20  |
+| 投石索（d6 伤害）                                             | 5   |
+| 弓（d6 伤害，_笨重_）                                         | 20  |
+| 弩（d8 伤害，_笨重_）                                         | 30  |
 
-## Transport
+## 运输
 
 |                          |     |
 | ------------------------ | --- |
-| Cart (+4 slots, _bulky_) | 30  |
-| Wagon (+8 slots, slow)   | 200 |
-| Horse (+4 slots)         | 75  |
-| Mule (+6 slots, slow)    | 30  |
-| Carriage Seat            | 5   |
-| Ship's Passage           | 10  |
+| 手推车（+4 格，_笨重_） | 30  |
+| 货车（+8 格，缓慢）      | 200 |
+| 马（+4 格）              | 75  |
+| 骡子（+6 格，缓慢）      | 30  |
+| 车厢座位                 | 5   |
+| 船票                     | 10  |
 
-## Upkeep & Recovery
+## 维持与恢复
 
 |                               |     |
 | ----------------------------- | --- |
-| Room & Board (per night)      | 10  |
-| Private Room & Board (fits 4) | 35  |
-| Stable & Feed (per night)     | 5   |
-| Medical Healing               | 50  |
-| Rations (3 uses)              | 10  |
-| Animal Feed (3 uses, bulky)   | 5   |
+| 食宿（每晚）                  | 10  |
+| 独立食宿（可住 4 人）         | 35  |
+| 马厩与饲料（每晚）            | 5   |
+| 医疗救治                      | 50  |
+| 口粮（3 次）                  | 10  |
+| 动物饲料（3 次，_笨重_）      | 5   |
 
-## Hirelings (per day)
+## 每日雇工 {#hirelings-per-day}
 
 |                   |     |
 | ----------------- | --- |
-| Alchemist         | 30  |
-| Animal Handler    | 5   |
-| Blacksmith        | 15  |
-| Bodyguard         | 10  |
-| Local Guide       | 5   |
-| Lockpick          | 10  |
-| Navigator         | 10  |
-| Sailor            | 5   |
-| Scholar           | 20  |
-| Tracker           | 5   |
-| Trapper           | 5   |
-| Veteran Bodyguard | 20  |
+| 炼金术师           | 30  |
+| 驯兽师             | 5   |
+| 铁匠               | 15  |
+| 保镖               | 10  |
+| 本地向导           | 5   |
+| 开锁师             | 10  |
+| 航海员             | 10  |
+| 水手               | 5   |
+| 学者               | 20  |
+| 追踪者             | 5   |
+| 设陷阱者           | 5   |
+| 老练保镖           | 20  |
 
-
-## Gear
+## 装备
 
 |                                                    |     |
 | -------------------------------------------------- | --- |
-| Air Bladder                                        | 5   |
-| Antitoxin                                          | 20  |
-| Bandages (3 uses)                                  | 30  |
-| Bathing Goods (Soap, Perfume, etc.)                | 5   |
-| Book                                               | 50  |
-| Caltrops                                           | 10  |
-| Card Deck                                          | 5   |
-| Chain (10ft)                                       | 10  |
-| Chalk (_petty_)                                    | 1   |
-| Chest                                              | 25  |
-| Chisel                                             | 5   |
-| Common Agents (Glue, Grease, etc.)                 | 10  |
-| Common Tools (Hammer, Shovel, etc.)                | 10  |
-| Compass                                            | 75  |
-| Complex Instruments (Bagpipes, Fiddle, etc.)       | 50  |
-| Containers (Sack, Waterskin, etc.)                 | 10  |
-| Cooking Gear (Pots, Utensils, etc.)                | 10  |
-| Costume Gear (Face Paint, Disguise)                | 15  |
-| Dowsing Rod                                        | 15  |
-| Expeditionary Gear (Climbing Spikes, Pulley, etc.) | 10  |
-| Fire Oil                                           | 10  |
-| Fishing Rod                                        | 10  |
-| Games (Cards, Dice, etc.)                          | 10  |
-| Gloves (_petty_)                                   | 20  |
-| Grappling Hook                                     | 25  |
-| Lantern                                            | 10  |
-| Mirror                                             | 5   |
-| Net                                                | 10  |
-| Oil Can (6 uses)                                   | 10  |
-| Outdoor Comfort (Blanket, Hammock, etc.)           | 10  |
-| Parchment (3 uses)                                 | 10  |
-| Pole (10ft)                                        | 5   |
-| Repellent (Wolfsbane, Mugwort, etc.)               | 10  |
-| Rope (25ft)                                        | 5   |
-| Sedative                                           | 30  |
-| Sewing Kit                                         | 20  |
-| Simple Instruments (Pipes, Lute, etc.)             | 10  |
-| Smoking Pipe (_petty_)                             | 15  |
-| Specialized Tools (Ink, etc.)                      | 20  |
-| Spiked Boots                                       | 15  |
-| Spyglass                                           | 40  |
-| Tent (fits 2, _bulky_)                             | 20  |
-| Thieving Tools (Lockpick, Metal File, etc.)        | 25  |
-| Torch (3 uses)                                     | 5   |
-| Trap (d6 STR damage)                               | 35  |
-| Whistle (_petty_)                                  | 15  |
-| Wilderness Clothes (Poncho, Cloak, etc.) (_petty_) | 15  |
+| 充气囊                                             | 5   |
+| 解毒剂                                             | 20  |
+| 绷带（3 次）                                       | 30  |
+| 沐浴用品（肥皂、香水等）                           | 5   |
+| 书籍                                               | 50  |
+| 铁蒺藜                                             | 10  |
+| 纸牌                                               | 5   |
+| 链条（10 英尺）                                    | 10  |
+| 粉笔（_轻巧_）                                     | 1   |
+| 箱子                                               | 25  |
+| 凿子                                               | 5   |
+| 常用材料（胶水、油脂等）                           | 10  |
+| 常用工具（锤子、铲子等）                           | 10  |
+| 罗盘                                               | 75  |
+| 复杂乐器（风笛、小提琴等）                         | 50  |
+| 容器（袋子、水囊等）                               | 10  |
+| 烹饪用具（锅、餐具等）                             | 10  |
+| 伪装用品（脸彩、伪装服）                            | 15  |
+| 探矿杖                                             | 15  |
+| 远征装备（攀爬钉、滑轮等）                         | 10  |
+| 火油                                               | 10  |
+| 鱼竿                                               | 10  |
+| 游戏（纸牌、骰子等）                               | 10  |
+| 手套（_轻巧_）                                     | 20  |
+| 抓钩                                               | 25  |
+| 提灯                                               | 10  |
+| 镜子                                               | 5   |
+| 渔网                                               | 10  |
+| 油罐（6 次）                                       | 10  |
+| 户外舒适用品（毯子、吊床等）                       | 10  |
+| 羊皮纸（3 次）                                     | 10  |
+| 长杆（10 英尺）                                    | 5   |
+| 驱虫剂（附子草、艾蒿等）                           | 10  |
+| 绳子（25 英尺）                                    | 5   |
+| 镇静剂                                             | 30  |
+| 针线包                                             | 20  |
+| 简易乐器（笛子、鲁特琴等）                         | 10  |
+| 烟斗（_轻巧_）                                     | 15  |
+| 专用工具（墨水等）                                 | 20  |
+| 钉靴                                               | 15  |
+| 望远镜                                             | 40  |
+| 帐篷（可容纳 2 人，_笨重_）                        | 20  |
+| 盗窃工具（开锁针、金属锉等）                       | 25  |
+| 火把（3 次）                                       | 5   |
+| 陷阱（d6 STR 伤害）                                | 35  |
+| 哨子（_轻巧_）                                     | 15  |
+| 荒野服装（斗篷、披风等，_轻巧_）                  | 15  |

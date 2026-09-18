@@ -1,38 +1,38 @@
 ---
 layout: default
-title: Vald
-parent: Player's Guide
-grand_parent: Second Edition
+title: 瓦尔德
+parent: 玩家指南
+grand_parent: 第二版
 ---
 
-# Vald
+# 瓦尔德
 
-## Introduction
+## 引言
 
-The implied setting of Cairn is called **Vald**, encompassing all developed or settled lands, cities, towns, forests, etc. The specific ruler is irrelevant, as most adventures will take place in smaller towns and villages, the forest, and the margins of the realm. Most inhabitants (regardless of region) refer to the local centers of power as the _Cities_, occasionally as a pejorative. 
+Cairn 的默认背景名为**瓦尔德**，涵盖所有已开发或有人定居的土地、城市、城镇、森林等地方。具体的统治者并不重要，因为大多数冒险都会发生在较小的城镇和村庄、森林以及王国边缘。大多数居民（无论来自哪个地区）都会把当地的权力中心称为_城市_，有时这也是一种贬称。
 
-Towns and villages are built near water and lumber sources, within a day's walk of each other. Larger villages may rely on nearby farms and hunters. Settlements are often organized around specific industries like lumber, brewing, fishing, or mining, with a Fieldwarden or Beast Handler protecting their most valued assets. 
+城镇和村庄建在水源与木材来源附近，彼此之间通常步行一天即可抵达。较大的村庄可能依赖附近的农场和猎户。聚落通常围绕木材、酿酒、捕鱼或采矿等特定行业组织，并由荒野守望者或驯兽师保护最有价值的资产。
 
-Established trails between larger towns are fairly common, while maintained roads are almost non-existent except to the distant cities. Itinerant merchants, Kettlewrights, and various peddlers pass through settlements on a semi-regular basis, sometimes hiring Outriders to protect and escort larger caravans, or Rill Runners to help ferry passengers in the Riverlands.
+较大城镇之间通常有成熟的小径，但除了通往远方城市的道路之外，维护良好的道路几乎不存在。流动商人、炉匠和各种小贩会定期经过聚落；他们有时会雇佣斥候骑手保护并护送大型商队，也会雇佣溪流行者帮助乘客渡过河泽地。
 
-Even the smallest village may play host to scholarly types from the cities: a Scrivener, Aurifex, or Greenwise with keen interest in nearby tombs, barrows, and Gates. Often a Bonekeeper or Fungal Forager will be hired for their expertise, while clever adventurers will ensure that a Barber-Surgeon is never far away, or a Cutpurse if there is unsavory business that needs tending to. Of course, Mountebanks and Jongleurs often accompany these sorts, riding their coattails in hopes that they too will benefit from the next major discovery.
+即使是最小的村庄，也可能接待来自城市的学者：他们可能是对附近坟墓、古冢和界门十分感兴趣的抄写员、金匠或绿智者。村庄常会聘请骨守或采菌人发挥专长；而聪明的冒险者则会确保理发外科医始终不在远处，如果有见不得人的事情需要处理，也会找来扒手。当然，江湖骗子和杂耍艺人也经常陪伴这些人，借着他们的声势行动，希望自己也能从下一次重大发现中获益。
 
-Those who enter the Wood hire a guide familiar with the territory, such as a Prowler or Fletchwind, while the truly determined traveler will seek the wisdom of a Half Witch or Foundling with some connection to its darker secrets. Closer to the border, the Marchguard work to keep the realm free of outside influence, while the Hexenbane seek to protect it from forces within.
+进入森林的人会雇佣熟悉当地地形的向导，例如潜行者或逐风者；真正意志坚定的旅人则会寻求半巫或弃儿的智慧，因为他们与森林黑暗的秘密有某种联系。在边境附近，边境卫努力让王国不受外部影响，而逐巫者则试图保护它免受内部力量侵蚀。
 
-## The Wood
+## 森林
 
-The **Wood** surrounds and divides the realm, representing not just one forest, but _all_ forests. Denizens of the Wood are fiercely independent, believing they are subject solely to its rules. Its various peoples, creatures, and unrelenting natural elements have kept the outside world at bay since time immemorial. 
+**森林**包围并分割着整个王国，它并不只代表一片森林，而是代表_所有_森林。森林的居民极度独立，相信自己只需服从森林的规则。自远古以来，森林中形形色色的族群、生物和永不停歇的自然力量便一直将外界挡在门外。
 
-At the core of each forest is a Heart Tree, the place where the forest is at its most powerful as well as its most dangerous. Each Heart Tree is born from a single Heartseed, acquired exclusively from a Heart Tree that is dying or dead. 
+每片森林的核心都有一棵心树，那是森林力量最强大、也最危险的地方。每棵心树都源自一枚心种，而心种只能从正在死去或已经死去的心树上获得。
 
-The Wood is populated by creatures strange and wondrous, such as Goblins, Spirits, Treants, Trolls, Werewolves, Witches, and even talking plants and animals. Most are openly hostile to outsiders (particularly humans), but others will (on occasion) parley with those that have shown respect for the Wood. Of course, all demonstrate utter respect for the Fae (sometimes called the **Pale Folk**, or the **Neighbors**).
+森林中生活着奇异而奇妙的生物，例如哥布林、灵体、树人、巨魔、狼人、女巫，甚至会说话的植物和动物。大多数生物会公开敌视外来者（尤其是人类），但有些也会偶尔与尊重森林的人谈判。当然，所有生物都会对妖精（有时称为**苍白民**或**邻居**）表现出绝对的敬意。
 
-Of course, the Wood is not empty of people. Those who can survive (or even thrive) in such places learn to live according to the rules of the forest, for those who ignore or foolishly oppose these rules often meet grisly ends. 
+当然，森林并非没有人居住。能够在这种地方生存（甚至兴旺发达）的人，会学着按照森林的规则生活；那些无视规则或愚蠢地与之对抗的人，往往会迎来凄惨的结局。
 
-## The Roots
+## 根系
 
-The **Roots** is a realm of mystery and horror underground, where vast caves loom as large as an emptied ocean, without even a hint of sunlight. The various creatures and wild animals that survive there have developed natural means to live in the utter darkness, adapting their eyesight to function in even the dimmest light or eschewing vision altogether.
+**根系**是一个位于地下、充满神秘与恐怖的领域。那里巨大的洞穴像被抽干的海洋一样辽阔，连一丝阳光也见不到。能够在那里生存的各种生物和野兽已经演化出适应绝对黑暗的自然方式：它们的视力适应了最微弱的光线，或者干脆完全放弃视觉。
 
-Entrances to the Roots, known as Gates, are scattered across the lands and are usually hidden or protected by powerful forces. Once opened, Gates permit dangerous creatures to pass through, giving them free reign over the weak and vulnerable.
+通往根系的入口被称为界门，散布在各地，通常隐藏起来或由强大的力量守护。一旦打开，界门就会允许危险的生物穿过，让它们可以肆意侵害弱小而脆弱的生命。
 
-Only the brave and foolish enter the Roots, and most do not return. The few that do whisper of the indescribable horrors and evil intelligence guarding these lost treasures. Still, there will always be those who cannot resist the draw of forgotten Relics, profound wealth, or knowledge, for there are rumors that creatures far more interesting than wild beasts make their home in the depths below.
+只有勇敢又愚蠢的人才会进入根系，而且大多数人有去无回。少数归来者低声讲述着守护这些失落宝藏的不可名状的恐怖与邪恶智慧。然而，总会有人无法抗拒被遗忘的遗物、巨额财富或知识的诱惑；因为传闻说，在下方深处的家园中，居住着比野兽有趣得多的生物。

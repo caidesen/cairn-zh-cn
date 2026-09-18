@@ -45,6 +45,17 @@
 | Relic | 遗物 | 特殊魔法物品 |
 | Bestiary | 生物图鉴 |  |
 | Detachment | 分队 | 规则单位 |
+| Petty | 轻巧 | 不占用物品栏格 |
+| Bulky | 笨重 | 占用两格 |
+| Impaired | 削弱 | 不利位置下的攻击 |
+| Enhanced | 强化 | 有利位置下的攻击 |
+| Blast | 爆发 | 影响范围内的攻击特性 |
+| Panic | 恐慌 | 角色状态 |
+| Wood | 森林 | Cairn 的核心环境设定 |
+| Roots | 根系 | 地下领域 |
+| Gate | 界门 | 通往根系的入口 |
+| Vald | 瓦尔德 | 游戏世界/王国 |
+| Fae | 妖精 | 森林中的古老族群 |
 
 ## 进度与 TODO
 
@@ -52,11 +63,11 @@
 
 - [x] `second-edition/players-guide.md`
 - [x] `second-edition/players-guide/overview-and-principles.md`
-- [ ] `second-edition/players-guide/character-creation.md`
+- [x] `second-edition/players-guide/character-creation.md`
 - [x] `second-edition/players-guide/core-rules.md`
 - [ ] `second-edition/players-guide/procedures.md`
-- [ ] `second-edition/players-guide/marketplace.md`
-- [ ] `second-edition/players-guide/vald.md`
+- [x] `second-edition/players-guide/marketplace.md`
+- [x] `second-edition/players-guide/vald.md`
 
 ### 第二版背景
 
@@ -88,6 +99,11 @@
 | 批次 | 内容 | 状态 | 校对 | 提交 |
 | --- | --- | --- | --- | --- |
 | 0 | 建立范围、术语表和进度文件 | 已完成 | 已检查 | 待提交 |
-| 1 | 第二版玩家指南：总览与原则、核心规则 | 已完成 | 已检查 | 待提交 |
-| 2 | 第二版玩家指南：角色创建、流程、市场、Vald | 未开始 | 待做 | 待提交 |
+| 1 | 第二版玩家指南：总览与原则、核心规则 | 已完成 | 已检查 | `a82058d4` |
+| 2 | 第二版玩家指南：角色创建、市场、Vald | 已完成 | 已检查 | 待提交 |
 | 3 | 第二版背景 | 未开始 | 待做 | 待提交 |
+
+## 验证记录
+
+- 2026-09-18：第一批、第二批均通过 `git diff --check`，并手工检查了 Front Matter、内部锚点和规则术语。
+- 2026-09-18：尝试运行 Jekyll 构建，但当前环境缺少 `Gemfile.lock` 要求的 Bundler 2.5.22；待补齐构建环境后复验。
