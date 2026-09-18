@@ -1,35 +1,35 @@
 ---
 layout: default
-title: Wilderness Exploration
-parent: Warden's Guide 
-grand_parent: Second Edition
+title: 荒野探索
+parent: 守望者指南
+grand_parent: 第二版
 ---
 
-# Wilderness Exploration
+# 荒野探索
 
-## Overview
+## 概述
 
-In Cairn, wilderness exploration and travel is mostly abstract, hand-waving away the minutiae of the journey while still giving the party ample opportunities for interactivity and character agency. 
+在 Cairn 中，荒野探索和旅行大多是抽象的：游戏会略去旅途中的琐碎细节，同时为队伍保留充足的互动和角色能动性机会。
 
-### Exploration Example
+### 探索示例
 
-The party is escorting an NPC between two POIs: a small village situated in the grasslands to a stronghold at the base of an impressive valley. The short journey should only take one day, as travel is limited to _Easy_ terrain and is along a clear _Trail_ all the way. 
+队伍正在护送一名 NPC，从草原上的小村庄前往一座坐落在壮阔山谷底部的要塞。这段短途旅行沿途都是_简单_地形，而且全程行走在清晰的_小径_上，因此只需一天。
 
-> At the start of the day, the Warden rolls for the local weather, then adjudicates its potential impacts on the journey that day. It is overcast and breezy (no impact). After each of the following **Wilderness Actions,** the party rolls 1d6 to see if they get lost, and the Warden rolls on the **Wilderness Events Table**.
+> 一天开始时，守望者为当地天气掷骰，然后裁定天气当天可能对旅途造成的影响。天气阴沉而多风（没有影响）。在以下每次**荒野行动**之后，队伍掷 1d6，判断是否迷路；守望者则在**荒野事件表**上掷骰。
 
-#### Day One / Watch One 
+#### 第一天／第一时段
 
-- The party takes the **Travel** action. _They do not get lost_.
-- **Events Table**: **Sign**. One of the characters looks behind the party and spies something glittering in the distance behind them. It disappears after a few seconds. Could that be a spyglass, reflecting in the sun?
+- 队伍进行**旅行**行动。_他们没有迷路_。
+- **事件表**：**迹象**。一名角色回头看向队伍身后，发现远处有东西在闪闪发光。几秒后它消失了。那会不会是一具在阳光下反光的望远镜？
 
-#### Day One / Watch Two 
+#### 第一天／第二时段
 
-- The party takes the **Travel** action again, continuing along the same trail and plain. _They do not get lost._
-- **Events Table**: **Environment**. The weather has worsened in the evening, and as a result, the plain is muddy and the trail harder to follow. The Warden adds 1 Watch to the journey, as the party is forced to slow their march considerably, only reaching the edge of the grasses by nightfall. The party is forced to find shelter in the open plain rather than at their destination in the adjacent valley.
+- 队伍再次进行**旅行**行动，沿着同一条小径穿过平原。_他们没有迷路_。
+- **事件表**：**环境**。傍晚时天气恶化，平原因此变得泥泞，小径也更难追踪。守望者为旅程增加 1 个时段，因为队伍被迫大幅放慢步伐，只在夜幕降临时抵达草地边缘。队伍被迫在开阔的平原上寻找庇护，而不是前往相邻山谷中的目的地。
 
-#### Day One / Watch Three 
+#### 第一天／第三时段
 
-- The party takes the **Make Camp** action. They set up a hastily-made shelter, and each character consumes a Ration. A lookout rotation is set, dividing the night between all four party members.
-- **Events Table**: **Sign**. The sky clears up enough for the first person on lookout to see a light in the distance, flickering slowly. A campfire! Someone is definitely following them.
+- 队伍进行**扎营**行动。他们搭起一个简陋的临时庇护所，每名角色消耗一份口粮。四名队员分配守望轮换，共同度过夜晚。
+- **事件表**：**迹象**。天空逐渐放晴，第一名守望者看见远处有一道缓慢闪烁的光。篝火！肯定有人在跟踪他们。
 
-> Note: the party could have chosen to continue on through the night, but doing so could increase the chance of getting lost and put the party at greater risk! 
+> 注意：队伍本可以选择继续在夜间前进，但这样可能增加迷路的概率，让队伍承担更大的风险！

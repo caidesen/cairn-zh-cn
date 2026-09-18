@@ -1,51 +1,51 @@
 ---
 layout: default
-title: Pointcrawls
-parent: Warden's Guide 
-grand_parent: Second Edition
+title: 点状探索
+parent: 守望者指南
+grand_parent: 第二版
 ---
 
-# Pointcrawls
+# 点状探索
 
-Pointcrawls are a way of displaying potential points of interest on a map, including their entrances, exits, and connecting paths. Unlike hexcrawls, which provide omnidirectional paths by default, pointcrawls provide a set number of focused routes between locations. This approach abstracts some of the elements common to wilderness exploration, while maintaining the more interesting tidbits.
+点状探索是一种在地图上展示潜在点位的方式，包括点位的入口、出口以及连接路径。与默认提供全方位路径的六角探索不同，点状探索会在地点之间提供数量有限且重点明确的路线。这种方法将荒野探索中常见的部分要素抽象化，同时保留其中更有趣的细节。
 
-Although the standard setting generation procedures in this book assume a pointcrawl by default, most old school adventures do not. Some are hex maps that vary in length, while others simply indicate distances using miles. Fortunately it's fairly simple to convert almost any map into a pointcrawl.   
+虽然本书的标准设定生成流程默认使用点状探索，但大多数老派冒险并非如此。有些冒险使用长度各异的六角地图，另一些则只用英里标示距离。幸运的是，几乎任何地图都能相当容易地转换为点状探索地图。
 
+## 转换地图
 
-## Converting a Map
+以下方法高度依赖 Cairn 第二版玩家指南中的荒野探索流程。
 
-The following method relies heavily on the Wilderness Exploration procedures in the Cairn 2e Player's Guide.  
+- 为地图上所有潜在的点位编号。
+- 确定每个点位之间的潜在路线，标记显眼的道路、小径和水道。同时标记没有连接到其他点位的地点。
+- 标出任意两个点位之间的大致旅行时间（以时段或旅行天数计算），并考虑队伍速度、地形、天气及其他可能影响旅途的游戏因素。
 
-- Number any potential points of interest on the map.
-- Identify potential routes between each point, noting obvious roads, trails, and waterways. Indicate any sites that lack connecting routes to other points. 
-- Indicate the rough travel time (in Watches or days of travel) between any two points, accounting for the party's speed, terrain, weather, and other elements of play that might affect the journey. 
+### 示例
 
-### Example
+假设队伍徒步旅行，各点位之间的旅行时间按如下方式确定：
 
-The travel times between each point were determined as follows (assuming that the party is traveling by foot):
-- The journey between points **1** to **2** is 6 Watches:  
-  - Add two Watches for the _medium_ path distance.
-  - Add one Watch for the _trail_ through the mountains and forests.
-  - Add two Watches for the _perilous_ mountain terrain and 1 Watch for the forest.
-- The journey between **2** and **3** takes 4 Watches:
-  - Add one Watch for the _short_ path distance.
-  - Add one Watch for the _trail_ through the mountains.
-  - Add two Watches for the _perilous_ mountain terrain.
-- The journey between **2** and **4** takes three Watches:
-  - Add two Watches for the _medium_ path distance.
-  - Add no penalty for traveling on a maintained _road_.
-  - Add one Watch for the _tough_ forest terrain.
-- The journey between **4** and **5** takes four Watches: 
-  - Add one Watch for the _short_ path distance.
-  - Add one Watch for the _trail_ through the swamp.
-  - Add two Watches for the _perilous_ swamp terrain.
-- The journey between **4** and **6** takes 4 Watches:
-  - Add two Watches for the _medium_ path distance.
-  - Add one Watch for the _trail_ through the plains.
-  - Add no penalty for the _easy_ plains terrain.
-- The journey to **7** from any other point should be at least 5 Watches:
-  - Add two Watches for the _medium_ path distance.
-  - Add two Watches for traveling through the _wilderness_.
-  - Add one Watch for the _tough_ forest terrain.
+- 点位 **1** 到点位 **2** 的旅程需要 6 个时段：
+  - 中等路程增加两个时段。
+  - 穿过山脉与森林的小径增加一个时段。
+  - 危险山地地形增加两个时段，森林增加一个时段。
+- 点位 **2** 到点位 **3** 的旅程需要 4 个时段：
+  - 短程距离增加一个时段。
+  - 穿过山脉的小径增加一个时段。
+  - 危险山地地形增加两个时段。
+- 点位 **2** 到点位 **4** 的旅程需要 3 个时段：
+  - 中等路程距离增加两个时段。
+  - 沿维护良好的_道路_旅行不增加惩罚。
+  - 艰难森林地形增加一个时段。
+- 点位 **4** 到点位 **5** 的旅程需要 4 个时段：
+  - 短程距离增加一个时段。
+  - 穿过沼泽的小径增加一个时段。
+  - 危险沼泽地形增加两个时段。
+- 点位 **4** 到点位 **6** 的旅程需要 4 个时段：
+  - 中等路程距离增加两个时段。
+  - 穿过平原的小径增加一个时段。
+  - 简单平原地形不增加惩罚。
+- 从任意其他点位前往点位 **7** 至少需要 5 个时段：
+  - 中等路程距离增加两个时段。
+  - 穿过_荒野_增加两个时段。
+  - 艰难森林地形增加一个时段。
 
-[![Click Me!](/img/2e/pointcrawl-example-map.png "Click to embiggen"){:height="60%" width="60%"}](/img/2e/pointcrawl-example-map.png)
+[![点击查看](/img/2e/pointcrawl-example-map.png "放大查看"){:height="60%" width="60%"}](/img/2e/pointcrawl-example-map.png)
