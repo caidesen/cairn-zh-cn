@@ -106,15 +106,21 @@
 - [x] `second-edition/wardens-guide/setting-seeds.md`
 - [x] `second-edition/wardens-guide/spellbooks.md`
 - [x] `second-edition/wardens-guide/growth.md`
+- [x] `second-edition/wardens-guide/forest-seeds.md`
+- [x] `second-edition/wardens-guide/naming-procedures.md`
+- [x] `second-edition/wardens-guide/vald.md`
+- [x] `second-edition/tools.md`
+- [x] `second-edition/tools/character-generator.md`
+- [x] `second-edition/game-files.md`
 - [ ] `second-edition/wardens-guide/` 下的其余规则、探索、战斗、怪物和法术内容
-- [ ] `second-edition/tools/`
-- [ ] `second-edition/game-files.md`
 
 ### 第一版
 
-- [ ] `first-edition/cairn-srd.md`
-- [ ] `first-edition/example-of-play.md`
-- [ ] `first-edition/tools/`
+- [x] `first-edition/cairn-srd.md`
+- [x] `first-edition/example-of-play.md`
+- [x] `first-edition/frequently-asked-questions.md`
+- [x] `first-edition/tools.md`
+- [ ] `first-edition/tools/` 下的工具页面
 - [ ] `first-edition/accessibility/` 与其他直接服务于规则使用的页面
 
 ### 冒险
@@ -135,6 +141,8 @@
 | 5 | 守望者指南：荒野探索、点状探索 | 已完成 | 已检查 | `7da74a92` |
 | 6 | 守望者指南：生物图鉴、创建背景、创建怪物、地城探索、地城种子、NPC 表、遗物、设定种子、法术书 | 已完成 | 已检查 | `c44bf14a` |
 | 7 | 守望者指南：成长 | 已完成 | 已检查 | `92539964` |
+| 8 | 第二版：森林种子、命名流程、瓦尔德、工具与游戏文件 | 已完成 | 已检查 | `7b7f1845` |
+| 9 | 第一版：SRD、示例游戏、FAQ、工具入口 | 已完成 | 已检查 | `fa34e709` |
 
 ## 验证记录
 
@@ -142,4 +150,9 @@
 - 2026-09-18：第三、四批的 27 个文件通过 `git diff --check`；已补齐翻译后失效的内部锚点，并修复对话引用的 Markdown 斜体闭合。
 - 2026-09-18：第五、六批的 12 个文件通过 `git diff --check`；复核了标题、表格、链接和内部锚点，补回中文标题对应的英文锚点。
 - 2026-09-18：第七批的 `growth.md` 通过 `git diff --check` 与标题结构检查。
+- 2026-09-18：第八、九批共 10 个文件通过 `git diff --check`；复核了标题、表格、列表、链接、锚点和数字/骰子表达式。
 - 2026-09-18：构建子 agent 确认系统 Ruby 2.6 无法满足 `Gemfile.lock` 要求的 Bundler 2.5.22；在临时 Ruby 3.3.7 环境中已完成 Bundler 2.5.22 与 97 个 gem 的安装并通过 `bundle check`，但 Jekyll 3.9/Liquid 4.0.3 在 Ruby 3.3+ 遇到 `tainted?` 兼容错误，Ruby 3.4 还额外缺少 `csv`/`bigdecimal`。建议使用 Ruby 3.1.x + Bundler 2.5.22；全站构建仍需在兼容运行时复验，远程主题下载还受当前 SSL/网络环境影响。
+
+### 备注
+
+- `first-edition/game-files.md`、`second-edition/print-copies.md` 以及 `adventures/first-party/`、`adventures/originals/` 下仅包含外部跳转的页面，按“网站周边内容无需翻译”暂不处理。
