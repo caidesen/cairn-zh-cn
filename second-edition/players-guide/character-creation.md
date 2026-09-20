@@ -27,7 +27,7 @@ grand_parent: 第二版
 | **7**   | [弓箭手](/second-edition/backgrounds/fletchwind)       | **17** | [佣兵](/second-edition/backgrounds/outrider)    |
 | **8**   | [弃儿](/second-edition/backgrounds/foundling)         | **18** | [潜行者](/second-edition/backgrounds/prowler)      |
 | **9**   | [采菌人](/second-edition/backgrounds/fungal-forager)   | **19** | [旅者](/second-edition/backgrounds/rill-runner) |
-| **10**  | [森林学者](/second-edition/backgrounds/greenwise)       | **20** | [文书](/second-edition/backgrounds/scrivener)    |
+| **10**  | [森林学者](/second-edition/backgrounds/greenwise)       | **20** | [文士](/second-edition/backgrounds/scrivener)    |
 
 ## 属性、命中防护与特征
 
